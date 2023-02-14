@@ -1,0 +1,20 @@
+
+            Generating feature space diagrams in R
+
+            Raw data for STAR Protocol: Expression, purification, and characterization of SARS-CoV2 3CLpro in a mature form
+
+            Raw data for the STAR Protocol: Expression, purification and characterization of SARS-CoV2 3CLpro in a mature form
+
+            Repository containing work on the IDEA DeFi project for the CRAFT grant issued for the duration of June 2022-May 2023.
+
+            Code and data for our paper: Towards a Progression-Aware Autonomous Dialogue Agent
+
+            Prototype AlzApp
+
+            R notebooks and other materials for the Alzheimer's Data Science Summer Bootcamp (2022)
+
+            Code related to our Synthetic Time Series Metrics research
+
+            Floating Solar Explorer App
+
+            Group 4: Machine Learning and Optimization class Project 
