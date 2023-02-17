@@ -1,8 +1,3636 @@
-As Rensselaer prepares to enter its third century and remains true to its mission of “applying science to the common purposes of life.”  Becoming a fully-realized technological research institute is paramount as Rensselaer continues to pose the question “why not change the world?”The Arch Program enhances the Rensselaer educational experience through experiential learning and a restructuring of the academic calendar. Under the Arch, rising juniors attend a full summer semester at Rensselaer between their sophomore and junior years, followed by either a fall or a spring “away” semester taken during the student’s junior year. The “away” semester allows students to take advantage of the numerous co-curricular and experiential activities available off campus, including international experiences, internships, co-ops, research opportunities, and engagement in community service projects.The Rensselaer Undergraduate Research Program provides a real-world, hands-on research experience for students. Through this robust program, Rensselaer students have the opportunity to be mentored by a faculty member on a research project of shared interest. This program impacts about 25 percent of our students during the academic year, and is a key component of attracting prospective students to campus.The Office of Undergraduate Education currently offers a limited number of summer undergraduate research projects for Rensselaer undergraduates to conduct research with a faculty adviser for a 10-week period during the summer. Expansion of this program would be one of the best ways to support our students interested in pursuing a graduate degree and those who have their own research idea worth investigating.While a $4,000 stipend is currently offered to students who participate, Rensselaer must raise the stipend to $5,000 to remain competitive with our peer organizations and universities, and to attract and retain the best and brightest minds working on Rensselaer research. An investment in the Undergraduate Research Program would not only increase each student’s funding, but it would also increase the number of students who are able to participate.Founded in 1890, The Rensselaer Union is more than just a place to study. The Rensselaer Union provides opportunities for all students to be active and engaged to better the campus community for everyone!Student activities sponsored by Rensselaer Union engage students in co-curricular and extracurricular experiences that enhance leadership development, professional skills, and personal development. Events are intended to bolster school spirit, educate the campus community, facilitate interaction with faculty, staff and alumni, and create lasting memories for students at Rensselaer.Chasan Building
+
+
+
+
+Are there other Earth-like planets? Is there extraterrestrial life? In the quest to find planets that orbit stars other than the sun, “Earth 2.0” is the Holy Grail. Earth 2.0 is a planet similar enough to Earth to enable the existence of life as we know it. It would be the right temperature for liquid water, and it would orbit a star with a steady supply of light. Ideally, it would be close enough that we could imagine going there or at least sending a probe to explore it.Rensselaer Polytechnic Institute researchers are leading a team in pursuit of an idea that could make it possible to find nearby, habitable, Earth-like planets – or prove that they are unlikely to exist – thanks to a new grant from NASA. Heidi Jo Newberg, professor of physics, applied physics, and astronomy at Rensselaer, has been named a NASA Innovative Advanced Concepts (NIAC) Program Fellow. As such, she will join a prestigious group of innovative scientists whose visionary ideas have included new types of space propulsion systems, robots that are modeled after nature such as spiderbots, and technology that makes it easier for humans to live in space. Newberg and her doctoral student Leaf Swordy will collaborate with Thomas D. Ditto, inventor of the “Dittoscope,” the telescope concept that is the inspiration for this new design; Shawn Domagal-Goldman and Richard K. Barry, astronomers at NASA Goddard Space Flight Center; L. Drake Deming, astronomer at University of Maryland, College Park; and Frank Ravizza, optical engineer at Lawrence Livermore National Laboratory.With funding from the fellowship, the team will determine if their idea for a Diffractive Interfero Coronagraph Exoplanet Resolver (DICER) is feasible. Using conventional telescopes, it would take a 20-meter infrared telescope in space to see a planet like the Earth orbiting a star like the sun. That is three times the diameter of the state-of-the-art James Webb Space Telescope, and is considered beyond the reach of current technology. With DICER, light from a faint planet is collected by two 10-meter diffraction gratings, which are easier to pack up in a rocket to shoot into space.“Telescopes have not changed in their basic designs using mirrors and lenses in four centuries,” Ditto said. “DICER uses a diffraction grating primary objective and that changes everything.”DICER is designed to find all habitable zone planets closer than 10 parsecs, or 192 trillion miles. In the “habitable zone,” the temperature is right for liquid water. To determine whether conditions are right for life or whether it has already started to develop, scientists look at the air that surrounds the planet. DICER may even be able to detect if the newly discovered exoplanets have atmospheric ozone, a so-called biomarker, that may indicate the existence of life as we know it.“Nobody really knows,” Newberg says. “We could find zero or we could find 100 habitable exoplanets. But the discovery of even one oxygen-rich, terrestrial exoplanet in the local neighborhood of our own sun would be among the most publicly engaging astronomical results of all time!”The DICER technology is also scalable, so the potential exists to find exoplanets that are fainter or farther away in the future. “One of the important things about the DICER design is that it will detect planets that orbit other stars in any orientation,” says Deming. “So far, most exoplanets have been found because they pass in front of their host star and block some of its light, but DICER could find exoplanets that orbit in any orientation.”“Right now, as far as we can tell, we are alone in the universe,” says Barry. “As of yet, we have no scientifically compelling evidence of life off-planet. This will change in the very near future with the development of new technologies such as DICER.”“The profound implications of the DICER project have placed Professor Newberg in a position to tap into one of humanity’s deepest questions: Are we alone?” said Dr. Curt M. Breneman, Dean of the Rensselaer School of Science.  “I look forward to hearing about the results of this study.”For general inquiries: newsmedia@rpi.eduFounded in 1824, Rensselaer Polytechnic Institute is America’s first technological research university. Rensselaer encompasses five schools, over 30 research centers, more than 140 academic programs including 25 new programs, and a dynamic community made up of over 6,800 students and 104,000 living alumni. Rensselaer faculty and alumni include upwards of 155 National Academy members, six members of the National Inventors Hall of Fame, six National Medal of Technology winners, five National Medal of Science winners, and a Nobel Prize winner in Physics. With nearly 200 years of experience advancing scientific and technological knowledge, Rensselaer remains focused on addressing global challenges with a spirit of ingenuity and collaboration. To learn more, please visit www.rpi.edu.110 Eighth Street
+        	Troy, NY USA 12180
+			(518) 276-6000
+        	Copyright ©  Rensselaer Polytechnic Institute (RPI)
+Media Policy 
+         |    
+      Web Privacy Policy 
+         |    
+      Student Consumer Information
+         |    
+      Title IX Policy
+         |    
+      Accessibility
+
+About
+
+President
+
+Academics
+
+Research
+
+Student Life
+
+Athletics
+
+Admissions
+
+Title IX
+
+News
+
+ 
+
+RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing Needs
+ 
+ 
+
+Aerospace Engineering and Fluid Dynamics Expert Michael Amitay Elected Fellow of the Royal Aeronautical Society
+ 
+ 
+
+Steven Cramer Elected to the National Academy of Engineering
+ 
+ 
+
+Improving Food Access
+ 
+ 
+
+Rensselaer Researchers To Explore “Fast Fashion” Alternatives
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ArchitectureBusinessEngineeringHumanities, Arts, & Social SciencesIT & Web ScienceScienceResearchAdmissionsAlumni/ae & FriendsAthleticsHuman ResourcesLibraryRPInfoStrategic CommunicationsVeteransApply NowContact UsGive to RensselaerVisit CampusSend Feedback
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rensselaer Polytechnic Institute (RPI)
+Skip to main content
+
+
+
+
+
+
+
+Students
+Parents
+Faculty & Staff
+Alumni
+
+
+Apply
+Visit
+Give 
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+
+President
+
+
+Academics
+
+
+Research
+
+
+Student Life
+
+
+Athletics
+
+
+Admissions
+
+
+Title IX
+
+
+News
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rensselaer News 
+
+ 
+ 
+
+
+
+
+
+
+
+Team Aims To Find ‘Earth 2.0’ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+ 
+   
+
+ 
+
+
+
+Related Articles
+
+
+
+  
+ 
+
+RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing Needs
+ 
+
+ 
+
+Aerospace Engineering and Fluid Dynamics Expert Michael Amitay Elected Fellow of the Royal Aeronautical Society
+ 
+
+ 
+
+Steven Cramer Elected to the National Academy of Engineering
+ 
+
+ 
+
+Improving Food Access
+ 
+
+ 
+
+Rensselaer Researchers To Explore “Fast Fashion” Alternatives
+ 
+ 
+ 
+
+
+
+Related
+
+
+
+
+ Chinese balloon ‘demanded a strong response’ from Biden, expert says as administration unveils guidelines on shooting down objects  
+
+ AI, explained: The everyday person’s guide to ChatGPT  
+
+ RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing Needs  
+
+ The latest travel trend for the ultra-rich? Cosplaying as a scientist  
+
+ 'Interstellar fragments in my hands': An astronomer's quest to touch the stars takes flight — in the ocean  
+
+ 
+
+
+
+
+
+
+
+ January 26, 2023 
+Team Aims To Find ‘Earth 2.0’ 
+New technology may enable exoplanet discoveries previously thought impossible
+By Katie Malatino
+
+
+
+
+
+
+
+Are there other Earth-like planets? Is there extraterrestrial life? In the quest to find planets that orbit stars other than the sun, “Earth 2.0” is the Holy Grail. Earth 2.0 is a planet similar enough to Earth to enable the existence of life as we know it. It would be the right temperature for liquid water, and it would orbit a star with a steady supply of light. Ideally, it would be close enough that we could imagine going there or at least sending a probe to explore it.
+
+Rensselaer Polytechnic Institute researchers are leading a team in pursuit of an idea that could make it possible to find nearby, habitable, Earth-like planets – or prove that they are unlikely to exist – thanks to a new grant from NASA. 
+
+Heidi Jo Newberg, professor of physics, applied physics, and astronomy at Rensselaer, has been named a NASA Innovative Advanced Concepts (NIAC) Program Fellow. As such, she will join a prestigious group of innovative scientists whose visionary ideas have included new types of space propulsion systems, robots that are modeled after nature such as spiderbots, and technology that makes it easier for humans to live in space. 
+
+Newberg and her doctoral student Leaf Swordy will collaborate with Thomas D. Ditto, inventor of the “Dittoscope,” the telescope concept that is the inspiration for this new design; Shawn Domagal-Goldman and Richard K. Barry, astronomers at NASA Goddard Space Flight Center; L. Drake Deming, astronomer at University of Maryland, College Park; and Frank Ravizza, optical engineer at Lawrence Livermore National Laboratory.
+
+With funding from the fellowship, the team will determine if their idea for a Diffractive Interfero Coronagraph Exoplanet Resolver (DICER) is feasible. Using conventional telescopes, it would take a 20-meter infrared telescope in space to see a planet like the Earth orbiting a star like the sun. That is three times the diameter of the state-of-the-art James Webb Space Telescope, and is considered beyond the reach of current technology. With DICER, light from a faint planet is collected by two 10-meter diffraction gratings, which are easier to pack up in a rocket to shoot into space.
+
+“Telescopes have not changed in their basic designs using mirrors and lenses in four centuries,” Ditto said. “DICER uses a diffraction grating primary objective and that changes everything.”
+
+DICER is designed to find all habitable zone planets closer than 10 parsecs, or 192 trillion miles. In the “habitable zone,” the temperature is right for liquid water. To determine whether conditions are right for life or whether it has already started to develop, scientists look at the air that surrounds the planet. DICER may even be able to detect if the newly discovered exoplanets have atmospheric ozone, a so-called biomarker, that may indicate the existence of life as we know it.
+
+“Nobody really knows,” Newberg says. “We could find zero or we could find 100 habitable exoplanets. But the discovery of even one oxygen-rich, terrestrial exoplanet in the local neighborhood of our own sun would be among the most publicly engaging astronomical results of all time!”
+
+The DICER technology is also scalable, so the potential exists to find exoplanets that are fainter or farther away in the future. 
+
+“One of the important things about the DICER design is that it will detect planets that orbit other stars in any orientation,” says Deming. “So far, most exoplanets have been found because they pass in front of their host star and block some of its light, but DICER could find exoplanets that orbit in any orientation.”
+
+“Right now, as far as we can tell, we are alone in the universe,” says Barry. “As of yet, we have no scientifically compelling evidence of life off-planet. This will change in the very near future with the development of new technologies such as DICER.”
+
+“The profound implications of the DICER project have placed Professor Newberg in a position to tap into one of humanity’s deepest questions: Are we alone?” said Dr. Curt M. Breneman, Dean of the Rensselaer School of Science.  “I look forward to hearing about the results of this study.”
+  
+
+ 
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+Contact
+
+For general inquiries: newsmedia@rpi.edu
+
+
+
+
+About Rensselaer Polytechnic Institute
+Founded in 1824, Rensselaer Polytechnic Institute is America’s first technological research university. Rensselaer encompasses five schools, over 30 research centers, more than 140 academic programs including 25 new programs, and a dynamic community made up of over 6,800 students and 104,000 living alumni. Rensselaer faculty and alumni include upwards of 155 National Academy members, six members of the National Inventors Hall of Fame, six National Medal of Technology winners, five National Medal of Science winners, and a Nobel Prize winner in Physics. With nearly 200 years of experience advancing scientific and technological knowledge, Rensselaer remains focused on addressing global challenges with a spirit of ingenuity and collaboration. To learn more, please visit www.rpi.edu.
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
 110 Eighth Street
-Troy, NY 12180 USA
-518-276-6055
-advancement@rpi.eduPlease send gifts to:
-Gifts Processing Center
-P.O. Box 3164
-Boston, MA 02241-3164
+        	Troy, NY USA 12180
+			(518) 276-6000
+        	
+
+FOLLOW US
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SCHOOLS & PROGRAMS
+
+Architecture
+Business
+Engineering
+Humanities, Arts, & Social Sciences
+IT & Web Science
+Science
+Research
+
+
+
+RPI CONNECTIONS
+
+Admissions
+Alumni/ae & Friends
+Athletics
+Human Resources
+Library
+RPInfo
+Strategic Communications
+Veterans
+
+
+
+ENGAGE
+
+Apply Now
+Contact Us
+Give to Rensselaer
+Visit Campus
+Send Feedback
+
+
+
+
+
+Copyright ©  Rensselaer Polytechnic Institute (RPI)
+
+Media Policy 
+         |    
+      Web Privacy Policy 
+         |    
+      Student Consumer Information
+         |    
+      Title IX Policy
+         |    
+      Accessibility
+
+
+ 
+
+
+
+
+ 
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+Rensselaer Polytechnic Institute (RPI)
+Skip to main content
+
+
+
+
+
+
+
+Students
+Parents
+Faculty & Staff
+Alumni
+
+
+Apply
+Visit
+Give 
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+
+President
+
+
+Academics
+
+
+Research
+
+
+Student Life
+
+
+Athletics
+
+
+Admissions
+
+
+Title IX
+
+
+News
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+Rensselaer Polytechnic Institute (RPI)
+Skip to main content
+
+
+
+
+
+
+
+Students
+Parents
+Faculty & Staff
+Alumni
+
+
+Apply
+Visit
+Give 
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+
+President
+
+
+Academics
+
+
+Research
+
+
+Student Life
+
+
+Athletics
+
+
+Admissions
+
+
+Title IX
+
+
+News
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+Rensselaer Polytechnic Institute (RPI)
+Skip to main content
+
+
+
+
+
+
+
+Students
+Parents
+Faculty & Staff
+Alumni
+
+
+Apply
+Visit
+Give 
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+
+President
+
+
+Academics
+
+
+Research
+
+
+Student Life
+
+
+Athletics
+
+
+Admissions
+
+
+Title IX
+
+
+News
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Rensselaer Polytechnic Institute (RPI)
+Skip to main content
+
+
+
+
+
+
+
+Students
+Parents
+Faculty & Staff
+Alumni
+
+
+Apply
+Visit
+Give 
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+
+President
+
+
+Academics
+
+
+Research
+
+
+Student Life
+
+
+Athletics
+
+
+Admissions
+
+
+Title IX
+
+
+News
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Rensselaer Polytechnic Institute (RPI)
+Skip to main content
+
+
+
+
+
+
+
+Students
+Parents
+Faculty & Staff
+Alumni
+
+
+Apply
+Visit
+Give 
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+
+President
+
+
+Academics
+
+
+Research
+
+
+Student Life
+
+
+Athletics
+
+
+Admissions
+
+
+Title IX
+
+
+News
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rensselaer Polytechnic Institute (RPI)
+Skip to main content
+
+
+
+
+
+
+
+Students
+Parents
+Faculty & Staff
+Alumni
+
+
+Apply
+Visit
+Give 
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+
+President
+
+
+Academics
+
+
+Research
+
+
+Student Life
+
+
+Athletics
+
+
+Admissions
+
+
+Title IX
+
+
+News
+
+
+
+
+
+
+
+
+
+
+
+
+Rensselaer Polytechnic Institute (RPI)
+Skip to main content
+
+
+
+
+
+
+
+Students
+Parents
+Faculty & Staff
+Alumni
+
+
+Apply
+Visit
+Give 
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+
+President
+
+
+Academics
+
+
+Research
+
+
+Student Life
+
+
+Athletics
+
+
+Admissions
+
+
+Title IX
+
+
+News
+
+
+
+
+
+
+
+Rensselaer Polytechnic Institute (RPI)
+Skip to main content
+
+
+
+
+
+
+
+Students
+Parents
+Faculty & Staff
+Alumni
+
+
+Apply
+Visit
+Give 
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+
+President
+
+
+Academics
+
+
+Research
+
+
+Student Life
+
+
+Athletics
+
+
+Admissions
+
+
+Title IX
+
+
+News
+
+
+
+
+
+
+
+
+
+
+Students
+Parents
+Faculty & Staff
+Alumni
+
+
+Apply
+Visit
+Give 
+Search
+
+
+
+
+
+
+
+
+Students
+Parents
+Faculty & Staff
+Alumni
+
+
+Apply
+Visit
+Give 
+Search
+
+
+
+
+
+Students
+Parents
+Faculty & Staff
+Alumni
+
+
+Apply
+Visit
+Give 
+Search
+
+
+
+
+
+About
+
+
+President
+
+
+Academics
+
+
+Research
+
+
+Student Life
+
+
+Athletics
+
+
+Admissions
+
+
+Title IX
+
+
+News
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rensselaer News 
+
+ 
+ 
+
+
+
+
+
+
+Rensselaer News 
+
+ 
+ 
+
+
+
+
+Rensselaer News 
+
+ 
+
+
+
+
+Rensselaer News 
+
+ 
+
+
+Rensselaer News 
+
+
+
+Rensselaer News 
+
+Rensselaer News 
+
+
+
+
+Team Aims To Find ‘Earth 2.0’ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+ 
+   
+
+ 
+
+
+
+Related Articles
+
+
+
+  
+ 
+
+RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing Needs
+ 
+
+ 
+
+Aerospace Engineering and Fluid Dynamics Expert Michael Amitay Elected Fellow of the Royal Aeronautical Society
+ 
+
+ 
+
+Steven Cramer Elected to the National Academy of Engineering
+ 
+
+ 
+
+Improving Food Access
+ 
+
+ 
+
+Rensselaer Researchers To Explore “Fast Fashion” Alternatives
+ 
+ 
+ 
+
+
+
+Related
+
+
+
+
+ Chinese balloon ‘demanded a strong response’ from Biden, expert says as administration unveils guidelines on shooting down objects  
+
+ AI, explained: The everyday person’s guide to ChatGPT  
+
+ RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing Needs  
+
+ The latest travel trend for the ultra-rich? Cosplaying as a scientist  
+
+ 'Interstellar fragments in my hands': An astronomer's quest to touch the stars takes flight — in the ocean  
+
+ 
+
+
+
+
+
+
+
+ January 26, 2023 
+Team Aims To Find ‘Earth 2.0’ 
+New technology may enable exoplanet discoveries previously thought impossible
+By Katie Malatino
+
+
+
+
+
+
+
+Are there other Earth-like planets? Is there extraterrestrial life? In the quest to find planets that orbit stars other than the sun, “Earth 2.0” is the Holy Grail. Earth 2.0 is a planet similar enough to Earth to enable the existence of life as we know it. It would be the right temperature for liquid water, and it would orbit a star with a steady supply of light. Ideally, it would be close enough that we could imagine going there or at least sending a probe to explore it.
+
+Rensselaer Polytechnic Institute researchers are leading a team in pursuit of an idea that could make it possible to find nearby, habitable, Earth-like planets – or prove that they are unlikely to exist – thanks to a new grant from NASA. 
+
+Heidi Jo Newberg, professor of physics, applied physics, and astronomy at Rensselaer, has been named a NASA Innovative Advanced Concepts (NIAC) Program Fellow. As such, she will join a prestigious group of innovative scientists whose visionary ideas have included new types of space propulsion systems, robots that are modeled after nature such as spiderbots, and technology that makes it easier for humans to live in space. 
+
+Newberg and her doctoral student Leaf Swordy will collaborate with Thomas D. Ditto, inventor of the “Dittoscope,” the telescope concept that is the inspiration for this new design; Shawn Domagal-Goldman and Richard K. Barry, astronomers at NASA Goddard Space Flight Center; L. Drake Deming, astronomer at University of Maryland, College Park; and Frank Ravizza, optical engineer at Lawrence Livermore National Laboratory.
+
+With funding from the fellowship, the team will determine if their idea for a Diffractive Interfero Coronagraph Exoplanet Resolver (DICER) is feasible. Using conventional telescopes, it would take a 20-meter infrared telescope in space to see a planet like the Earth orbiting a star like the sun. That is three times the diameter of the state-of-the-art James Webb Space Telescope, and is considered beyond the reach of current technology. With DICER, light from a faint planet is collected by two 10-meter diffraction gratings, which are easier to pack up in a rocket to shoot into space.
+
+“Telescopes have not changed in their basic designs using mirrors and lenses in four centuries,” Ditto said. “DICER uses a diffraction grating primary objective and that changes everything.”
+
+DICER is designed to find all habitable zone planets closer than 10 parsecs, or 192 trillion miles. In the “habitable zone,” the temperature is right for liquid water. To determine whether conditions are right for life or whether it has already started to develop, scientists look at the air that surrounds the planet. DICER may even be able to detect if the newly discovered exoplanets have atmospheric ozone, a so-called biomarker, that may indicate the existence of life as we know it.
+
+“Nobody really knows,” Newberg says. “We could find zero or we could find 100 habitable exoplanets. But the discovery of even one oxygen-rich, terrestrial exoplanet in the local neighborhood of our own sun would be among the most publicly engaging astronomical results of all time!”
+
+The DICER technology is also scalable, so the potential exists to find exoplanets that are fainter or farther away in the future. 
+
+“One of the important things about the DICER design is that it will detect planets that orbit other stars in any orientation,” says Deming. “So far, most exoplanets have been found because they pass in front of their host star and block some of its light, but DICER could find exoplanets that orbit in any orientation.”
+
+“Right now, as far as we can tell, we are alone in the universe,” says Barry. “As of yet, we have no scientifically compelling evidence of life off-planet. This will change in the very near future with the development of new technologies such as DICER.”
+
+“The profound implications of the DICER project have placed Professor Newberg in a position to tap into one of humanity’s deepest questions: Are we alone?” said Dr. Curt M. Breneman, Dean of the Rensselaer School of Science.  “I look forward to hearing about the results of this study.”
+  
+
+ 
+
+ 
+ 
+
+
+
+
+Team Aims To Find ‘Earth 2.0’ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+ 
+   
+
+ 
+
+
+
+Related Articles
+
+
+
+  
+ 
+
+RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing Needs
+ 
+
+ 
+
+Aerospace Engineering and Fluid Dynamics Expert Michael Amitay Elected Fellow of the Royal Aeronautical Society
+ 
+
+ 
+
+Steven Cramer Elected to the National Academy of Engineering
+ 
+
+ 
+
+Improving Food Access
+ 
+
+ 
+
+Rensselaer Researchers To Explore “Fast Fashion” Alternatives
+ 
+ 
+ 
+
+
+
+Related
+
+
+
+
+ Chinese balloon ‘demanded a strong response’ from Biden, expert says as administration unveils guidelines on shooting down objects  
+
+ AI, explained: The everyday person’s guide to ChatGPT  
+
+ RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing Needs  
+
+ The latest travel trend for the ultra-rich? Cosplaying as a scientist  
+
+ 'Interstellar fragments in my hands': An astronomer's quest to touch the stars takes flight — in the ocean  
+
+ 
+
+
+
+
+
+
+
+ January 26, 2023 
+Team Aims To Find ‘Earth 2.0’ 
+New technology may enable exoplanet discoveries previously thought impossible
+By Katie Malatino
+
+
+
+
+
+
+
+Are there other Earth-like planets? Is there extraterrestrial life? In the quest to find planets that orbit stars other than the sun, “Earth 2.0” is the Holy Grail. Earth 2.0 is a planet similar enough to Earth to enable the existence of life as we know it. It would be the right temperature for liquid water, and it would orbit a star with a steady supply of light. Ideally, it would be close enough that we could imagine going there or at least sending a probe to explore it.
+
+Rensselaer Polytechnic Institute researchers are leading a team in pursuit of an idea that could make it possible to find nearby, habitable, Earth-like planets – or prove that they are unlikely to exist – thanks to a new grant from NASA. 
+
+Heidi Jo Newberg, professor of physics, applied physics, and astronomy at Rensselaer, has been named a NASA Innovative Advanced Concepts (NIAC) Program Fellow. As such, she will join a prestigious group of innovative scientists whose visionary ideas have included new types of space propulsion systems, robots that are modeled after nature such as spiderbots, and technology that makes it easier for humans to live in space. 
+
+Newberg and her doctoral student Leaf Swordy will collaborate with Thomas D. Ditto, inventor of the “Dittoscope,” the telescope concept that is the inspiration for this new design; Shawn Domagal-Goldman and Richard K. Barry, astronomers at NASA Goddard Space Flight Center; L. Drake Deming, astronomer at University of Maryland, College Park; and Frank Ravizza, optical engineer at Lawrence Livermore National Laboratory.
+
+With funding from the fellowship, the team will determine if their idea for a Diffractive Interfero Coronagraph Exoplanet Resolver (DICER) is feasible. Using conventional telescopes, it would take a 20-meter infrared telescope in space to see a planet like the Earth orbiting a star like the sun. That is three times the diameter of the state-of-the-art James Webb Space Telescope, and is considered beyond the reach of current technology. With DICER, light from a faint planet is collected by two 10-meter diffraction gratings, which are easier to pack up in a rocket to shoot into space.
+
+“Telescopes have not changed in their basic designs using mirrors and lenses in four centuries,” Ditto said. “DICER uses a diffraction grating primary objective and that changes everything.”
+
+DICER is designed to find all habitable zone planets closer than 10 parsecs, or 192 trillion miles. In the “habitable zone,” the temperature is right for liquid water. To determine whether conditions are right for life or whether it has already started to develop, scientists look at the air that surrounds the planet. DICER may even be able to detect if the newly discovered exoplanets have atmospheric ozone, a so-called biomarker, that may indicate the existence of life as we know it.
+
+“Nobody really knows,” Newberg says. “We could find zero or we could find 100 habitable exoplanets. But the discovery of even one oxygen-rich, terrestrial exoplanet in the local neighborhood of our own sun would be among the most publicly engaging astronomical results of all time!”
+
+The DICER technology is also scalable, so the potential exists to find exoplanets that are fainter or farther away in the future. 
+
+“One of the important things about the DICER design is that it will detect planets that orbit other stars in any orientation,” says Deming. “So far, most exoplanets have been found because they pass in front of their host star and block some of its light, but DICER could find exoplanets that orbit in any orientation.”
+
+“Right now, as far as we can tell, we are alone in the universe,” says Barry. “As of yet, we have no scientifically compelling evidence of life off-planet. This will change in the very near future with the development of new technologies such as DICER.”
+
+“The profound implications of the DICER project have placed Professor Newberg in a position to tap into one of humanity’s deepest questions: Are we alone?” said Dr. Curt M. Breneman, Dean of the Rensselaer School of Science.  “I look forward to hearing about the results of this study.”
+  
+
+ 
+
+ 
+ 
+
+
+Team Aims To Find ‘Earth 2.0’ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+ 
+   
+
+ 
+
+
+
+Related Articles
+
+
+
+  
+ 
+
+RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing Needs
+ 
+
+ 
+
+Aerospace Engineering and Fluid Dynamics Expert Michael Amitay Elected Fellow of the Royal Aeronautical Society
+ 
+
+ 
+
+Steven Cramer Elected to the National Academy of Engineering
+ 
+
+ 
+
+Improving Food Access
+ 
+
+ 
+
+Rensselaer Researchers To Explore “Fast Fashion” Alternatives
+ 
+ 
+ 
+
+
+
+Related
+
+
+
+
+ Chinese balloon ‘demanded a strong response’ from Biden, expert says as administration unveils guidelines on shooting down objects  
+
+ AI, explained: The everyday person’s guide to ChatGPT  
+
+ RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing Needs  
+
+ The latest travel trend for the ultra-rich? Cosplaying as a scientist  
+
+ 'Interstellar fragments in my hands': An astronomer's quest to touch the stars takes flight — in the ocean  
+
+ 
+
+
+
+
+
+
+
+ January 26, 2023 
+Team Aims To Find ‘Earth 2.0’ 
+New technology may enable exoplanet discoveries previously thought impossible
+By Katie Malatino
+
+
+
+
+
+
+
+Are there other Earth-like planets? Is there extraterrestrial life? In the quest to find planets that orbit stars other than the sun, “Earth 2.0” is the Holy Grail. Earth 2.0 is a planet similar enough to Earth to enable the existence of life as we know it. It would be the right temperature for liquid water, and it would orbit a star with a steady supply of light. Ideally, it would be close enough that we could imagine going there or at least sending a probe to explore it.
+
+Rensselaer Polytechnic Institute researchers are leading a team in pursuit of an idea that could make it possible to find nearby, habitable, Earth-like planets – or prove that they are unlikely to exist – thanks to a new grant from NASA. 
+
+Heidi Jo Newberg, professor of physics, applied physics, and astronomy at Rensselaer, has been named a NASA Innovative Advanced Concepts (NIAC) Program Fellow. As such, she will join a prestigious group of innovative scientists whose visionary ideas have included new types of space propulsion systems, robots that are modeled after nature such as spiderbots, and technology that makes it easier for humans to live in space. 
+
+Newberg and her doctoral student Leaf Swordy will collaborate with Thomas D. Ditto, inventor of the “Dittoscope,” the telescope concept that is the inspiration for this new design; Shawn Domagal-Goldman and Richard K. Barry, astronomers at NASA Goddard Space Flight Center; L. Drake Deming, astronomer at University of Maryland, College Park; and Frank Ravizza, optical engineer at Lawrence Livermore National Laboratory.
+
+With funding from the fellowship, the team will determine if their idea for a Diffractive Interfero Coronagraph Exoplanet Resolver (DICER) is feasible. Using conventional telescopes, it would take a 20-meter infrared telescope in space to see a planet like the Earth orbiting a star like the sun. That is three times the diameter of the state-of-the-art James Webb Space Telescope, and is considered beyond the reach of current technology. With DICER, light from a faint planet is collected by two 10-meter diffraction gratings, which are easier to pack up in a rocket to shoot into space.
+
+“Telescopes have not changed in their basic designs using mirrors and lenses in four centuries,” Ditto said. “DICER uses a diffraction grating primary objective and that changes everything.”
+
+DICER is designed to find all habitable zone planets closer than 10 parsecs, or 192 trillion miles. In the “habitable zone,” the temperature is right for liquid water. To determine whether conditions are right for life or whether it has already started to develop, scientists look at the air that surrounds the planet. DICER may even be able to detect if the newly discovered exoplanets have atmospheric ozone, a so-called biomarker, that may indicate the existence of life as we know it.
+
+“Nobody really knows,” Newberg says. “We could find zero or we could find 100 habitable exoplanets. But the discovery of even one oxygen-rich, terrestrial exoplanet in the local neighborhood of our own sun would be among the most publicly engaging astronomical results of all time!”
+
+The DICER technology is also scalable, so the potential exists to find exoplanets that are fainter or farther away in the future. 
+
+“One of the important things about the DICER design is that it will detect planets that orbit other stars in any orientation,” says Deming. “So far, most exoplanets have been found because they pass in front of their host star and block some of its light, but DICER could find exoplanets that orbit in any orientation.”
+
+“Right now, as far as we can tell, we are alone in the universe,” says Barry. “As of yet, we have no scientifically compelling evidence of life off-planet. This will change in the very near future with the development of new technologies such as DICER.”
+
+“The profound implications of the DICER project have placed Professor Newberg in a position to tap into one of humanity’s deepest questions: Are we alone?” said Dr. Curt M. Breneman, Dean of the Rensselaer School of Science.  “I look forward to hearing about the results of this study.”
+  
+
+ 
+
+ 
+
+
+Team Aims To Find ‘Earth 2.0’ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+ 
+   
+
+ 
+
+
+
+Related Articles
+
+
+
+  
+ 
+
+RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing Needs
+ 
+
+ 
+
+Aerospace Engineering and Fluid Dynamics Expert Michael Amitay Elected Fellow of the Royal Aeronautical Society
+ 
+
+ 
+
+Steven Cramer Elected to the National Academy of Engineering
+ 
+
+ 
+
+Improving Food Access
+ 
+
+ 
+
+Rensselaer Researchers To Explore “Fast Fashion” Alternatives
+ 
+ 
+ 
+
+
+
+Related
+
+
+
+
+ Chinese balloon ‘demanded a strong response’ from Biden, expert says as administration unveils guidelines on shooting down objects  
+
+ AI, explained: The everyday person’s guide to ChatGPT  
+
+ RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing Needs  
+
+ The latest travel trend for the ultra-rich? Cosplaying as a scientist  
+
+ 'Interstellar fragments in my hands': An astronomer's quest to touch the stars takes flight — in the ocean  
+
+ 
+
+
+
+
+
+
+
+ January 26, 2023 
+Team Aims To Find ‘Earth 2.0’ 
+New technology may enable exoplanet discoveries previously thought impossible
+By Katie Malatino
+
+
+
+
+
+
+
+Are there other Earth-like planets? Is there extraterrestrial life? In the quest to find planets that orbit stars other than the sun, “Earth 2.0” is the Holy Grail. Earth 2.0 is a planet similar enough to Earth to enable the existence of life as we know it. It would be the right temperature for liquid water, and it would orbit a star with a steady supply of light. Ideally, it would be close enough that we could imagine going there or at least sending a probe to explore it.
+
+Rensselaer Polytechnic Institute researchers are leading a team in pursuit of an idea that could make it possible to find nearby, habitable, Earth-like planets – or prove that they are unlikely to exist – thanks to a new grant from NASA. 
+
+Heidi Jo Newberg, professor of physics, applied physics, and astronomy at Rensselaer, has been named a NASA Innovative Advanced Concepts (NIAC) Program Fellow. As such, she will join a prestigious group of innovative scientists whose visionary ideas have included new types of space propulsion systems, robots that are modeled after nature such as spiderbots, and technology that makes it easier for humans to live in space. 
+
+Newberg and her doctoral student Leaf Swordy will collaborate with Thomas D. Ditto, inventor of the “Dittoscope,” the telescope concept that is the inspiration for this new design; Shawn Domagal-Goldman and Richard K. Barry, astronomers at NASA Goddard Space Flight Center; L. Drake Deming, astronomer at University of Maryland, College Park; and Frank Ravizza, optical engineer at Lawrence Livermore National Laboratory.
+
+With funding from the fellowship, the team will determine if their idea for a Diffractive Interfero Coronagraph Exoplanet Resolver (DICER) is feasible. Using conventional telescopes, it would take a 20-meter infrared telescope in space to see a planet like the Earth orbiting a star like the sun. That is three times the diameter of the state-of-the-art James Webb Space Telescope, and is considered beyond the reach of current technology. With DICER, light from a faint planet is collected by two 10-meter diffraction gratings, which are easier to pack up in a rocket to shoot into space.
+
+“Telescopes have not changed in their basic designs using mirrors and lenses in four centuries,” Ditto said. “DICER uses a diffraction grating primary objective and that changes everything.”
+
+DICER is designed to find all habitable zone planets closer than 10 parsecs, or 192 trillion miles. In the “habitable zone,” the temperature is right for liquid water. To determine whether conditions are right for life or whether it has already started to develop, scientists look at the air that surrounds the planet. DICER may even be able to detect if the newly discovered exoplanets have atmospheric ozone, a so-called biomarker, that may indicate the existence of life as we know it.
+
+“Nobody really knows,” Newberg says. “We could find zero or we could find 100 habitable exoplanets. But the discovery of even one oxygen-rich, terrestrial exoplanet in the local neighborhood of our own sun would be among the most publicly engaging astronomical results of all time!”
+
+The DICER technology is also scalable, so the potential exists to find exoplanets that are fainter or farther away in the future. 
+
+“One of the important things about the DICER design is that it will detect planets that orbit other stars in any orientation,” says Deming. “So far, most exoplanets have been found because they pass in front of their host star and block some of its light, but DICER could find exoplanets that orbit in any orientation.”
+
+“Right now, as far as we can tell, we are alone in the universe,” says Barry. “As of yet, we have no scientifically compelling evidence of life off-planet. This will change in the very near future with the development of new technologies such as DICER.”
+
+“The profound implications of the DICER project have placed Professor Newberg in a position to tap into one of humanity’s deepest questions: Are we alone?” said Dr. Curt M. Breneman, Dean of the Rensselaer School of Science.  “I look forward to hearing about the results of this study.”
+  
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+ 
+   
+
+ 
+
+
+
+
+
+
+ 
+
+ 
+   
+
+ 
+
+
+
+
+ 
+
+ 
+   
+
+ 
+
+
+ 
+
+ 
+   
+
+
+
+ 
+
+ 
+   
+
+ 
+
+ 
+    
+
+ 
+
+
+
+  
+Related Articles
+
+
+
+  
+ 
+
+RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing Needs
+ 
+
+ 
+
+Aerospace Engineering and Fluid Dynamics Expert Michael Amitay Elected Fellow of the Royal Aeronautical Society
+ 
+
+ 
+
+Steven Cramer Elected to the National Academy of Engineering
+ 
+
+ 
+
+Improving Food Access
+ 
+
+ 
+
+Rensselaer Researchers To Explore “Fast Fashion” Alternatives
+ 
+ 
+ 
+
+
+
+  
+ 
+
+RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing Needs
+ 
+
+ 
+
+Aerospace Engineering and Fluid Dynamics Expert Michael Amitay Elected Fellow of the Royal Aeronautical Society
+ 
+
+ 
+
+Steven Cramer Elected to the National Academy of Engineering
+ 
+
+ 
+
+Improving Food Access
+ 
+
+ 
+
+Rensselaer Researchers To Explore “Fast Fashion” Alternatives
+ 
+ 
+ 
+
+  
+ 
+
+RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing Needs
+ 
+
+ 
+
+Aerospace Engineering and Fluid Dynamics Expert Michael Amitay Elected Fellow of the Royal Aeronautical Society
+ 
+
+ 
+
+Steven Cramer Elected to the National Academy of Engineering
+ 
+
+ 
+
+Improving Food Access
+ 
+
+ 
+
+Rensselaer Researchers To Explore “Fast Fashion” Alternatives
+ 
+ 
+
+  
+ 
+
+RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing Needs
+ 
+
+ 
+
+Aerospace Engineering and Fluid Dynamics Expert Michael Amitay Elected Fellow of the Royal Aeronautical Society
+ 
+
+ 
+
+Steven Cramer Elected to the National Academy of Engineering
+ 
+
+ 
+
+Improving Food Access
+ 
+
+ 
+
+Rensselaer Researchers To Explore “Fast Fashion” Alternatives
+ 
+   
+ 
+
+RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing Needs
+ 
+
+ 
+
+Aerospace Engineering and Fluid Dynamics Expert Michael Amitay Elected Fellow of the Royal Aeronautical Society
+ 
+
+ 
+
+Steven Cramer Elected to the National Academy of Engineering
+ 
+
+ 
+
+Improving Food Access
+ 
+
+ 
+
+Rensselaer Researchers To Explore “Fast Fashion” Alternatives
+ 
+ 
+
+RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing Needs
+ 
+
+RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing Needs
+
+
+RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing Needs
+RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing Needs 
+
+Aerospace Engineering and Fluid Dynamics Expert Michael Amitay Elected Fellow of the Royal Aeronautical Society
+ 
+
+Aerospace Engineering and Fluid Dynamics Expert Michael Amitay Elected Fellow of the Royal Aeronautical Society
+
+
+Aerospace Engineering and Fluid Dynamics Expert Michael Amitay Elected Fellow of the Royal Aeronautical Society
+Aerospace Engineering and Fluid Dynamics Expert Michael Amitay Elected Fellow of the Royal Aeronautical Society 
+
+Steven Cramer Elected to the National Academy of Engineering
+ 
+
+Steven Cramer Elected to the National Academy of Engineering
+
+
+Steven Cramer Elected to the National Academy of Engineering
+Steven Cramer Elected to the National Academy of Engineering 
+
+Improving Food Access
+ 
+
+Improving Food Access
+
+
+Improving Food Access
+Improving Food Access 
+
+Rensselaer Researchers To Explore “Fast Fashion” Alternatives
+ 
+
+Rensselaer Researchers To Explore “Fast Fashion” Alternatives
+
+
+Rensselaer Researchers To Explore “Fast Fashion” Alternatives
+Rensselaer Researchers To Explore “Fast Fashion” Alternatives
+Related
+
+
+
+
+ Chinese balloon ‘demanded a strong response’ from Biden, expert says as administration unveils guidelines on shooting down objects  
+
+ AI, explained: The everyday person’s guide to ChatGPT  
+
+ RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing Needs  
+
+ The latest travel trend for the ultra-rich? Cosplaying as a scientist  
+
+ 'Interstellar fragments in my hands': An astronomer's quest to touch the stars takes flight — in the ocean  
+
+ 
+
+
+
+
+ Chinese balloon ‘demanded a strong response’ from Biden, expert says as administration unveils guidelines on shooting down objects  
+
+ AI, explained: The everyday person’s guide to ChatGPT  
+
+ RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing Needs  
+
+ The latest travel trend for the ultra-rich? Cosplaying as a scientist  
+
+ 'Interstellar fragments in my hands': An astronomer's quest to touch the stars takes flight — in the ocean  
+
+ 
+
+
+ Chinese balloon ‘demanded a strong response’ from Biden, expert says as administration unveils guidelines on shooting down objects  
+
+ AI, explained: The everyday person’s guide to ChatGPT  
+
+ RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing Needs  
+
+ The latest travel trend for the ultra-rich? Cosplaying as a scientist  
+
+ 'Interstellar fragments in my hands': An astronomer's quest to touch the stars takes flight — in the ocean  
+
+
+
+ Chinese balloon ‘demanded a strong response’ from Biden, expert says as administration unveils guidelines on shooting down objects  
+
+ AI, explained: The everyday person’s guide to ChatGPT  
+
+ RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing Needs  
+
+ The latest travel trend for the ultra-rich? Cosplaying as a scientist  
+
+ 'Interstellar fragments in my hands': An astronomer's quest to touch the stars takes flight — in the ocean  
+
+ Chinese balloon ‘demanded a strong response’ from Biden, expert says as administration unveils guidelines on shooting down objects   Chinese balloon ‘demanded a strong response’ from Biden, expert says as administration unveils guidelines on shooting down objects 
+ AI, explained: The everyday person’s guide to ChatGPT   AI, explained: The everyday person’s guide to ChatGPT 
+ RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing Needs   RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing Needs 
+ The latest travel trend for the ultra-rich? Cosplaying as a scientist   The latest travel trend for the ultra-rich? Cosplaying as a scientist 
+ 'Interstellar fragments in my hands': An astronomer's quest to touch the stars takes flight — in the ocean   'Interstellar fragments in my hands': An astronomer's quest to touch the stars takes flight — in the ocean 
+
+
+
+
+
+ January 26, 2023 
+Team Aims To Find ‘Earth 2.0’ 
+New technology may enable exoplanet discoveries previously thought impossible
+By Katie Malatino
+
+
+
+
+
+
+
+Are there other Earth-like planets? Is there extraterrestrial life? In the quest to find planets that orbit stars other than the sun, “Earth 2.0” is the Holy Grail. Earth 2.0 is a planet similar enough to Earth to enable the existence of life as we know it. It would be the right temperature for liquid water, and it would orbit a star with a steady supply of light. Ideally, it would be close enough that we could imagine going there or at least sending a probe to explore it.
+
+Rensselaer Polytechnic Institute researchers are leading a team in pursuit of an idea that could make it possible to find nearby, habitable, Earth-like planets – or prove that they are unlikely to exist – thanks to a new grant from NASA. 
+
+Heidi Jo Newberg, professor of physics, applied physics, and astronomy at Rensselaer, has been named a NASA Innovative Advanced Concepts (NIAC) Program Fellow. As such, she will join a prestigious group of innovative scientists whose visionary ideas have included new types of space propulsion systems, robots that are modeled after nature such as spiderbots, and technology that makes it easier for humans to live in space. 
+
+Newberg and her doctoral student Leaf Swordy will collaborate with Thomas D. Ditto, inventor of the “Dittoscope,” the telescope concept that is the inspiration for this new design; Shawn Domagal-Goldman and Richard K. Barry, astronomers at NASA Goddard Space Flight Center; L. Drake Deming, astronomer at University of Maryland, College Park; and Frank Ravizza, optical engineer at Lawrence Livermore National Laboratory.
+
+With funding from the fellowship, the team will determine if their idea for a Diffractive Interfero Coronagraph Exoplanet Resolver (DICER) is feasible. Using conventional telescopes, it would take a 20-meter infrared telescope in space to see a planet like the Earth orbiting a star like the sun. That is three times the diameter of the state-of-the-art James Webb Space Telescope, and is considered beyond the reach of current technology. With DICER, light from a faint planet is collected by two 10-meter diffraction gratings, which are easier to pack up in a rocket to shoot into space.
+
+“Telescopes have not changed in their basic designs using mirrors and lenses in four centuries,” Ditto said. “DICER uses a diffraction grating primary objective and that changes everything.”
+
+DICER is designed to find all habitable zone planets closer than 10 parsecs, or 192 trillion miles. In the “habitable zone,” the temperature is right for liquid water. To determine whether conditions are right for life or whether it has already started to develop, scientists look at the air that surrounds the planet. DICER may even be able to detect if the newly discovered exoplanets have atmospheric ozone, a so-called biomarker, that may indicate the existence of life as we know it.
+
+“Nobody really knows,” Newberg says. “We could find zero or we could find 100 habitable exoplanets. But the discovery of even one oxygen-rich, terrestrial exoplanet in the local neighborhood of our own sun would be among the most publicly engaging astronomical results of all time!”
+
+The DICER technology is also scalable, so the potential exists to find exoplanets that are fainter or farther away in the future. 
+
+“One of the important things about the DICER design is that it will detect planets that orbit other stars in any orientation,” says Deming. “So far, most exoplanets have been found because they pass in front of their host star and block some of its light, but DICER could find exoplanets that orbit in any orientation.”
+
+“Right now, as far as we can tell, we are alone in the universe,” says Barry. “As of yet, we have no scientifically compelling evidence of life off-planet. This will change in the very near future with the development of new technologies such as DICER.”
+
+“The profound implications of the DICER project have placed Professor Newberg in a position to tap into one of humanity’s deepest questions: Are we alone?” said Dr. Curt M. Breneman, Dean of the Rensselaer School of Science.  “I look forward to hearing about the results of this study.”
+  
+
+ 
+
+
+
+
+
+
+ January 26, 2023 
+Team Aims To Find ‘Earth 2.0’ 
+New technology may enable exoplanet discoveries previously thought impossible
+By Katie Malatino
+
+
+
+
+
+
+
+Are there other Earth-like planets? Is there extraterrestrial life? In the quest to find planets that orbit stars other than the sun, “Earth 2.0” is the Holy Grail. Earth 2.0 is a planet similar enough to Earth to enable the existence of life as we know it. It would be the right temperature for liquid water, and it would orbit a star with a steady supply of light. Ideally, it would be close enough that we could imagine going there or at least sending a probe to explore it.
+
+Rensselaer Polytechnic Institute researchers are leading a team in pursuit of an idea that could make it possible to find nearby, habitable, Earth-like planets – or prove that they are unlikely to exist – thanks to a new grant from NASA. 
+
+Heidi Jo Newberg, professor of physics, applied physics, and astronomy at Rensselaer, has been named a NASA Innovative Advanced Concepts (NIAC) Program Fellow. As such, she will join a prestigious group of innovative scientists whose visionary ideas have included new types of space propulsion systems, robots that are modeled after nature such as spiderbots, and technology that makes it easier for humans to live in space. 
+
+Newberg and her doctoral student Leaf Swordy will collaborate with Thomas D. Ditto, inventor of the “Dittoscope,” the telescope concept that is the inspiration for this new design; Shawn Domagal-Goldman and Richard K. Barry, astronomers at NASA Goddard Space Flight Center; L. Drake Deming, astronomer at University of Maryland, College Park; and Frank Ravizza, optical engineer at Lawrence Livermore National Laboratory.
+
+With funding from the fellowship, the team will determine if their idea for a Diffractive Interfero Coronagraph Exoplanet Resolver (DICER) is feasible. Using conventional telescopes, it would take a 20-meter infrared telescope in space to see a planet like the Earth orbiting a star like the sun. That is three times the diameter of the state-of-the-art James Webb Space Telescope, and is considered beyond the reach of current technology. With DICER, light from a faint planet is collected by two 10-meter diffraction gratings, which are easier to pack up in a rocket to shoot into space.
+
+“Telescopes have not changed in their basic designs using mirrors and lenses in four centuries,” Ditto said. “DICER uses a diffraction grating primary objective and that changes everything.”
+
+DICER is designed to find all habitable zone planets closer than 10 parsecs, or 192 trillion miles. In the “habitable zone,” the temperature is right for liquid water. To determine whether conditions are right for life or whether it has already started to develop, scientists look at the air that surrounds the planet. DICER may even be able to detect if the newly discovered exoplanets have atmospheric ozone, a so-called biomarker, that may indicate the existence of life as we know it.
+
+“Nobody really knows,” Newberg says. “We could find zero or we could find 100 habitable exoplanets. But the discovery of even one oxygen-rich, terrestrial exoplanet in the local neighborhood of our own sun would be among the most publicly engaging astronomical results of all time!”
+
+The DICER technology is also scalable, so the potential exists to find exoplanets that are fainter or farther away in the future. 
+
+“One of the important things about the DICER design is that it will detect planets that orbit other stars in any orientation,” says Deming. “So far, most exoplanets have been found because they pass in front of their host star and block some of its light, but DICER could find exoplanets that orbit in any orientation.”
+
+“Right now, as far as we can tell, we are alone in the universe,” says Barry. “As of yet, we have no scientifically compelling evidence of life off-planet. This will change in the very near future with the development of new technologies such as DICER.”
+
+“The profound implications of the DICER project have placed Professor Newberg in a position to tap into one of humanity’s deepest questions: Are we alone?” said Dr. Curt M. Breneman, Dean of the Rensselaer School of Science.  “I look forward to hearing about the results of this study.”
+  
+
+ 
+
+
+
+
+ January 26, 2023 
+Team Aims To Find ‘Earth 2.0’ 
+New technology may enable exoplanet discoveries previously thought impossible
+By Katie Malatino
+
+
+
+
+
+
+
+Are there other Earth-like planets? Is there extraterrestrial life? In the quest to find planets that orbit stars other than the sun, “Earth 2.0” is the Holy Grail. Earth 2.0 is a planet similar enough to Earth to enable the existence of life as we know it. It would be the right temperature for liquid water, and it would orbit a star with a steady supply of light. Ideally, it would be close enough that we could imagine going there or at least sending a probe to explore it.
+
+Rensselaer Polytechnic Institute researchers are leading a team in pursuit of an idea that could make it possible to find nearby, habitable, Earth-like planets – or prove that they are unlikely to exist – thanks to a new grant from NASA. 
+
+Heidi Jo Newberg, professor of physics, applied physics, and astronomy at Rensselaer, has been named a NASA Innovative Advanced Concepts (NIAC) Program Fellow. As such, she will join a prestigious group of innovative scientists whose visionary ideas have included new types of space propulsion systems, robots that are modeled after nature such as spiderbots, and technology that makes it easier for humans to live in space. 
+
+Newberg and her doctoral student Leaf Swordy will collaborate with Thomas D. Ditto, inventor of the “Dittoscope,” the telescope concept that is the inspiration for this new design; Shawn Domagal-Goldman and Richard K. Barry, astronomers at NASA Goddard Space Flight Center; L. Drake Deming, astronomer at University of Maryland, College Park; and Frank Ravizza, optical engineer at Lawrence Livermore National Laboratory.
+
+With funding from the fellowship, the team will determine if their idea for a Diffractive Interfero Coronagraph Exoplanet Resolver (DICER) is feasible. Using conventional telescopes, it would take a 20-meter infrared telescope in space to see a planet like the Earth orbiting a star like the sun. That is three times the diameter of the state-of-the-art James Webb Space Telescope, and is considered beyond the reach of current technology. With DICER, light from a faint planet is collected by two 10-meter diffraction gratings, which are easier to pack up in a rocket to shoot into space.
+
+“Telescopes have not changed in their basic designs using mirrors and lenses in four centuries,” Ditto said. “DICER uses a diffraction grating primary objective and that changes everything.”
+
+DICER is designed to find all habitable zone planets closer than 10 parsecs, or 192 trillion miles. In the “habitable zone,” the temperature is right for liquid water. To determine whether conditions are right for life or whether it has already started to develop, scientists look at the air that surrounds the planet. DICER may even be able to detect if the newly discovered exoplanets have atmospheric ozone, a so-called biomarker, that may indicate the existence of life as we know it.
+
+“Nobody really knows,” Newberg says. “We could find zero or we could find 100 habitable exoplanets. But the discovery of even one oxygen-rich, terrestrial exoplanet in the local neighborhood of our own sun would be among the most publicly engaging astronomical results of all time!”
+
+The DICER technology is also scalable, so the potential exists to find exoplanets that are fainter or farther away in the future. 
+
+“One of the important things about the DICER design is that it will detect planets that orbit other stars in any orientation,” says Deming. “So far, most exoplanets have been found because they pass in front of their host star and block some of its light, but DICER could find exoplanets that orbit in any orientation.”
+
+“Right now, as far as we can tell, we are alone in the universe,” says Barry. “As of yet, we have no scientifically compelling evidence of life off-planet. This will change in the very near future with the development of new technologies such as DICER.”
+
+“The profound implications of the DICER project have placed Professor Newberg in a position to tap into one of humanity’s deepest questions: Are we alone?” said Dr. Curt M. Breneman, Dean of the Rensselaer School of Science.  “I look forward to hearing about the results of this study.”
+  
+
+ 
+
+
+ January 26, 2023 
+Team Aims To Find ‘Earth 2.0’ 
+New technology may enable exoplanet discoveries previously thought impossible
+By Katie Malatino
+
+
+
+
+
+
+
+Are there other Earth-like planets? Is there extraterrestrial life? In the quest to find planets that orbit stars other than the sun, “Earth 2.0” is the Holy Grail. Earth 2.0 is a planet similar enough to Earth to enable the existence of life as we know it. It would be the right temperature for liquid water, and it would orbit a star with a steady supply of light. Ideally, it would be close enough that we could imagine going there or at least sending a probe to explore it.
+
+Rensselaer Polytechnic Institute researchers are leading a team in pursuit of an idea that could make it possible to find nearby, habitable, Earth-like planets – or prove that they are unlikely to exist – thanks to a new grant from NASA. 
+
+Heidi Jo Newberg, professor of physics, applied physics, and astronomy at Rensselaer, has been named a NASA Innovative Advanced Concepts (NIAC) Program Fellow. As such, she will join a prestigious group of innovative scientists whose visionary ideas have included new types of space propulsion systems, robots that are modeled after nature such as spiderbots, and technology that makes it easier for humans to live in space. 
+
+Newberg and her doctoral student Leaf Swordy will collaborate with Thomas D. Ditto, inventor of the “Dittoscope,” the telescope concept that is the inspiration for this new design; Shawn Domagal-Goldman and Richard K. Barry, astronomers at NASA Goddard Space Flight Center; L. Drake Deming, astronomer at University of Maryland, College Park; and Frank Ravizza, optical engineer at Lawrence Livermore National Laboratory.
+
+With funding from the fellowship, the team will determine if their idea for a Diffractive Interfero Coronagraph Exoplanet Resolver (DICER) is feasible. Using conventional telescopes, it would take a 20-meter infrared telescope in space to see a planet like the Earth orbiting a star like the sun. That is three times the diameter of the state-of-the-art James Webb Space Telescope, and is considered beyond the reach of current technology. With DICER, light from a faint planet is collected by two 10-meter diffraction gratings, which are easier to pack up in a rocket to shoot into space.
+
+“Telescopes have not changed in their basic designs using mirrors and lenses in four centuries,” Ditto said. “DICER uses a diffraction grating primary objective and that changes everything.”
+
+DICER is designed to find all habitable zone planets closer than 10 parsecs, or 192 trillion miles. In the “habitable zone,” the temperature is right for liquid water. To determine whether conditions are right for life or whether it has already started to develop, scientists look at the air that surrounds the planet. DICER may even be able to detect if the newly discovered exoplanets have atmospheric ozone, a so-called biomarker, that may indicate the existence of life as we know it.
+
+“Nobody really knows,” Newberg says. “We could find zero or we could find 100 habitable exoplanets. But the discovery of even one oxygen-rich, terrestrial exoplanet in the local neighborhood of our own sun would be among the most publicly engaging astronomical results of all time!”
+
+The DICER technology is also scalable, so the potential exists to find exoplanets that are fainter or farther away in the future. 
+
+“One of the important things about the DICER design is that it will detect planets that orbit other stars in any orientation,” says Deming. “So far, most exoplanets have been found because they pass in front of their host star and block some of its light, but DICER could find exoplanets that orbit in any orientation.”
+
+“Right now, as far as we can tell, we are alone in the universe,” says Barry. “As of yet, we have no scientifically compelling evidence of life off-planet. This will change in the very near future with the development of new technologies such as DICER.”
+
+“The profound implications of the DICER project have placed Professor Newberg in a position to tap into one of humanity’s deepest questions: Are we alone?” said Dr. Curt M. Breneman, Dean of the Rensselaer School of Science.  “I look forward to hearing about the results of this study.”
+  
+
+
+
+ January 26, 2023 
+Team Aims To Find ‘Earth 2.0’ 
+New technology may enable exoplanet discoveries previously thought impossible
+By Katie Malatino
+
+
+
+
+
+
+
+Are there other Earth-like planets? Is there extraterrestrial life? In the quest to find planets that orbit stars other than the sun, “Earth 2.0” is the Holy Grail. Earth 2.0 is a planet similar enough to Earth to enable the existence of life as we know it. It would be the right temperature for liquid water, and it would orbit a star with a steady supply of light. Ideally, it would be close enough that we could imagine going there or at least sending a probe to explore it.
+
+Rensselaer Polytechnic Institute researchers are leading a team in pursuit of an idea that could make it possible to find nearby, habitable, Earth-like planets – or prove that they are unlikely to exist – thanks to a new grant from NASA. 
+
+Heidi Jo Newberg, professor of physics, applied physics, and astronomy at Rensselaer, has been named a NASA Innovative Advanced Concepts (NIAC) Program Fellow. As such, she will join a prestigious group of innovative scientists whose visionary ideas have included new types of space propulsion systems, robots that are modeled after nature such as spiderbots, and technology that makes it easier for humans to live in space. 
+
+Newberg and her doctoral student Leaf Swordy will collaborate with Thomas D. Ditto, inventor of the “Dittoscope,” the telescope concept that is the inspiration for this new design; Shawn Domagal-Goldman and Richard K. Barry, astronomers at NASA Goddard Space Flight Center; L. Drake Deming, astronomer at University of Maryland, College Park; and Frank Ravizza, optical engineer at Lawrence Livermore National Laboratory.
+
+With funding from the fellowship, the team will determine if their idea for a Diffractive Interfero Coronagraph Exoplanet Resolver (DICER) is feasible. Using conventional telescopes, it would take a 20-meter infrared telescope in space to see a planet like the Earth orbiting a star like the sun. That is three times the diameter of the state-of-the-art James Webb Space Telescope, and is considered beyond the reach of current technology. With DICER, light from a faint planet is collected by two 10-meter diffraction gratings, which are easier to pack up in a rocket to shoot into space.
+
+“Telescopes have not changed in their basic designs using mirrors and lenses in four centuries,” Ditto said. “DICER uses a diffraction grating primary objective and that changes everything.”
+
+DICER is designed to find all habitable zone planets closer than 10 parsecs, or 192 trillion miles. In the “habitable zone,” the temperature is right for liquid water. To determine whether conditions are right for life or whether it has already started to develop, scientists look at the air that surrounds the planet. DICER may even be able to detect if the newly discovered exoplanets have atmospheric ozone, a so-called biomarker, that may indicate the existence of life as we know it.
+
+“Nobody really knows,” Newberg says. “We could find zero or we could find 100 habitable exoplanets. But the discovery of even one oxygen-rich, terrestrial exoplanet in the local neighborhood of our own sun would be among the most publicly engaging astronomical results of all time!”
+
+The DICER technology is also scalable, so the potential exists to find exoplanets that are fainter or farther away in the future. 
+
+“One of the important things about the DICER design is that it will detect planets that orbit other stars in any orientation,” says Deming. “So far, most exoplanets have been found because they pass in front of their host star and block some of its light, but DICER could find exoplanets that orbit in any orientation.”
+
+“Right now, as far as we can tell, we are alone in the universe,” says Barry. “As of yet, we have no scientifically compelling evidence of life off-planet. This will change in the very near future with the development of new technologies such as DICER.”
+
+“The profound implications of the DICER project have placed Professor Newberg in a position to tap into one of humanity’s deepest questions: Are we alone?” said Dr. Curt M. Breneman, Dean of the Rensselaer School of Science.  “I look forward to hearing about the results of this study.”
+  
+
+ January 26, 2023 
+Team Aims To Find ‘Earth 2.0’ 
+New technology may enable exoplanet discoveries previously thought impossible
+By Katie Malatino
+
+
+
+
+
+
+
+Are there other Earth-like planets? Is there extraterrestrial life? In the quest to find planets that orbit stars other than the sun, “Earth 2.0” is the Holy Grail. Earth 2.0 is a planet similar enough to Earth to enable the existence of life as we know it. It would be the right temperature for liquid water, and it would orbit a star with a steady supply of light. Ideally, it would be close enough that we could imagine going there or at least sending a probe to explore it.
+
+Rensselaer Polytechnic Institute researchers are leading a team in pursuit of an idea that could make it possible to find nearby, habitable, Earth-like planets – or prove that they are unlikely to exist – thanks to a new grant from NASA. 
+
+Heidi Jo Newberg, professor of physics, applied physics, and astronomy at Rensselaer, has been named a NASA Innovative Advanced Concepts (NIAC) Program Fellow. As such, she will join a prestigious group of innovative scientists whose visionary ideas have included new types of space propulsion systems, robots that are modeled after nature such as spiderbots, and technology that makes it easier for humans to live in space. 
+
+Newberg and her doctoral student Leaf Swordy will collaborate with Thomas D. Ditto, inventor of the “Dittoscope,” the telescope concept that is the inspiration for this new design; Shawn Domagal-Goldman and Richard K. Barry, astronomers at NASA Goddard Space Flight Center; L. Drake Deming, astronomer at University of Maryland, College Park; and Frank Ravizza, optical engineer at Lawrence Livermore National Laboratory.
+
+With funding from the fellowship, the team will determine if their idea for a Diffractive Interfero Coronagraph Exoplanet Resolver (DICER) is feasible. Using conventional telescopes, it would take a 20-meter infrared telescope in space to see a planet like the Earth orbiting a star like the sun. That is three times the diameter of the state-of-the-art James Webb Space Telescope, and is considered beyond the reach of current technology. With DICER, light from a faint planet is collected by two 10-meter diffraction gratings, which are easier to pack up in a rocket to shoot into space.
+
+“Telescopes have not changed in their basic designs using mirrors and lenses in four centuries,” Ditto said. “DICER uses a diffraction grating primary objective and that changes everything.”
+
+DICER is designed to find all habitable zone planets closer than 10 parsecs, or 192 trillion miles. In the “habitable zone,” the temperature is right for liquid water. To determine whether conditions are right for life or whether it has already started to develop, scientists look at the air that surrounds the planet. DICER may even be able to detect if the newly discovered exoplanets have atmospheric ozone, a so-called biomarker, that may indicate the existence of life as we know it.
+
+“Nobody really knows,” Newberg says. “We could find zero or we could find 100 habitable exoplanets. But the discovery of even one oxygen-rich, terrestrial exoplanet in the local neighborhood of our own sun would be among the most publicly engaging astronomical results of all time!”
+
+The DICER technology is also scalable, so the potential exists to find exoplanets that are fainter or farther away in the future. 
+
+“One of the important things about the DICER design is that it will detect planets that orbit other stars in any orientation,” says Deming. “So far, most exoplanets have been found because they pass in front of their host star and block some of its light, but DICER could find exoplanets that orbit in any orientation.”
+
+“Right now, as far as we can tell, we are alone in the universe,” says Barry. “As of yet, we have no scientifically compelling evidence of life off-planet. This will change in the very near future with the development of new technologies such as DICER.”
+
+“The profound implications of the DICER project have placed Professor Newberg in a position to tap into one of humanity’s deepest questions: Are we alone?” said Dr. Curt M. Breneman, Dean of the Rensselaer School of Science.  “I look forward to hearing about the results of this study.”
+   January 26, 2023 
+Team Aims To Find ‘Earth 2.0’ 
+New technology may enable exoplanet discoveries previously thought impossible
+By Katie Malatino
+
+
+
+
+
+
+
+Are there other Earth-like planets? Is there extraterrestrial life? In the quest to find planets that orbit stars other than the sun, “Earth 2.0” is the Holy Grail. Earth 2.0 is a planet similar enough to Earth to enable the existence of life as we know it. It would be the right temperature for liquid water, and it would orbit a star with a steady supply of light. Ideally, it would be close enough that we could imagine going there or at least sending a probe to explore it.
+
+Rensselaer Polytechnic Institute researchers are leading a team in pursuit of an idea that could make it possible to find nearby, habitable, Earth-like planets – or prove that they are unlikely to exist – thanks to a new grant from NASA. 
+
+Heidi Jo Newberg, professor of physics, applied physics, and astronomy at Rensselaer, has been named a NASA Innovative Advanced Concepts (NIAC) Program Fellow. As such, she will join a prestigious group of innovative scientists whose visionary ideas have included new types of space propulsion systems, robots that are modeled after nature such as spiderbots, and technology that makes it easier for humans to live in space. 
+
+Newberg and her doctoral student Leaf Swordy will collaborate with Thomas D. Ditto, inventor of the “Dittoscope,” the telescope concept that is the inspiration for this new design; Shawn Domagal-Goldman and Richard K. Barry, astronomers at NASA Goddard Space Flight Center; L. Drake Deming, astronomer at University of Maryland, College Park; and Frank Ravizza, optical engineer at Lawrence Livermore National Laboratory.
+
+With funding from the fellowship, the team will determine if their idea for a Diffractive Interfero Coronagraph Exoplanet Resolver (DICER) is feasible. Using conventional telescopes, it would take a 20-meter infrared telescope in space to see a planet like the Earth orbiting a star like the sun. That is three times the diameter of the state-of-the-art James Webb Space Telescope, and is considered beyond the reach of current technology. With DICER, light from a faint planet is collected by two 10-meter diffraction gratings, which are easier to pack up in a rocket to shoot into space.
+
+“Telescopes have not changed in their basic designs using mirrors and lenses in four centuries,” Ditto said. “DICER uses a diffraction grating primary objective and that changes everything.”
+
+DICER is designed to find all habitable zone planets closer than 10 parsecs, or 192 trillion miles. In the “habitable zone,” the temperature is right for liquid water. To determine whether conditions are right for life or whether it has already started to develop, scientists look at the air that surrounds the planet. DICER may even be able to detect if the newly discovered exoplanets have atmospheric ozone, a so-called biomarker, that may indicate the existence of life as we know it.
+
+“Nobody really knows,” Newberg says. “We could find zero or we could find 100 habitable exoplanets. But the discovery of even one oxygen-rich, terrestrial exoplanet in the local neighborhood of our own sun would be among the most publicly engaging astronomical results of all time!”
+
+The DICER technology is also scalable, so the potential exists to find exoplanets that are fainter or farther away in the future. 
+
+“One of the important things about the DICER design is that it will detect planets that orbit other stars in any orientation,” says Deming. “So far, most exoplanets have been found because they pass in front of their host star and block some of its light, but DICER could find exoplanets that orbit in any orientation.”
+
+“Right now, as far as we can tell, we are alone in the universe,” says Barry. “As of yet, we have no scientifically compelling evidence of life off-planet. This will change in the very near future with the development of new technologies such as DICER.”
+
+“The profound implications of the DICER project have placed Professor Newberg in a position to tap into one of humanity’s deepest questions: Are we alone?” said Dr. Curt M. Breneman, Dean of the Rensselaer School of Science.  “I look forward to hearing about the results of this study.”
+ January 26, 2023 
+Team Aims To Find ‘Earth 2.0’ 
+New technology may enable exoplanet discoveries previously thought impossible
+By Katie Malatino
+
+
+
+
+
+
+
+Are there other Earth-like planets? Is there extraterrestrial life? In the quest to find planets that orbit stars other than the sun, “Earth 2.0” is the Holy Grail. Earth 2.0 is a planet similar enough to Earth to enable the existence of life as we know it. It would be the right temperature for liquid water, and it would orbit a star with a steady supply of light. Ideally, it would be close enough that we could imagine going there or at least sending a probe to explore it.
+
+Rensselaer Polytechnic Institute researchers are leading a team in pursuit of an idea that could make it possible to find nearby, habitable, Earth-like planets – or prove that they are unlikely to exist – thanks to a new grant from NASA. 
+
+Heidi Jo Newberg, professor of physics, applied physics, and astronomy at Rensselaer, has been named a NASA Innovative Advanced Concepts (NIAC) Program Fellow. As such, she will join a prestigious group of innovative scientists whose visionary ideas have included new types of space propulsion systems, robots that are modeled after nature such as spiderbots, and technology that makes it easier for humans to live in space. 
+
+Newberg and her doctoral student Leaf Swordy will collaborate with Thomas D. Ditto, inventor of the “Dittoscope,” the telescope concept that is the inspiration for this new design; Shawn Domagal-Goldman and Richard K. Barry, astronomers at NASA Goddard Space Flight Center; L. Drake Deming, astronomer at University of Maryland, College Park; and Frank Ravizza, optical engineer at Lawrence Livermore National Laboratory.
+
+With funding from the fellowship, the team will determine if their idea for a Diffractive Interfero Coronagraph Exoplanet Resolver (DICER) is feasible. Using conventional telescopes, it would take a 20-meter infrared telescope in space to see a planet like the Earth orbiting a star like the sun. That is three times the diameter of the state-of-the-art James Webb Space Telescope, and is considered beyond the reach of current technology. With DICER, light from a faint planet is collected by two 10-meter diffraction gratings, which are easier to pack up in a rocket to shoot into space.
+
+“Telescopes have not changed in their basic designs using mirrors and lenses in four centuries,” Ditto said. “DICER uses a diffraction grating primary objective and that changes everything.”
+
+DICER is designed to find all habitable zone planets closer than 10 parsecs, or 192 trillion miles. In the “habitable zone,” the temperature is right for liquid water. To determine whether conditions are right for life or whether it has already started to develop, scientists look at the air that surrounds the planet. DICER may even be able to detect if the newly discovered exoplanets have atmospheric ozone, a so-called biomarker, that may indicate the existence of life as we know it.
+
+“Nobody really knows,” Newberg says. “We could find zero or we could find 100 habitable exoplanets. But the discovery of even one oxygen-rich, terrestrial exoplanet in the local neighborhood of our own sun would be among the most publicly engaging astronomical results of all time!”
+
+The DICER technology is also scalable, so the potential exists to find exoplanets that are fainter or farther away in the future. 
+
+“One of the important things about the DICER design is that it will detect planets that orbit other stars in any orientation,” says Deming. “So far, most exoplanets have been found because they pass in front of their host star and block some of its light, but DICER could find exoplanets that orbit in any orientation.”
+
+“Right now, as far as we can tell, we are alone in the universe,” says Barry. “As of yet, we have no scientifically compelling evidence of life off-planet. This will change in the very near future with the development of new technologies such as DICER.”
+
+“The profound implications of the DICER project have placed Professor Newberg in a position to tap into one of humanity’s deepest questions: Are we alone?” said Dr. Curt M. Breneman, Dean of the Rensselaer School of Science.  “I look forward to hearing about the results of this study.”
+January 26, 2023 
+
+
+
+
+
+
+
+
+
+Contact
+
+For general inquiries: newsmedia@rpi.edu
+
+
+
+
+About Rensselaer Polytechnic Institute
+Founded in 1824, Rensselaer Polytechnic Institute is America’s first technological research university. Rensselaer encompasses five schools, over 30 research centers, more than 140 academic programs including 25 new programs, and a dynamic community made up of over 6,800 students and 104,000 living alumni. Rensselaer faculty and alumni include upwards of 155 National Academy members, six members of the National Inventors Hall of Fame, six National Medal of Technology winners, five National Medal of Science winners, and a Nobel Prize winner in Physics. With nearly 200 years of experience advancing scientific and technological knowledge, Rensselaer remains focused on addressing global challenges with a spirit of ingenuity and collaboration. To learn more, please visit www.rpi.edu.
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+Contact
+
+For general inquiries: newsmedia@rpi.edu
+
+
+
+
+About Rensselaer Polytechnic Institute
+Founded in 1824, Rensselaer Polytechnic Institute is America’s first technological research university. Rensselaer encompasses five schools, over 30 research centers, more than 140 academic programs including 25 new programs, and a dynamic community made up of over 6,800 students and 104,000 living alumni. Rensselaer faculty and alumni include upwards of 155 National Academy members, six members of the National Inventors Hall of Fame, six National Medal of Technology winners, five National Medal of Science winners, and a Nobel Prize winner in Physics. With nearly 200 years of experience advancing scientific and technological knowledge, Rensselaer remains focused on addressing global challenges with a spirit of ingenuity and collaboration. To learn more, please visit www.rpi.edu.
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+Contact
+
+For general inquiries: newsmedia@rpi.edu
+
+
+
+
+About Rensselaer Polytechnic Institute
+Founded in 1824, Rensselaer Polytechnic Institute is America’s first technological research university. Rensselaer encompasses five schools, over 30 research centers, more than 140 academic programs including 25 new programs, and a dynamic community made up of over 6,800 students and 104,000 living alumni. Rensselaer faculty and alumni include upwards of 155 National Academy members, six members of the National Inventors Hall of Fame, six National Medal of Technology winners, five National Medal of Science winners, and a Nobel Prize winner in Physics. With nearly 200 years of experience advancing scientific and technological knowledge, Rensselaer remains focused on addressing global challenges with a spirit of ingenuity and collaboration. To learn more, please visit www.rpi.edu.
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Contact
+
+For general inquiries: newsmedia@rpi.edu
+
+
+
+
+About Rensselaer Polytechnic Institute
+Founded in 1824, Rensselaer Polytechnic Institute is America’s first technological research university. Rensselaer encompasses five schools, over 30 research centers, more than 140 academic programs including 25 new programs, and a dynamic community made up of over 6,800 students and 104,000 living alumni. Rensselaer faculty and alumni include upwards of 155 National Academy members, six members of the National Inventors Hall of Fame, six National Medal of Technology winners, five National Medal of Science winners, and a Nobel Prize winner in Physics. With nearly 200 years of experience advancing scientific and technological knowledge, Rensselaer remains focused on addressing global challenges with a spirit of ingenuity and collaboration. To learn more, please visit www.rpi.edu.
+
+
+
+
+
+ 
+
+
+
+
+
+Contact
+
+For general inquiries: newsmedia@rpi.edu
+
+
+
+
+About Rensselaer Polytechnic Institute
+Founded in 1824, Rensselaer Polytechnic Institute is America’s first technological research university. Rensselaer encompasses five schools, over 30 research centers, more than 140 academic programs including 25 new programs, and a dynamic community made up of over 6,800 students and 104,000 living alumni. Rensselaer faculty and alumni include upwards of 155 National Academy members, six members of the National Inventors Hall of Fame, six National Medal of Technology winners, five National Medal of Science winners, and a Nobel Prize winner in Physics. With nearly 200 years of experience advancing scientific and technological knowledge, Rensselaer remains focused on addressing global challenges with a spirit of ingenuity and collaboration. To learn more, please visit www.rpi.edu.
+
+
+
+
+
+
+
+
+
+
+Contact
+
+For general inquiries: newsmedia@rpi.edu
+
+
+
+
+About Rensselaer Polytechnic Institute
+Founded in 1824, Rensselaer Polytechnic Institute is America’s first technological research university. Rensselaer encompasses five schools, over 30 research centers, more than 140 academic programs including 25 new programs, and a dynamic community made up of over 6,800 students and 104,000 living alumni. Rensselaer faculty and alumni include upwards of 155 National Academy members, six members of the National Inventors Hall of Fame, six National Medal of Technology winners, five National Medal of Science winners, and a Nobel Prize winner in Physics. With nearly 200 years of experience advancing scientific and technological knowledge, Rensselaer remains focused on addressing global challenges with a spirit of ingenuity and collaboration. To learn more, please visit www.rpi.edu.
+
+
+
+
+
+
+
+
+Contact
+
+For general inquiries: newsmedia@rpi.edu
+
+
+
+
+About Rensselaer Polytechnic Institute
+Founded in 1824, Rensselaer Polytechnic Institute is America’s first technological research university. Rensselaer encompasses five schools, over 30 research centers, more than 140 academic programs including 25 new programs, and a dynamic community made up of over 6,800 students and 104,000 living alumni. Rensselaer faculty and alumni include upwards of 155 National Academy members, six members of the National Inventors Hall of Fame, six National Medal of Technology winners, five National Medal of Science winners, and a Nobel Prize winner in Physics. With nearly 200 years of experience advancing scientific and technological knowledge, Rensselaer remains focused on addressing global challenges with a spirit of ingenuity and collaboration. To learn more, please visit www.rpi.edu.
+
+
+
+
+
+
+Contact
+
+For general inquiries: newsmedia@rpi.edu
+
+
+
+
+About Rensselaer Polytechnic Institute
+Founded in 1824, Rensselaer Polytechnic Institute is America’s first technological research university. Rensselaer encompasses five schools, over 30 research centers, more than 140 academic programs including 25 new programs, and a dynamic community made up of over 6,800 students and 104,000 living alumni. Rensselaer faculty and alumni include upwards of 155 National Academy members, six members of the National Inventors Hall of Fame, six National Medal of Technology winners, five National Medal of Science winners, and a Nobel Prize winner in Physics. With nearly 200 years of experience advancing scientific and technological knowledge, Rensselaer remains focused on addressing global challenges with a spirit of ingenuity and collaboration. To learn more, please visit www.rpi.edu.
+
+
+
+Contact
+
+For general inquiries: newsmedia@rpi.edu
+
+About Rensselaer Polytechnic Institute
+Founded in 1824, Rensselaer Polytechnic Institute is America’s first technological research university. Rensselaer encompasses five schools, over 30 research centers, more than 140 academic programs including 25 new programs, and a dynamic community made up of over 6,800 students and 104,000 living alumni. Rensselaer faculty and alumni include upwards of 155 National Academy members, six members of the National Inventors Hall of Fame, six National Medal of Technology winners, five National Medal of Science winners, and a Nobel Prize winner in Physics. With nearly 200 years of experience advancing scientific and technological knowledge, Rensselaer remains focused on addressing global challenges with a spirit of ingenuity and collaboration. To learn more, please visit www.rpi.edu.
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+110 Eighth Street
+        	Troy, NY USA 12180
+			(518) 276-6000
+        	
+
+FOLLOW US
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SCHOOLS & PROGRAMS
+
+Architecture
+Business
+Engineering
+Humanities, Arts, & Social Sciences
+IT & Web Science
+Science
+Research
+
+
+
+RPI CONNECTIONS
+
+Admissions
+Alumni/ae & Friends
+Athletics
+Human Resources
+Library
+RPInfo
+Strategic Communications
+Veterans
+
+
+
+ENGAGE
+
+Apply Now
+Contact Us
+Give to Rensselaer
+Visit Campus
+Send Feedback
+
+
+
+
+
+Copyright ©  Rensselaer Polytechnic Institute (RPI)
+
+Media Policy 
+         |    
+      Web Privacy Policy 
+         |    
+      Student Consumer Information
+         |    
+      Title IX Policy
+         |    
+      Accessibility
+
+
+ 
+
+
+
+
+ 
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+110 Eighth Street
+        	Troy, NY USA 12180
+			(518) 276-6000
+        	
+
+FOLLOW US
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SCHOOLS & PROGRAMS
+
+Architecture
+Business
+Engineering
+Humanities, Arts, & Social Sciences
+IT & Web Science
+Science
+Research
+
+
+
+RPI CONNECTIONS
+
+Admissions
+Alumni/ae & Friends
+Athletics
+Human Resources
+Library
+RPInfo
+Strategic Communications
+Veterans
+
+
+
+ENGAGE
+
+Apply Now
+Contact Us
+Give to Rensselaer
+Visit Campus
+Send Feedback
+
+
+
+
+
+Copyright ©  Rensselaer Polytechnic Institute (RPI)
+
+Media Policy 
+         |    
+      Web Privacy Policy 
+         |    
+      Student Consumer Information
+         |    
+      Title IX Policy
+         |    
+      Accessibility
+
+
+ 
+
+
+
+
+ 
+
+ 
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+110 Eighth Street
+        	Troy, NY USA 12180
+			(518) 276-6000
+        	
+
+FOLLOW US
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SCHOOLS & PROGRAMS
+
+Architecture
+Business
+Engineering
+Humanities, Arts, & Social Sciences
+IT & Web Science
+Science
+Research
+
+
+
+RPI CONNECTIONS
+
+Admissions
+Alumni/ae & Friends
+Athletics
+Human Resources
+Library
+RPInfo
+Strategic Communications
+Veterans
+
+
+
+ENGAGE
+
+Apply Now
+Contact Us
+Give to Rensselaer
+Visit Campus
+Send Feedback
+
+
+
+
+
+Copyright ©  Rensselaer Polytechnic Institute (RPI)
+
+Media Policy 
+         |    
+      Web Privacy Policy 
+         |    
+      Student Consumer Information
+         |    
+      Title IX Policy
+         |    
+      Accessibility
+
+
+ 
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+110 Eighth Street
+        	Troy, NY USA 12180
+			(518) 276-6000
+        	
+
+FOLLOW US
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SCHOOLS & PROGRAMS
+
+Architecture
+Business
+Engineering
+Humanities, Arts, & Social Sciences
+IT & Web Science
+Science
+Research
+
+
+
+RPI CONNECTIONS
+
+Admissions
+Alumni/ae & Friends
+Athletics
+Human Resources
+Library
+RPInfo
+Strategic Communications
+Veterans
+
+
+
+ENGAGE
+
+Apply Now
+Contact Us
+Give to Rensselaer
+Visit Campus
+Send Feedback
+
+
+
+
+
+Copyright ©  Rensselaer Polytechnic Institute (RPI)
+
+Media Policy 
+         |    
+      Web Privacy Policy 
+         |    
+      Student Consumer Information
+         |    
+      Title IX Policy
+         |    
+      Accessibility
+
+
+ 
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+110 Eighth Street
+        	Troy, NY USA 12180
+			(518) 276-6000
+        	
+
+FOLLOW US
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SCHOOLS & PROGRAMS
+
+Architecture
+Business
+Engineering
+Humanities, Arts, & Social Sciences
+IT & Web Science
+Science
+Research
+
+
+
+RPI CONNECTIONS
+
+Admissions
+Alumni/ae & Friends
+Athletics
+Human Resources
+Library
+RPInfo
+Strategic Communications
+Veterans
+
+
+
+ENGAGE
+
+Apply Now
+Contact Us
+Give to Rensselaer
+Visit Campus
+Send Feedback
+
+
+
+
+
+Copyright ©  Rensselaer Polytechnic Institute (RPI)
+
+Media Policy 
+         |    
+      Web Privacy Policy 
+         |    
+      Student Consumer Information
+         |    
+      Title IX Policy
+         |    
+      Accessibility
+
+
+ 
+
+
+
+
+
+
+
+110 Eighth Street
+        	Troy, NY USA 12180
+			(518) 276-6000
+        	
+
+FOLLOW US
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SCHOOLS & PROGRAMS
+
+Architecture
+Business
+Engineering
+Humanities, Arts, & Social Sciences
+IT & Web Science
+Science
+Research
+
+
+
+RPI CONNECTIONS
+
+Admissions
+Alumni/ae & Friends
+Athletics
+Human Resources
+Library
+RPInfo
+Strategic Communications
+Veterans
+
+
+
+ENGAGE
+
+Apply Now
+Contact Us
+Give to Rensselaer
+Visit Campus
+Send Feedback
+
+
+
+
+
+Copyright ©  Rensselaer Polytechnic Institute (RPI)
+
+Media Policy 
+         |    
+      Web Privacy Policy 
+         |    
+      Student Consumer Information
+         |    
+      Title IX Policy
+         |    
+      Accessibility
+
+
+ 
+
+
+
+
+
+110 Eighth Street
+        	Troy, NY USA 12180
+			(518) 276-6000
+        	
+
+FOLLOW US
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SCHOOLS & PROGRAMS
+
+Architecture
+Business
+Engineering
+Humanities, Arts, & Social Sciences
+IT & Web Science
+Science
+Research
+
+
+
+RPI CONNECTIONS
+
+Admissions
+Alumni/ae & Friends
+Athletics
+Human Resources
+Library
+RPInfo
+Strategic Communications
+Veterans
+
+
+
+ENGAGE
+
+Apply Now
+Contact Us
+Give to Rensselaer
+Visit Campus
+Send Feedback
+
+
+
+
+
+Copyright ©  Rensselaer Polytechnic Institute (RPI)
+
+Media Policy 
+         |    
+      Web Privacy Policy 
+         |    
+      Student Consumer Information
+         |    
+      Title IX Policy
+         |    
+      Accessibility
+
+
+ 
+
+
+
+110 Eighth Street
+        	Troy, NY USA 12180
+			(518) 276-6000
+        	
+
+FOLLOW US
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SCHOOLS & PROGRAMS
+
+Architecture
+Business
+Engineering
+Humanities, Arts, & Social Sciences
+IT & Web Science
+Science
+Research
+
+
+
+RPI CONNECTIONS
+
+Admissions
+Alumni/ae & Friends
+Athletics
+Human Resources
+Library
+RPInfo
+Strategic Communications
+Veterans
+
+
+
+ENGAGE
+
+Apply Now
+Contact Us
+Give to Rensselaer
+Visit Campus
+Send Feedback
+
+
+
+
+
+Copyright ©  Rensselaer Polytechnic Institute (RPI)
+
+Media Policy 
+         |    
+      Web Privacy Policy 
+         |    
+      Student Consumer Information
+         |    
+      Title IX Policy
+         |    
+      Accessibility
+
+
+
+
+
+
+110 Eighth Street
+        	Troy, NY USA 12180
+			(518) 276-6000
+        	
+
+FOLLOW US
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SCHOOLS & PROGRAMS
+
+Architecture
+Business
+Engineering
+Humanities, Arts, & Social Sciences
+IT & Web Science
+Science
+Research
+
+
+
+RPI CONNECTIONS
+
+Admissions
+Alumni/ae & Friends
+Athletics
+Human Resources
+Library
+RPInfo
+Strategic Communications
+Veterans
+
+
+
+ENGAGE
+
+Apply Now
+Contact Us
+Give to Rensselaer
+Visit Campus
+Send Feedback
+
+
+
+
+
+Copyright ©  Rensselaer Polytechnic Institute (RPI)
+
+Media Policy 
+         |    
+      Web Privacy Policy 
+         |    
+      Student Consumer Information
+         |    
+      Title IX Policy
+         |    
+      Accessibility
+
+
+
+
+
+110 Eighth Street
+        	Troy, NY USA 12180
+			(518) 276-6000
+        	
+
+FOLLOW US
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SCHOOLS & PROGRAMS
+
+Architecture
+Business
+Engineering
+Humanities, Arts, & Social Sciences
+IT & Web Science
+Science
+Research
+
+
+
+RPI CONNECTIONS
+
+Admissions
+Alumni/ae & Friends
+Athletics
+Human Resources
+Library
+RPInfo
+Strategic Communications
+Veterans
+
+
+
+ENGAGE
+
+Apply Now
+Contact Us
+Give to Rensselaer
+Visit Campus
+Send Feedback
+
+
+
+
+
+Copyright ©  Rensselaer Polytechnic Institute (RPI)
+
+Media Policy 
+         |    
+      Web Privacy Policy 
+         |    
+      Student Consumer Information
+         |    
+      Title IX Policy
+         |    
+      Accessibility
+
+
+
+110 Eighth Street
+        	Troy, NY USA 12180
+			(518) 276-6000
+        	
+
+FOLLOW US
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FOLLOW US
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SCHOOLS & PROGRAMS
+
+Architecture
+Business
+Engineering
+Humanities, Arts, & Social Sciences
+IT & Web Science
+Science
+Research
+
+
+RPI CONNECTIONS
+
+Admissions
+Alumni/ae & Friends
+Athletics
+Human Resources
+Library
+RPInfo
+Strategic Communications
+Veterans
+
+
+ENGAGE
+
+Apply Now
+Contact Us
+Give to Rensselaer
+Visit Campus
+Send Feedback
+
+
+
+Copyright ©  Rensselaer Polytechnic Institute (RPI)
+
+Media Policy 
+         |    
+      Web Privacy Policy 
+         |    
+      Student Consumer Information
+         |    
+      Title IX Policy
+         |    
+      Accessibility
+
+
+
+
+ 
+
+
+
+ 
+
+ 
+
+
+

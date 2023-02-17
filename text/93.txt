@@ -1,3 +1,960 @@
-Rensselaer Polytechnic InstituteThe Rensselaer Health Informatics Challenges in Technology Education (INCITE) Pipeline recruits and prepares students at Rensselaer and worldwide to be data scientists in healthcare using early data analytics courses and experiential research projects centered on real-world health challenges.With the advent of electronic healthcare records (EHR) and precision medicine, healthcare increasingly relies on health informatics (HI), the philosophy and tools of data science (DS) and their application in healthcare. Rensselaer Health INCITE is a innovative, replicable program that directly expands the health informatics workforce pipeline at the early undergraduate level for students at RPI and worldwide. Health INCITE addresses key challenges in attracting and training top talent:Rensselaer Polytechnic Institute's Data INCITE pipeline for undergraduate data science education consists of an early data analytics course followed by applied data science research experiences on real-world problems. Data INCITE results in data science skills and prompts students to pursue further coursework and careers in data science. Health INCITE builds on Data INCITE, providing a similar pipeline to recruit and train data scientists for health informatics careers.The Rensselaer Health INCITE Pipeline:The Rensselaer Health INCITE Pipeline has been generously funded by the United Health FoundationPublications about Data INCITE:Check out the Project Gallery (BELOW) to see research products (interactive apps, papers, and presentations) created by students in the Data INCITE Lab.  Summary Video: Tackling COVID-19 Using Data Analytics (NOV 2020)Highlights from 112 Undergraduate Research Experiences in the Rensselaer Data INCITE Lab During COVID-19 Pandemic (Kristin P. Bennett)Institute for Data Exploration and Applications (IDEA)
-110 8th Street, Rensselaer Polytechnic Institute, 12180
-Phone (518) 276-4400, Fax (518) 276-2148
+Season’s Greetings!Rensselaer offices will close on Thursday, December 24 and reopen Monday, January 4, 2021.If you are considering making a year-end gift to Rensselaer, you may do so by visiting our online giving form. For further instructions regarding year-end giving, please visit https://giving.rpi.edu/year-end-giving, call (518) 276-6055 to leave a message, or email giving@rpi.edu.On behalf of the Institute, thank you for your continued support – and Happy Holidays!Chasan Building
+110 Eighth Street
+Troy, NY 12180 USA
+518-276-6055
+advancement@rpi.eduPlease send gifts to:
+Gifts Processing Center
+P.O. Box 3164
+Boston, MA 02241-3164Why Give?
+
+Our Students
+Our Faculty
+Our Community
+
+Our StudentsOur FacultyOur CommunityWhere to Give?
+
+Annual Giving 
+
+The Rensselaer Annual Fund
+Undergraduate Student Relief Fund
+Graduate Student Relief Fund
+Fraternities and Sororities
+School Funds
+Annual Fund Scholars Program
+Annual Fund Assistance Grant
+Patroon Scholars Program
+Let’s Go Red
+we R Gold
+The Rensselaer COVID-19 Testing Initiative Fund
+Rensselaer Diversity Initiatives
+Rensselaer Research Fund
+Senior Class Giving
+Memorial and Tribute Scholarship Fund
+Patroon Society Volunteer Program
+Meet Our Scholars and Donors
+
+
+The Endowment
+Scholarship
+Faculty Excellence
+Building out the Campus
+Academics and Research 
+
+Rensselaer Research Fund
+Support for the School of Architecture Design Studio through The Arch
+O.T. Swanson Multidisciplinary Design Lab
+Dr. Vladimir Belsky Award
+
+
+Student Experience 
+
+Class of 1957 Spectrum Award
+HASS Private Music Lessons Fund
+Support for the Civil ASCE Student Chapter
+
+
+
+Annual Giving 
+
+The Rensselaer Annual Fund
+Undergraduate Student Relief Fund
+Graduate Student Relief Fund
+Fraternities and Sororities
+School Funds
+Annual Fund Scholars Program
+Annual Fund Assistance Grant
+Patroon Scholars Program
+Let’s Go Red
+we R Gold
+The Rensselaer COVID-19 Testing Initiative Fund
+Rensselaer Diversity Initiatives
+Rensselaer Research Fund
+Senior Class Giving
+Memorial and Tribute Scholarship Fund
+Patroon Society Volunteer Program
+Meet Our Scholars and Donors
+
+The Rensselaer Annual FundUndergraduate Student Relief FundGraduate Student Relief FundFraternities and SororitiesSchool FundsAnnual Fund Scholars ProgramAnnual Fund Assistance GrantPatroon Scholars ProgramLet’s Go Redwe R GoldThe Rensselaer COVID-19 Testing Initiative FundRensselaer Diversity InitiativesRensselaer Research FundSenior Class GivingMemorial and Tribute Scholarship FundPatroon Society Volunteer ProgramMeet Our Scholars and DonorsThe EndowmentScholarshipFaculty ExcellenceBuilding out the CampusAcademics and Research 
+
+Rensselaer Research Fund
+Support for the School of Architecture Design Studio through The Arch
+O.T. Swanson Multidisciplinary Design Lab
+Dr. Vladimir Belsky Award
+
+Rensselaer Research FundSupport for the School of Architecture Design Studio through The ArchO.T. Swanson Multidisciplinary Design LabDr. Vladimir Belsky AwardStudent Experience 
+
+Class of 1957 Spectrum Award
+HASS Private Music Lessons Fund
+Support for the Civil ASCE Student Chapter
+
+Class of 1957 Spectrum AwardHASS Private Music Lessons FundSupport for the Civil ASCE Student ChapterHow to Give?The Impact of GivingCommunity
+
+Alumni
+Corporations and Foundations 
+
+Corporate Ambassador Program
+ReCAP Challenge
+
+
+Fraternities and Sororities
+Parents and Families
+Regional Networks 
+
+CAPITAL REGION
+Greater New York
+New England
+Silicon Valley
+Texas Triangle
+
+
+Students
+
+AlumniCorporations and Foundations 
+
+Corporate Ambassador Program
+ReCAP Challenge
+
+Corporate Ambassador ProgramReCAP ChallengeFraternities and SororitiesParents and FamiliesRegional Networks 
+
+CAPITAL REGION
+Greater New York
+New England
+Silicon Valley
+Texas Triangle
+
+CAPITAL REGIONGreater New YorkNew EnglandSilicon ValleyTexas TriangleStudentsNewsContact UsGive NowSearch
+
+
+
+Search
+
+
+Submit
+Page 1Page 2Page 3Page 4Page 5NextArchitectureBusinessEngineeringHumanities, Arts, & Social SciencesIT & Web ScienceScienceResearchAdmissionsAlumni & FriendsAthleticsHuman ResourcesRPInfoStrategic Communications
+
+
+
+
+Corporations and Foundations | Planned Giving
+
+
+
+
+
+INSTITUTE ADVANCEMENT
+
+
+GIVE NOW
+
+
+
+
+Why Give?
+
+Our Students
+Our Faculty
+Our Community
+
+
+Where to Give?
+
+Annual Giving 
+
+The Rensselaer Annual Fund
+Undergraduate Student Relief Fund
+Graduate Student Relief Fund
+Fraternities and Sororities
+School Funds
+Annual Fund Scholars Program
+Annual Fund Assistance Grant
+Patroon Scholars Program
+Let’s Go Red
+we R Gold
+The Rensselaer COVID-19 Testing Initiative Fund
+Rensselaer Diversity Initiatives
+Rensselaer Research Fund
+Senior Class Giving
+Memorial and Tribute Scholarship Fund
+Patroon Society Volunteer Program
+Meet Our Scholars and Donors
+
+
+The Endowment
+Scholarship
+Faculty Excellence
+Building out the Campus
+Academics and Research 
+
+Rensselaer Research Fund
+Support for the School of Architecture Design Studio through The Arch
+O.T. Swanson Multidisciplinary Design Lab
+Dr. Vladimir Belsky Award
+
+
+Student Experience 
+
+Class of 1957 Spectrum Award
+HASS Private Music Lessons Fund
+Support for the Civil ASCE Student Chapter
+
+
+
+
+How to Give?
+The Impact of Giving
+Community
+
+Alumni
+Corporations and Foundations 
+
+Corporate Ambassador Program
+ReCAP Challenge
+
+
+Fraternities and Sororities
+Parents and Families
+Regional Networks 
+
+CAPITAL REGION
+Greater New York
+New England
+Silicon Valley
+Texas Triangle
+
+
+Students
+
+
+News
+Contact Us
+Give Now
+Search
+
+
+
+Search
+
+
+Submit
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+
+
+
+News / Events
+
+
+
+
+
+
+
+Season’s Greetings!
+Rensselaer offices will close on Thursday, December 24 and reopen Monday, January 4, 2021.
+If you are considering making a year-end gift to Rensselaer, you may do so by visiting our online giving form. For further instructions regarding year-end giving, please visit https://giving.rpi.edu/year-end-giving, call (518) 276-6055 to leave a message, or email giving@rpi.edu.
+On behalf of the Institute, thank you for your continued support – and Happy Holidays!
+
+
+
+Latest Giving News
+
+
+
+Rensselaer Polytechnic Institute Receives Gift To Fund Men’s Varsity Ice Hockey Coach EndowmentRensselaer Polytechnic Institute is pleased to announce the establishment of the C. Lloyd Bauer ’55 Endowed Men’s Varsity Ice Hockey Coach. The $2 million gift will be funded by Rensselaer alumnus and former men’s varsity hockey player Lloyd Bauer ’55.READ MOREHelp Support Fraternities and Sororities at RensselaerFor most of us, joining our fraternity or sorority while attending Rensselaer remains one of the most significant decisions we could have made...READ MORELockheed Martin Sikorsky Collaboration with Rensselaer to Support Advanced Manufacturing EffortsLM Sikorsky recently completed an initial phase of a project aimed at demonstrating an advanced manufacturing process focused on automating a current manual process.READ MORESpotlight on ReCAP – Rensselaer Corporate Ambassadors ProgramCongratulations to Ryan Patry ’00, ’08G, Rotary and Mission Systems for Sikorsky Aircraft, a Lockheed Martin Company, who has been named a Lockheed Martin Technical Fellow in Manufacturing Engineering.READ MOREGenerous Donation Ensures Hands-On Learning for Electrical Engineering StudentsAll students taking the course Introduction to Electrical, Computer, and Systems Engineering this year will receive an Analog Devices ADALM1000 Active Learning Module thanks to a generous donation from Douglas Mercer ’77, a pioneer in analog-digital conversion.READ MORECDPHP Donates $150,000 for Rensselaer COVID-19 Testing InitiativeWe are pleased to announce that CDPHP has committed to a transformative gift designated for the Rensselaer COVID-19 Testing Initiative Fund.READ MORECampus Fitness ConnectionThe Mueller Center, celebrating its 20-year anniversary in May, coordinates intramural sports including basketball, soccer, softball, and volleyball connecting nearly 6,000 community members annually.READ MOREDriving Forces for Supporting Health and WellnessDr. John D. Bennett ’74, MD, FACC, FACP, has been a longstanding partner in preserving and promoting the health and wellness of students, faculty, and staff.READ MORE 
+Page 1
+Page 2
+Page 3
+Page 4
+Page 5
+Next
+
+
+
+
+
+Latest Institute News
+
+
+
+RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing NeedsRead moreAerospace Engineering and Fluid Dynamics Expert Michael Amitay Elected Fellow of the Royal Aeronautical SocietyRead moreSteven Cramer Elected to the National Academy of EngineeringRead moreImproving Food AccessRead moreRensselaer Researchers To Explore “Fast Fashion” AlternativesRead moreRensselaer Researcher Mohammed Zaki Is an AAAS FellowRead moreRPI To Host 24th Annual Black Families Technology Awareness Day on February 4Read moreTeam Aims To Find ‘Earth 2.0’Read more
+
+
+
+
+
+
+
+
+
+ Chasan Building
+110 Eighth Street
+Troy, NY 12180 USA
+518-276-6055
+advancement@rpi.edu
+
+ Please send gifts to:
+Gifts Processing Center
+P.O. Box 3164
+Boston, MA 02241-3164
+
+
+SCHOOLS & PROGRAMS 
+Architecture
+Business
+Engineering
+Humanities, Arts, & Social Sciences
+IT & Web Science
+Science
+Research
+
+
+
+RPI CONNECTIONS 
+Admissions
+Alumni & Friends
+Athletics
+Human Resources
+RPInfo
+Strategic Communications
+
+
+
+
+
+
+
+Copyright © 2023 Rensselaer Polytechnic Institute (RPI)
+
+Media Policy    |    Web Privacy Statement     |    Student Consumer Information    |    Title IX Policy    |    Accessibility 
+
+
+
+
+
+Corporations and Foundations | Planned Giving
+
+
+
+
+Corporations and Foundations | Planned Giving
+
+
+Corporations and Foundations | Planned GivingCorporations and Foundations | Planned Giving
+
+INSTITUTE ADVANCEMENT
+
+
+GIVE NOW
+
+
+INSTITUTE ADVANCEMENT
+INSTITUTE ADVANCEMENTGIVE NOWGIVE NOW
+
+Why Give?
+
+Our Students
+Our Faculty
+Our Community
+
+
+Where to Give?
+
+Annual Giving 
+
+The Rensselaer Annual Fund
+Undergraduate Student Relief Fund
+Graduate Student Relief Fund
+Fraternities and Sororities
+School Funds
+Annual Fund Scholars Program
+Annual Fund Assistance Grant
+Patroon Scholars Program
+Let’s Go Red
+we R Gold
+The Rensselaer COVID-19 Testing Initiative Fund
+Rensselaer Diversity Initiatives
+Rensselaer Research Fund
+Senior Class Giving
+Memorial and Tribute Scholarship Fund
+Patroon Society Volunteer Program
+Meet Our Scholars and Donors
+
+
+The Endowment
+Scholarship
+Faculty Excellence
+Building out the Campus
+Academics and Research 
+
+Rensselaer Research Fund
+Support for the School of Architecture Design Studio through The Arch
+O.T. Swanson Multidisciplinary Design Lab
+Dr. Vladimir Belsky Award
+
+
+Student Experience 
+
+Class of 1957 Spectrum Award
+HASS Private Music Lessons Fund
+Support for the Civil ASCE Student Chapter
+
+
+
+
+How to Give?
+The Impact of Giving
+Community
+
+Alumni
+Corporations and Foundations 
+
+Corporate Ambassador Program
+ReCAP Challenge
+
+
+Fraternities and Sororities
+Parents and Families
+Regional Networks 
+
+CAPITAL REGION
+Greater New York
+New England
+Silicon Valley
+Texas Triangle
+
+
+Students
+
+
+News
+Contact Us
+Give Now
+Search
+
+
+
+Search
+
+
+Submit
+
+
+
+
+
+Search
+
+
+Submit
+
+
+
+
+Menu
+
+
+
+
+
+
+Menu
+
+
+
+
+Menu
+
+
+Menu
+
+
+
+News / Events
+
+
+
+News / Events
+
+
+
+
+
+Season’s Greetings!
+Rensselaer offices will close on Thursday, December 24 and reopen Monday, January 4, 2021.
+If you are considering making a year-end gift to Rensselaer, you may do so by visiting our online giving form. For further instructions regarding year-end giving, please visit https://giving.rpi.edu/year-end-giving, call (518) 276-6055 to leave a message, or email giving@rpi.edu.
+On behalf of the Institute, thank you for your continued support – and Happy Holidays!
+
+
+
+Latest Giving News
+
+
+
+Rensselaer Polytechnic Institute Receives Gift To Fund Men’s Varsity Ice Hockey Coach EndowmentRensselaer Polytechnic Institute is pleased to announce the establishment of the C. Lloyd Bauer ’55 Endowed Men’s Varsity Ice Hockey Coach. The $2 million gift will be funded by Rensselaer alumnus and former men’s varsity hockey player Lloyd Bauer ’55.READ MOREHelp Support Fraternities and Sororities at RensselaerFor most of us, joining our fraternity or sorority while attending Rensselaer remains one of the most significant decisions we could have made...READ MORELockheed Martin Sikorsky Collaboration with Rensselaer to Support Advanced Manufacturing EffortsLM Sikorsky recently completed an initial phase of a project aimed at demonstrating an advanced manufacturing process focused on automating a current manual process.READ MORESpotlight on ReCAP – Rensselaer Corporate Ambassadors ProgramCongratulations to Ryan Patry ’00, ’08G, Rotary and Mission Systems for Sikorsky Aircraft, a Lockheed Martin Company, who has been named a Lockheed Martin Technical Fellow in Manufacturing Engineering.READ MOREGenerous Donation Ensures Hands-On Learning for Electrical Engineering StudentsAll students taking the course Introduction to Electrical, Computer, and Systems Engineering this year will receive an Analog Devices ADALM1000 Active Learning Module thanks to a generous donation from Douglas Mercer ’77, a pioneer in analog-digital conversion.READ MORECDPHP Donates $150,000 for Rensselaer COVID-19 Testing InitiativeWe are pleased to announce that CDPHP has committed to a transformative gift designated for the Rensselaer COVID-19 Testing Initiative Fund.READ MORECampus Fitness ConnectionThe Mueller Center, celebrating its 20-year anniversary in May, coordinates intramural sports including basketball, soccer, softball, and volleyball connecting nearly 6,000 community members annually.READ MOREDriving Forces for Supporting Health and WellnessDr. John D. Bennett ’74, MD, FACC, FACP, has been a longstanding partner in preserving and promoting the health and wellness of students, faculty, and staff.READ MORE 
+Page 1
+Page 2
+Page 3
+Page 4
+Page 5
+Next
+
+
+
+
+
+Latest Institute News
+
+
+
+RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing NeedsRead moreAerospace Engineering and Fluid Dynamics Expert Michael Amitay Elected Fellow of the Royal Aeronautical SocietyRead moreSteven Cramer Elected to the National Academy of EngineeringRead moreImproving Food AccessRead moreRensselaer Researchers To Explore “Fast Fashion” AlternativesRead moreRensselaer Researcher Mohammed Zaki Is an AAAS FellowRead moreRPI To Host 24th Annual Black Families Technology Awareness Day on February 4Read moreTeam Aims To Find ‘Earth 2.0’Read more
+
+
+
+
+
+
+
+Season’s Greetings!
+Rensselaer offices will close on Thursday, December 24 and reopen Monday, January 4, 2021.
+If you are considering making a year-end gift to Rensselaer, you may do so by visiting our online giving form. For further instructions regarding year-end giving, please visit https://giving.rpi.edu/year-end-giving, call (518) 276-6055 to leave a message, or email giving@rpi.edu.
+On behalf of the Institute, thank you for your continued support – and Happy Holidays!
+
+
+
+Latest Giving News
+
+
+
+Rensselaer Polytechnic Institute Receives Gift To Fund Men’s Varsity Ice Hockey Coach EndowmentRensselaer Polytechnic Institute is pleased to announce the establishment of the C. Lloyd Bauer ’55 Endowed Men’s Varsity Ice Hockey Coach. The $2 million gift will be funded by Rensselaer alumnus and former men’s varsity hockey player Lloyd Bauer ’55.READ MOREHelp Support Fraternities and Sororities at RensselaerFor most of us, joining our fraternity or sorority while attending Rensselaer remains one of the most significant decisions we could have made...READ MORELockheed Martin Sikorsky Collaboration with Rensselaer to Support Advanced Manufacturing EffortsLM Sikorsky recently completed an initial phase of a project aimed at demonstrating an advanced manufacturing process focused on automating a current manual process.READ MORESpotlight on ReCAP – Rensselaer Corporate Ambassadors ProgramCongratulations to Ryan Patry ’00, ’08G, Rotary and Mission Systems for Sikorsky Aircraft, a Lockheed Martin Company, who has been named a Lockheed Martin Technical Fellow in Manufacturing Engineering.READ MOREGenerous Donation Ensures Hands-On Learning for Electrical Engineering StudentsAll students taking the course Introduction to Electrical, Computer, and Systems Engineering this year will receive an Analog Devices ADALM1000 Active Learning Module thanks to a generous donation from Douglas Mercer ’77, a pioneer in analog-digital conversion.READ MORECDPHP Donates $150,000 for Rensselaer COVID-19 Testing InitiativeWe are pleased to announce that CDPHP has committed to a transformative gift designated for the Rensselaer COVID-19 Testing Initiative Fund.READ MORECampus Fitness ConnectionThe Mueller Center, celebrating its 20-year anniversary in May, coordinates intramural sports including basketball, soccer, softball, and volleyball connecting nearly 6,000 community members annually.READ MOREDriving Forces for Supporting Health and WellnessDr. John D. Bennett ’74, MD, FACC, FACP, has been a longstanding partner in preserving and promoting the health and wellness of students, faculty, and staff.READ MORE 
+Page 1
+Page 2
+Page 3
+Page 4
+Page 5
+Next
+
+
+
+
+
+Latest Institute News
+
+
+
+RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing NeedsRead moreAerospace Engineering and Fluid Dynamics Expert Michael Amitay Elected Fellow of the Royal Aeronautical SocietyRead moreSteven Cramer Elected to the National Academy of EngineeringRead moreImproving Food AccessRead moreRensselaer Researchers To Explore “Fast Fashion” AlternativesRead moreRensselaer Researcher Mohammed Zaki Is an AAAS FellowRead moreRPI To Host 24th Annual Black Families Technology Awareness Day on February 4Read moreTeam Aims To Find ‘Earth 2.0’Read more
+
+
+
+
+
+Season’s Greetings!
+Rensselaer offices will close on Thursday, December 24 and reopen Monday, January 4, 2021.
+If you are considering making a year-end gift to Rensselaer, you may do so by visiting our online giving form. For further instructions regarding year-end giving, please visit https://giving.rpi.edu/year-end-giving, call (518) 276-6055 to leave a message, or email giving@rpi.edu.
+On behalf of the Institute, thank you for your continued support – and Happy Holidays!
+
+
+
+Latest Giving News
+
+
+
+Rensselaer Polytechnic Institute Receives Gift To Fund Men’s Varsity Ice Hockey Coach EndowmentRensselaer Polytechnic Institute is pleased to announce the establishment of the C. Lloyd Bauer ’55 Endowed Men’s Varsity Ice Hockey Coach. The $2 million gift will be funded by Rensselaer alumnus and former men’s varsity hockey player Lloyd Bauer ’55.READ MOREHelp Support Fraternities and Sororities at RensselaerFor most of us, joining our fraternity or sorority while attending Rensselaer remains one of the most significant decisions we could have made...READ MORELockheed Martin Sikorsky Collaboration with Rensselaer to Support Advanced Manufacturing EffortsLM Sikorsky recently completed an initial phase of a project aimed at demonstrating an advanced manufacturing process focused on automating a current manual process.READ MORESpotlight on ReCAP – Rensselaer Corporate Ambassadors ProgramCongratulations to Ryan Patry ’00, ’08G, Rotary and Mission Systems for Sikorsky Aircraft, a Lockheed Martin Company, who has been named a Lockheed Martin Technical Fellow in Manufacturing Engineering.READ MOREGenerous Donation Ensures Hands-On Learning for Electrical Engineering StudentsAll students taking the course Introduction to Electrical, Computer, and Systems Engineering this year will receive an Analog Devices ADALM1000 Active Learning Module thanks to a generous donation from Douglas Mercer ’77, a pioneer in analog-digital conversion.READ MORECDPHP Donates $150,000 for Rensselaer COVID-19 Testing InitiativeWe are pleased to announce that CDPHP has committed to a transformative gift designated for the Rensselaer COVID-19 Testing Initiative Fund.READ MORECampus Fitness ConnectionThe Mueller Center, celebrating its 20-year anniversary in May, coordinates intramural sports including basketball, soccer, softball, and volleyball connecting nearly 6,000 community members annually.READ MOREDriving Forces for Supporting Health and WellnessDr. John D. Bennett ’74, MD, FACC, FACP, has been a longstanding partner in preserving and promoting the health and wellness of students, faculty, and staff.READ MORE 
+Page 1
+Page 2
+Page 3
+Page 4
+Page 5
+Next
+
+
+
+
+
+Latest Institute News
+
+
+
+RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing NeedsRead moreAerospace Engineering and Fluid Dynamics Expert Michael Amitay Elected Fellow of the Royal Aeronautical SocietyRead moreSteven Cramer Elected to the National Academy of EngineeringRead moreImproving Food AccessRead moreRensselaer Researchers To Explore “Fast Fashion” AlternativesRead moreRensselaer Researcher Mohammed Zaki Is an AAAS FellowRead moreRPI To Host 24th Annual Black Families Technology Awareness Day on February 4Read moreTeam Aims To Find ‘Earth 2.0’Read more
+
+
+Season’s Greetings!
+Rensselaer offices will close on Thursday, December 24 and reopen Monday, January 4, 2021.
+If you are considering making a year-end gift to Rensselaer, you may do so by visiting our online giving form. For further instructions regarding year-end giving, please visit https://giving.rpi.edu/year-end-giving, call (518) 276-6055 to leave a message, or email giving@rpi.edu.
+On behalf of the Institute, thank you for your continued support – and Happy Holidays!
+
+
+
+Latest Giving News
+
+
+
+Rensselaer Polytechnic Institute Receives Gift To Fund Men’s Varsity Ice Hockey Coach EndowmentRensselaer Polytechnic Institute is pleased to announce the establishment of the C. Lloyd Bauer ’55 Endowed Men’s Varsity Ice Hockey Coach. The $2 million gift will be funded by Rensselaer alumnus and former men’s varsity hockey player Lloyd Bauer ’55.READ MOREHelp Support Fraternities and Sororities at RensselaerFor most of us, joining our fraternity or sorority while attending Rensselaer remains one of the most significant decisions we could have made...READ MORELockheed Martin Sikorsky Collaboration with Rensselaer to Support Advanced Manufacturing EffortsLM Sikorsky recently completed an initial phase of a project aimed at demonstrating an advanced manufacturing process focused on automating a current manual process.READ MORESpotlight on ReCAP – Rensselaer Corporate Ambassadors ProgramCongratulations to Ryan Patry ’00, ’08G, Rotary and Mission Systems for Sikorsky Aircraft, a Lockheed Martin Company, who has been named a Lockheed Martin Technical Fellow in Manufacturing Engineering.READ MOREGenerous Donation Ensures Hands-On Learning for Electrical Engineering StudentsAll students taking the course Introduction to Electrical, Computer, and Systems Engineering this year will receive an Analog Devices ADALM1000 Active Learning Module thanks to a generous donation from Douglas Mercer ’77, a pioneer in analog-digital conversion.READ MORECDPHP Donates $150,000 for Rensselaer COVID-19 Testing InitiativeWe are pleased to announce that CDPHP has committed to a transformative gift designated for the Rensselaer COVID-19 Testing Initiative Fund.READ MORECampus Fitness ConnectionThe Mueller Center, celebrating its 20-year anniversary in May, coordinates intramural sports including basketball, soccer, softball, and volleyball connecting nearly 6,000 community members annually.READ MOREDriving Forces for Supporting Health and WellnessDr. John D. Bennett ’74, MD, FACC, FACP, has been a longstanding partner in preserving and promoting the health and wellness of students, faculty, and staff.READ MORE 
+Page 1
+Page 2
+Page 3
+Page 4
+Page 5
+Next
+
+
+
+
+
+Latest Institute News
+
+
+
+RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing NeedsRead moreAerospace Engineering and Fluid Dynamics Expert Michael Amitay Elected Fellow of the Royal Aeronautical SocietyRead moreSteven Cramer Elected to the National Academy of EngineeringRead moreImproving Food AccessRead moreRensselaer Researchers To Explore “Fast Fashion” AlternativesRead moreRensselaer Researcher Mohammed Zaki Is an AAAS FellowRead moreRPI To Host 24th Annual Black Families Technology Awareness Day on February 4Read moreTeam Aims To Find ‘Earth 2.0’Read more
+Season’s Greetings!
+Rensselaer offices will close on Thursday, December 24 and reopen Monday, January 4, 2021.
+If you are considering making a year-end gift to Rensselaer, you may do so by visiting our online giving form. For further instructions regarding year-end giving, please visit https://giving.rpi.edu/year-end-giving, call (518) 276-6055 to leave a message, or email giving@rpi.edu.
+On behalf of the Institute, thank you for your continued support – and Happy Holidays!
+Season’s Greetings!
+Rensselaer offices will close on Thursday, December 24 and reopen Monday, January 4, 2021.
+If you are considering making a year-end gift to Rensselaer, you may do so by visiting our online giving form. For further instructions regarding year-end giving, please visit https://giving.rpi.edu/year-end-giving, call (518) 276-6055 to leave a message, or email giving@rpi.edu.
+On behalf of the Institute, thank you for your continued support – and Happy Holidays!
+Season’s Greetings!
+Rensselaer offices will close on Thursday, December 24 and reopen Monday, January 4, 2021.
+If you are considering making a year-end gift to Rensselaer, you may do so by visiting our online giving form. For further instructions regarding year-end giving, please visit https://giving.rpi.edu/year-end-giving, call (518) 276-6055 to leave a message, or email giving@rpi.edu.
+On behalf of the Institute, thank you for your continued support – and Happy Holidays!
+Season’s Greetings!
+Rensselaer offices will close on Thursday, December 24 and reopen Monday, January 4, 2021.
+If you are considering making a year-end gift to Rensselaer, you may do so by visiting our online giving form. For further instructions regarding year-end giving, please visit https://giving.rpi.edu/year-end-giving, call (518) 276-6055 to leave a message, or email giving@rpi.edu.
+On behalf of the Institute, thank you for your continued support – and Happy Holidays!
+Season’s Greetings!
+Rensselaer offices will close on Thursday, December 24 and reopen Monday, January 4, 2021.
+If you are considering making a year-end gift to Rensselaer, you may do so by visiting our online giving form. For further instructions regarding year-end giving, please visit https://giving.rpi.edu/year-end-giving, call (518) 276-6055 to leave a message, or email giving@rpi.edu.
+On behalf of the Institute, thank you for your continued support – and Happy Holidays!
+
+
+
+Latest Giving News
+
+
+
+Rensselaer Polytechnic Institute Receives Gift To Fund Men’s Varsity Ice Hockey Coach EndowmentRensselaer Polytechnic Institute is pleased to announce the establishment of the C. Lloyd Bauer ’55 Endowed Men’s Varsity Ice Hockey Coach. The $2 million gift will be funded by Rensselaer alumnus and former men’s varsity hockey player Lloyd Bauer ’55.READ MOREHelp Support Fraternities and Sororities at RensselaerFor most of us, joining our fraternity or sorority while attending Rensselaer remains one of the most significant decisions we could have made...READ MORELockheed Martin Sikorsky Collaboration with Rensselaer to Support Advanced Manufacturing EffortsLM Sikorsky recently completed an initial phase of a project aimed at demonstrating an advanced manufacturing process focused on automating a current manual process.READ MORESpotlight on ReCAP – Rensselaer Corporate Ambassadors ProgramCongratulations to Ryan Patry ’00, ’08G, Rotary and Mission Systems for Sikorsky Aircraft, a Lockheed Martin Company, who has been named a Lockheed Martin Technical Fellow in Manufacturing Engineering.READ MOREGenerous Donation Ensures Hands-On Learning for Electrical Engineering StudentsAll students taking the course Introduction to Electrical, Computer, and Systems Engineering this year will receive an Analog Devices ADALM1000 Active Learning Module thanks to a generous donation from Douglas Mercer ’77, a pioneer in analog-digital conversion.READ MORECDPHP Donates $150,000 for Rensselaer COVID-19 Testing InitiativeWe are pleased to announce that CDPHP has committed to a transformative gift designated for the Rensselaer COVID-19 Testing Initiative Fund.READ MORECampus Fitness ConnectionThe Mueller Center, celebrating its 20-year anniversary in May, coordinates intramural sports including basketball, soccer, softball, and volleyball connecting nearly 6,000 community members annually.READ MOREDriving Forces for Supporting Health and WellnessDr. John D. Bennett ’74, MD, FACC, FACP, has been a longstanding partner in preserving and promoting the health and wellness of students, faculty, and staff.READ MORE 
+Page 1
+Page 2
+Page 3
+Page 4
+Page 5
+Next
+
+
+
+
+
+Latest Institute News
+
+
+
+RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing NeedsRead moreAerospace Engineering and Fluid Dynamics Expert Michael Amitay Elected Fellow of the Royal Aeronautical SocietyRead moreSteven Cramer Elected to the National Academy of EngineeringRead moreImproving Food AccessRead moreRensselaer Researchers To Explore “Fast Fashion” AlternativesRead moreRensselaer Researcher Mohammed Zaki Is an AAAS FellowRead moreRPI To Host 24th Annual Black Families Technology Awareness Day on February 4Read moreTeam Aims To Find ‘Earth 2.0’Read more
+
+
+Latest Giving News
+
+
+
+Rensselaer Polytechnic Institute Receives Gift To Fund Men’s Varsity Ice Hockey Coach EndowmentRensselaer Polytechnic Institute is pleased to announce the establishment of the C. Lloyd Bauer ’55 Endowed Men’s Varsity Ice Hockey Coach. The $2 million gift will be funded by Rensselaer alumnus and former men’s varsity hockey player Lloyd Bauer ’55.READ MOREHelp Support Fraternities and Sororities at RensselaerFor most of us, joining our fraternity or sorority while attending Rensselaer remains one of the most significant decisions we could have made...READ MORELockheed Martin Sikorsky Collaboration with Rensselaer to Support Advanced Manufacturing EffortsLM Sikorsky recently completed an initial phase of a project aimed at demonstrating an advanced manufacturing process focused on automating a current manual process.READ MORESpotlight on ReCAP – Rensselaer Corporate Ambassadors ProgramCongratulations to Ryan Patry ’00, ’08G, Rotary and Mission Systems for Sikorsky Aircraft, a Lockheed Martin Company, who has been named a Lockheed Martin Technical Fellow in Manufacturing Engineering.READ MOREGenerous Donation Ensures Hands-On Learning for Electrical Engineering StudentsAll students taking the course Introduction to Electrical, Computer, and Systems Engineering this year will receive an Analog Devices ADALM1000 Active Learning Module thanks to a generous donation from Douglas Mercer ’77, a pioneer in analog-digital conversion.READ MORECDPHP Donates $150,000 for Rensselaer COVID-19 Testing InitiativeWe are pleased to announce that CDPHP has committed to a transformative gift designated for the Rensselaer COVID-19 Testing Initiative Fund.READ MORECampus Fitness ConnectionThe Mueller Center, celebrating its 20-year anniversary in May, coordinates intramural sports including basketball, soccer, softball, and volleyball connecting nearly 6,000 community members annually.READ MOREDriving Forces for Supporting Health and WellnessDr. John D. Bennett ’74, MD, FACC, FACP, has been a longstanding partner in preserving and promoting the health and wellness of students, faculty, and staff.READ MORE 
+Page 1
+Page 2
+Page 3
+Page 4
+Page 5
+Next
+
+
+
+
+
+Latest Giving News
+
+
+
+Rensselaer Polytechnic Institute Receives Gift To Fund Men’s Varsity Ice Hockey Coach EndowmentRensselaer Polytechnic Institute is pleased to announce the establishment of the C. Lloyd Bauer ’55 Endowed Men’s Varsity Ice Hockey Coach. The $2 million gift will be funded by Rensselaer alumnus and former men’s varsity hockey player Lloyd Bauer ’55.READ MOREHelp Support Fraternities and Sororities at RensselaerFor most of us, joining our fraternity or sorority while attending Rensselaer remains one of the most significant decisions we could have made...READ MORELockheed Martin Sikorsky Collaboration with Rensselaer to Support Advanced Manufacturing EffortsLM Sikorsky recently completed an initial phase of a project aimed at demonstrating an advanced manufacturing process focused on automating a current manual process.READ MORESpotlight on ReCAP – Rensselaer Corporate Ambassadors ProgramCongratulations to Ryan Patry ’00, ’08G, Rotary and Mission Systems for Sikorsky Aircraft, a Lockheed Martin Company, who has been named a Lockheed Martin Technical Fellow in Manufacturing Engineering.READ MOREGenerous Donation Ensures Hands-On Learning for Electrical Engineering StudentsAll students taking the course Introduction to Electrical, Computer, and Systems Engineering this year will receive an Analog Devices ADALM1000 Active Learning Module thanks to a generous donation from Douglas Mercer ’77, a pioneer in analog-digital conversion.READ MORECDPHP Donates $150,000 for Rensselaer COVID-19 Testing InitiativeWe are pleased to announce that CDPHP has committed to a transformative gift designated for the Rensselaer COVID-19 Testing Initiative Fund.READ MORECampus Fitness ConnectionThe Mueller Center, celebrating its 20-year anniversary in May, coordinates intramural sports including basketball, soccer, softball, and volleyball connecting nearly 6,000 community members annually.READ MOREDriving Forces for Supporting Health and WellnessDr. John D. Bennett ’74, MD, FACC, FACP, has been a longstanding partner in preserving and promoting the health and wellness of students, faculty, and staff.READ MORE 
+Page 1
+Page 2
+Page 3
+Page 4
+Page 5
+Next
+
+
+
+
+
+Latest Giving News
+
+
+
+Rensselaer Polytechnic Institute Receives Gift To Fund Men’s Varsity Ice Hockey Coach EndowmentRensselaer Polytechnic Institute is pleased to announce the establishment of the C. Lloyd Bauer ’55 Endowed Men’s Varsity Ice Hockey Coach. The $2 million gift will be funded by Rensselaer alumnus and former men’s varsity hockey player Lloyd Bauer ’55.READ MOREHelp Support Fraternities and Sororities at RensselaerFor most of us, joining our fraternity or sorority while attending Rensselaer remains one of the most significant decisions we could have made...READ MORELockheed Martin Sikorsky Collaboration with Rensselaer to Support Advanced Manufacturing EffortsLM Sikorsky recently completed an initial phase of a project aimed at demonstrating an advanced manufacturing process focused on automating a current manual process.READ MORESpotlight on ReCAP – Rensselaer Corporate Ambassadors ProgramCongratulations to Ryan Patry ’00, ’08G, Rotary and Mission Systems for Sikorsky Aircraft, a Lockheed Martin Company, who has been named a Lockheed Martin Technical Fellow in Manufacturing Engineering.READ MOREGenerous Donation Ensures Hands-On Learning for Electrical Engineering StudentsAll students taking the course Introduction to Electrical, Computer, and Systems Engineering this year will receive an Analog Devices ADALM1000 Active Learning Module thanks to a generous donation from Douglas Mercer ’77, a pioneer in analog-digital conversion.READ MORECDPHP Donates $150,000 for Rensselaer COVID-19 Testing InitiativeWe are pleased to announce that CDPHP has committed to a transformative gift designated for the Rensselaer COVID-19 Testing Initiative Fund.READ MORECampus Fitness ConnectionThe Mueller Center, celebrating its 20-year anniversary in May, coordinates intramural sports including basketball, soccer, softball, and volleyball connecting nearly 6,000 community members annually.READ MOREDriving Forces for Supporting Health and WellnessDr. John D. Bennett ’74, MD, FACC, FACP, has been a longstanding partner in preserving and promoting the health and wellness of students, faculty, and staff.READ MORE 
+Page 1
+Page 2
+Page 3
+Page 4
+Page 5
+Next
+
+
+
+
+Latest Giving News
+
+
+Latest Giving News
+
+Rensselaer Polytechnic Institute Receives Gift To Fund Men’s Varsity Ice Hockey Coach EndowmentRensselaer Polytechnic Institute is pleased to announce the establishment of the C. Lloyd Bauer ’55 Endowed Men’s Varsity Ice Hockey Coach. The $2 million gift will be funded by Rensselaer alumnus and former men’s varsity hockey player Lloyd Bauer ’55.READ MOREHelp Support Fraternities and Sororities at RensselaerFor most of us, joining our fraternity or sorority while attending Rensselaer remains one of the most significant decisions we could have made...READ MORELockheed Martin Sikorsky Collaboration with Rensselaer to Support Advanced Manufacturing EffortsLM Sikorsky recently completed an initial phase of a project aimed at demonstrating an advanced manufacturing process focused on automating a current manual process.READ MORESpotlight on ReCAP – Rensselaer Corporate Ambassadors ProgramCongratulations to Ryan Patry ’00, ’08G, Rotary and Mission Systems for Sikorsky Aircraft, a Lockheed Martin Company, who has been named a Lockheed Martin Technical Fellow in Manufacturing Engineering.READ MOREGenerous Donation Ensures Hands-On Learning for Electrical Engineering StudentsAll students taking the course Introduction to Electrical, Computer, and Systems Engineering this year will receive an Analog Devices ADALM1000 Active Learning Module thanks to a generous donation from Douglas Mercer ’77, a pioneer in analog-digital conversion.READ MORECDPHP Donates $150,000 for Rensselaer COVID-19 Testing InitiativeWe are pleased to announce that CDPHP has committed to a transformative gift designated for the Rensselaer COVID-19 Testing Initiative Fund.READ MORECampus Fitness ConnectionThe Mueller Center, celebrating its 20-year anniversary in May, coordinates intramural sports including basketball, soccer, softball, and volleyball connecting nearly 6,000 community members annually.READ MOREDriving Forces for Supporting Health and WellnessDr. John D. Bennett ’74, MD, FACC, FACP, has been a longstanding partner in preserving and promoting the health and wellness of students, faculty, and staff.READ MORE 
+Page 1
+Page 2
+Page 3
+Page 4
+Page 5
+Next
+
+
+Rensselaer Polytechnic Institute Receives Gift To Fund Men’s Varsity Ice Hockey Coach EndowmentRensselaer Polytechnic Institute is pleased to announce the establishment of the C. Lloyd Bauer ’55 Endowed Men’s Varsity Ice Hockey Coach. The $2 million gift will be funded by Rensselaer alumnus and former men’s varsity hockey player Lloyd Bauer ’55.READ MOREHelp Support Fraternities and Sororities at RensselaerFor most of us, joining our fraternity or sorority while attending Rensselaer remains one of the most significant decisions we could have made...READ MORELockheed Martin Sikorsky Collaboration with Rensselaer to Support Advanced Manufacturing EffortsLM Sikorsky recently completed an initial phase of a project aimed at demonstrating an advanced manufacturing process focused on automating a current manual process.READ MORESpotlight on ReCAP – Rensselaer Corporate Ambassadors ProgramCongratulations to Ryan Patry ’00, ’08G, Rotary and Mission Systems for Sikorsky Aircraft, a Lockheed Martin Company, who has been named a Lockheed Martin Technical Fellow in Manufacturing Engineering.READ MOREGenerous Donation Ensures Hands-On Learning for Electrical Engineering StudentsAll students taking the course Introduction to Electrical, Computer, and Systems Engineering this year will receive an Analog Devices ADALM1000 Active Learning Module thanks to a generous donation from Douglas Mercer ’77, a pioneer in analog-digital conversion.READ MORECDPHP Donates $150,000 for Rensselaer COVID-19 Testing InitiativeWe are pleased to announce that CDPHP has committed to a transformative gift designated for the Rensselaer COVID-19 Testing Initiative Fund.READ MORECampus Fitness ConnectionThe Mueller Center, celebrating its 20-year anniversary in May, coordinates intramural sports including basketball, soccer, softball, and volleyball connecting nearly 6,000 community members annually.READ MOREDriving Forces for Supporting Health and WellnessDr. John D. Bennett ’74, MD, FACC, FACP, has been a longstanding partner in preserving and promoting the health and wellness of students, faculty, and staff.READ MORERensselaer Polytechnic Institute Receives Gift To Fund Men’s Varsity Ice Hockey Coach EndowmentRensselaer Polytechnic Institute is pleased to announce the establishment of the C. Lloyd Bauer ’55 Endowed Men’s Varsity Ice Hockey Coach. The $2 million gift will be funded by Rensselaer alumnus and former men’s varsity hockey player Lloyd Bauer ’55.READ MORERensselaer Polytechnic Institute Receives Gift To Fund Men’s Varsity Ice Hockey Coach EndowmentRensselaer Polytechnic Institute is pleased to announce the establishment of the C. Lloyd Bauer ’55 Endowed Men’s Varsity Ice Hockey Coach. The $2 million gift will be funded by Rensselaer alumnus and former men’s varsity hockey player Lloyd Bauer ’55.READ MORERensselaer Polytechnic Institute Receives Gift To Fund Men’s Varsity Ice Hockey Coach EndowmentRensselaer Polytechnic Institute is pleased to announce the establishment of the C. Lloyd Bauer ’55 Endowed Men’s Varsity Ice Hockey Coach. The $2 million gift will be funded by Rensselaer alumnus and former men’s varsity hockey player Lloyd Bauer ’55.READ MORERensselaer Polytechnic Institute is pleased to announce the establishment of the C. Lloyd Bauer ’55 Endowed Men’s Varsity Ice Hockey Coach. The $2 million gift will be funded by Rensselaer alumnus and former men’s varsity hockey player Lloyd Bauer ’55.READ MOREHelp Support Fraternities and Sororities at RensselaerFor most of us, joining our fraternity or sorority while attending Rensselaer remains one of the most significant decisions we could have made...READ MOREHelp Support Fraternities and Sororities at RensselaerFor most of us, joining our fraternity or sorority while attending Rensselaer remains one of the most significant decisions we could have made...READ MOREHelp Support Fraternities and Sororities at RensselaerFor most of us, joining our fraternity or sorority while attending Rensselaer remains one of the most significant decisions we could have made...READ MOREFor most of us, joining our fraternity or sorority while attending Rensselaer remains one of the most significant decisions we could have made...READ MORELockheed Martin Sikorsky Collaboration with Rensselaer to Support Advanced Manufacturing EffortsLM Sikorsky recently completed an initial phase of a project aimed at demonstrating an advanced manufacturing process focused on automating a current manual process.READ MORELockheed Martin Sikorsky Collaboration with Rensselaer to Support Advanced Manufacturing EffortsLM Sikorsky recently completed an initial phase of a project aimed at demonstrating an advanced manufacturing process focused on automating a current manual process.READ MORELockheed Martin Sikorsky Collaboration with Rensselaer to Support Advanced Manufacturing EffortsLM Sikorsky recently completed an initial phase of a project aimed at demonstrating an advanced manufacturing process focused on automating a current manual process.READ MORELM Sikorsky recently completed an initial phase of a project aimed at demonstrating an advanced manufacturing process focused on automating a current manual process.READ MORESpotlight on ReCAP – Rensselaer Corporate Ambassadors ProgramCongratulations to Ryan Patry ’00, ’08G, Rotary and Mission Systems for Sikorsky Aircraft, a Lockheed Martin Company, who has been named a Lockheed Martin Technical Fellow in Manufacturing Engineering.READ MORESpotlight on ReCAP – Rensselaer Corporate Ambassadors ProgramCongratulations to Ryan Patry ’00, ’08G, Rotary and Mission Systems for Sikorsky Aircraft, a Lockheed Martin Company, who has been named a Lockheed Martin Technical Fellow in Manufacturing Engineering.READ MORESpotlight on ReCAP – Rensselaer Corporate Ambassadors ProgramCongratulations to Ryan Patry ’00, ’08G, Rotary and Mission Systems for Sikorsky Aircraft, a Lockheed Martin Company, who has been named a Lockheed Martin Technical Fellow in Manufacturing Engineering.READ MORECongratulations to Ryan Patry ’00, ’08G, Rotary and Mission Systems for Sikorsky Aircraft, a Lockheed Martin Company, who has been named a Lockheed Martin Technical Fellow in Manufacturing Engineering.READ MOREGenerous Donation Ensures Hands-On Learning for Electrical Engineering StudentsAll students taking the course Introduction to Electrical, Computer, and Systems Engineering this year will receive an Analog Devices ADALM1000 Active Learning Module thanks to a generous donation from Douglas Mercer ’77, a pioneer in analog-digital conversion.READ MOREGenerous Donation Ensures Hands-On Learning for Electrical Engineering StudentsAll students taking the course Introduction to Electrical, Computer, and Systems Engineering this year will receive an Analog Devices ADALM1000 Active Learning Module thanks to a generous donation from Douglas Mercer ’77, a pioneer in analog-digital conversion.READ MOREGenerous Donation Ensures Hands-On Learning for Electrical Engineering StudentsAll students taking the course Introduction to Electrical, Computer, and Systems Engineering this year will receive an Analog Devices ADALM1000 Active Learning Module thanks to a generous donation from Douglas Mercer ’77, a pioneer in analog-digital conversion.READ MOREAll students taking the course Introduction to Electrical, Computer, and Systems Engineering this year will receive an Analog Devices ADALM1000 Active Learning Module thanks to a generous donation from Douglas Mercer ’77, a pioneer in analog-digital conversion.READ MORECDPHP Donates $150,000 for Rensselaer COVID-19 Testing InitiativeWe are pleased to announce that CDPHP has committed to a transformative gift designated for the Rensselaer COVID-19 Testing Initiative Fund.READ MORECDPHP Donates $150,000 for Rensselaer COVID-19 Testing InitiativeWe are pleased to announce that CDPHP has committed to a transformative gift designated for the Rensselaer COVID-19 Testing Initiative Fund.READ MORECDPHP Donates $150,000 for Rensselaer COVID-19 Testing InitiativeWe are pleased to announce that CDPHP has committed to a transformative gift designated for the Rensselaer COVID-19 Testing Initiative Fund.READ MOREWe are pleased to announce that CDPHP has committed to a transformative gift designated for the Rensselaer COVID-19 Testing Initiative Fund.READ MORECampus Fitness ConnectionThe Mueller Center, celebrating its 20-year anniversary in May, coordinates intramural sports including basketball, soccer, softball, and volleyball connecting nearly 6,000 community members annually.READ MORECampus Fitness ConnectionThe Mueller Center, celebrating its 20-year anniversary in May, coordinates intramural sports including basketball, soccer, softball, and volleyball connecting nearly 6,000 community members annually.READ MORECampus Fitness ConnectionThe Mueller Center, celebrating its 20-year anniversary in May, coordinates intramural sports including basketball, soccer, softball, and volleyball connecting nearly 6,000 community members annually.READ MOREThe Mueller Center, celebrating its 20-year anniversary in May, coordinates intramural sports including basketball, soccer, softball, and volleyball connecting nearly 6,000 community members annually.READ MOREDriving Forces for Supporting Health and WellnessDr. John D. Bennett ’74, MD, FACC, FACP, has been a longstanding partner in preserving and promoting the health and wellness of students, faculty, and staff.READ MOREDriving Forces for Supporting Health and WellnessDr. John D. Bennett ’74, MD, FACC, FACP, has been a longstanding partner in preserving and promoting the health and wellness of students, faculty, and staff.READ MOREDriving Forces for Supporting Health and WellnessDr. John D. Bennett ’74, MD, FACC, FACP, has been a longstanding partner in preserving and promoting the health and wellness of students, faculty, and staff.READ MOREDr. John D. Bennett ’74, MD, FACC, FACP, has been a longstanding partner in preserving and promoting the health and wellness of students, faculty, and staff.READ MORE
+Page 1
+Page 2
+Page 3
+Page 4
+Page 5
+Next
+
+
+
+
+Latest Institute News
+
+
+
+RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing NeedsRead moreAerospace Engineering and Fluid Dynamics Expert Michael Amitay Elected Fellow of the Royal Aeronautical SocietyRead moreSteven Cramer Elected to the National Academy of EngineeringRead moreImproving Food AccessRead moreRensselaer Researchers To Explore “Fast Fashion” AlternativesRead moreRensselaer Researcher Mohammed Zaki Is an AAAS FellowRead moreRPI To Host 24th Annual Black Families Technology Awareness Day on February 4Read moreTeam Aims To Find ‘Earth 2.0’Read more
+
+
+Latest Institute News
+
+
+
+RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing NeedsRead moreAerospace Engineering and Fluid Dynamics Expert Michael Amitay Elected Fellow of the Royal Aeronautical SocietyRead moreSteven Cramer Elected to the National Academy of EngineeringRead moreImproving Food AccessRead moreRensselaer Researchers To Explore “Fast Fashion” AlternativesRead moreRensselaer Researcher Mohammed Zaki Is an AAAS FellowRead moreRPI To Host 24th Annual Black Families Technology Awareness Day on February 4Read moreTeam Aims To Find ‘Earth 2.0’Read more
+
+
+Latest Institute News
+
+
+
+RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing NeedsRead moreAerospace Engineering and Fluid Dynamics Expert Michael Amitay Elected Fellow of the Royal Aeronautical SocietyRead moreSteven Cramer Elected to the National Academy of EngineeringRead moreImproving Food AccessRead moreRensselaer Researchers To Explore “Fast Fashion” AlternativesRead moreRensselaer Researcher Mohammed Zaki Is an AAAS FellowRead moreRPI To Host 24th Annual Black Families Technology Awareness Day on February 4Read moreTeam Aims To Find ‘Earth 2.0’Read more
+
+Latest Institute News
+
+
+Latest Institute News
+
+RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing NeedsRead moreAerospace Engineering and Fluid Dynamics Expert Michael Amitay Elected Fellow of the Royal Aeronautical SocietyRead moreSteven Cramer Elected to the National Academy of EngineeringRead moreImproving Food AccessRead moreRensselaer Researchers To Explore “Fast Fashion” AlternativesRead moreRensselaer Researcher Mohammed Zaki Is an AAAS FellowRead moreRPI To Host 24th Annual Black Families Technology Awareness Day on February 4Read moreTeam Aims To Find ‘Earth 2.0’Read moreRPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing NeedsRead moreAerospace Engineering and Fluid Dynamics Expert Michael Amitay Elected Fellow of the Royal Aeronautical SocietyRead moreSteven Cramer Elected to the National Academy of EngineeringRead moreImproving Food AccessRead moreRensselaer Researchers To Explore “Fast Fashion” AlternativesRead moreRensselaer Researcher Mohammed Zaki Is an AAAS FellowRead moreRPI To Host 24th Annual Black Families Technology Awareness Day on February 4Read moreTeam Aims To Find ‘Earth 2.0’Read moreRPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing NeedsRead moreRPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing NeedsRead moreRPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing NeedsRead moreRead moreAerospace Engineering and Fluid Dynamics Expert Michael Amitay Elected Fellow of the Royal Aeronautical SocietyRead moreAerospace Engineering and Fluid Dynamics Expert Michael Amitay Elected Fellow of the Royal Aeronautical SocietyRead moreAerospace Engineering and Fluid Dynamics Expert Michael Amitay Elected Fellow of the Royal Aeronautical SocietyRead moreRead moreSteven Cramer Elected to the National Academy of EngineeringRead moreSteven Cramer Elected to the National Academy of EngineeringRead moreSteven Cramer Elected to the National Academy of EngineeringRead moreRead moreImproving Food AccessRead moreImproving Food AccessRead moreImproving Food AccessRead moreRead moreRensselaer Researchers To Explore “Fast Fashion” AlternativesRead moreRensselaer Researchers To Explore “Fast Fashion” AlternativesRead moreRensselaer Researchers To Explore “Fast Fashion” AlternativesRead moreRead moreRensselaer Researcher Mohammed Zaki Is an AAAS FellowRead moreRensselaer Researcher Mohammed Zaki Is an AAAS FellowRead moreRensselaer Researcher Mohammed Zaki Is an AAAS FellowRead moreRead moreRPI To Host 24th Annual Black Families Technology Awareness Day on February 4Read moreRPI To Host 24th Annual Black Families Technology Awareness Day on February 4Read moreRPI To Host 24th Annual Black Families Technology Awareness Day on February 4Read moreRead moreTeam Aims To Find ‘Earth 2.0’Read moreTeam Aims To Find ‘Earth 2.0’Read moreTeam Aims To Find ‘Earth 2.0’Read moreRead more
+
+ Chasan Building
+110 Eighth Street
+Troy, NY 12180 USA
+518-276-6055
+advancement@rpi.edu
+
+ Please send gifts to:
+Gifts Processing Center
+P.O. Box 3164
+Boston, MA 02241-3164
+
+
+SCHOOLS & PROGRAMS 
+Architecture
+Business
+Engineering
+Humanities, Arts, & Social Sciences
+IT & Web Science
+Science
+Research
+
+
+
+RPI CONNECTIONS 
+Admissions
+Alumni & Friends
+Athletics
+Human Resources
+RPInfo
+Strategic Communications
+
+
+
+
+ Chasan Building
+110 Eighth Street
+Troy, NY 12180 USA
+518-276-6055
+advancement@rpi.edu
+
+ Please send gifts to:
+Gifts Processing Center
+P.O. Box 3164
+Boston, MA 02241-3164
+
+
+SCHOOLS & PROGRAMS 
+Architecture
+Business
+Engineering
+Humanities, Arts, & Social Sciences
+IT & Web Science
+Science
+Research
+
+
+
+RPI CONNECTIONS 
+Admissions
+Alumni & Friends
+Athletics
+Human Resources
+RPInfo
+Strategic Communications
+
+
+
+ Chasan Building
+110 Eighth Street
+Troy, NY 12180 USA
+518-276-6055
+advancement@rpi.edu
+
+ Please send gifts to:
+Gifts Processing Center
+P.O. Box 3164
+Boston, MA 02241-3164
+
+ Chasan Building
+110 Eighth Street
+Troy, NY 12180 USA
+518-276-6055
+advancement@rpi.edu
+
+Chasan Building
+110 Eighth Street
+Troy, NY 12180 USA
+518-276-6055
+advancement@rpi.edu
+ Please send gifts to:
+Gifts Processing Center
+P.O. Box 3164
+Boston, MA 02241-3164
+
+Please send gifts to:
+Gifts Processing Center
+P.O. Box 3164
+Boston, MA 02241-3164
+SCHOOLS & PROGRAMS 
+Architecture
+Business
+Engineering
+Humanities, Arts, & Social Sciences
+IT & Web Science
+Science
+Research
+
+
+SCHOOLS & PROGRAMS 
+Architecture
+Business
+Engineering
+Humanities, Arts, & Social Sciences
+IT & Web Science
+Science
+Research
+
+
+SCHOOLS & PROGRAMS
+Architecture
+Business
+Engineering
+Humanities, Arts, & Social Sciences
+IT & Web Science
+Science
+Research
+
+RPI CONNECTIONS 
+Admissions
+Alumni & Friends
+Athletics
+Human Resources
+RPInfo
+Strategic Communications
+
+
+RPI CONNECTIONS 
+Admissions
+Alumni & Friends
+Athletics
+Human Resources
+RPInfo
+Strategic Communications
+
+
+RPI CONNECTIONS
+Admissions
+Alumni & Friends
+Athletics
+Human Resources
+RPInfo
+Strategic Communications
+
+
+
+Copyright © 2023 Rensselaer Polytechnic Institute (RPI)
+
+Media Policy    |    Web Privacy Statement     |    Student Consumer Information    |    Title IX Policy    |    Accessibility 
+
+Copyright © 2023 Rensselaer Polytechnic Institute (RPI)
+
+Media Policy    |    Web Privacy Statement     |    Student Consumer Information    |    Title IX Policy    |    Accessibility 
+Copyright © 2023 Rensselaer Polytechnic Institute (RPI)
+
+Media Policy    |    Web Privacy Statement     |    Student Consumer Information    |    Title IX Policy    |    Accessibility Copyright © 2023 Rensselaer Polytechnic Institute (RPI)
+
+Media Policy    |    Web Privacy Statement     |    Student Consumer Information    |    Title IX Policy    |    Accessibility 
+
+
+
+
+
+Search
+
+
+Submit
+
+ 
+
+
+
+Search
+
+
+Submit
+
+
+
+
+Search
+
+
+Submit
+

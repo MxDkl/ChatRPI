@@ -1,0 +1,1329 @@
+By Debjani Ray-Majumder, Ph.D. candidate of decision science and engineering systemsThe human ability to make decisions has been central to our survival since the early days of civilization. The role of information passage and the mechanisms involved in transmitting and receiving information, ultimately contributing to collective knowledge, has been significant for the decision-making process. First, there was verbal storytelling over generations. Then came written languages and various media to capture them. With each step, humanity grew closer, and the physical distance between us seemed to shrink.With the rise of the internet, our urge to stay connected to our peers led to the development of social media. Anyone with access to a computer and the internet could reach anyone else with the same resources. As humans, we have always preferred the company of groups of friends with similar thoughts and identities. The development of social media allowed us to make friends with similar mindsets from around the world as easily as we could with the friends in our own towns.In an already connected world, as the COVID-19 pandemic began, information traveled as fast as we could type. Soon, people were talking about topics related to the personal health decisions they had to make, such as wearing a mask or getting a vaccine. Many of the decisions we made were based on the information we were rapidly consuming online.Due to the popularity of social media platforms, public health organizations use them frequently to convey messaging to the public. During the pandemic, it became clear that messaging from public health organizations is not always received positively.This is where research being conducted at Rensselaer Polytechnic Institute comes in. In a study conducted by Ph.D. candidate Abraham Sanders; John Erickson, director of research operations in the Rensselaer Institute for Data Exploration and Applications (IDEA); Kristin Bennett, associate director of the IDEA; and myself, Twitter responses to COVID-19- and vaccine-related messaging by multiple public health organizations were collected and analyzed. Our goal was to better understand the underlying sentiment and semantics of such responses.The study, which was presented at the Association for Computing Machinery’s distinguished 14th Annual Web Science Conference, implemented a method that uses generative language modeling as a predictive tool to simulate public response to messages from eminent public health organizations, such as the Centers for Disease Control and Prevention and the World Health Organization. The model predicts public response and associated sentiment to potentially allow organizations to predict both, prior to posting a message online. It could also allow organizations to proactively identify specific concerns that may be raised by a message.As our society continues to prepare for future pandemics and health challenges, we hope our work provides public health organizations with a tool that can help social media managers optimize messages for positive reception, thus helping to achieve the desired outcomes of personal health decision-making. We also hope our work can pave the way for tools that can be used to identify public concerns on important health-related issues and help inform messaging to address such concerns.Copyright © 2020 Rensselaer Polytechnic Institute (RPI)Media Policy    |    Web Privacy Policy    |    Student Consumer Information   |    Title IX Policy   |    AccessibilityResearchEducationCommencement 2022Commencement 2022Arts & CultureCareerCommunityCOVID-19About UsResearchEducationCommencement 2022Commencement 2022Arts & CultureCareerCommunityCOVID-19About Us
+
+View Larger Image
+ 
+
+Leading Through Change: David Brunato
+February 16, 2023
+
+Sparking Students’ Passion for Research
+January 24, 2023
+
+Understanding Human and Artificial Intelligence: Tyler Malloy
+January 19, 2023
+
+
+
+
+
+
+
+
+FacebookInstagramLinkedInTwitterYouTube 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Search for:
+
+
+
+
+
+
+
+
+ResearchEducationCommencement 2022Arts & CultureCareerCommunityCOVID-19About UsResearchEducationCommencement 2022Arts & CultureCareerCommunityCOVID-19About Us
+
+
+
+
+
+
+Search for:
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Predicting Responses to Public Health Messaging
+
+
+
+
+
+
+
+
+
+
+
+
+
+View Larger Image
+ 
+
+
+
+
+Predicting Responses to Public Health Messaging Regina Stracqualursi2022-11-04T09:37:19-04:00November 4, 2022| 
+
+By Debjani Ray-Majumder, Ph.D. candidate of decision science and engineering systems
+The human ability to make decisions has been central to our survival since the early days of civilization. The role of information passage and the mechanisms involved in transmitting and receiving information, ultimately contributing to collective knowledge, has been significant for the decision-making process. First, there was verbal storytelling over generations. Then came written languages and various media to capture them. With each step, humanity grew closer, and the physical distance between us seemed to shrink.
+With the rise of the internet, our urge to stay connected to our peers led to the development of social media. Anyone with access to a computer and the internet could reach anyone else with the same resources. As humans, we have always preferred the company of groups of friends with similar thoughts and identities. The development of social media allowed us to make friends with similar mindsets from around the world as easily as we could with the friends in our own towns.
+In an already connected world, as the COVID-19 pandemic began, information traveled as fast as we could type. Soon, people were talking about topics related to the personal health decisions they had to make, such as wearing a mask or getting a vaccine. Many of the decisions we made were based on the information we were rapidly consuming online.
+Due to the popularity of social media platforms, public health organizations use them frequently to convey messaging to the public. During the pandemic, it became clear that messaging from public health organizations is not always received positively.
+This is where research being conducted at Rensselaer Polytechnic Institute comes in. In a study conducted by Ph.D. candidate Abraham Sanders; John Erickson, director of research operations in the Rensselaer Institute for Data Exploration and Applications (IDEA); Kristin Bennett, associate director of the IDEA; and myself, Twitter responses to COVID-19- and vaccine-related messaging by multiple public health organizations were collected and analyzed. Our goal was to better understand the underlying sentiment and semantics of such responses.
+The study, which was presented at the Association for Computing Machinery’s distinguished 14th Annual Web Science Conference, implemented a method that uses generative language modeling as a predictive tool to simulate public response to messages from eminent public health organizations, such as the Centers for Disease Control and Prevention and the World Health Organization. The model predicts public response and associated sentiment to potentially allow organizations to predict both, prior to posting a message online. It could also allow organizations to proactively identify specific concerns that may be raised by a message.
+As our society continues to prepare for future pandemics and health challenges, we hope our work provides public health organizations with a tool that can help social media managers optimize messages for positive reception, thus helping to achieve the desired outcomes of personal health decision-making. We also hope our work can pave the way for tools that can be used to identify public concerns on important health-related issues and help inform messaging to address such concerns.
+
+
+
+FacebookTwitterLinkedInEmail 
+
+
+
+					Related Posts				
+
+
+
+
+
+
+
+
+
+
+
+Understanding Human and Artificial Intelligence: Tyler Malloy
+
+
+January 19, 2023
+
+
+
+
+
+
+
+
+
+
+
+Bridging Gaps in Health Care: Nkechinyere Agu
+
+
+December 12, 2022
+
+
+
+
+
+
+
+
+
+
+
+Improving Drug Discovery: Bhanushee Sharma
+
+
+November 8, 2022
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+Search for:
+
+
+
+
+
+
+
+
+
+
+Recent Stories
+
+
+Leading Through Change: David Brunato
+February 16, 2023
+
+
+Sparking Students’ Passion for Research
+January 24, 2023
+
+
+Understanding Human and Artificial Intelligence: Tyler Malloy
+January 19, 2023
+
+
+Subscribe Follow the button below to subscribe to our newsletter.
+
+Subscribe
+ 
+ 
+ 
+
+
+
+
+
+ About Every Day Matters
+
+Follow Us
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+ Contact Us
+
+Strategic Communications and External Relations
+Rensselaer Polytechnic Institute
+110 Eighth Street, Troy NY 12180
+(518) 276-2800
+everydaymatters@rpi.edu
+rpi.edu
+
+ 
+
+ 
+ 
+ 
+
+
+
+
+
+Copyright © 2020 Rensselaer Polytechnic Institute (RPI)
+Media Policy    |    Web Privacy Policy    |    Student Consumer Information   |    Title IX Policy   |    Accessibility 
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+FacebookInstagramLinkedInTwitterYouTube 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Search for:
+
+
+
+
+
+
+
+
+ResearchEducationCommencement 2022Arts & CultureCareerCommunityCOVID-19About UsResearchEducationCommencement 2022Arts & CultureCareerCommunityCOVID-19About Us
+
+
+
+
+
+
+Search for:
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Predicting Responses to Public Health Messaging
+
+
+
+
+
+
+
+
+
+
+
+
+
+View Larger Image
+ 
+
+
+
+
+Predicting Responses to Public Health Messaging Regina Stracqualursi2022-11-04T09:37:19-04:00November 4, 2022| 
+
+By Debjani Ray-Majumder, Ph.D. candidate of decision science and engineering systems
+The human ability to make decisions has been central to our survival since the early days of civilization. The role of information passage and the mechanisms involved in transmitting and receiving information, ultimately contributing to collective knowledge, has been significant for the decision-making process. First, there was verbal storytelling over generations. Then came written languages and various media to capture them. With each step, humanity grew closer, and the physical distance between us seemed to shrink.
+With the rise of the internet, our urge to stay connected to our peers led to the development of social media. Anyone with access to a computer and the internet could reach anyone else with the same resources. As humans, we have always preferred the company of groups of friends with similar thoughts and identities. The development of social media allowed us to make friends with similar mindsets from around the world as easily as we could with the friends in our own towns.
+In an already connected world, as the COVID-19 pandemic began, information traveled as fast as we could type. Soon, people were talking about topics related to the personal health decisions they had to make, such as wearing a mask or getting a vaccine. Many of the decisions we made were based on the information we were rapidly consuming online.
+Due to the popularity of social media platforms, public health organizations use them frequently to convey messaging to the public. During the pandemic, it became clear that messaging from public health organizations is not always received positively.
+This is where research being conducted at Rensselaer Polytechnic Institute comes in. In a study conducted by Ph.D. candidate Abraham Sanders; John Erickson, director of research operations in the Rensselaer Institute for Data Exploration and Applications (IDEA); Kristin Bennett, associate director of the IDEA; and myself, Twitter responses to COVID-19- and vaccine-related messaging by multiple public health organizations were collected and analyzed. Our goal was to better understand the underlying sentiment and semantics of such responses.
+The study, which was presented at the Association for Computing Machinery’s distinguished 14th Annual Web Science Conference, implemented a method that uses generative language modeling as a predictive tool to simulate public response to messages from eminent public health organizations, such as the Centers for Disease Control and Prevention and the World Health Organization. The model predicts public response and associated sentiment to potentially allow organizations to predict both, prior to posting a message online. It could also allow organizations to proactively identify specific concerns that may be raised by a message.
+As our society continues to prepare for future pandemics and health challenges, we hope our work provides public health organizations with a tool that can help social media managers optimize messages for positive reception, thus helping to achieve the desired outcomes of personal health decision-making. We also hope our work can pave the way for tools that can be used to identify public concerns on important health-related issues and help inform messaging to address such concerns.
+
+
+
+FacebookTwitterLinkedInEmail 
+
+
+
+					Related Posts				
+
+
+
+
+
+
+
+
+
+
+
+Understanding Human and Artificial Intelligence: Tyler Malloy
+
+
+January 19, 2023
+
+
+
+
+
+
+
+
+
+
+
+Bridging Gaps in Health Care: Nkechinyere Agu
+
+
+December 12, 2022
+
+
+
+
+
+
+
+
+
+
+
+Improving Drug Discovery: Bhanushee Sharma
+
+
+November 8, 2022
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+Search for:
+
+
+
+
+
+
+
+
+
+
+Recent Stories
+
+
+Leading Through Change: David Brunato
+February 16, 2023
+
+
+Sparking Students’ Passion for Research
+January 24, 2023
+
+
+Understanding Human and Artificial Intelligence: Tyler Malloy
+January 19, 2023
+
+
+Subscribe Follow the button below to subscribe to our newsletter.
+
+Subscribe
+ 
+ 
+ 
+
+
+
+
+
+ About Every Day Matters
+
+Follow Us
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+ Contact Us
+
+Strategic Communications and External Relations
+Rensselaer Polytechnic Institute
+110 Eighth Street, Troy NY 12180
+(518) 276-2800
+everydaymatters@rpi.edu
+rpi.edu
+
+ 
+
+ 
+ 
+ 
+
+
+
+
+
+Copyright © 2020 Rensselaer Polytechnic Institute (RPI)
+Media Policy    |    Web Privacy Policy    |    Student Consumer Information   |    Title IX Policy   |    Accessibility 
+
+ 
+ 
+ 
+ 
+
+
+
+
+FacebookInstagramLinkedInTwitterYouTube 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Search for:
+
+
+
+
+
+
+
+
+ResearchEducationCommencement 2022Arts & CultureCareerCommunityCOVID-19About UsResearchEducationCommencement 2022Arts & CultureCareerCommunityCOVID-19About Us
+
+
+
+
+
+
+Search for:
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+FacebookInstagramLinkedInTwitterYouTube 
+
+
+
+FacebookInstagramLinkedInTwitterYouTube 
+
+FacebookInstagramLinkedInTwitterYouTube FacebookInstagramLinkedInTwitterYouTubeFacebookInstagramLinkedInTwitterYouTubeFacebookInstagramLinkedInTwitterYouTube 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Search for:
+
+
+
+
+
+
+
+
+ResearchEducationCommencement 2022Arts & CultureCareerCommunityCOVID-19About UsResearchEducationCommencement 2022Arts & CultureCareerCommunityCOVID-19About Us
+
+
+
+
+
+
+Search for:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Search for:
+
+
+
+
+
+
+
+
+ResearchEducationCommencement 2022Arts & CultureCareerCommunityCOVID-19About UsResearchEducationCommencement 2022Arts & CultureCareerCommunityCOVID-19About Us
+
+
+
+
+
+
+Search for:
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Search for:
+
+
+
+
+
+
+
+
+ResearchEducationCommencement 2022Arts & CultureCareerCommunityCOVID-19About UsResearchEducationCommencement 2022Arts & CultureCareerCommunityCOVID-19About Us
+
+
+
+
+
+
+Search for:
+
+
+
+
+
+
+
+
+
+ 
+
+
+Search for:
+
+
+
+
+
+
+
+
+
+
+Search for:
+
+
+
+
+
+
+
+Search for:
+
+
+
+
+ResearchEducationCommencement 2022Arts & CultureCareerCommunityCOVID-19About Us
+
+
+
+Search for:
+
+
+
+
+
+
+
+
+
+
+Search for:
+
+
+
+
+
+
+
+Search for:
+
+
+
+
+
+
+
+
+
+Predicting Responses to Public Health Messaging
+
+
+
+
+
+
+Predicting Responses to Public Health Messaging
+
+
+
+
+Predicting Responses to Public Health Messaging
+
+
+Predicting Responses to Public Health Messaging
+
+
+
+
+
+
+
+View Larger Image
+ 
+
+
+
+
+Predicting Responses to Public Health Messaging Regina Stracqualursi2022-11-04T09:37:19-04:00November 4, 2022| 
+
+By Debjani Ray-Majumder, Ph.D. candidate of decision science and engineering systems
+The human ability to make decisions has been central to our survival since the early days of civilization. The role of information passage and the mechanisms involved in transmitting and receiving information, ultimately contributing to collective knowledge, has been significant for the decision-making process. First, there was verbal storytelling over generations. Then came written languages and various media to capture them. With each step, humanity grew closer, and the physical distance between us seemed to shrink.
+With the rise of the internet, our urge to stay connected to our peers led to the development of social media. Anyone with access to a computer and the internet could reach anyone else with the same resources. As humans, we have always preferred the company of groups of friends with similar thoughts and identities. The development of social media allowed us to make friends with similar mindsets from around the world as easily as we could with the friends in our own towns.
+In an already connected world, as the COVID-19 pandemic began, information traveled as fast as we could type. Soon, people were talking about topics related to the personal health decisions they had to make, such as wearing a mask or getting a vaccine. Many of the decisions we made were based on the information we were rapidly consuming online.
+Due to the popularity of social media platforms, public health organizations use them frequently to convey messaging to the public. During the pandemic, it became clear that messaging from public health organizations is not always received positively.
+This is where research being conducted at Rensselaer Polytechnic Institute comes in. In a study conducted by Ph.D. candidate Abraham Sanders; John Erickson, director of research operations in the Rensselaer Institute for Data Exploration and Applications (IDEA); Kristin Bennett, associate director of the IDEA; and myself, Twitter responses to COVID-19- and vaccine-related messaging by multiple public health organizations were collected and analyzed. Our goal was to better understand the underlying sentiment and semantics of such responses.
+The study, which was presented at the Association for Computing Machinery’s distinguished 14th Annual Web Science Conference, implemented a method that uses generative language modeling as a predictive tool to simulate public response to messages from eminent public health organizations, such as the Centers for Disease Control and Prevention and the World Health Organization. The model predicts public response and associated sentiment to potentially allow organizations to predict both, prior to posting a message online. It could also allow organizations to proactively identify specific concerns that may be raised by a message.
+As our society continues to prepare for future pandemics and health challenges, we hope our work provides public health organizations with a tool that can help social media managers optimize messages for positive reception, thus helping to achieve the desired outcomes of personal health decision-making. We also hope our work can pave the way for tools that can be used to identify public concerns on important health-related issues and help inform messaging to address such concerns.
+
+
+
+FacebookTwitterLinkedInEmail 
+
+
+
+					Related Posts				
+
+
+
+
+
+
+
+
+
+
+
+Understanding Human and Artificial Intelligence: Tyler Malloy
+
+
+January 19, 2023
+
+
+
+
+
+
+
+
+
+
+
+Bridging Gaps in Health Care: Nkechinyere Agu
+
+
+December 12, 2022
+
+
+
+
+
+
+
+
+
+
+
+Improving Drug Discovery: Bhanushee Sharma
+
+
+November 8, 2022
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+Search for:
+
+
+
+
+
+
+
+
+
+
+Recent Stories
+
+
+Leading Through Change: David Brunato
+February 16, 2023
+
+
+Sparking Students’ Passion for Research
+January 24, 2023
+
+
+Understanding Human and Artificial Intelligence: Tyler Malloy
+January 19, 2023
+
+
+Subscribe Follow the button below to subscribe to our newsletter.
+
+Subscribe
+ 
+
+
+
+
+View Larger Image
+ 
+
+
+
+Predicting Responses to Public Health Messaging Regina Stracqualursi2022-11-04T09:37:19-04:00November 4, 2022| Regina Stracqualursi2022-11-04T09:37:19-04:00November 4, 2022|Regina Stracqualursi2022-11-04T09:37:19-04:00November 4, 2022|
+By Debjani Ray-Majumder, Ph.D. candidate of decision science and engineering systems
+The human ability to make decisions has been central to our survival since the early days of civilization. The role of information passage and the mechanisms involved in transmitting and receiving information, ultimately contributing to collective knowledge, has been significant for the decision-making process. First, there was verbal storytelling over generations. Then came written languages and various media to capture them. With each step, humanity grew closer, and the physical distance between us seemed to shrink.
+With the rise of the internet, our urge to stay connected to our peers led to the development of social media. Anyone with access to a computer and the internet could reach anyone else with the same resources. As humans, we have always preferred the company of groups of friends with similar thoughts and identities. The development of social media allowed us to make friends with similar mindsets from around the world as easily as we could with the friends in our own towns.
+In an already connected world, as the COVID-19 pandemic began, information traveled as fast as we could type. Soon, people were talking about topics related to the personal health decisions they had to make, such as wearing a mask or getting a vaccine. Many of the decisions we made were based on the information we were rapidly consuming online.
+Due to the popularity of social media platforms, public health organizations use them frequently to convey messaging to the public. During the pandemic, it became clear that messaging from public health organizations is not always received positively.
+This is where research being conducted at Rensselaer Polytechnic Institute comes in. In a study conducted by Ph.D. candidate Abraham Sanders; John Erickson, director of research operations in the Rensselaer Institute for Data Exploration and Applications (IDEA); Kristin Bennett, associate director of the IDEA; and myself, Twitter responses to COVID-19- and vaccine-related messaging by multiple public health organizations were collected and analyzed. Our goal was to better understand the underlying sentiment and semantics of such responses.
+The study, which was presented at the Association for Computing Machinery’s distinguished 14th Annual Web Science Conference, implemented a method that uses generative language modeling as a predictive tool to simulate public response to messages from eminent public health organizations, such as the Centers for Disease Control and Prevention and the World Health Organization. The model predicts public response and associated sentiment to potentially allow organizations to predict both, prior to posting a message online. It could also allow organizations to proactively identify specific concerns that may be raised by a message.
+As our society continues to prepare for future pandemics and health challenges, we hope our work provides public health organizations with a tool that can help social media managers optimize messages for positive reception, thus helping to achieve the desired outcomes of personal health decision-making. We also hope our work can pave the way for tools that can be used to identify public concerns on important health-related issues and help inform messaging to address such concerns.
+
+
+FacebookTwitterLinkedInEmail FacebookTwitterLinkedInEmailFacebookTwitterLinkedInEmail
+
+					Related Posts				
+
+
+
+
+
+
+
+
+
+
+Understanding Human and Artificial Intelligence: Tyler Malloy
+
+
+January 19, 2023
+
+
+
+
+
+
+
+
+
+
+
+Bridging Gaps in Health Care: Nkechinyere Agu
+
+
+December 12, 2022
+
+
+
+
+
+
+
+
+
+
+
+Improving Drug Discovery: Bhanushee Sharma
+
+
+November 8, 2022
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Understanding Human and Artificial Intelligence: Tyler Malloy
+
+
+January 19, 2023
+
+
+
+
+
+
+
+
+
+
+
+Bridging Gaps in Health Care: Nkechinyere Agu
+
+
+December 12, 2022
+
+
+
+
+
+
+
+
+
+
+
+Improving Drug Discovery: Bhanushee Sharma
+
+
+November 8, 2022
+
+
+
+
+
+
+
+
+
+
+
+Understanding Human and Artificial Intelligence: Tyler Malloy
+
+
+January 19, 2023
+
+
+
+
+
+
+
+
+
+Understanding Human and Artificial Intelligence: Tyler Malloy
+
+
+January 19, 2023
+
+
+
+
+
+
+January 19, 2023
+
+
+
+
+
+
+
+
+Bridging Gaps in Health Care: Nkechinyere Agu
+
+
+December 12, 2022
+
+
+
+
+
+
+
+
+
+Bridging Gaps in Health Care: Nkechinyere Agu
+
+
+December 12, 2022
+
+
+
+
+
+
+December 12, 2022
+
+
+
+
+
+
+
+
+Improving Drug Discovery: Bhanushee Sharma
+
+
+November 8, 2022
+
+
+
+
+
+
+
+
+
+Improving Drug Discovery: Bhanushee Sharma
+
+
+November 8, 2022
+
+
+
+
+
+
+November 8, 2022
+
+
+Search for:
+
+
+
+
+
+
+
+Search for:
+
+
+
+
+Recent StoriesSubscribeFollow the button below to subscribe to our newsletter.
+
+Subscribe
+
+
+
+
+ About Every Day Matters
+
+Follow Us
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+ Contact Us
+
+Strategic Communications and External Relations
+Rensselaer Polytechnic Institute
+110 Eighth Street, Troy NY 12180
+(518) 276-2800
+everydaymatters@rpi.edu
+rpi.edu
+
+ 
+
+ 
+ 
+ 
+
+
+
+
+
+Copyright © 2020 Rensselaer Polytechnic Institute (RPI)
+Media Policy    |    Web Privacy Policy    |    Student Consumer Information   |    Title IX Policy   |    Accessibility 
+
+ 
+ 
+ 
+
+
+
+ About Every Day Matters
+
+Follow Us
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+ Contact Us
+
+Strategic Communications and External Relations
+Rensselaer Polytechnic Institute
+110 Eighth Street, Troy NY 12180
+(518) 276-2800
+everydaymatters@rpi.edu
+rpi.edu
+
+ 
+
+ 
+
+
+ About Every Day Matters
+
+Follow Us
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+ Contact Us
+
+Strategic Communications and External Relations
+Rensselaer Polytechnic Institute
+110 Eighth Street, Troy NY 12180
+(518) 276-2800
+everydaymatters@rpi.edu
+rpi.edu
+
+ 
+
+
+ About Every Day Matters
+
+Follow Us
+
+
+
+
+
+
+
+
+
+ 
+ About Every Day Matters
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Contact Us
+
+Strategic Communications and External Relations
+Rensselaer Polytechnic Institute
+110 Eighth Street, Troy NY 12180
+(518) 276-2800
+everydaymatters@rpi.edu
+rpi.edu
+
+ Contact Us
+
+Strategic Communications and External Relations
+Rensselaer Polytechnic Institute
+110 Eighth Street, Troy NY 12180
+(518) 276-2800
+everydaymatters@rpi.edu
+rpi.edu
+
+
+
+
+Copyright © 2020 Rensselaer Polytechnic Institute (RPI)
+Media Policy    |    Web Privacy Policy    |    Student Consumer Information   |    Title IX Policy   |    Accessibility 
+
+ 
+
+
+
+Copyright © 2020 Rensselaer Polytechnic Institute (RPI)
+Media Policy    |    Web Privacy Policy    |    Student Consumer Information   |    Title IX Policy   |    Accessibility 
+
+
+
+Copyright © 2020 Rensselaer Polytechnic Institute (RPI)
+Media Policy    |    Web Privacy Policy    |    Student Consumer Information   |    Title IX Policy   |    Accessibility 
+
+Copyright © 2020 Rensselaer Polytechnic Institute (RPI)
+Media Policy    |    Web Privacy Policy    |    Student Consumer Information   |    Title IX Policy   |    Accessibility 
+
+
+
+
+
+
+
+
+
+ 

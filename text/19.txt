@@ -1,40 +1,2511 @@
-TekForge is a multi-sided platform that pairs SMBs with technical service providers to successfully meet contractual obligations of their deliverables while exceeding the SMBs' goals. Created by Anirban Banerjee ’22 MBAGoSolar will create temporary solar setups with minimal installation, fast payback time, and biodegradability for lower-income families. Aida Ayuk '23 Architecture Non-RPI team members: Alex Mohan, Matt HurlburtDynamic Solutions is incorporating VR into assembly instructions for ready-to-assemble furniture. Brelyn Hatfield '23 Architecture Non-RPI team members: Quentin Curry: nanoscale engineering, Sebastian Phipps: Journalism & broadcasting, concentration in media productionRealm.video — Offers a virtual reality service aimed at teaching social and self-advocacy skills, overcoming social and environmental anxiety, and better ways to self-soothe. Created by Mason Sklar, Comp Sci, Aida Ayuk, Architecture, Mark Muscara, Comp Sci, and Ayah Tharwat, ITWS.Soc!al — a platform for students to build supportive connections virtually and for school officials to better facilitate events relating to the school culture. Created by Chuizheng Kong ’21, mechanical engineering, Yue Chen ’21, cognitive science, and Tiffani Szeto ’21, biological neuroscience.Offcmpus — Abdul-Muiz Yusuff ’21, computer science, Joshua Malek ’21, Comp Sci, Naya Hill ’21, computer and systems engineering, and Julia Huang ’21, information technologyAn application that would connect a user’s interests with nearby events and businesses. Created by Jassiem Robinson ’21, industrial and management engineeringWorkout Connect — a social-motivational application pairing users based on fitness levels and driven by accountability. Created by Alexander Dion ’21, mechanical engineering, and his brother, Brian Dion, studying computer science at Colgate UniversityA materials tracking software application that would use blockchain technologies to resolve issues in the supply chain industry. Created by Andrew Ruder ’22, business analytics, Alejandro Naranjo Torres, computer and systems engineering, and Eric Bienstock ’22, business and managementBraille Tech is a custom tool and software that can machine braille features straight into the singage material improving upon the existing solutions with durability and lower cost. Created by Ammar Barbee ‘24 Mech EngVirtual Assist is bringing law enforcement training to a virtual platform that can be used and tracked on a national level to ensure all trainees are receiving the most up-to-date skills and techniques regardless of geographic location or department budget. Created by Aida Ayuk ’23, ArchitectureSpring 2020 was combined with the Business Model Competition which awarded 1st, 2nd, 3rd place awards plus 5 CTWC prizes.BioFuture — Portable biogas digesters to aid in waste management and lower energy consumption costs worldwide. Created by Aida Ayuk ’23, ArchitectureTessera — Improves entrepreneurial ecosystems in the developing world by integrating knowledge, community, and capital into an engaging and scalable platform for aspiring and nascent entrepreneurs. Created by Nicholas Carey ’20, PhysicsVenue — An efficient and accurate attendance verification system. Submitted by Numfor Mbiziwo-Tiapo ’21, Comp SciStaegd — Your one stop go-to app for all your Jamaican event needs. Crated by Emmanuel Sylvestor ’21, ECSETherapyNow — An online messaging platform that connects students to a greater pool of helpful counselors and therapists when in need of emotional support. Ian Steenstra ’20, CSE;
-Stone McLaren ’22, Comp SciThe Spring 2020 Challenge was combined with the Business Model Competition which awarded 1st, 2nd, 3rd place awards plus 5 CTWC prizesBioFuture - portable biogas digesters to aid in waste management and lower energy consumption costs worldwide. Created by Aida Ayuk ’23, ArchitectureTessera -improves entrepreneurial ecosystems in the developing world by integrating knowledge, community, and capital into an engaging and scalable platform for aspiring and nascent entrepreneurs. Created by Nicholas Carey ’20, PhysicsVenue - an efficient and accurate attendance verification system. Submitted by Numfor Mbiziwo-Tiapo ’21, Comp SciStaegd - Your one-stop go-to app for all your Jamaican event needs. Crated by Emmanuel Sylvestor ’21, ECSETherapyNow - an online messaging platform that connects students to a greater pool of helpful counselors and therapists when in need of emotional support. Ian Steenstra ’20, CSE;
-Stone McLaren ’22, Comp SciEcoForm — A high performing unitized insulation system made primarily from agricultural waste. Created by Cameron Kasper ’23, IME & DIS; Samuel Berrigan ’23, Building Science & Design, Innovation and Society.Wind Turbine Blade Recycling — A solution to reduce the cost of bringing massive turbine blades to a landfill. Created by Ciaran Young ’20, Mech Eng and Sustainable StudiesNote Stream — A content delivery and note-taking platform for students and educators. Created by Hayley Roy Gill ’19 ’20, BME/Mech Eng and CSE; John Fantell ’19 ’20, ITScholar Ally — A mobile app which has matches students seeking college funding with scholarships they are eligible for and coaching to increase the chances of success. Created by Nirav Patel ’20, Business ManagementDalmation Mask — A redesigned Self Contained Breathing Apparatus (SCBA) mask to increase firefighter safety and equipment durability. Created by Angie Picard ‘19, Nuclear EngineeringIconoclasm — A reverse engineering platform tailored for malware analysis that enables information security professionals to condense all of their tools into one platform and collaborate in real time. Created by Lucien Brule ‘19, Computer Systems Engineering and Cameron Hackett ‘19, ManagementCRAWL — Improving mobility for young patients in need of assistive ventilation but unable to carry the weight of the traditional equipment. Created by Olivia Paradis ‘19, BME & EE; Katelynn Vega ‘20, BME;  Scott Benson ‘20, BME; John Karam ‘20, BMEPediatric Hip Spica Cast Add-On — An enhanced design to prevent skin irritation on children as young as 6 months old who are subjected to the traditional casting system for bone realignment purposes. Created by Erica Frommer ’19, BME and Management; Maximilian Reisinger ‘19, BME; Emily Dunn ‘19, BME; Peter D'Almeida ‘19, BME; Ilsse Salinas ‘19, BMEAnAssist — An IoT platform with advanced data analytics and visualization tools enabling business professionals with and without programming and machine learning knowledge to extract valuable patterns ultimately increasing worker efficiency and productivity. Created by John Fantell ‘20, ITWS and Computer Science and Hayley Roy Gill ’20, BME & Elec EngIntelligent Medicine — Training of practitioners in the performance of endotracheal intubation using augmented reality. Created by Adam Ryason- Mechanical Engineering PHD, Emma Prescott ‘19, Business Analytics and David Van Buren ‘19, Supply Chain ManagementOMNI — A platform that enables an enriching campus community online while encouraging face-to-face  student interactions to combat loneliness. Created by Nirav Patel ‘19, ManagementEcoLush — Changing the way citizens in India find cooking inspiration and answer the daunting question, What’s for dinner?” Created by Preetham Jagadeeshan ‘19, Business AnalyticsClear Voyage — A headset and smartphone app designed to provide visually impaired individuals with an unparalleled degree of spatial environmental data in order to allow them to navigate everyday environments with comfort and ease. Created by Hayley Roy Gill ‘20, EE/BME and John Fantell ‘19, ITWS/Comp SciDeadeye Sensor Technologies — A training platform designed to be operated by a single user in order to provide performance feedback for athletes.  Created by Daniel Lannan ’19, Elec Eng and Jonathon Koppelman, Comp Sci/ITEasyEpi — An epinephrine solution designed to save money, time, and lives. This product combats the cost, shelf life, and limits on effectiveness associated with current epinephrine auto injectors. Created by Tahsin Islam, BME; Kelsey Meyer, BME; Christian Sallick, BME; Brett Moyer, BME and Anton Kapitman, Mech EngNovento Foods — Whose organizational strategy is to alleviate food insecurity and enrich western cuisine by modernizing insect production for entomophagy, the practice of eating insects. Created by Tony Chedrawee ‘18, MGMTNirav Patel created a high discount food platform designed to reduce food waste and save money for both retailers and consumers.  The Automatic Door Controls Project is a system which allows users to open automatic doors around campus via a phone app. This product brings handicap accessibility into the 21st century without sacrificing building security. Created by Andrew DeMarco ’18, Electrical Engineering; Mallory Gaspard ’18, Math/Physics; Jack Hulton ’20 Computer Science; Erin Jordan ’18, Computer Science; Jacob Lane ’18, Computer Science and Niteesh Thangaraj ’20, Computer Science.Emergency Initial Responder Drone is a drone which enables bystanders to help a person in need, prior to the arrival of trained first responders. This system is specifically designed for people in remote, rural areas or densely packed cities as these locations often experience delays in the arrival of paramedics. Created by Rian Farrelly ’20, Computer Science; William Hudnut ’20, Aerospace Engineering; Kevin Roughan ’20, Computer Science; and Ria Shroff ’19, Biomedical Engineering/Design, Innovation and Society.2 Point Perspective Drawing Board is an instructional art tool which simplifies drawing in realistic perspective. This product reduces the stress and complication of learning to draw at an accelerated level. Created by Lilit Balagyozyan ’20, Design Innovation and Society/Mechanical Engineering; and Andrew Mendoza ’19, Design, Innovation and Society.Growing Clean Air is an effort to educate users about the benefits that everyday houseplants can have on reducing VOCs and other airborne pollutants in densely populated spaces. The specially designed planters with moisture sensors provide even those without green thumbs with clean air and the emotional benefits of caring for plants. Created by Lam Detzler ’20, Design, Innovation and Society; Brad Matheus ’19, Design, Innovation and Society; Sarah Simmons ’21, Design, Innovation and Society/Mechanical Engineering.Kapshur Medical Devices aims to conquer restenosis (subsequent plaque buildup) in patients receiving stents to treat artery disease. This supplemental add-on device will reduce the number of repeat surgeries needed for the 1M Americans receiving traditional cardiac or peripheral stents annually. Created by Kapila Chandramouli ’18, Mechanical Engineering.ASPECT is the Advanced Security Platform for Enterprise Communication and Tracking. Using gamification to encourage user participation in security “missions”, this IT service will employ the public to supplement existing security tactics by using their own personal smart phones. Created by Joshua Chicorelli ’18, MBA; Alexander Gentile ’18 MS. Management; Peter Kloss ’18 MS Technology Commercialization and Entrepreneurship; Alexander Shulman ’18 MS Technology Commercialization and Entrepreneurship and Benjamin Volk, Information Technology and Web Science.Thin Air Industries created The Perfect Painter, an autonomous robotic painting system for residential and commercial applications. The rentable system will allow users who don’t have the ability to paint their own space, those who dislike painting, or are not interested in hiring a professional, to complete the project themselves. Created by Daniel Lannan ’18, Electrical Engineering.Smart Desk is a desk-like surface which enhances group meeting productivity using smart sharing technology and easy remote desktop access. Created by Amir Begovic ’18, Electrical Engineering; Mohamed Elsaid ’18, Mechanical Engineering; and Youssef Elasser ’18, Electrical Engineering.Storagy is a platform that facilitates peer-to-peer renewable energy sales informing the user when to store their excess production and when to sell. The platform can also tackle the peak demand issues being faced by utility companies today by utilizing locally produced energy to help source the renewable energy requirements in any given area. Created by Colin Danahy ’18, M.S. in Technology Commercialization and Entrepreneurship.Compact Real-Time Nuclear Detector is a device that can bring peace of mind to people with concerns of nuclear terror attacks by providing increased preparedness, detection, and counteraction at an individual level. Current detection methods are bulky and limiting, and this technology is compact and delivers real-time results. Created by Christopher Lore ’18, Geology, and Madison Wyatt ’18, Applied Math and Physics.Dev360 Additive Systems — Provides a "tailored" 3D printing experience which allows customers to get what they want out of 3D printing technology. Created by Kyle Szendro ’20, electrical engineering.Dicey Veins — A streetwear clothing company which speaks to youth with relatable messaging. Created by Daniel Lannan ’18, electrical engineering.Fridge Assistant — A multi-feature app that is simple to use and encompasses a solution for many issues including recipe suggestions and product freshness tracking. Created by Madison Wyatt ’18, physics and applied mathematics and Christopher Lore ’18, geology.Green Revolving Fund — Promoting campus sustainability through reinvested savings discovered thru sustainable energy projects identified by students. Created by Luke Bateman ’19, design, innovation, and society and mechanical engineering; Caitlin Golden ’20, environmental engineering; Zining Liang ’19, design, innovation, and society and mechanical engineering; Lei Luo ’20, design, innovation, and society; Anna Miliakos ’20, chemical engineering and Allison Mrugal ’18, design, innovation, and society.GridStarr — A deferred action saltwater battery back-up power solution for the home. Created by Patrick Calhoun ’17, mechanical engineering and technology, commercialization, and entrepreneurship and Jacqueline Curtsinger ’17, chemical engineering.GT Vacuum Technologies — Aims to radically simplify how high to ultra-high vacuums are achieved and sustained in both research and industrial applications. Created by Geoffrey Thomas ’19, aeronautical engineering and mechanical engineering, and Misha Shiltsev ’19, computer systems engineering and computer science.Innovative Economic Analytics — An easy to use wealth management system providing a point of entry into the stock market for novice investors. Created by Nicholas Carey ’20, aeronautical engineering, Galen Gold ’20, electrical engineering, Cameron Fearrington ’20, aeronautical engineering, Rishabh Shadra ’20, computer and systems engineering, Christian Assimus ’20, computer and systems engineering, and Jordan Henault ’20, aeronautical engineering.LC Rapid Consulting — Offers a package of managed marketing, analytics, and advertising solutions to small businesses lacking the skills to do it themselves. Created by Lucien Brule ’19, computer systems engineering and Cameron Hackett ’19, Business and Management.Legion — An improved Computer Aided Dispatch (CAD) program delivering mission critical visual data to the fingertips of officers, as well as provide an information technology platform to enhance community policing initiatives. Created by David Haggerty ’17, design, innovation, and society.NextBillion.org — An online platform where people with disabilities can form empowering mentor relationships with industry leaders in the technology space and access job resources from companies based on shared knowledge, resources, and opportunities. Created by Ray Parker ’17, chemical engineering.The Equal Zone — A (pop-up) store featuring gender neutral clothing for the LGBTQIA community. Created by Sara Bischof ’17, mechanical engineering and design, innovation, and society.Best of the Best Honor: NextBillion.orgAedifex Fabricator — An integrated engineering platform offering simultaneous 5 axis 3D printer and CNC machining capabilities in one package. It aims to simplify manufacturing workflow, thus increasing productivity for hobbyists, makers, artisans and entrepreneurs alike. - Ngai To Yu ‘20, Nuclear Engineering; Kael Kauffman ’20 Electrical EngineeringAmphibious Flipper — An affordable prosthetic that provides trans-tibial amputees the ability to seamlessly transition between land and water and actively participate in a wider range of water-based activities. - Eric Leung, Exchange student; Simon Laforgue, Exchange student; Yuhan Chen ’17, Technology, Commercialization and Entrepreneurship MSRefugee Education Connection — Promoting personal growth and community development for displaced refugees by facilitating the development, implementation and management of quality and appropriate educational programs. -Matai Blacklock ‘16, Dual Industrial and Management Engineering / Science Technology and Society StudiesResearch Accountability System — A system that seeks to change the culture of sensationalized research by increasing transparency. - Xavier Boudreau ’20, Electrical EngineeringSanguine Diagnostics — Sanguine Diagnostics is a paper diagnostics support platform, with the goal to provide a low-cost, point-of-care diagnostics solution to improve global health and the standard of care for patients worldwide. - Vincent Arena ’17, Mechanical Engineering, Design Innovation and Societyyize nrg (“wise energy”) — A platform for the energy grid which creates a marketplace amongst consumers. - Wyatt Kroemer ’18, Computer ScienceTactile Vision — A previous winner of this competition, this team pivoted their market focus to the virtual reality gaming industry. Their unique actuator design provides accurate and immersive pressure feedback for players in a virtual gaming environment. William Lawler ‘17Visual Call — A server-based platform that digitizes and visualizes the caller interface, taking phone calls from the traditional phone database to a more versatile, user-friendly platform. Korey Prendergast ’17Amparo — Redefining prosthetic care by providing human-centered design that will help amputees across the globe. The Amparo socket can be quickly molded and fit to an amputee’s unique geometry and shape. Matthew Dion ’16Slice — By bringing awareness to overall work-life balance, Slice forces users to confront the way they spend their time in an attempt to encourage them to change it and improve their time management. Rachel Mannella ’16Bloom — A credit-card-sized inhaler for asthmatics. James Cazzoli ’16MOAP — Automating the process of designing computer algorithms. The program will take a formal definition of an algorithm problem as input, and will output pseudocode that solves the given problem. Ray Parker ’16 and Dwight Naylor ’16Diligent Blood Alcohol Monitor — A wearable device that will read and monitor a person's blood alcohol level over a course of time and take certain user-programmed actions if the user's blood alcohol level reaches certain points. Matthew Germanowski ’17, Sean Waclawik ’17 and Steven Sperazza ’17Popx —  A subscription service for elevating your company culture with unique event experiences. Bryan Dieudonne ’18 and Chris Peng ’16Grain Rich Bluetooth Speaker — A compact and portable high-end audio Bluetooth speaker. Dexter Taylor ’16Learn Blitz — A previous winner of this competition, this team narrowed their beachhead market to address sign language instruction using their effective platform focusing on spaced repetition learning (SRL) which breaks concepts down into multimedia flashcards and optimizes their order and review times based upon the forgetting model of the human brain. Christopher Morrison ’17Tactile Vision — A wearable technology providing environmental feedback to the visually impaired allowing them to perceive the world around them as others do. It will allow blind people to distinguish what is around them without the use of a cane or primitive sonar technology. William Lawler ‘17; Christopher Dannhauser ‘17Guide — Assists visually impaired individuals with everyday tasks to increase safety and independence. There will be a line of products designed mainly for use in the kitchen. Jordan Hutensky ‘18; Morgan Schweitzer ‘16
+Archives and Special Collections maintains a growing number of collection guides and inventories to support discovery of and access to the collections.* Access to digitized archival images is currently suspended as we currently transition and migrate our content to a new platform. Please direct any questions to email us and Archives staff will do their best to accommodate your request. The Guides to Institute Records and Manuscript Collections provides web access to descriptive information and inventories of archival and special collections housed in the Institute Archives.These collections include archival records which provide documentation of the development and growth of the Institute. Special Collections include manuscript collections focusing on nineteenth and twentieth century science and technology.* Access to RPI histories, Institute publications, and images is currently in transition as we migrate our content to a new platform. Please direct any questions to Rensselaer Digital Collections Support.  Part of the Rensselaer Libraries' catalog that includes only materials housed in the Institute Archives and Special Collections department.  This includes rare books, undergraduate theses (1855-1910), and cataloged archival and manuscript collections.Search the Rare Books catalogOur online exhibitions highlight content from the collections to educate our readers and share the history of the Institute with our research communities.View all exhibitsCurated resources on specific topics of Rensselaer history: exhibitions, bibliographic guides to key subject areas of special interest, and other important lists.Institute Archives & Special CollectionsFolsom Library, Rensselaer Polytechnic Institute110 8th Street, Troy NY  12180MAIN OFFICE (518) 276-8340
+              Staff Directory
+            Contact Archives
+            Copyright © 2023 Rensselaer Polytechnic Institute (RPI)
+          
+About
 
-Agora Technologies — Recognizing the lack of entrepreneurial resources for the high school aged student, this team has implemented a program to mentor and coach high school teams through current business model generation tools being used in colleges around the world. Richard Lin ‘18; Sidharth Modha ‘16; Christina Ford (not an RPI student); Herman Li (not an RPI student)A “Whey” Better Beer — Beverage that combines a traditional light beer with 8g of whey protein to satisfy the consumer who is interested in managing their protein intake. It will be a more nutritious option for drinking alcohol. Greg Merrill ‘17; James Male ‘17; Christopher Lore ‘17VR Tech — A smart eyewear which projects a virtual reality motion-picture to the user while connecting wirelessly to a smart phone or computer. It could be used for exercise or watching movies, and will be more comfortable than other products currently on the market.  Anurag ‘17; Ian He ‘16; Anand Prakash ‘16Mobile Teaching Platform — Leveraging the power of mobile communication to create a platform that can encourage social good in millennials. The product addresses literacy as well as other educational goals. Shankar Rao ‘15; James Cazzoli ‘16Power Walk — This product is a mat that uses the piezoelectric property of certain crystals to convert energy people spend walking into electricity. It can be used in high foot-traffic areas to generate electricity. Jason Luo ‘18Pressure Ulcer Prevention Cover — For use with long-term care patients in the home and in hospitals. It helps to reduce the likelihood of a person developing a pressure ulcer due to certain medical conditions. Jason Bernotsky ‘15
+Research
 
-STEM Social Media — A social media website for college students in STEM schools. The website will have a primary purpose of integrating, informing, and stimulating the stem community. Students can connect with others who are doing similar research in different schools. William Francis ‘18Bottle Technologies — Creates a geographical context-driven social media content creation and delivery mobile platform, which essentially allows users to ‘Bottle’ their experiences and leave them behind in that location for others to find. Saurabh Dargar ’15; Jaikrishen Wadhwani  ’15; Arun Nemani ‘16A Brave New Educational Model — An experiential-based approach to classroom learning achieved by leveraging the field of virtual reality software to develop environments which will allow for both visual and physical interaction with information. Antony Giunta ’15, Matthew Jahnes ’17, Tommy Fang ’17, John Rollinson ’17Ilium VR — An Inertial-Visual system for accurately tracking items such as guns and tools in a player’s 3D world. Applications: gaming, military/police training and recruiting efforts. Jazmine Olinger ’16, Sebastian Sarbora ’16, Robert Rouhani ’16IntraBlue — Applying current medical industry technology to Increase combustion engine efficiency and reducing harmful emissions output. Keegan Lombard ’16, Michiel Stultiens ’15, Ian He ’16, Tan Yuan Song ’16, Evan Perreault ’15KIMTEX — Using Black Silicon composite, a potent bactericidal agent, in markets like the mobile device industry to reduce harmful bacteria on everyday surfaces. Hyung Joo Kim ’16Learn Blitz — A platform that can service a large swath of learning niches by using spaced repetition learning (SRL) which breaks concepts down into multimedia flash cards and optimizes their order and review times to improve memorization. Christopher Morrison ’17Branch Band — A wearable device that uses an intuitive networking system to passively connect with other users in a geographic location ultimately eliminating the exchange of business cards. Jason Bernotsky’15Dyad — A mobile application that fills the basic human need for love & belonging by provoking meaningful conversations that were psychologically designed to strengthen relationships. Devon Bernard ’16Inspiration — Software/app that would allow someone to get notifications about gifts that a friend may want based on monitoring their interests as indicated on social media. Karl Appel’15,Momentum Mechanics — Incorporating responsive technology into firearms to reduce police back-up response and ambulance mobilization times in active shooter scenarios. Adam Ware’15, Sylvia Sorriento ’15uSpot — An all-inclusive wearable that allows users to stay connected to their group’s real-time activity and locations during an outing while allowing venues to passively capture big data and real-time analytics from their customers. Sandra Besso Plowinske ’15, John Rodis ’15Medificent — A mobile application and website for tracking local infections, with the feature of online notifications. For parents and schools to help them keep track of the spreading of infections in their area and other micronews. Also a tool allowing users to communicate with school health centers and other users. Another feature for the user is education about health.  Alexandra Damiano ’15, Jenny Bergstrom ’15, Liudmila Alekseeva ’15                                 Background Screening — A smart phone app which leverages people's normal everyday activities while alerting them to abnormalities that they otherwise would not be aware of, giving them the opportunity for early medical detection and sustained life. Thomas Hayes ’14                           CULTURE-SHIFT — A device designed to capture the critical physiological factors of vascular endothelial tissue to produce highly representative in vitro tissue models in high-capacity, while integrating with standard laboratory supplies, equipment, and experimental protocols. John Trasatti ’15, Paige Trasatti ’16, Chris Lamplough ’17, Greg Merrill ’17FIRE-EYE — An entirely new fire safety system that provides a method for predicting and preventing fires in your home before they occur. By utilizing an array of sensors strategically placed throughout your home, Fire-Eye can continuously map out thermal activity in each room, learn normal conditions, and identify abnormal hotspots in a room that could develop into a fire.  Spencer Parker ’15                                InvisibleFriends — A website and smartphone app that allows people with chronic digestive illnesses to track the connection between diet and symptoms. This will also be a useful source for people to find food intolerances. Our social platform will allow people to connect with others who have similar symptoms. Abigail Gillett ’16, Caren Irgang ’15                                                                          Lightfeed — A wearable electronic sensor which specrally resolved the user's ambient light exposure over time helping lighting researchers uncover the ideal light settings required for those suffering from chronic sleep problems.Kevin Lyman ’15, Theo Pak ’15                                 Bluetooth Tracking — An alternative tracking technology to RFID that allows additional and improved functionality. Sage Trudeau ’16, James Hanford ’16                                                                    Park Now — A product to improve the parking experience in large cities.  Edwin Liang ’15, Fanny Zhang ’15, Qi Ye ’14, Yunru Wang ’15Quitli — A wearable technology that brings the psychology of habit to the quantified self-movement by recording those moments when you're not at your best and letting you visualize their frequency.  Alexa Aranjo ’15, Shankar Rao ’15                                 SuperApp / Mi Games — A user-friendly dedicated communication tool that allows for athletes to communicate with coaches, trainers, and nutritionists as well as allowing for direct communication between the althetics department and the fans.  Adalberto Ponce ’15, Tommaso Gardini ’15Eco-Valve — A shower head attachment that reduces the average household’s indoor water consumption by allowing users to automatically adjust their water pressure hands-free. Devon Bernard ’16, Computer Systems Engineering & Computer Science DualGapelia — A collaborative storytelling platform seeking to revive the world of publishing. Daniel Campos ’15, Computer ScienceResumazing — An automated web service which uses machine learning to bundle resume building and headhunting into one powerful and synergistic platform. Kevin Lyman ’14, Computer Systems Engineering, Samuel Ellis ’14, Mechanical Engineering, Shankar Rao ’15, Computer and Systems Engineering, Daniel Schlegel ’14, Computer and Systems Engineering, Jonathan Silvestri ’15, Mechanical EngineeringTech Arena: The Magna Printer — A printer that reuses ink by de-inking the paper using iron oxide nanoparticles rendering the paper reusable as well. Vincent Arena ’17, Mechanical EngineeringThe Human Brake Light — A motorcycle jacket with embedded rearward facing LED's which communicate with a transmitter and illuminate when the rider is braking, increasing visibility of the rider and creating a "third brake light" effect. Taylor Scicchitano’14 Business ManagementNimbl — A tremor-dampening arm sleeve for Parkinson’s patients to help control the involuntary movements by counter stimulating therefore neutralizing the errant signal. Derek Meer ’16, Electrical Engineering/Computer Systems Engineering, Cecelia Muller ’16, Mechanical Engineering, Alexandra Hudak ’16, Mechanical Engineering, Mark Westerhoff ’15, Computer and Systems Engineering, Adam Klich ’15, Mechanical Engineering, Jacob Weber ’16, Mechanical EngineeringMouth Operations Monitoring System (MOMS) — Combating Xerostomia (dry mouth disease) with a retainer that monitors the condition of your oral health while stimulating saliva for self-cleaning. Melissa Mohner, Mechanical Engineering ‘14VibraSole — An insole that makes use of low vibrations to allow elderly users ability to monitor their gait and balance regaining their ability to stay balanced while walking and climbing stairs.  Niroshan Amarasiriwardena’14, Mechanical EngineeringRollio — A business application which aggregates all of your business trip planning instruments (email, calendar, Salesforce/other CRM, and simple phone calls into one visual and easy to use tool as well as prioritizing task lists, and providing lead generation.  Jake Soffer ’17, Industrial Management Engineering & Business ManagementSia — A cloud storage solution that uses a giant peer-to-peer network to host data with increased security and no bandwidth caps or download limits. David Vorick ’14, Computer Science, Luke Champine ’15, Computer and Systems EngineeringLogikits — An easy-to-learn snap-fit tile toy which allows elementary school children to build rudimentary computers while building confidence and experience in coding. The mission is to provide a gateway into the fields of engineering.  Kevin Lyman ’14, Computer Systems Engineering; Dan Schlegel ’14, Computer Systems Engineering; Jonathan Silvestri ’15, Mechanical Engineering; Samuel Ellis ’14, Mechanical Engineering; Andrew Wright ’13, Computer Science               Active Flow Control Device for Increasing Ground Vehicles Fuel Efficiency — Decreasing fuel consumption on tractor trailer systems with modular active (air) flow control (AFC) devices that "bend the air", forcing it to flow in very precise locations, in order to obtain the aerodynamic performance of interest. Daniele Gallardo ’14, Aerospace Engineering, PhD candidate; David Menicovich ’13, ArchitectureGEL-LOCK: Firearm Locking Mechanism — Gel-Lock, is a safety locking mechanism enabling firearm owners to keep their guns loaded and accessible but safe from accidental discharge. Timothy Oh ’17, MECL/DISCRASH — Concussion Reducing Airbag Supplemented Helmet - A baseball helmet equipped with an ultrasonic sensor and an active airbag system that calculates when a projectile is moving towards the helmet above a certain speed and activates before the object hits the helmet. reduce the risk of concussion. Ana Da Silva ’14, Electrical Engineering; Mike Croke, Mechanical Engineering; Kevin Jones, Biomedical Engineering; Jichuan Hu, Mechanical Engineering; Maeve Conway, Mechanical Engineering; Marcus; Lewis, Mechanical EngineeringRed Flag System — A precautionary software program to monitor a child’s use of words often associated with symptoms of mental illness. a notification email would be sent to the parents. Deborah Lark ’17, Nuclear-Mechanical Duel EngineeringChanging How We See Our Blood Sugar — A new way for diabetics to test for glucose levels in their tears by means of a change of color in a contact lens. Krista Glanville ’14, ArchitectureWeepri — A 3D printing system with educational lessons that empowers young inventors and tinkerers to conceive their own solutions and gadgets while learning how they are incorporated with complicated engineering systems and real world projects. Adam Ryason ’14, Mechanical EngineeringStress Monitoring for Better Parenting — Kaelig ('loving,' in Danish) Stress Monitor helps parents build a more emotional relationship with their baby by understanding the infant’s stress levels through monitoring, notification and education. Aaron Squier ’13, Mechanical Engineering and Design, Innovation, and Society; Cary Kaczowka ’13, Mechanical Engineering and Design, Innovation, and Society        Enhanced Energy Efficiency Using Thermal Management in Electronic Devices — A tremendous amount of energy used for lighting ends up dissipating as heat.  This innovation designs a unique device for thermal management in electronic devices, potentially making lighting devices more efficient.   Hafez Raeisi Fard ’13 PhD? Mechanical EngineeringLow Cost, High Performance All-Carbon Lithium Ion Batteries for Electric Vehicles —This team has identified a process that may enable the creation of a “super battery” with improved cost and power density properties when compared with existing battery technologies.  This process potentially has tremendous applications for electric vehicles.  Rahul Mukherjee ’15 PhD, Mechanical Engineering; Eklavya Singh ’15 PhD, Mechanical EngineeringWelding Forearm Protection — A guard design utilizing two different layering approaches (composite and aluminum) to insulate the welders of the large machines used in mining metals and minerals from 500 to 1400F degree heat, sparks, molten steel, burns and broken bones. Developed to the prototypes stage by PK Protective Wear LLC student company founder, Paul Koetke ’15.Mindfull Dementia Tracking Device — An affordable GPS or RFID device, integrated into glasses or watches or phones, that relieves fear, uncertainty and frustration by helping people with cognitive decline to locate misplaced items. It also tracks and logs progression of dementia for family and medical reference. Meghan Olson ’14.High-Speed Urban Composter — A household sized, continuous feed system, that makes composting feasible in urban environments. Smaller than the average washing machine, the lightweight, air-tight, motorized product is developed to the prototype stage by Zachary Perrella ’15, Dan Illein ’15, Bryan Charette ’15 and Joe Paull ’15.SIDS Alarm Vests — A variety of fabric vests alarmed to alert parents and caregivers when an infant has become motionless or stopped breathing. The vests could also feature a plunger that would start CPR chest compressions in a case of no breathing and would provide verbal instructions on how to perform CPR. Kathryn Harmon ’15.APSIS Helmet Protection Technology — A ballistics-like gelatin, coupled with an attenuating system, to dissipate the force of impact and eliminate concussions from sports and recreation requiring head protection. The system increases the time during impact to reduce the force sustained and transferred to the brain. Evan Robertson ’13.Health Watch — A wearable wrist band full of biometric sensors combined with a web service to collect individual data and pool it through a crowdsourcing approach to generate probable diagnoses and intelligent recommendations for a user’s health care needs. Diogo Moitinho de Almeida ’13, Eric Shapiro ’15, Jonathan Silvestri ’15, and Michael Watterson ’13.DUCO Safe Needle System — A kit with a specialized container packaging, syringe and hypodermic needles in a cassette designed to prevent multiple injections with the same needle. A one-way valve and locking mechanism provides safe injections, keeps syringes sterile by preventing fluid from flowing back to contaminate the syringe and blocks removal of the needle without a special tool. . Meghan Olson ’14, Ari Munic ’14, Caroline Pitner ’14, Gregory Wilson ’14, Austin Pietrobono ’14, Jes Champi ’14, Adam Vasilakis ’14 and Fabian Hough ’14.Self-Healing Bioglass — A biocompatible integration of chitosan and oxetane compounds that helps damaged glass re-bond itself at the molecular level in the presence of sunlight, providing consumers with a low cost repair solution in often vulnerable applications such as mobile phone display screens. Glenn Rothwell ’16.Offshore Wind Farm Power Transmission — A modular, HVDC power conversion composed of high-frequency power electronic converters for individual wind turbines. The stacked converter design is efficient and fault-tolerant with less environmental impact and requiring less maintenance. Developed to a prototype stage and tested by graduate student, Ali Mohamadpour.Uniform Medic — A series of biomedical sensors and a microcontroller embedded into a soldier’s uniform fabric to integrate with multiple tourniquets. Severe injuries and change in blood flow can be detected automatically and tourniquets deployed, with pressure self-regulated to the optimal level, increasing the injured’s chances for survival if medical attention is not immediately available. Cole George ’13.Mechanical Adaptive Earthquake Protectors — Seismic devices that are adaptive and can change their properties based on responses of structures without the need for electricity or external power. Navid Attary, graduate student, ’13.Self-Testing Blood Bag — A blood donation storage bag that integrates test processing at a fraction of the current costs and time through a series of embedded chemical tests that react in contact with the donor’s blood. Dominic Gelfuso ’15.Project Connect — A professional networking and matchmaking website utilizing a proprietary database and specialized algorithm to help identify, qualify complementary skills and build project teams for entrepreneurs, students and professionals. Kevin Lyman ’15, Jonathan Silvestri ’15, Andrew Wright ’14.Automatic 3D Visualization — A software solution/app for computers and phones that enables users to virtually preview a product as it would appear within the 3-dimensional geometry of their home and improving on the online buying shopping process. Michael Fede ’13.BiVision Collision Prevention System — A system of physical sensors, an auditory warning medium and a logic predictor integrated into a smartphone or GPS devices. It will alert drivers and pedestrians of potentially dangerous situations and quickly recommend the best course of avoidance. Wesley Connor ’13.KnowFlow Water Meter — A water flow powered faucet attachment with venturi meter to calculate usage, providing households with a wireless online record to monitor water used for hygiene, cooking, cleaning, laundry and more to help prevent waste. Mary Savannah Dalton ’14.Probot — A stylized toy robot with computer software. It provides young children an interface with tasks/missions to solve by programming their own Probot and motivates them to explore, achieve objectives and earn rewards. At the same time, it is a learning tool that can help interest them in technology and engineering. Kevin Lyman ’15, Jonathan Silvestri ’15, Andrew Wright ’14.Telemarketing Blocker — Adapts existing technology that enables cell phone users to identify and mark unsolicited calls with a one button push on their phone and across the mobile phone provider networks. After being flagged a determined number of times, the unsolicited caller would be blocked from making outgoing calls. Dave Guglielmo ’15.Sea Spire — A modular aquatic installation designed to make a variety of small-scale, open-ocean operations such as aquaculture and research installations cheaper to build and operate. Environmentally-friendly applications include fish farms, aquatic sea life nurseries, floating recreation, capturing samples for research testing. David Liu ’13.Smart Health — Two interlinked modules, a smartphone app and an RFID tag that can plug into the memory card slit of the phone. It allows a user, particularly those with chronic conditions, to manage day-to-day health, measures relevant medical values, monitors changes and transmits data to first responders in emergency situations. Sidsel Ernstsen ’13.Advanced Composites Manufacturing — A patent-pending, faster molding process for Specialized Elastomeric Tooling to create composite parts with dramatic reductions in cost, energy consumption and waste. Casey Hoffman ’12 and Jaron Kuppers ’12.Adept Advancements — A patent-pending technology that enables ultrasonic communication and power delivery through thick metallic barriers for such applications as wireless data transfer in marine, oil pipeline and telecommunications. Jonathan Ashdown ’12, Kyle Wilt ’12 and Anthony Demaio ’12.Asthma Relief App — An application that pairs a smartphone with a breathing flow meter to create a monitoring and diagnostic tool to help asthma patients and their doctors track data, attack triggers and provide warnings to help prevent attacks. Katrine Vind Tipsmark Poulsen ’12.Integrated Lighting System — A system combining adjustable overhead lighting, software and motorized reflective window blinds to control, balance and optimize sunlight and artificial light for energy efficiency in commercial, office and institutional buildings. Erik Dykstra ’15, Dylan Hasson ’14, Paul Mier ’14, Isaac Park ’14, Kevin Turner ’14 and Greg Wilson ’14.Interactive Health Wristband — A wearable device with sensors to record, monitor, analyze and display a person’s vital health signs, such as blood pressure, heart rate and temperature to permit them to better care for themselves. Jason Bernotsky ’15.LungSmart Spirometer — A measurement and therapeutic system to help people with chronic lung/pulmonary illnesses. It integrates a smartphone or computer and an incentive spirometer to test critical parameters and to provide graphics, games and exercises to help patients rehab. Alec Rudd ’13.Sana Medication Management — A sophisticated device that loads, organizes, stores and dispenses medications in proper doses at proper times for the elderly. It would also offer the opportunity to be linked with pharmacists and caregivers to ensure medications are being taken on schedule. Matthew Hanson ’13 and Aaron Squier ’13.Seeing iDog — An interactive app that converts a smartphone into a “vision” device for visually-impaired people with speech instructions based on GPS, mapping, image recognition and distance measurement technologies. Eric Amaral ’12.Soldiers and Strays Service Dogs — A new approach to helping PTSD-affected veterans readapt emotionally and psychologically. It places shelter dogs with veterans in a setting where they personally train the dogs with guidance from professional trainers at a dedicated facility at a fraction of the traditional service dog costs. William Ziomek ’12.Wind Farm Centralized Generator — A new architecture/model for capturing and optimizing wind power through a central hydraulic generator system. It significantly simplifies the construction, maintenance and costs of multi-turbine wind farms. Gregory Pitner ’12, Alex Worcester ’12, Desiree Phillips ’12, Robert Pearson ’12, Julio Rodriguez ’12.IV–SAFE: LED Technology — supplement to current intravenous (IV) therapy that assures correct dosage delivery and helps prevent potentially dangerous bacterial infections in IV lines. Colleen Costello ’12.Dripdrop Bacteria Detector — A software–driven technology module enabling cost–effective and detailed measurement of water contamination at a rate 25,000 times faster through real–time cell counts. James Davis ’13 and Nathan Pankowsky ’13.Cogeneration Water Purification in China — A combination self–sustaining hydroelectric power and water filtration system designed to produce renewable energy utilizing contaminated river water and converting to purified water to address energy and water shortages in many areas of China. Dave Guglielmo ’15.Simple Steps Protective Footwear — A new, low–cost shoe design with an antimicrobial coating to keep bacteria away from the foot in an area infested with serious foot diseases. The product business plan includes manufacturing in the affected Cameroon, Africa locale in order to create jobs and keep the flow of capital within the community. Jarrett Regier ’14, Samantha Riccio ’14, Paige Townsend ’14, Peter Finigan ’14, Julia Wright ’14, Joe Bernstein ’14, Alvey Harrison ’13 and Nicholas Tantisujjatham ’14.U–Health Diagnostic App — A smart phone application to evaluate risk levels, identify symptoms and provide warnings of an impending stroke for people at risk who are often unaware of or brush–off the signs. Christina Ciamarra ’14 and Faith Breen–Franklin ’15.CollaborativeThinkers.com — A website focused on bringing people together to solve problems – large and small – through an interactive structure that breaks down solutions into smaller components and allows for continuous discussion and refinement of the solutions. Michael Fede ’13.PWF — Portable Water Filtration System — A self-contained trailer/pump/container system that uses the excess mechanical energy of a wheel’s rotation to power a pump that transports and filters up to 6 gallons of water from distant sources in rural and developing countries. Nathaniel MacDonald ’13, Alex Roumanidakis ’13, Rosemarie Mastropolo ’13, Philip Maas ’13, Brandon George ’14 and Bryan Zee ’14.Microbial Fuel Cell — A revolutionary wastewater treatment plant retrofit process that operates continuously with minimal energy input to produce water clean enough to release intro the environment while reducing the plant’s dependence on the national electrical grid. Derek Belanger ’13, Will Callahan ’14, Keith Davis ’13, Alex Fadeev ’13, Chris Heinbokel ’14, Kihwan Kim ’14 and Kate Pelletier ’14.eMedInfo Records Keeping — A medical application software and interface that captures and stores patient information and provides doctors with a decision support system consisting of a TV graphical interface with voice recording and recognition along with video reference materials to facilitate doctor–patient communication. Cathy Wheelock ’13.Shaped Luminescent Solar Concentrator — A unique, cost–reducing device using a wedge–shaped sheet or recyclable Plexiglas as a simple and more effective way to guide and concentrate light onto small strips of photovoltaic cells. It produces more electricity and uses less than 1/10th of the PV cells of traditional panels. Michael Hughes ’14.Credit Card Water Filter — A hand-held device utilizing Total Dissolved Solid testing technology and carbon nanotube mesh to both test and purify water. Lindsey Rappleyea ’13.Ad-mirror–able Recovery — A mirror and computer interface which work together to track progress and employ a unique imaging approach to treat eating disorders such as anorexia nervosa. Meghan Olson ’14.Quality life through quality light — An off–grid lighting/manufacturing system for the rural poor using an LED light linked to photovoltaic charging and the mobile/wireless network to provide a “pay as you need” financing strategy. Natalia Lesniak ’11 and Asiri Jayawardena ’13.Ultra–Eye Cane — A next generation white cane with voice/search communication, GPS, motorized guidance and ultrasonic sensing of potential obstacles. Xu Sun ’12.Collegiate Stress Visualization and Prevention App — A stress monitoring system to track, analyze and advise on the effects of lifestyle decisions on mental health and a range of stress factors. Dina Cecilie Jacobsen ’11 and Maureen Danskin ’11.Geothermally Cooled Dew Collector — An actively cooled dew collection system powered by natural geothermal energy for low-cost, low–maintenance water production in arid environments. Jason King ’13 and Catie Gould ’11.The Braillator — An instantaneous English to Braille translator that fits at the tip of the fingers using scanning to convert text from print, smart phone or computer into Braille displays for the visually impaired and blind. Krista Glanville ’13 and Lucas Lappe ’13.FilterLight — A dual layer bottle/canteen with built–in water filtration and solar-powered light for use in undeveloped countries and outdoor recreation. George Popell ’11.ECO–Pack Cigarette Disposal — A two–compartment, flip–top pack made from recycled materials and providing a place to distinguish and hold cigarette butts reducing some of the annual 1.7 billion pounds of harmful cigarette litter. Shaun Flynn ’14, Austin Pietrobono ’14, Bryan Boyce ’14 and Matthew Rocco ’14.H2Go Water Bottle — A collapsible, reusable water bottle inspired by origami design with significant market potential to provide millions of users with greenback savings and a bigger green footprint. Jason King ’13.L.I.M.B Intelligent Prosthetic Hand — A considerably lower–cost, functional, medical bionic made from off–the–shelf parts to enable below–the–elbow amputees to grasp objects of multiple sizes, shapes and weights. Christopher Wending ’11, Lesley Wu ’11, James Thompson ’11, R. Barrett Rehr ’12, Javad Rafiee ’11.WindMEC Energy System — A wind mechanics hybrid system combining the mechanical input from a wind turbine with the mechanical input from a non-renewable source to greatly reduce electricity dependence for commercial and institutional refrigeration and HVAC systems. Andrew Cunningham ’10, Charlie Driscoll ’10, Sam Notaro ’10, Steve Polansky ’11.Stair Assist — An economical stair climbing track system design with a built–in heart rate monitor and body balance alarm to prevent falls while giving elderly people the ability to ascend or descend a staircase under their own power. Cory Goodenough ’13, Drew Korte ’13.OntheGo Scooter — A battery–powered, lightweight, foldable and portable design, it helps urban commuters to enhance mobility and saving energy, while reducing pollution and traffic congestion. Xu Sun ’13.Bee Warm Insulation — Uses the walls of a barn, lined with traditional beeswax frames, as an insulating habitat populated by honey bees. The system’s layers of frames eliminate use of harmful materials, provides bees for crop pollination and uses a sustainable approach to energy management. Dayna Polstein ’12, Timothy Jacobsen ’13, Bryan McMahon ’13, Meredith Mayes ’13, John V. Miller ’13, Lucas Graffum ’12.Pressure Ulcer Sensing Mats — A combination of pressure, temperature and blood flow sensing mats to alert care–givers of the need to reposition immobile, bed–ridden patients to help prevent 60,000 annual deaths due to pressure ulcer complications. John Kennedy ’11.PRESERV Refrigerator Storage Unit — A hollow–walled system for storing refrigerated medical supplies and extending the cooled storage life during prolonged power outages in rural and underdeveloped power grids. Kevin Young ’12, Andrew Emerson ’11, Catie Gould ’11.Grounded Feet Shoe System — Shoes for the elderly that aid in maintaining balance to prevent falling. Simple, existing technologies for vibrating insoles stimulate nerves and stabilizing design features help the wearer in safely interacting with their environment. Lindsey Rappleyea ’13.FreeForm Paper Recycling — A shredding, forming and bonding system that reprocesses household, office and classroom paper to outputs in strong, complex shapes (e.g. bricks, flowerpots, toys, etc.) Hanhan Wang ’13, James Davis ’12, Nathan Pankowsky ’13, Cory Goodenough ’13, Adrienne Wilson ’13, Jarrett Kunze ’13, Joseph Xu Sun.Thermomitter, a silicone mitt with a built–in digital thermometer, designed to make it easy for the elderly to take and read their own temperature. Designed by undergraduates Peter Carnevale ’12, John Knight ’12, Katie Malysa ’12 and Alissa Russin ’12.A self–contained, Bio–Ethanol Fuel System capable of composting campus food waste to generate electric power and heat without any user interaction. Designed by undergraduate S. Kat Foley ’10, and graduate students Ryan Gallagher ’10, Dave Lesperance ’10 and Jake Pyzza ’13.The HAWC (high altitude wind capture) System uses a small blimp to place power–generating wind turbines high in the air without cranes or towers. Designed by undergraduates Andrew Cunningham ’10, Charlie Driscoll ’10, Samuel Notaro ’10 and Steve Polansky ’10.InfiniPad feels like paper to write on, but draws digitally for easy editing, sharing between students and teachers, collaboration and feedback. Designed by Sarah Lee ’10, Mark Lessel ’10, and Keith Thompson ’10.GeniusWrite is a special pen that reuses paper instead of recycling it. It displays and stores information with photo–sensitive paper and has the ability to scan information and print using UV light printing technology. Designed by undergraduate Xu Sun ’13.The Onboard System Mechanic saves gas, money and maybe the world as a fuel injected automobile electronic control unit that monitors a vehicle’s sub systems to diagnose performance problems to increase reliability and to decrease polluting emissions. Designed by Ricky Willems ’11.The Smart Sanitary Faucet promotes proper handwashing by integrating a water faucet, soap dispenser and timer all into one device that times out each step for food service kitchens, schools, public places and medical exam rooms. Designed by Ryan Clapp ’10.The NEROH-DSAL system creates a self–sustainable, low-cost water desalination method that harnesses solar energy for power and condensation collection to separate salt to provide a day’s worth of water for millions of families without access to a fresh water supply. Designed by Andrew Briggs and Catie Gould.A specially designed, thinner bicycle helmet with state-of-the-art built-in safeguards to encourage more cyclists to wear helmets. The design was created by Jakob Parslov.Thirty percent of all mercury emissions, one of the top 10 pollutants in the world, comes from small-scale gold mining outside of the United States. Using an inexpensive, simple, and portable device that can separate gold and silt as efficiently as mercury without the use of chemicals may be beneficial to the environment. Created by Jakob Parslov, Laerke Holstebroe, Jeanne Lonstrup, Hans Christian  Stentoft, and Trine Duelund Torstved.An electronic device similar to a prescription pad that allows doctors to select the prescription and dose, and then print out the prescription. Additional safeguards are also built into the device to reduce medication errors. Created by Sarah DiNovo.An inexpensive, convenient wrist band that accurately measures the extent of excercising along a number of key variables while a person is involved in physical activity. Created by Wen Chen and Ke Xia.The market for stuffed animals is large and ranges from small children to adults. Christina Laskowski, Todd Snelson, and Saadia Safir have applied manufacturing sustainability practices to the plush stuffed animal market and have demonstrated the ability to manufacture environmentally safe stuffed animals on large scale.Seventy-five percent of deaths due to landmines involve civilians, with nearly 60 percent involving children under the age of 15. Stephen Spehalski, Andrew Nelson, Megan McNeil, Brendan  Smith, and Andrew Krushelnyski have created an inexpensive mechanical roller device for landmine removal, specifically targeted at the removal of anti-personnel and anti-vehicle landmines that are triggered by applying pressure.More than 11 million people in the United States cannot speak English. Ashley P. Aust has created a simple device that may help individuals to overcome language barriers. The device is a handheld augmentive and alternative communication device (AAC) that utilizes touch screen and computing software that can be used at hospitals, doctor’s offices, and pharmacies.Up to 30 percent of drug and various medicines (e.g. eye drops) have a period of optimal usage. Created by Lars Elmgreen, a multi-layered polymer sticker will indicate when a product has expired. The technology also has potential applications in the food industry.
-eship@rpi.edu
-        p: 518.276.2650
-        f: 518.276.8661
-      
-Academic Director
-Jason Kuruzovich
+Collections
 
-Associate Program Director
-Kelly Reardon
+Institute History
 
-Entrepreneur in Residence/Lecturer
-Clint Ballinger
+Blog
 
-Our Partners
-Center for Economic Growth
-Rensselaer Tech Park
-Office of Technology Transfer
+Collecting Policies
 
-Support the Severino Center
-Donate directly to Severino Center for Technological Entrepreneurship
 
-        Follow us: Severino Center
-      
+Home
 
-           
-         
-           
+
+
+Curated Resources
+
+Exhibits
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Institute Archives and Special Collections
+  
+
+
+
+
+
+
+
+
+Main navigation
+
+
+About
+
+
+Research
+
+
+Collections
+
+
+Institute History
+
+
+Blog
+
+
+Collecting Policies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+Search
+Search
+
+
+
+
+
+
+
+
+
+Main navigation
+
+
+Curated Resources
+
+
+Exhibits
+
+
+
+
+
+
+
+
+
+
+Collections
+
+
+
+
+
+
+
+
+
+
+ 
+Archives and Special Collections maintains a growing number of collection guides and inventories to support discovery of and access to the collections.
+
+
+
+
+
+
+
+
+
+
+          Image Collection
         
-           
+
+* Access to digitized archival images is currently suspended as we currently transition and migrate our content to a new platform. Please direct any questions to email us and Archives staff will do their best to accommodate your request. 
+
+
+
+
+
+
+
+
+
+
+
+          Archival and Manuscript Collections
         
+
+The Guides to Institute Records and Manuscript Collections provides web access to descriptive information and inventories of archival and special collections housed in the Institute Archives.These collections include archival records which provide documentation of the development and growth of the Institute. Special Collections include manuscript collections focusing on nineteenth and twentieth century science and technology.
+
+
+
+
+
+
+
+
+
+
+
+          Rensselaer Digital Collections
+        
+
+* Access to RPI histories, Institute publications, and images is currently in transition as we migrate our content to a new platform. Please direct any questions to Rensselaer Digital Collections Support.  
+
+
+
+
+
+
+
+
+
+
+
+          Rare Books
+        
+
+Part of the Rensselaer Libraries' catalog that includes only materials housed in the Institute Archives and Special Collections department.  This includes rare books, undergraduate theses (1855-1910), and cataloged archival and manuscript collections.Search the Rare Books catalog
+
+
+
+
+
+
+
+
+
+
+
+          Exhibits
+        
+
+Our online exhibitions highlight content from the collections to educate our readers and share the history of the Institute with our research communities.View all exhibits
+
+
+
+
+
+
+
+
+
+
+
+          Curated Resources
+        
+
+Curated resources on specific topics of Rensselaer history: exhibitions, bibliographic guides to key subject areas of special interest, and other important lists.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Institute Archives & Special Collections
+Folsom Library, Rensselaer Polytechnic Institute
+110 8th Street, Troy NY  12180
+MAIN OFFICE (518) 276-8340
+
+              Staff Directory
+            
+
+
+
+
+
+
+
+
+
+Contact Archives
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Institute Archives and Special Collections
+  
+
+
+
+
+
+
+
+
+Main navigation
+
+
+About
+
+
+Research
+
+
+Collections
+
+
+Institute History
+
+
+Blog
+
+
+Collecting Policies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+Search
+Search
+
+
+
+
+
+
+
+
+
+Main navigation
+
+
+Curated Resources
+
+
+Exhibits
+
+
+
+
+
+
+
+
+
+
+Collections
+
+
+
+
+
+
+
+
+
+
+ 
+Archives and Special Collections maintains a growing number of collection guides and inventories to support discovery of and access to the collections.
+
+
+
+
+
+
+
+
+
+
+          Image Collection
+        
+
+* Access to digitized archival images is currently suspended as we currently transition and migrate our content to a new platform. Please direct any questions to email us and Archives staff will do their best to accommodate your request. 
+
+
+
+
+
+
+
+
+
+
+
+          Archival and Manuscript Collections
+        
+
+The Guides to Institute Records and Manuscript Collections provides web access to descriptive information and inventories of archival and special collections housed in the Institute Archives.These collections include archival records which provide documentation of the development and growth of the Institute. Special Collections include manuscript collections focusing on nineteenth and twentieth century science and technology.
+
+
+
+
+
+
+
+
+
+
+
+          Rensselaer Digital Collections
+        
+
+* Access to RPI histories, Institute publications, and images is currently in transition as we migrate our content to a new platform. Please direct any questions to Rensselaer Digital Collections Support.  
+
+
+
+
+
+
+
+
+
+
+
+          Rare Books
+        
+
+Part of the Rensselaer Libraries' catalog that includes only materials housed in the Institute Archives and Special Collections department.  This includes rare books, undergraduate theses (1855-1910), and cataloged archival and manuscript collections.Search the Rare Books catalog
+
+
+
+
+
+
+
+
+
+
+
+          Exhibits
+        
+
+Our online exhibitions highlight content from the collections to educate our readers and share the history of the Institute with our research communities.View all exhibits
+
+
+
+
+
+
+
+
+
+
+
+          Curated Resources
+        
+
+Curated resources on specific topics of Rensselaer history: exhibitions, bibliographic guides to key subject areas of special interest, and other important lists.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Institute Archives & Special Collections
+Folsom Library, Rensselaer Polytechnic Institute
+110 8th Street, Troy NY  12180
+MAIN OFFICE (518) 276-8340
+
+              Staff Directory
+            
+
+
+
+
+
+
+
+
+
+Contact Archives
+
+
+
+
+
+
+
+
+
+
+
+
+    Institute Archives and Special Collections
+  
+
+
+
+
+
+
+
+
+Main navigation
+
+
+About
+
+
+Research
+
+
+Collections
+
+
+Institute History
+
+
+Blog
+
+
+Collecting Policies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+Search
+Search
+
+
+
+
+
+
+
+
+
+Main navigation
+
+
+Curated Resources
+
+
+Exhibits
+
+
+
+
+
+
+
+
+
+
+Collections
+
+
+
+
+
+
+
+
+
+
+ 
+Archives and Special Collections maintains a growing number of collection guides and inventories to support discovery of and access to the collections.
+
+
+
+
+
+
+
+
+
+
+          Image Collection
+        
+
+* Access to digitized archival images is currently suspended as we currently transition and migrate our content to a new platform. Please direct any questions to email us and Archives staff will do their best to accommodate your request. 
+
+
+
+
+
+
+
+
+
+
+
+          Archival and Manuscript Collections
+        
+
+The Guides to Institute Records and Manuscript Collections provides web access to descriptive information and inventories of archival and special collections housed in the Institute Archives.These collections include archival records which provide documentation of the development and growth of the Institute. Special Collections include manuscript collections focusing on nineteenth and twentieth century science and technology.
+
+
+
+
+
+
+
+
+
+
+
+          Rensselaer Digital Collections
+        
+
+* Access to RPI histories, Institute publications, and images is currently in transition as we migrate our content to a new platform. Please direct any questions to Rensselaer Digital Collections Support.  
+
+
+
+
+
+
+
+
+
+
+
+          Rare Books
+        
+
+Part of the Rensselaer Libraries' catalog that includes only materials housed in the Institute Archives and Special Collections department.  This includes rare books, undergraduate theses (1855-1910), and cataloged archival and manuscript collections.Search the Rare Books catalog
+
+
+
+
+
+
+
+
+
+
+
+          Exhibits
+        
+
+Our online exhibitions highlight content from the collections to educate our readers and share the history of the Institute with our research communities.View all exhibits
+
+
+
+
+
+
+
+
+
+
+
+          Curated Resources
+        
+
+Curated resources on specific topics of Rensselaer history: exhibitions, bibliographic guides to key subject areas of special interest, and other important lists.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Institute Archives & Special Collections
+Folsom Library, Rensselaer Polytechnic Institute
+110 8th Street, Troy NY  12180
+MAIN OFFICE (518) 276-8340
+
+              Staff Directory
+            
+
+
+
+
+
+
+
+
+
+Contact Archives
+
+
+
+
+
+
+
+
+
+    Institute Archives and Special Collections
+  
+
+
+
+
+
+Main navigation
+
+
+About
+
+
+Research
+
+
+Collections
+
+
+Institute History
+
+
+Blog
+
+
+Collecting Policies
+
+
+
+
+
+
+Main navigation
+
+
+About
+
+
+Research
+
+
+Collections
+
+
+Institute History
+
+
+Blog
+
+
+Collecting Policies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+Search
+Search
+
+
+
+
+
+
+
+
+
+Main navigation
+
+
+Curated Resources
+
+
+Exhibits
+
+
+
+
+
+
+
+
+
+
+Collections
+
+
+
+
+
+
+
+
+
+
+ 
+Archives and Special Collections maintains a growing number of collection guides and inventories to support discovery of and access to the collections.
+
+
+
+
+
+
+
+
+
+
+          Image Collection
+        
+
+* Access to digitized archival images is currently suspended as we currently transition and migrate our content to a new platform. Please direct any questions to email us and Archives staff will do their best to accommodate your request. 
+
+
+
+
+
+
+
+
+
+
+
+          Archival and Manuscript Collections
+        
+
+The Guides to Institute Records and Manuscript Collections provides web access to descriptive information and inventories of archival and special collections housed in the Institute Archives.These collections include archival records which provide documentation of the development and growth of the Institute. Special Collections include manuscript collections focusing on nineteenth and twentieth century science and technology.
+
+
+
+
+
+
+
+
+
+
+
+          Rensselaer Digital Collections
+        
+
+* Access to RPI histories, Institute publications, and images is currently in transition as we migrate our content to a new platform. Please direct any questions to Rensselaer Digital Collections Support.  
+
+
+
+
+
+
+
+
+
+
+
+          Rare Books
+        
+
+Part of the Rensselaer Libraries' catalog that includes only materials housed in the Institute Archives and Special Collections department.  This includes rare books, undergraduate theses (1855-1910), and cataloged archival and manuscript collections.Search the Rare Books catalog
+
+
+
+
+
+
+
+
+
+
+
+          Exhibits
+        
+
+Our online exhibitions highlight content from the collections to educate our readers and share the history of the Institute with our research communities.View all exhibits
+
+
+
+
+
+
+
+
+
+
+
+          Curated Resources
+        
+
+Curated resources on specific topics of Rensselaer history: exhibitions, bibliographic guides to key subject areas of special interest, and other important lists.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+Search
+Search
+
+
+
+
+
+
+
+
+
+Main navigation
+
+
+Curated Resources
+
+
+Exhibits
+
+
+
+
+
+
+
+
+
+
+Collections
+
+
+
+
+
+
+
+
+
+
+ 
+Archives and Special Collections maintains a growing number of collection guides and inventories to support discovery of and access to the collections.
+
+
+
+
+
+
+
+
+
+
+          Image Collection
+        
+
+* Access to digitized archival images is currently suspended as we currently transition and migrate our content to a new platform. Please direct any questions to email us and Archives staff will do their best to accommodate your request. 
+
+
+
+
+
+
+
+
+
+
+
+          Archival and Manuscript Collections
+        
+
+The Guides to Institute Records and Manuscript Collections provides web access to descriptive information and inventories of archival and special collections housed in the Institute Archives.These collections include archival records which provide documentation of the development and growth of the Institute. Special Collections include manuscript collections focusing on nineteenth and twentieth century science and technology.
+
+
+
+
+
+
+
+
+
+
+
+          Rensselaer Digital Collections
+        
+
+* Access to RPI histories, Institute publications, and images is currently in transition as we migrate our content to a new platform. Please direct any questions to Rensselaer Digital Collections Support.  
+
+
+
+
+
+
+
+
+
+
+
+          Rare Books
+        
+
+Part of the Rensselaer Libraries' catalog that includes only materials housed in the Institute Archives and Special Collections department.  This includes rare books, undergraduate theses (1855-1910), and cataloged archival and manuscript collections.Search the Rare Books catalog
+
+
+
+
+
+
+
+
+
+
+
+          Exhibits
+        
+
+Our online exhibitions highlight content from the collections to educate our readers and share the history of the Institute with our research communities.View all exhibits
+
+
+
+
+
+
+
+
+
+
+
+          Curated Resources
+        
+
+Curated resources on specific topics of Rensselaer history: exhibitions, bibliographic guides to key subject areas of special interest, and other important lists.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+Search
+Search
+
+
+
+
+
+
+
+
+
+Main navigation
+
+
+Curated Resources
+
+
+Exhibits
+
+
+
+
+
+
+
+
+
+
+Collections
+
+
+
+
+
+
+
+
+
+
+ 
+Archives and Special Collections maintains a growing number of collection guides and inventories to support discovery of and access to the collections.
+
+
+
+
+
+
+
+
+
+
+          Image Collection
+        
+
+* Access to digitized archival images is currently suspended as we currently transition and migrate our content to a new platform. Please direct any questions to email us and Archives staff will do their best to accommodate your request. 
+
+
+
+
+
+
+
+
+
+
+
+          Archival and Manuscript Collections
+        
+
+The Guides to Institute Records and Manuscript Collections provides web access to descriptive information and inventories of archival and special collections housed in the Institute Archives.These collections include archival records which provide documentation of the development and growth of the Institute. Special Collections include manuscript collections focusing on nineteenth and twentieth century science and technology.
+
+
+
+
+
+
+
+
+
+
+
+          Rensselaer Digital Collections
+        
+
+* Access to RPI histories, Institute publications, and images is currently in transition as we migrate our content to a new platform. Please direct any questions to Rensselaer Digital Collections Support.  
+
+
+
+
+
+
+
+
+
+
+
+          Rare Books
+        
+
+Part of the Rensselaer Libraries' catalog that includes only materials housed in the Institute Archives and Special Collections department.  This includes rare books, undergraduate theses (1855-1910), and cataloged archival and manuscript collections.Search the Rare Books catalog
+
+
+
+
+
+
+
+
+
+
+
+          Exhibits
+        
+
+Our online exhibitions highlight content from the collections to educate our readers and share the history of the Institute with our research communities.View all exhibits
+
+
+
+
+
+
+
+
+
+
+
+          Curated Resources
+        
+
+Curated resources on specific topics of Rensselaer history: exhibitions, bibliographic guides to key subject areas of special interest, and other important lists.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+Search
+Search
+
+
+
+
+
+
+
+
+
+Main navigation
+
+
+Curated Resources
+
+
+Exhibits
+
+
+
+
+
+Search
+
+
+
+
+Search
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+Search
+
+
+
+
+
+
+
+
+
+Search
+Search
+
+
+
+
+
+
+Search
+Search
+
+
+
+
+Collections
+
+
+
+Collections
+
+
+
+
+
+
+
+
+ 
+Archives and Special Collections maintains a growing number of collection guides and inventories to support discovery of and access to the collections.
+
+
+
+
+
+
+
+
+
+
+          Image Collection
+        
+
+* Access to digitized archival images is currently suspended as we currently transition and migrate our content to a new platform. Please direct any questions to email us and Archives staff will do their best to accommodate your request. 
+
+
+
+
+
+
+
+
+
+
+
+          Archival and Manuscript Collections
+        
+
+The Guides to Institute Records and Manuscript Collections provides web access to descriptive information and inventories of archival and special collections housed in the Institute Archives.These collections include archival records which provide documentation of the development and growth of the Institute. Special Collections include manuscript collections focusing on nineteenth and twentieth century science and technology.
+
+
+
+
+
+
+
+
+
+
+
+          Rensselaer Digital Collections
+        
+
+* Access to RPI histories, Institute publications, and images is currently in transition as we migrate our content to a new platform. Please direct any questions to Rensselaer Digital Collections Support.  
+
+
+
+
+
+
+
+
+
+
+
+          Rare Books
+        
+
+Part of the Rensselaer Libraries' catalog that includes only materials housed in the Institute Archives and Special Collections department.  This includes rare books, undergraduate theses (1855-1910), and cataloged archival and manuscript collections.Search the Rare Books catalog
+
+
+
+
+
+
+
+
+
+
+
+          Exhibits
+        
+
+Our online exhibitions highlight content from the collections to educate our readers and share the history of the Institute with our research communities.View all exhibits
+
+
+
+
+
+
+
+
+
+
+
+          Curated Resources
+        
+
+Curated resources on specific topics of Rensselaer history: exhibitions, bibliographic guides to key subject areas of special interest, and other important lists.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Archives and Special Collections maintains a growing number of collection guides and inventories to support discovery of and access to the collections.
+
+
+
+
+
+
+
+
+
+
+          Image Collection
+        
+
+* Access to digitized archival images is currently suspended as we currently transition and migrate our content to a new platform. Please direct any questions to email us and Archives staff will do their best to accommodate your request. 
+
+
+
+
+
+
+
+
+
+
+
+          Archival and Manuscript Collections
+        
+
+The Guides to Institute Records and Manuscript Collections provides web access to descriptive information and inventories of archival and special collections housed in the Institute Archives.These collections include archival records which provide documentation of the development and growth of the Institute. Special Collections include manuscript collections focusing on nineteenth and twentieth century science and technology.
+
+
+
+
+
+
+
+
+
+
+
+          Rensselaer Digital Collections
+        
+
+* Access to RPI histories, Institute publications, and images is currently in transition as we migrate our content to a new platform. Please direct any questions to Rensselaer Digital Collections Support.  
+
+
+
+
+
+
+
+
+
+
+
+          Rare Books
+        
+
+Part of the Rensselaer Libraries' catalog that includes only materials housed in the Institute Archives and Special Collections department.  This includes rare books, undergraduate theses (1855-1910), and cataloged archival and manuscript collections.Search the Rare Books catalog
+
+
+
+
+
+
+
+
+
+
+
+          Exhibits
+        
+
+Our online exhibitions highlight content from the collections to educate our readers and share the history of the Institute with our research communities.View all exhibits
+
+
+
+
+
+
+
+
+
+
+
+          Curated Resources
+        
+
+Curated resources on specific topics of Rensselaer history: exhibitions, bibliographic guides to key subject areas of special interest, and other important lists.
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Archives and Special Collections maintains a growing number of collection guides and inventories to support discovery of and access to the collections.
+
+
+
+
+
+
+
+
+
+
+          Image Collection
+        
+
+* Access to digitized archival images is currently suspended as we currently transition and migrate our content to a new platform. Please direct any questions to email us and Archives staff will do their best to accommodate your request. 
+
+
+
+
+
+
+
+
+
+
+
+          Archival and Manuscript Collections
+        
+
+The Guides to Institute Records and Manuscript Collections provides web access to descriptive information and inventories of archival and special collections housed in the Institute Archives.These collections include archival records which provide documentation of the development and growth of the Institute. Special Collections include manuscript collections focusing on nineteenth and twentieth century science and technology.
+
+
+
+
+
+
+
+
+
+
+
+          Rensselaer Digital Collections
+        
+
+* Access to RPI histories, Institute publications, and images is currently in transition as we migrate our content to a new platform. Please direct any questions to Rensselaer Digital Collections Support.  
+
+
+
+
+
+
+
+
+
+
+
+          Rare Books
+        
+
+Part of the Rensselaer Libraries' catalog that includes only materials housed in the Institute Archives and Special Collections department.  This includes rare books, undergraduate theses (1855-1910), and cataloged archival and manuscript collections.Search the Rare Books catalog
+
+
+
+
+
+
+
+
+
+
+
+          Exhibits
+        
+
+Our online exhibitions highlight content from the collections to educate our readers and share the history of the Institute with our research communities.View all exhibits
+
+
+
+
+
+
+
+
+
+
+
+          Curated Resources
+        
+
+Curated resources on specific topics of Rensselaer history: exhibitions, bibliographic guides to key subject areas of special interest, and other important lists.
+
+
+
+
+
+
+
+
+
+ 
+Archives and Special Collections maintains a growing number of collection guides and inventories to support discovery of and access to the collections.
+
+
+
+
+
+
+
+
+
+
+          Image Collection
+        
+
+* Access to digitized archival images is currently suspended as we currently transition and migrate our content to a new platform. Please direct any questions to email us and Archives staff will do their best to accommodate your request. 
+
+
+
+
+
+
+
+
+
+
+
+          Archival and Manuscript Collections
+        
+
+The Guides to Institute Records and Manuscript Collections provides web access to descriptive information and inventories of archival and special collections housed in the Institute Archives.These collections include archival records which provide documentation of the development and growth of the Institute. Special Collections include manuscript collections focusing on nineteenth and twentieth century science and technology.
+
+
+
+
+
+
+
+
+
+
+
+          Rensselaer Digital Collections
+        
+
+* Access to RPI histories, Institute publications, and images is currently in transition as we migrate our content to a new platform. Please direct any questions to Rensselaer Digital Collections Support.  
+
+
+
+
+
+
+
+
+
+
+
+          Rare Books
+        
+
+Part of the Rensselaer Libraries' catalog that includes only materials housed in the Institute Archives and Special Collections department.  This includes rare books, undergraduate theses (1855-1910), and cataloged archival and manuscript collections.Search the Rare Books catalog
+
+
+
+
+
+
+
+
+
+
+
+          Exhibits
+        
+
+Our online exhibitions highlight content from the collections to educate our readers and share the history of the Institute with our research communities.View all exhibits
+
+
+
+
+
+
+
+
+
+
+
+          Curated Resources
+        
+
+Curated resources on specific topics of Rensselaer history: exhibitions, bibliographic guides to key subject areas of special interest, and other important lists.
+
+
+
+
+
+
+
+ 
+Archives and Special Collections maintains a growing number of collection guides and inventories to support discovery of and access to the collections.
+
+
+Archives and Special Collections maintains a growing number of collection guides and inventories to support discovery of and access to the collections.
+Archives and Special Collections maintains a growing number of collection guides and inventories to support discovery of and access to the collections.
+
+
+
+
+
+
+
+          Image Collection
+        
+
+* Access to digitized archival images is currently suspended as we currently transition and migrate our content to a new platform. Please direct any questions to email us and Archives staff will do their best to accommodate your request. 
+
+
+
+
+
+
+
+
+
+
+
+          Archival and Manuscript Collections
+        
+
+The Guides to Institute Records and Manuscript Collections provides web access to descriptive information and inventories of archival and special collections housed in the Institute Archives.These collections include archival records which provide documentation of the development and growth of the Institute. Special Collections include manuscript collections focusing on nineteenth and twentieth century science and technology.
+
+
+
+
+
+
+
+
+
+
+
+          Rensselaer Digital Collections
+        
+
+* Access to RPI histories, Institute publications, and images is currently in transition as we migrate our content to a new platform. Please direct any questions to Rensselaer Digital Collections Support.  
+
+
+
+
+
+
+
+
+
+
+
+          Rare Books
+        
+
+Part of the Rensselaer Libraries' catalog that includes only materials housed in the Institute Archives and Special Collections department.  This includes rare books, undergraduate theses (1855-1910), and cataloged archival and manuscript collections.Search the Rare Books catalog
+
+
+
+
+
+
+
+
+
+
+
+          Exhibits
+        
+
+Our online exhibitions highlight content from the collections to educate our readers and share the history of the Institute with our research communities.View all exhibits
+
+
+
+
+
+
+
+
+
+
+
+          Curated Resources
+        
+
+Curated resources on specific topics of Rensselaer history: exhibitions, bibliographic guides to key subject areas of special interest, and other important lists.
+
+
+
+
+
+
+
+
+
+
+
+
+          Image Collection
+        
+
+* Access to digitized archival images is currently suspended as we currently transition and migrate our content to a new platform. Please direct any questions to email us and Archives staff will do their best to accommodate your request. 
+
+
+
+
+
+
+
+
+
+          Image Collection
+        
+
+* Access to digitized archival images is currently suspended as we currently transition and migrate our content to a new platform. Please direct any questions to email us and Archives staff will do their best to accommodate your request. 
+
+
+
+
+
+
+
+          Image Collection
+        
+
+* Access to digitized archival images is currently suspended as we currently transition and migrate our content to a new platform. Please direct any questions to email us and Archives staff will do their best to accommodate your request. 
+
+
+
+
+          Image Collection
+        
+
+* Access to digitized archival images is currently suspended as we currently transition and migrate our content to a new platform. Please direct any questions to email us and Archives staff will do their best to accommodate your request. 
+
+
+          Image Collection
+        
+* Access to digitized archival images is currently suspended as we currently transition and migrate our content to a new platform. Please direct any questions to email us and Archives staff will do their best to accommodate your request. 
+
+
+
+
+
+
+          Archival and Manuscript Collections
+        
+
+The Guides to Institute Records and Manuscript Collections provides web access to descriptive information and inventories of archival and special collections housed in the Institute Archives.These collections include archival records which provide documentation of the development and growth of the Institute. Special Collections include manuscript collections focusing on nineteenth and twentieth century science and technology.
+
+
+
+
+
+
+
+
+
+          Archival and Manuscript Collections
+        
+
+The Guides to Institute Records and Manuscript Collections provides web access to descriptive information and inventories of archival and special collections housed in the Institute Archives.These collections include archival records which provide documentation of the development and growth of the Institute. Special Collections include manuscript collections focusing on nineteenth and twentieth century science and technology.
+
+
+
+
+
+
+
+          Archival and Manuscript Collections
+        
+
+The Guides to Institute Records and Manuscript Collections provides web access to descriptive information and inventories of archival and special collections housed in the Institute Archives.These collections include archival records which provide documentation of the development and growth of the Institute. Special Collections include manuscript collections focusing on nineteenth and twentieth century science and technology.
+
+
+
+
+          Archival and Manuscript Collections
+        
+
+The Guides to Institute Records and Manuscript Collections provides web access to descriptive information and inventories of archival and special collections housed in the Institute Archives.These collections include archival records which provide documentation of the development and growth of the Institute. Special Collections include manuscript collections focusing on nineteenth and twentieth century science and technology.
+
+
+          Archival and Manuscript Collections
+        
+The Guides to Institute Records and Manuscript Collections provides web access to descriptive information and inventories of archival and special collections housed in the Institute Archives.These collections include archival records which provide documentation of the development and growth of the Institute. Special Collections include manuscript collections focusing on nineteenth and twentieth century science and technology.
+
+
+
+
+
+
+          Rensselaer Digital Collections
+        
+
+* Access to RPI histories, Institute publications, and images is currently in transition as we migrate our content to a new platform. Please direct any questions to Rensselaer Digital Collections Support.  
+
+
+
+
+
+
+
+
+
+          Rensselaer Digital Collections
+        
+
+* Access to RPI histories, Institute publications, and images is currently in transition as we migrate our content to a new platform. Please direct any questions to Rensselaer Digital Collections Support.  
+
+
+
+
+
+
+
+          Rensselaer Digital Collections
+        
+
+* Access to RPI histories, Institute publications, and images is currently in transition as we migrate our content to a new platform. Please direct any questions to Rensselaer Digital Collections Support.  
+
+
+
+
+          Rensselaer Digital Collections
+        
+
+* Access to RPI histories, Institute publications, and images is currently in transition as we migrate our content to a new platform. Please direct any questions to Rensselaer Digital Collections Support.  
+
+
+          Rensselaer Digital Collections
+        
+* Access to RPI histories, Institute publications, and images is currently in transition as we migrate our content to a new platform. Please direct any questions to Rensselaer Digital Collections Support.  
+
+
+
+
+
+
+          Rare Books
+        
+
+Part of the Rensselaer Libraries' catalog that includes only materials housed in the Institute Archives and Special Collections department.  This includes rare books, undergraduate theses (1855-1910), and cataloged archival and manuscript collections.Search the Rare Books catalog
+
+
+
+
+
+
+
+
+
+          Rare Books
+        
+
+Part of the Rensselaer Libraries' catalog that includes only materials housed in the Institute Archives and Special Collections department.  This includes rare books, undergraduate theses (1855-1910), and cataloged archival and manuscript collections.Search the Rare Books catalog
+
+
+
+
+
+
+
+          Rare Books
+        
+
+Part of the Rensselaer Libraries' catalog that includes only materials housed in the Institute Archives and Special Collections department.  This includes rare books, undergraduate theses (1855-1910), and cataloged archival and manuscript collections.Search the Rare Books catalog
+
+
+
+
+          Rare Books
+        
+
+Part of the Rensselaer Libraries' catalog that includes only materials housed in the Institute Archives and Special Collections department.  This includes rare books, undergraduate theses (1855-1910), and cataloged archival and manuscript collections.Search the Rare Books catalog
+
+
+          Rare Books
+        
+Part of the Rensselaer Libraries' catalog that includes only materials housed in the Institute Archives and Special Collections department.  This includes rare books, undergraduate theses (1855-1910), and cataloged archival and manuscript collections.Search the Rare Books catalog
+
+
+
+
+
+
+          Exhibits
+        
+
+Our online exhibitions highlight content from the collections to educate our readers and share the history of the Institute with our research communities.View all exhibits
+
+
+
+
+
+
+
+
+
+          Exhibits
+        
+
+Our online exhibitions highlight content from the collections to educate our readers and share the history of the Institute with our research communities.View all exhibits
+
+
+
+
+
+
+
+          Exhibits
+        
+
+Our online exhibitions highlight content from the collections to educate our readers and share the history of the Institute with our research communities.View all exhibits
+
+
+
+
+          Exhibits
+        
+
+Our online exhibitions highlight content from the collections to educate our readers and share the history of the Institute with our research communities.View all exhibits
+
+
+          Exhibits
+        
+Our online exhibitions highlight content from the collections to educate our readers and share the history of the Institute with our research communities.View all exhibits
+
+
+
+
+
+
+          Curated Resources
+        
+
+Curated resources on specific topics of Rensselaer history: exhibitions, bibliographic guides to key subject areas of special interest, and other important lists.
+
+
+
+
+
+
+
+
+
+          Curated Resources
+        
+
+Curated resources on specific topics of Rensselaer history: exhibitions, bibliographic guides to key subject areas of special interest, and other important lists.
+
+
+
+
+
+
+
+          Curated Resources
+        
+
+Curated resources on specific topics of Rensselaer history: exhibitions, bibliographic guides to key subject areas of special interest, and other important lists.
+
+
+
+
+          Curated Resources
+        
+
+Curated resources on specific topics of Rensselaer history: exhibitions, bibliographic guides to key subject areas of special interest, and other important lists.
+
+
+          Curated Resources
+        
+Curated resources on specific topics of Rensselaer history: exhibitions, bibliographic guides to key subject areas of special interest, and other important lists.
+
+
+
+
+
+
+
+Institute Archives & Special Collections
+Folsom Library, Rensselaer Polytechnic Institute
+110 8th Street, Troy NY  12180
+MAIN OFFICE (518) 276-8340
+
+              Staff Directory
+            
+
+
+
+
+
+
+
+
+
+Contact Archives
+
+
+
+
+
+
+
+
+
+Institute Archives & Special Collections
+Folsom Library, Rensselaer Polytechnic Institute
+110 8th Street, Troy NY  12180
+MAIN OFFICE (518) 276-8340
+
+              Staff Directory
+            
+
+
+
+
+
+
+
+
+
+Contact Archives
+
+
+
+
+
+
+Institute Archives & Special Collections
+Folsom Library, Rensselaer Polytechnic Institute
+110 8th Street, Troy NY  12180
+MAIN OFFICE (518) 276-8340
+
+              Staff Directory
+            
+
+
+
+
+
+
+
+
+
+Contact Archives
+
+
+
+
+
+Institute Archives & Special Collections
+Folsom Library, Rensselaer Polytechnic Institute
+110 8th Street, Troy NY  12180
+MAIN OFFICE (518) 276-8340
+
+              Staff Directory
+            
+
+
+
+
+
+
+
+Institute Archives & Special Collections
+Folsom Library, Rensselaer Polytechnic Institute
+110 8th Street, Troy NY  12180
+MAIN OFFICE (518) 276-8340
+
+              Staff Directory
+            
+
+
+
+
+
+Institute Archives & Special Collections
+Folsom Library, Rensselaer Polytechnic Institute
+110 8th Street, Troy NY  12180
+MAIN OFFICE (518) 276-8340
+
+              Staff Directory
+            
+
+
+
+
+
+Contact Archives
+
+
+
+
+
+
+Rensselaer Polytechnic Institute
+
+
+              110 Eighth Street |
+              Troy, NY USA 12180
+            
+
+(518) 276-6000
+
+Contact Us
+
+
+
+
+
+
+
+Policies:
+
+                Media
+
+                Web Privacy
+
+                Title IX
+
+
+              Student Consumer Information
+
+              Accessibility
+
 
             Copyright © 2023 Rensselaer Polytechnic Institute (RPI)
           
+
+
+
+
+
+
+
+Rensselaer Polytechnic Institute
+
+
+              110 Eighth Street |
+              Troy, NY USA 12180
+            
+
+(518) 276-6000
+
+Contact Us
+
+
+
+
+
+
+
+Policies:
+
+                Media
+
+                Web Privacy
+
+                Title IX
+
+
+              Student Consumer Information
+
+              Accessibility
+
+
+            Copyright © 2023 Rensselaer Polytechnic Institute (RPI)
+          
+
+
+
+
+
+Rensselaer Polytechnic Institute
+
+
+              110 Eighth Street |
+              Troy, NY USA 12180
+            
+
+(518) 276-6000
+
+Contact Us
+
+
+Rensselaer Polytechnic Institute
+
+              110 Eighth Street |
+              Troy, NY USA 12180
+            
+
+              110 Eighth Street |
+              Troy, NY USA 12180
+            (518) 276-6000
+Contact Us
+
+
+
+
+Policies:
+
+                Media
+
+                Web Privacy
+
+                Title IX
+
+
+              Student Consumer Information
+
+              Accessibility
+
+
+            Copyright © 2023 Rensselaer Polytechnic Institute (RPI)
+          
+
+
+
+
+Policies:
+
+                Media
+
+                Web Privacy
+
+                Title IX
+
+
+              Student Consumer Information
+
+              Accessibility
+
+
+            Copyright © 2023 Rensselaer Polytechnic Institute (RPI)
+          
+
+Policies:
+
+                Media
+
+                Web Privacy
+
+                Title IX
