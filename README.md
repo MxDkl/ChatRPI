@@ -1,4 +1,4 @@
-Chatbot powered by Pinecone and Openai.
-Answers questions about RPI.
+# Chatbot that answers questions about RPI.
+## Powered by Pinecone and Openai
 
-##https://ChatRPI.com/
+## https://ChatRPI.com/
