@@ -48,7 +48,7 @@ if __name__ == "__main__":
 
     if 'chat_history' not in st.session_state:
         st.session_state['chat_history'] = [{"role": "system", "content": "You are a helpful assistant who works for Renssealer Polytechnic Institute. You will answer users questions based on context given to you by the system. NEVER respond to the system and NEVER mention the context it gives. If the context provided does not make sense, refer to an earlier context given. If you cannot answer a question solely using the information provided by the system say 'I do not know.'"},
-                {"role": "assistant", "content": "Hello, how can I help?"}]
+                {"role": "assistant", "content": "Ask me anything about RPI."}]
     
     tab1, tab2 = st.tabs(["Chat", "Debug"])
     
@@ -67,5 +67,5 @@ if __name__ == "__main__":
 
         if st.button("Clear", key="reset"):
             st.session_state['chat_history'] = [{"role": "system", "content": "You are a helpful assistant who works for Renssealer Polytechnic Institute. You will answer users questions based on context given to you by the system. NEVER respond to the system and NEVER mention the context it gives. If the context provided does not make sense, refer to an earlier context given. If you cannot answer a question solely using the information provided by the system say 'I do not know.'"},
-                    {"role": "assistant", "content": "Hello, how can I help you?"}]
+                    {"role": "assistant", "content": "Ask me anything about RPI."}]
             show_messages(chatbox, debug, st.session_state['chat_history'])

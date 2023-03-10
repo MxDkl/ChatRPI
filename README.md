@@ -1,0 +1,1 @@
+Chatbot powered by Pinecone and Openai
