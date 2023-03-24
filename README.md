@@ -1,4 +1,4 @@
-# Build a Chatbot that can talk to users about your website
+## Build a Chatbot that can talk to users about your website
 Powered by Pinecone and Openai
 
 ### Example:
