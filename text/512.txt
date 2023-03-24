@@ -1,20 +1,182 @@
-As of November 1, 2019, The Insitute has transitioned to a new vendor supporting RPI Alerts.  All Rensselaer community members and others who receive RPI Alerts should verify and update their information.Verify Your Contact Information:Access the RPI Alert | Campus Portal to update your contact information using your RCS username and password. Individuals with RCS usernames and passwords may add contact information for parents, or other family members, using the Second Contact Call and Second Contact Text fields. If you do not have an RCS username and password —
- or a family member with access to the system —
- but wish to receive RPI Alert messages, please email Megan Bowman in the Department of Public Safety. 
-Add your mobile phone:Login to the RPI Alert | Campus Portal, click on My Profile, and then add a "Personal Cell Text" and "Personal Cell Call" phone number.About RPI AlertRPI Alert, the emergency notification system for Rensselaer Polytechnic Institute, is designed to provide rapid notification and instructions to students, faculty, staff, and others in the event of a crisis in progress.Questions about RPI AlertTimely communications are an essential part of a successful response to an active emergency. RPI Alerts are the fastest way to provide the most up-to-date and essential information regarding campus safety to those that may be impacted.An RPI Alert will be distributed when it is believed that a life threatening event is about to happen, is currently happening, or has a high potential to happen in the near future. 
-RPI Safety Advisories will be distributed in the event of non-critical threats to the campus community, such as anticipated weather events or suspicious activity reported in the vicinity of the campus.An RPI Alert message will tell you what personal safety actions should be taken in response to the situation. Read carefully and follow the provided instructions. If possible, continue to monitor your cell phone and email service for additional RPI Alert updates.
-RPI Safety Advisories will also provide instructions, if necessary. Though they will not require immediate action, they should also be read carefully.The Department of Public Safety will test the system on a regular basis, at least once per semester. If the message is a test of the system, it will be delivered with “TEST” in the subject line. Any message that does not include the word "TEST" is urgent and should be responded to appropriately.You have the capability to register as many as four telephone [MML1] numbers, categorizing them by recipients. We recommend you prioritize numbers that most frequently reach you. For most campus constituents, this would be your cell phone number(s). Among your additional numbers, you may also wish to enter contact information for family members, such as parents.Registering additional phone devices increases your notification options. Text messaging is fast and efficient and lessens dependence on receiving emails during an emergency situation.Contact information entered into the RPI Alert system is used solely for the purposes of RPI Alert and RPI Safety Advisory messages and is not shared with other campus groups or third parties.
+The Environmental, Health, Safety & Risk Management (EHS&RM) department supports a collaborative partnership with faculty, staff and students by providing advice and technical guidance on occupational, environmental, health and safety and risk management issues. Working within the Division of Human Resources affords EHS&RM the opportunity of strengthening the Division's mission of improving human capital of which safety, the environment and risk are essential components.Offices located in the Gurley Building, at 21 Union Street.Director EHS&RM (518) 276-6114
+              Staff Directory
+            Report an Incident or Accident
             Copyright © 2023 Rensselaer Polytechnic Institute (RPI)
           
-Apply
+Laboratory & Research
 
-Visit
+Workplace & Trade
 
-Give
-When activated, RPI Alert uses e-mail, text messaging and cell/landline phone calls to send a brief notice about the situation and instructions of what to do.In case of an emergency that requires immediate action, a notification will look like this: "RPI ALERT: A campus emergency has been declared. Updates will be posted to alert.rpi.edu."In instances where no immediate action is required, the notification will look like this: “RPI SAFETY ADVISORY: An incident has occurred that requires attention. More details are available at alert.rpi.edu.”
-Update Your Info
+Fire Safety
 
-Public Safety
+Risk Management
+
+Policies & Procedures
+
+Forms
+
+Emergencies & Incidents
+
+
+                Rensselaer's risk management process undertakes a best practices approach
+                
+
+
+
+                Environmental Health and Safety Policy Statement
+                
+
+
+
+                Laboratory and Chemical Safety Programs
+                
+
+
+
+                Occupational & Office Safety Programs
+                
+
+
+
+                Trades & Construction Programs
+                
+
+
+
+                Hazardous Waste Management
+                
+
+
+
+                EHS offers on-site classroom training
+                
+
+
+
+                View our online trainings in Skillport
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Division Of Human Resources
+  
+
+
+
+    Environmental, Health, Safety & Risk Management
+  
+
+
+
+
+
+
+
+
+Main navigation
+
+
+Laboratory & Research
+
+
+Workplace & Trade
+
+
+Fire Safety
+
+
+Risk Management
+
+
+Policies & Procedures
+
+
+Forms
+
+
+Emergencies & Incidents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Environmental, Health, Safety & Risk Management (EHS&RM) department supports a collaborative partnership with faculty, staff and students by providing advice and technical guidance on occupational, environmental, health and safety and risk management issues. Working within the Division of Human Resources affords EHS&RM the opportunity of strengthening the Division's mission of improving human capital of which safety, the environment and risk are essential components.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hazardous Waste Management
+
+
+
+
+
+
+
+
+
+Safety Training
+
+
+
+
+
+
+
+
+
+Report an Incident or Accident
+
+
+
+
+
 
 
 
@@ -22,83 +184,76 @@ Public Safety
 
 
 
-Apply
+Safety & Risk Procedures
 
 
-Visit
 
+                Rensselaer's risk management process undertakes a best practices approach
+                
 
-Give
 
 
 
+                Environmental Health and Safety Policy Statement
+                
 
 
 
 
-Search
 
 
 
 
+Safety Programs
 
 
 
+                Laboratory and Chemical Safety Programs
+                
 
-Apply
 
 
-Visit
 
+                Occupational & Office Safety Programs
+                
 
-Give
 
 
 
+                Trades & Construction Programs
+                
 
 
 
-Search
 
+                Hazardous Waste Management
+                
 
 
 
-Search
 
 
 
 
 
-There are currently NO ALERTS for the Troy Campus 
+Safety Training
 
-There are currently NO ALERTS for the Troy Campus There are currently NO ALERTS for the Troy Campus
 
 
- As of November 1, 2019, The Insitute has transitioned to a new vendor supporting RPI Alerts.  All Rensselaer community members and others who receive RPI Alerts should verify and update their information.
-Verify Your Contact Information:
-Access the RPI Alert | Campus Portal to update your contact information using your RCS username and password. Individuals with RCS usernames and passwords may add contact information for parents, or other family members, using the Second Contact Call and Second Contact Text fields. If you do not have an RCS username and password —
- or a family member with access to the system —
- but wish to receive RPI Alert messages, please email Megan Bowman in the Department of Public Safety. 
+                EHS offers on-site classroom training
+                
 
-Add your mobile phone:
-Login to the RPI Alert | Campus Portal, click on My Profile, and then add a "Personal Cell Text" and "Personal Cell Call" phone number.
-About RPI AlertRPI Alert, the emergency notification system for Rensselaer Polytechnic Institute, is designed to provide rapid notification and instructions to students, faculty, staff, and others in the event of a crisis in progress.
-When activated, RPI Alert uses e-mail, text messaging and cell/landline phone calls to send a brief notice about the situation and instructions of what to do.
-In case of an emergency that requires immediate action, a notification will look like this: "RPI ALERT: A campus emergency has been declared. Updates will be posted to alert.rpi.edu."
-In instances where no immediate action is required, the notification will look like this: “RPI SAFETY ADVISORY: An incident has occurred that requires attention. More details are available at alert.rpi.edu.”
-Questions about RPI Alert
 
 
 
+                View our online trainings in Skillport
+                
 
 
 
-        Why is Rensselaer providing this service?
-        
 
 
 
-Timely communications are an essential part of a successful response to an active emergency. RPI Alerts are the fastest way to provide the most up-to-date and essential information regarding campus safety to those that may be impacted.
 
 
 
@@ -107,42 +262,36 @@ Timely communications are an essential part of a successful response to an activ
 
 
 
-        When will RPI Alert be used?
-        
 
 
 
-An RPI Alert will be distributed when it is believed that a life threatening event is about to happen, is currently happening, or has a high potential to happen in the near future. 
-RPI Safety Advisories will be distributed in the event of non-critical threats to the campus community, such as anticipated weather events or suspicious activity reported in the vicinity of the campus.
 
 
 
 
 
 
+Offices located in the Gurley Building, at 21 Union Street.
+Director EHS&RM (518) 276-6114
 
+              Staff Directory
+            
 
-        What should I do when I get an alert?
-        
 
 
 
-An RPI Alert message will tell you what personal safety actions should be taken in response to the situation. Read carefully and follow the provided instructions. If possible, continue to monitor your cell phone and email service for additional RPI Alert updates.
-RPI Safety Advisories will also provide instructions, if necessary. Though they will not require immediate action, they should also be read carefully.
 
 
 
 
 
+Report an Incident or Accident
 
 
 
-       Will the Institute be testing the RPI ALERT system?
-        
 
 
 
-The Department of Public Safety will test the system on a regular basis, at least once per semester. If the message is a test of the system, it will be delivered with “TEST” in the subject line. Any message that does not include the word "TEST" is urgent and should be responded to appropriately.
 
 
 
@@ -150,13 +299,14 @@ The Department of Public Safety will test the system on a regular basis, at leas
 
 
 
+  Division Of Human Resources
+  
 
-       What devices/numbers should I register?
-        
 
 
+    Environmental, Health, Safety & Risk Management
+  
 
-You have the capability to register as many as four telephone [MML1] numbers, categorizing them by recipients. We recommend you prioritize numbers that most frequently reach you. For most campus constituents, this would be your cell phone number(s). Among your additional numbers, you may also wish to enter contact information for family members, such as parents.
 
 
 
@@ -164,27 +314,29 @@ You have the capability to register as many as four telephone [MML1] numbers, ca
 
 
 
+Main navigation
 
-       Why should I register additional devices onto the system?
-        
 
+Laboratory & Research
 
 
-Registering additional phone devices increases your notification options. Text messaging is fast and efficient and lessens dependence on receiving emails during an emergency situation.
+Workplace & Trade
 
 
+Fire Safety
 
 
+Risk Management
 
 
+Policies & Procedures
 
 
-      How will the data I provide be used?
-        
+Forms
 
 
+Emergencies & Incidents
 
-Contact information entered into the RPI Alert system is used solely for the purposes of RPI Alert and RPI Safety Advisory messages and is not shared with other campus groups or third parties.
 
 
 
@@ -195,10 +347,58 @@ Contact information entered into the RPI Alert system is used solely for the pur
 
 
 
-Update Your Info
 
 
-Public Safety
+
+
+
+
+
+
+
+
+The Environmental, Health, Safety & Risk Management (EHS&RM) department supports a collaborative partnership with faculty, staff and students by providing advice and technical guidance on occupational, environmental, health and safety and risk management issues. Working within the Division of Human Resources affords EHS&RM the opportunity of strengthening the Division's mission of improving human capital of which safety, the environment and risk are essential components.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hazardous Waste Management
+
+
+
+
+
+
+
+
+
+Safety Training
+
+
+
+
+
+
+
+
+
+Report an Incident or Accident
+
+
+
+
 
 
 
@@ -206,61 +406,52 @@ Public Safety
  
 
 
- As of November 1, 2019, The Insitute has transitioned to a new vendor supporting RPI Alerts.  All Rensselaer community members and others who receive RPI Alerts should verify and update their information.
-Verify Your Contact Information:
-Access the RPI Alert | Campus Portal to update your contact information using your RCS username and password. Individuals with RCS usernames and passwords may add contact information for parents, or other family members, using the Second Contact Call and Second Contact Text fields. If you do not have an RCS username and password —
- or a family member with access to the system —
- but wish to receive RPI Alert messages, please email Megan Bowman in the Department of Public Safety. 
 
-Add your mobile phone:
-Login to the RPI Alert | Campus Portal, click on My Profile, and then add a "Personal Cell Text" and "Personal Cell Call" phone number.
-About RPI AlertRPI Alert, the emergency notification system for Rensselaer Polytechnic Institute, is designed to provide rapid notification and instructions to students, faculty, staff, and others in the event of a crisis in progress.
-When activated, RPI Alert uses e-mail, text messaging and cell/landline phone calls to send a brief notice about the situation and instructions of what to do.
-In case of an emergency that requires immediate action, a notification will look like this: "RPI ALERT: A campus emergency has been declared. Updates will be posted to alert.rpi.edu."
-In instances where no immediate action is required, the notification will look like this: “RPI SAFETY ADVISORY: An incident has occurred that requires attention. More details are available at alert.rpi.edu.”
-Questions about RPI Alert
+Safety & Risk Procedures
 
 
 
+                Rensselaer's risk management process undertakes a best practices approach
+                
 
 
 
-        Why is Rensselaer providing this service?
-        
 
+                Environmental Health and Safety Policy Statement
+                
 
 
-Timely communications are an essential part of a successful response to an active emergency. RPI Alerts are the fastest way to provide the most up-to-date and essential information regarding campus safety to those that may be impacted.
 
 
 
 
 
 
+Safety Programs
 
 
-        When will RPI Alert be used?
-        
 
+                Laboratory and Chemical Safety Programs
+                
 
 
-An RPI Alert will be distributed when it is believed that a life threatening event is about to happen, is currently happening, or has a high potential to happen in the near future. 
-RPI Safety Advisories will be distributed in the event of non-critical threats to the campus community, such as anticipated weather events or suspicious activity reported in the vicinity of the campus.
 
 
+                Occupational & Office Safety Programs
+                
 
 
 
 
+                Trades & Construction Programs
+                
 
 
-        What should I do when I get an alert?
-        
 
 
+                Hazardous Waste Management
+                
 
-An RPI Alert message will tell you what personal safety actions should be taken in response to the situation. Read carefully and follow the provided instructions. If possible, continue to monitor your cell phone and email service for additional RPI Alert updates.
-RPI Safety Advisories will also provide instructions, if necessary. Though they will not require immediate action, they should also be read carefully.
 
 
 
@@ -268,27 +459,26 @@ RPI Safety Advisories will also provide instructions, if necessary. Though they 
 
 
 
+Safety Training
 
-       Will the Institute be testing the RPI ALERT system?
-        
 
 
+                EHS offers on-site classroom training
+                
 
-The Department of Public Safety will test the system on a regular basis, at least once per semester. If the message is a test of the system, it will be delivered with “TEST” in the subject line. Any message that does not include the word "TEST" is urgent and should be responded to appropriately.
 
 
 
+                View our online trainings in Skillport
+                
 
 
 
 
 
-       What devices/numbers should I register?
-        
 
 
 
-You have the capability to register as many as four telephone [MML1] numbers, categorizing them by recipients. We recommend you prioritize numbers that most frequently reach you. For most campus constituents, this would be your cell phone number(s). Among your additional numbers, you may also wish to enter contact information for family members, such as parents.
 
 
 
@@ -297,29 +487,28 @@ You have the capability to register as many as four telephone [MML1] numbers, ca
 
 
 
-       Why should I register additional devices onto the system?
-        
 
 
 
-Registering additional phone devices increases your notification options. Text messaging is fast and efficient and lessens dependence on receiving emails during an emergency situation.
 
 
 
 
+Offices located in the Gurley Building, at 21 Union Street.
+Director EHS&RM (518) 276-6114
 
+              Staff Directory
+            
 
 
 
-      How will the data I provide be used?
-        
 
 
 
-Contact information entered into the RPI Alert system is used solely for the purposes of RPI Alert and RPI Safety Advisory messages and is not shared with other campus groups or third parties.
 
 
 
+Report an Incident or Accident
 
 
 
@@ -327,56 +516,47 @@ Contact information entered into the RPI Alert system is used solely for the pur
 
 
 
-Update Your Info
 
 
-Public Safety
 
 
+  Division Of Human Resources
+  
 
 
 
+    Environmental, Health, Safety & Risk Management
+  
 
- As of November 1, 2019, The Insitute has transitioned to a new vendor supporting RPI Alerts.  All Rensselaer community members and others who receive RPI Alerts should verify and update their information.
-Verify Your Contact Information:
-Access the RPI Alert | Campus Portal to update your contact information using your RCS username and password. Individuals with RCS usernames and passwords may add contact information for parents, or other family members, using the Second Contact Call and Second Contact Text fields. If you do not have an RCS username and password —
- or a family member with access to the system —
- but wish to receive RPI Alert messages, please email Megan Bowman in the Department of Public Safety. 
 
-Add your mobile phone:
-Login to the RPI Alert | Campus Portal, click on My Profile, and then add a "Personal Cell Text" and "Personal Cell Call" phone number.
-About RPI AlertRPI Alert, the emergency notification system for Rensselaer Polytechnic Institute, is designed to provide rapid notification and instructions to students, faculty, staff, and others in the event of a crisis in progress.
-When activated, RPI Alert uses e-mail, text messaging and cell/landline phone calls to send a brief notice about the situation and instructions of what to do.
-In case of an emergency that requires immediate action, a notification will look like this: "RPI ALERT: A campus emergency has been declared. Updates will be posted to alert.rpi.edu."
-In instances where no immediate action is required, the notification will look like this: “RPI SAFETY ADVISORY: An incident has occurred that requires attention. More details are available at alert.rpi.edu.”
-Questions about RPI Alert
 
 
 
 
 
 
-        Why is Rensselaer providing this service?
-        
+Main navigation
 
 
+Laboratory & Research
 
-Timely communications are an essential part of a successful response to an active emergency. RPI Alerts are the fastest way to provide the most up-to-date and essential information regarding campus safety to those that may be impacted.
 
+Workplace & Trade
 
 
+Fire Safety
 
 
+Risk Management
 
 
+Policies & Procedures
 
-        When will RPI Alert be used?
-        
 
+Forms
 
 
-An RPI Alert will be distributed when it is believed that a life threatening event is about to happen, is currently happening, or has a high potential to happen in the near future. 
-RPI Safety Advisories will be distributed in the event of non-critical threats to the campus community, such as anticipated weather events or suspicious activity reported in the vicinity of the campus.
+Emergencies & Incidents
 
 
 
@@ -385,13 +565,9 @@ RPI Safety Advisories will be distributed in the event of non-critical threats t
 
 
 
-        What should I do when I get an alert?
-        
 
 
 
-An RPI Alert message will tell you what personal safety actions should be taken in response to the situation. Read carefully and follow the provided instructions. If possible, continue to monitor your cell phone and email service for additional RPI Alert updates.
-RPI Safety Advisories will also provide instructions, if necessary. Though they will not require immediate action, they should also be read carefully.
 
 
 
@@ -400,12 +576,10 @@ RPI Safety Advisories will also provide instructions, if necessary. Though they 
 
 
 
-       Will the Institute be testing the RPI ALERT system?
-        
 
 
+The Environmental, Health, Safety & Risk Management (EHS&RM) department supports a collaborative partnership with faculty, staff and students by providing advice and technical guidance on occupational, environmental, health and safety and risk management issues. Working within the Division of Human Resources affords EHS&RM the opportunity of strengthening the Division's mission of improving human capital of which safety, the environment and risk are essential components.
 
-The Department of Public Safety will test the system on a regular basis, at least once per semester. If the message is a test of the system, it will be delivered with “TEST” in the subject line. Any message that does not include the word "TEST" is urgent and should be responded to appropriately.
 
 
 
@@ -414,115 +588,111 @@ The Department of Public Safety will test the system on a regular basis, at leas
 
 
 
-       What devices/numbers should I register?
-        
 
 
 
-You have the capability to register as many as four telephone [MML1] numbers, categorizing them by recipients. We recommend you prioritize numbers that most frequently reach you. For most campus constituents, this would be your cell phone number(s). Among your additional numbers, you may also wish to enter contact information for family members, such as parents.
 
 
 
 
+Hazardous Waste Management
 
 
 
 
-       Why should I register additional devices onto the system?
-        
 
 
 
-Registering additional phone devices increases your notification options. Text messaging is fast and efficient and lessens dependence on receiving emails during an emergency situation.
 
 
+Safety Training
 
 
 
 
 
 
-      How will the data I provide be used?
-        
 
 
 
-Contact information entered into the RPI Alert system is used solely for the purposes of RPI Alert and RPI Safety Advisory messages and is not shared with other campus groups or third parties.
+Report an Incident or Accident
 
 
 
 
 
- As of November 1, 2019, The Insitute has transitioned to a new vendor supporting RPI Alerts.  All Rensselaer community members and others who receive RPI Alerts should verify and update their information.
 
 
 
+ 
 
 
-        Why is Rensselaer providing this service?
-        
 
+Safety & Risk Procedures
 
 
-Timely communications are an essential part of a successful response to an active emergency. RPI Alerts are the fastest way to provide the most up-to-date and essential information regarding campus safety to those that may be impacted.
 
+                Rensselaer's risk management process undertakes a best practices approach
+                
 
 
 
 
+                Environmental Health and Safety Policy Statement
+                
 
 
 
-        When will RPI Alert be used?
-        
 
 
 
-An RPI Alert will be distributed when it is believed that a life threatening event is about to happen, is currently happening, or has a high potential to happen in the near future. 
-RPI Safety Advisories will be distributed in the event of non-critical threats to the campus community, such as anticipated weather events or suspicious activity reported in the vicinity of the campus.
 
 
+Safety Programs
 
 
 
+                Laboratory and Chemical Safety Programs
+                
 
 
 
-        What should I do when I get an alert?
-        
 
+                Occupational & Office Safety Programs
+                
 
 
-An RPI Alert message will tell you what personal safety actions should be taken in response to the situation. Read carefully and follow the provided instructions. If possible, continue to monitor your cell phone and email service for additional RPI Alert updates.
-RPI Safety Advisories will also provide instructions, if necessary. Though they will not require immediate action, they should also be read carefully.
 
 
+                Trades & Construction Programs
+                
 
 
 
 
+                Hazardous Waste Management
+                
 
 
-       Will the Institute be testing the RPI ALERT system?
-        
 
 
 
-The Department of Public Safety will test the system on a regular basis, at least once per semester. If the message is a test of the system, it will be delivered with “TEST” in the subject line. Any message that does not include the word "TEST" is urgent and should be responded to appropriately.
 
 
 
+Safety Training
 
 
 
+                EHS offers on-site classroom training
+                
 
 
-       What devices/numbers should I register?
-        
 
 
+                View our online trainings in Skillport
+                
 
-You have the capability to register as many as four telephone [MML1] numbers, categorizing them by recipients. We recommend you prioritize numbers that most frequently reach you. For most campus constituents, this would be your cell phone number(s). Among your additional numbers, you may also wish to enter contact information for family members, such as parents.
 
 
 
@@ -531,12 +701,9 @@ You have the capability to register as many as four telephone [MML1] numbers, ca
 
 
 
-       Why should I register additional devices onto the system?
-        
 
 
 
-Registering additional phone devices increases your notification options. Text messaging is fast and efficient and lessens dependence on receiving emails during an emergency situation.
 
 
 
@@ -545,13 +712,14 @@ Registering additional phone devices increases your notification options. Text m
 
 
 
-      How will the data I provide be used?
-        
 
 
 
-Contact information entered into the RPI Alert system is used solely for the purposes of RPI Alert and RPI Safety Advisory messages and is not shared with other campus groups or third parties.
+Offices located in the Gurley Building, at 21 Union Street.
+Director EHS&RM (518) 276-6114
 
+              Staff Directory
+            
 
 
 
@@ -559,191 +727,1413 @@ Contact information entered into the RPI Alert system is used solely for the pur
 
 
 
-        Why is Rensselaer providing this service?
-        
 
 
+Report an Incident or Accident
 
-Timely communications are an essential part of a successful response to an active emergency. RPI Alerts are the fastest way to provide the most up-to-date and essential information regarding campus safety to those that may be impacted.
 
 
 
 
 
 
-        Why is Rensselaer providing this service?
-        
 
+  Division Of Human Resources
+  
 
-Timely communications are an essential part of a successful response to an active emergency. RPI Alerts are the fastest way to provide the most up-to-date and essential information regarding campus safety to those that may be impacted.
 
 
-Timely communications are an essential part of a successful response to an active emergency. RPI Alerts are the fastest way to provide the most up-to-date and essential information regarding campus safety to those that may be impacted.
+    Environmental, Health, Safety & Risk Management
+  
 
 
 
 
 
-        When will RPI Alert be used?
-        
+Main navigation
 
 
+Laboratory & Research
 
-An RPI Alert will be distributed when it is believed that a life threatening event is about to happen, is currently happening, or has a high potential to happen in the near future. 
-RPI Safety Advisories will be distributed in the event of non-critical threats to the campus community, such as anticipated weather events or suspicious activity reported in the vicinity of the campus.
 
+Workplace & Trade
 
 
+Fire Safety
 
 
+Risk Management
 
-        When will RPI Alert be used?
-        
 
+Policies & Procedures
 
-An RPI Alert will be distributed when it is believed that a life threatening event is about to happen, is currently happening, or has a high potential to happen in the near future. 
-RPI Safety Advisories will be distributed in the event of non-critical threats to the campus community, such as anticipated weather events or suspicious activity reported in the vicinity of the campus.
 
+Forms
 
-An RPI Alert will be distributed when it is believed that a life threatening event is about to happen, is currently happening, or has a high potential to happen in the near future. 
-RPI Safety Advisories will be distributed in the event of non-critical threats to the campus community, such as anticipated weather events or suspicious activity reported in the vicinity of the campus.
 
+Emergencies & Incidents
 
 
 
 
-        What should I do when I get an alert?
-        
 
 
+Main navigation
 
-An RPI Alert message will tell you what personal safety actions should be taken in response to the situation. Read carefully and follow the provided instructions. If possible, continue to monitor your cell phone and email service for additional RPI Alert updates.
-RPI Safety Advisories will also provide instructions, if necessary. Though they will not require immediate action, they should also be read carefully.
 
+Laboratory & Research
 
 
+Workplace & Trade
 
 
+Fire Safety
 
-        What should I do when I get an alert?
-        
 
+Risk Management
 
-An RPI Alert message will tell you what personal safety actions should be taken in response to the situation. Read carefully and follow the provided instructions. If possible, continue to monitor your cell phone and email service for additional RPI Alert updates.
-RPI Safety Advisories will also provide instructions, if necessary. Though they will not require immediate action, they should also be read carefully.
 
+Policies & Procedures
 
-An RPI Alert message will tell you what personal safety actions should be taken in response to the situation. Read carefully and follow the provided instructions. If possible, continue to monitor your cell phone and email service for additional RPI Alert updates.
-RPI Safety Advisories will also provide instructions, if necessary. Though they will not require immediate action, they should also be read carefully.
 
+Forms
 
 
+Emergencies & Incidents
 
 
-       Will the Institute be testing the RPI ALERT system?
-        
 
 
 
-The Department of Public Safety will test the system on a regular basis, at least once per semester. If the message is a test of the system, it will be delivered with “TEST” in the subject line. Any message that does not include the word "TEST" is urgent and should be responded to appropriately.
 
 
 
 
 
 
-       Will the Institute be testing the RPI ALERT system?
-        
 
 
-The Department of Public Safety will test the system on a regular basis, at least once per semester. If the message is a test of the system, it will be delivered with “TEST” in the subject line. Any message that does not include the word "TEST" is urgent and should be responded to appropriately.
 
 
-The Department of Public Safety will test the system on a regular basis, at least once per semester. If the message is a test of the system, it will be delivered with “TEST” in the subject line. Any message that does not include the word "TEST" is urgent and should be responded to appropriately.
 
 
 
+The Environmental, Health, Safety & Risk Management (EHS&RM) department supports a collaborative partnership with faculty, staff and students by providing advice and technical guidance on occupational, environmental, health and safety and risk management issues. Working within the Division of Human Resources affords EHS&RM the opportunity of strengthening the Division's mission of improving human capital of which safety, the environment and risk are essential components.
 
 
-       What devices/numbers should I register?
-        
 
 
 
-You have the capability to register as many as four telephone [MML1] numbers, categorizing them by recipients. We recommend you prioritize numbers that most frequently reach you. For most campus constituents, this would be your cell phone number(s). Among your additional numbers, you may also wish to enter contact information for family members, such as parents.
 
 
 
 
 
 
-       What devices/numbers should I register?
-        
 
 
-You have the capability to register as many as four telephone [MML1] numbers, categorizing them by recipients. We recommend you prioritize numbers that most frequently reach you. For most campus constituents, this would be your cell phone number(s). Among your additional numbers, you may also wish to enter contact information for family members, such as parents.
 
 
-You have the capability to register as many as four telephone [MML1] numbers, categorizing them by recipients. We recommend you prioritize numbers that most frequently reach you. For most campus constituents, this would be your cell phone number(s). Among your additional numbers, you may also wish to enter contact information for family members, such as parents.
 
+Hazardous Waste Management
 
 
 
 
-       Why should I register additional devices onto the system?
-        
 
 
 
-Registering additional phone devices increases your notification options. Text messaging is fast and efficient and lessens dependence on receiving emails during an emergency situation.
 
 
+Safety Training
 
 
 
 
-       Why should I register additional devices onto the system?
-        
 
 
-Registering additional phone devices increases your notification options. Text messaging is fast and efficient and lessens dependence on receiving emails during an emergency situation.
 
 
-Registering additional phone devices increases your notification options. Text messaging is fast and efficient and lessens dependence on receiving emails during an emergency situation.
 
+Report an Incident or Accident
 
 
 
 
-      How will the data I provide be used?
-        
 
 
 
-Contact information entered into the RPI Alert system is used solely for the purposes of RPI Alert and RPI Safety Advisory messages and is not shared with other campus groups or third parties.
 
+ 
 
 
 
+Safety & Risk Procedures
 
 
-      How will the data I provide be used?
-        
 
+                Rensselaer's risk management process undertakes a best practices approach
+                
 
-Contact information entered into the RPI Alert system is used solely for the purposes of RPI Alert and RPI Safety Advisory messages and is not shared with other campus groups or third parties.
 
 
-Contact information entered into the RPI Alert system is used solely for the purposes of RPI Alert and RPI Safety Advisory messages and is not shared with other campus groups or third parties.
 
+                Environmental Health and Safety Policy Statement
+                
 
 
 
-Update Your Info
 
 
-Public Safety
 
+
+
+Safety Programs
+
+
+
+                Laboratory and Chemical Safety Programs
+                
+
+
+
+
+                Occupational & Office Safety Programs
+                
+
+
+
+
+                Trades & Construction Programs
+                
+
+
+
+
+                Hazardous Waste Management
+                
+
+
+
+
+
+
+
+
+Safety Training
+
+
+
+                EHS offers on-site classroom training
+                
+
+
+
+
+                View our online trainings in Skillport
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Environmental, Health, Safety & Risk Management (EHS&RM) department supports a collaborative partnership with faculty, staff and students by providing advice and technical guidance on occupational, environmental, health and safety and risk management issues. Working within the Division of Human Resources affords EHS&RM the opportunity of strengthening the Division's mission of improving human capital of which safety, the environment and risk are essential components.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hazardous Waste Management
+
+
+
+
+
+
+
+
+
+Safety Training
+
+
+
+
+
+
+
+
+
+Report an Incident or Accident
+
+
+
+
+
+
+
+
+ 
+
+
+
+Safety & Risk Procedures
+
+
+
+                Rensselaer's risk management process undertakes a best practices approach
+                
+
+
+
+
+                Environmental Health and Safety Policy Statement
+                
+
+
+
+
+
+
+
+
+Safety Programs
+
+
+
+                Laboratory and Chemical Safety Programs
+                
+
+
+
+
+                Occupational & Office Safety Programs
+                
+
+
+
+
+                Trades & Construction Programs
+                
+
+
+
+
+                Hazardous Waste Management
+                
+
+
+
+
+
+
+
+
+Safety Training
+
+
+
+                EHS offers on-site classroom training
+                
+
+
+
+
+                View our online trainings in Skillport
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Environmental, Health, Safety & Risk Management (EHS&RM) department supports a collaborative partnership with faculty, staff and students by providing advice and technical guidance on occupational, environmental, health and safety and risk management issues. Working within the Division of Human Resources affords EHS&RM the opportunity of strengthening the Division's mission of improving human capital of which safety, the environment and risk are essential components.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hazardous Waste Management
+
+
+
+
+
+
+
+
+
+Safety Training
+
+
+
+
+
+
+
+
+
+Report an Incident or Accident
+
+
+
+
+
+
+
+
+ 
+
+
+
+Safety & Risk Procedures
+
+
+
+                Rensselaer's risk management process undertakes a best practices approach
+                
+
+
+
+
+                Environmental Health and Safety Policy Statement
+                
+
+
+
+
+
+
+
+
+Safety Programs
+
+
+
+                Laboratory and Chemical Safety Programs
+                
+
+
+
+
+                Occupational & Office Safety Programs
+                
+
+
+
+
+                Trades & Construction Programs
+                
+
+
+
+
+                Hazardous Waste Management
+                
+
+
+
+
+
+
+
+
+Safety Training
+
+
+
+                EHS offers on-site classroom training
+                
+
+
+
+
+                View our online trainings in Skillport
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Environmental, Health, Safety & Risk Management (EHS&RM) department supports a collaborative partnership with faculty, staff and students by providing advice and technical guidance on occupational, environmental, health and safety and risk management issues. Working within the Division of Human Resources affords EHS&RM the opportunity of strengthening the Division's mission of improving human capital of which safety, the environment and risk are essential components.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hazardous Waste Management
+
+
+
+
+
+
+
+
+
+Safety Training
+
+
+
+
+
+
+
+
+
+Report an Incident or Accident
+
+
+
+
+
+
+
+
+ 
+
+
+
+Safety & Risk Procedures
+
+
+
+                Rensselaer's risk management process undertakes a best practices approach
+                
+
+
+
+
+                Environmental Health and Safety Policy Statement
+                
+
+
+
+
+
+
+
+
+Safety Programs
+
+
+
+                Laboratory and Chemical Safety Programs
+                
+
+
+
+
+                Occupational & Office Safety Programs
+                
+
+
+
+
+                Trades & Construction Programs
+                
+
+
+
+
+                Hazardous Waste Management
+                
+
+
+
+
+
+
+
+
+Safety Training
+
+
+
+                EHS offers on-site classroom training
+                
+
+
+
+
+                View our online trainings in Skillport
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Environmental, Health, Safety & Risk Management (EHS&RM) department supports a collaborative partnership with faculty, staff and students by providing advice and technical guidance on occupational, environmental, health and safety and risk management issues. Working within the Division of Human Resources affords EHS&RM the opportunity of strengthening the Division's mission of improving human capital of which safety, the environment and risk are essential components.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hazardous Waste Management
+
+
+
+
+
+
+
+
+
+Safety Training
+
+
+
+
+
+
+
+
+
+Report an Incident or Accident
+
+
+
+
+
+
+
+
+ 
+
+
+
+Safety & Risk Procedures
+
+
+
+                Rensselaer's risk management process undertakes a best practices approach
+                
+
+
+
+
+                Environmental Health and Safety Policy Statement
+                
+
+
+
+
+
+
+
+
+Safety Programs
+
+
+
+                Laboratory and Chemical Safety Programs
+                
+
+
+
+
+                Occupational & Office Safety Programs
+                
+
+
+
+
+                Trades & Construction Programs
+                
+
+
+
+
+                Hazardous Waste Management
+                
+
+
+
+
+
+
+
+
+Safety Training
+
+
+
+                EHS offers on-site classroom training
+                
+
+
+
+
+                View our online trainings in Skillport
+                
+
+
+
+
+
+
+
+
+
+
+
+
+The Environmental, Health, Safety & Risk Management (EHS&RM) department supports a collaborative partnership with faculty, staff and students by providing advice and technical guidance on occupational, environmental, health and safety and risk management issues. Working within the Division of Human Resources affords EHS&RM the opportunity of strengthening the Division's mission of improving human capital of which safety, the environment and risk are essential components.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hazardous Waste Management
+
+
+
+
+
+
+
+
+
+Safety Training
+
+
+
+
+
+
+
+
+
+Report an Incident or Accident
+
+
+
+
+
+
+
+
+ 
+
+
+
+Safety & Risk Procedures
+
+
+
+                Rensselaer's risk management process undertakes a best practices approach
+                
+
+
+
+
+                Environmental Health and Safety Policy Statement
+                
+
+
+
+
+
+
+
+
+Safety Programs
+
+
+
+                Laboratory and Chemical Safety Programs
+                
+
+
+
+
+                Occupational & Office Safety Programs
+                
+
+
+
+
+                Trades & Construction Programs
+                
+
+
+
+
+                Hazardous Waste Management
+                
+
+
+
+
+
+
+
+
+Safety Training
+
+
+
+                EHS offers on-site classroom training
+                
+
+
+
+
+                View our online trainings in Skillport
+                
+
+
+
+
+
+
+
+
+
+
+The Environmental, Health, Safety & Risk Management (EHS&RM) department supports a collaborative partnership with faculty, staff and students by providing advice and technical guidance on occupational, environmental, health and safety and risk management issues. Working within the Division of Human Resources affords EHS&RM the opportunity of strengthening the Division's mission of improving human capital of which safety, the environment and risk are essential components.
+
+
+
+
+
+
+
+The Environmental, Health, Safety & Risk Management (EHS&RM) department supports a collaborative partnership with faculty, staff and students by providing advice and technical guidance on occupational, environmental, health and safety and risk management issues. Working within the Division of Human Resources affords EHS&RM the opportunity of strengthening the Division's mission of improving human capital of which safety, the environment and risk are essential components.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hazardous Waste Management
+
+
+
+
+
+
+
+
+
+Safety Training
+
+
+
+
+
+
+
+
+
+Report an Incident or Accident
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hazardous Waste Management
+
+
+
+
+
+
+
+
+
+Safety Training
+
+
+
+
+
+
+
+
+
+Report an Incident or Accident
+
+
+
+
+
+
+
+
+
+
+
+Hazardous Waste Management
+
+
+
+
+
+
+
+
+
+Safety Training
+
+
+
+
+
+
+
+
+
+Report an Incident or Accident
+
+
+
+
+
+
+
+
+
+Hazardous Waste Management
+
+
+
+
+
+
+
+Hazardous Waste Management
+
+
+
+
+Hazardous Waste Management
+
+
+
+
+
+Safety Training
+
+
+
+
+
+
+
+Safety Training
+
+
+
+
+Safety Training
+
+
+
+
+
+Report an Incident or Accident
+
+
+
+
+
+
+
+Report an Incident or Accident
+
+
+
+
+Report an Incident or Accident
+ 
+
+
+
+Safety & Risk Procedures
+
+
+
+                Rensselaer's risk management process undertakes a best practices approach
+                
+
+
+
+
+                Environmental Health and Safety Policy Statement
+                
+
+
+
+
+
+
+
+
+Safety Programs
+
+
+
+                Laboratory and Chemical Safety Programs
+                
+
+
+
+
+                Occupational & Office Safety Programs
+                
+
+
+
+
+                Trades & Construction Programs
+                
+
+
+
+
+                Hazardous Waste Management
+                
+
+
+
+
+
+
+
+
+Safety Training
+
+
+
+                EHS offers on-site classroom training
+                
+
+
+
+
+                View our online trainings in Skillport
+                
+
+
+
+
+
+
+
+
+
+Safety & Risk Procedures
+
+
+
+                Rensselaer's risk management process undertakes a best practices approach
+                
+
+
+
+
+                Environmental Health and Safety Policy Statement
+                
+
+
+
+
+
+Safety & Risk Procedures
+
+
+
+                Rensselaer's risk management process undertakes a best practices approach
+                
+
+
+
+
+                Environmental Health and Safety Policy Statement
+                
+
+
+
+
+
+
+Safety Programs
+
+
+
+                Laboratory and Chemical Safety Programs
+                
+
+
+
+
+                Occupational & Office Safety Programs
+                
+
+
+
+
+                Trades & Construction Programs
+                
+
+
+
+
+                Hazardous Waste Management
+                
+
+
+
+
+
+Safety Programs
+
+
+
+                Laboratory and Chemical Safety Programs
+                
+
+
+
+
+                Occupational & Office Safety Programs
+                
+
+
+
+
+                Trades & Construction Programs
+                
+
+
+
+
+                Hazardous Waste Management
+                
+
+
+
+
+
+
+Safety Training
+
+
+
+                EHS offers on-site classroom training
+                
+
+
+
+
+                View our online trainings in Skillport
+                
+
+
+
+
+
+Safety Training
+
+
+
+                EHS offers on-site classroom training
+                
+
+
+
+
+                View our online trainings in Skillport
+                
+
+
+
+
+
+
+
+
+
+
+Offices located in the Gurley Building, at 21 Union Street.
+Director EHS&RM (518) 276-6114
+
+              Staff Directory
+            
+
+
+
+
+
+
+
+
+
+Report an Incident or Accident
+
+
+
+
+
+
+
+
+
+Offices located in the Gurley Building, at 21 Union Street.
+Director EHS&RM (518) 276-6114
+
+              Staff Directory
+            
+
+
+
+
+
+
+
+
+
+Report an Incident or Accident
+
+
+
+
+
+
+Offices located in the Gurley Building, at 21 Union Street.
+Director EHS&RM (518) 276-6114
+
+              Staff Directory
+            
+
+
+
+
+
+
+
+
+
+Report an Incident or Accident
+
+
+
+
+
+Offices located in the Gurley Building, at 21 Union Street.
+Director EHS&RM (518) 276-6114
+
+              Staff Directory
+            
+
+
+
+
+
+
+
+Offices located in the Gurley Building, at 21 Union Street.
+Director EHS&RM (518) 276-6114
+
+              Staff Directory
+            
+
+
+
+
+
+Offices located in the Gurley Building, at 21 Union Street.
+Director EHS&RM (518) 276-6114
+
+              Staff Directory
+            
+
+
+
+
+
+Report an Incident or Accident
+
+
+
+
+
+
+Rensselaer Polytechnic Institute
+
+
+              110 Eighth Street |
+              Troy, NY USA 12180
+            
+
+(518) 276-6000
+
+Contact Us
+
+
+
+
+
+
+
+Policies:
+
+                Media
+
+                Web Privacy
+
+                Title IX
+
+
+              Student Consumer Information
+
+              Accessibility
+
+
+            Copyright © 2023 Rensselaer Polytechnic Institute (RPI)
+          
 
 
 
@@ -770,56 +2160,18 @@ Contact Us
 
 Policies:
 
-      Media
+                Media
 
-      Web Privacy
+                Web Privacy
 
-      Title IX
-
-
-    Student Consumer Information
-
-    Accessibility
- 
-            Copyright © 2023 Rensselaer Polytechnic Institute (RPI)
-          
+                Title IX
 
 
+              Student Consumer Information
+
+              Accessibility
 
 
-
-
-
-Rensselaer Polytechnic Institute
-
-
-              110 Eighth Street |
-              Troy, NY USA 12180
-            
-
-(518) 276-6000
-
-Contact Us
-
-
-
-
-
-
-
-Policies:
-
-      Media
-
-      Web Privacy
-
-      Title IX
-
-
-    Student Consumer Information
-
-    Accessibility
- 
             Copyright © 2023 Rensselaer Polytechnic Institute (RPI)
           
 
@@ -855,17 +2207,18 @@ Contact Us
 
 Policies:
 
-      Media
+                Media
 
-      Web Privacy
+                Web Privacy
 
-      Title IX
+                Title IX
 
 
-    Student Consumer Information
+              Student Consumer Information
 
-    Accessibility
- 
+              Accessibility
+
+
             Copyright © 2023 Rensselaer Polytechnic Institute (RPI)
           
 
@@ -874,24 +2227,25 @@ Policies:
 
 Policies:
 
-      Media
+                Media
 
-      Web Privacy
+                Web Privacy
 
-      Title IX
+                Title IX
 
 
-    Student Consumer Information
+              Student Consumer Information
 
-    Accessibility
- 
+              Accessibility
+
+
             Copyright © 2023 Rensselaer Polytechnic Institute (RPI)
           
 
 Policies:
 
-      Media
+                Media
 
-      Web Privacy
+                Web Privacy
 
-      Title IX
+                Title IX

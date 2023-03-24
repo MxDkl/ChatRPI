@@ -1,0 +1,3121 @@
+Prof. Amitay's research interests are in developing active flow control techniques with applications in aeronautical/mechanical systems. He conducts state-of-the-art experiments to understand the flow phydics of 3-D flow fields and the interaction of flow control actuators with these flows.Active and passive Flow Control, Experimental AerodynamicsFluid Dynamic LaboratoryFlight MechanicsAerodynamic Flow ControlCapstone: Air Vehicle DesignWednesdays 2-4pmFellow, American Institute of Aeronautics and Astronautics (AIAA)The following is a selection of recent publications in Scopus. Michael Amitay has 202 indexed publications                                      in the subjects of 
+                                                                                                                                      Engineering, 
+                                                                                                                                       Chemical Engineering, 
+                                                                                                                                       and  Physics and Astronomy.
+                                                                  View All Scopus Publications
+            Copyright © 2023 Rensselaer Polytechnic Institute (RPI)
+          
+Faculty Search
+
+Academic Schools & Departments
+
+Research Centers
+
+Faculty Login
+
+
+Home
+
+
+
+Watervliet Facility
+ 
+michael.amitay@aol.com
+ 
+518-276-4461
+
+http://cefpac.rpi.edu
+ 0000-0003-1366-0406AboutResearchTeachingRecognitionPublicationsCenter for Flow Physics and Control (CeFPaC)Center for Future Energy Systems (CFES)Center for Materials, Devices, and Integrated Systems (CMDIS)Institute for Energy, the Built Environment, and Smart Systems (EBESS)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Faculty
+  
+
+
+
+
+
+
+
+
+Main navigation
+
+
+Faculty Search
+
+
+Academic Schools & Departments
+
+
+Research Centers
+
+
+Faculty Login
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+
+
+
+
+
+
+
+
+Michael Amitay
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mechanical, Aerospace and Nuclear Engineering
+
+
+Professor and James L. Decker '45 Endowed Chair in Aerospace Engineering and Director, Center for Flow Physics and Control (CeFPaC).
+
+
+
+Watervliet Facility
+
+ 
+michael.amitay@aol.com
+
+ 
+518-276-4461
+
+
+http://cefpac.rpi.edu
+
+ 0000-0003-1366-0406
+
+
+
+
+
+About Research Teaching Recognition Publications 
+
+
+
+
+About
+Prof. Amitay's research interests are in developing active flow control techniques with applications in aeronautical/mechanical systems. He conducts state-of-the-art experiments to understand the flow phydics of 3-D flow fields and the interaction of flow control actuators with these flows.
+
+
+
+
+
+Research
+
+Primary Research Focus
+Experimental fluid mechanics
+
+
+Other Focus Areas
+Active and passive Flow Control, Experimental Aerodynamics
+
+
+
+Research Centers
+
+Center for Flow Physics and Control (CeFPaC)
+Center for Future Energy Systems (CFES)
+Center for Materials, Devices, and Integrated Systems (CMDIS)
+Institute for Energy, the Built Environment, and Smart Systems (EBESS)
+
+
+
+
+Teaching
+Fluid Dynamic Laboratory
+Flight Mechanics
+Aerodynamic Flow Control
+Capstone: Air Vehicle Design
+
+Office Hours
+Wednesdays 2-4pm
+
+
+
+Recognition
+
+Awards & Honors
+Fellow, American Institute of Aeronautics and Astronautics (AIAA)
+
+
+
+Publications 
+                                  
+
+Google Scholar
+
+
+
+
+The following is a selection of recent publications in Scopus. Michael Amitay has 202 indexed publications                                      in the subjects of 
+                                                                                                                                      Engineering, 
+                                                                                                                                       Chemical Engineering, 
+                                                                                                                                       and  Physics and Astronomy.
+                                                                  
+
+
+
+Three-dimensional separation over unswept cantilevered wings at a moderate Reynolds number
+
+Jacob M. Neal, Michael Amitay
+Physical Review Fluids, 8, 2023.
+                    
+
+
+Linear modal instabilities around post-stall swept finite wings at low Reynolds numbers
+
+Anton Burtsev, Wei He, Kai Zhang, Vassilios Theofilis, Kunihiko Taira, Michael Amitay
+Journal of Fluid Mechanics, 944, 2022.
+                    
+
+
+Comparing steady and unsteady rectangular jets issuing into a crossflow
+
+Frank A. Tricouros, Michael Amitay, Tyler Van Buren
+Journal of Fluid Mechanics, 942, 2022.
+                    
+
+
+Interaction of synthetic jets with a massively separated three-dimensional flow field
+
+Nicholas Rathay, Michael Amitay
+Physical Review Fluids, 7, 2022.
+                    
+
+
+Three Dimensional Flowfield over Swept and Tapered Finite Span Wings at a Low Reynolds Number
+
+Jacob Neal, Jack Ottinger, Brandon Gares, Michael Amitay
+IACAS 2022 - 61st Israel Annual Conference on Aerospace Science, 2022.
+                    
+
+
+Flowfield over a Generic Tailless Chined Forebody-Delta Wing Configuration
+
+Tomás E.Rojas Carvajal, Tufan Kumar Guha, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Three-Dimensional Flowfield Measurements of a Swept-back Cantilevered Wing at High Angles of Attack
+
+Jacob Neal, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Experimental Investigation on the Effect of Sweep and Taper on Low Reynolds Number Finite Wings
+
+Jacob Neal, Shelby K.R. Hayostek, Jack Ottinger, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Control of Reverse Flow over a Cantilevered Swept Blade using Passive Camber Morphing
+
+Cooper Nelson, Tufan Kumar Guha, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Control of reverse flow over a cantilevered blade using passive camber morphing
+
+Deanna Ko, Tufan Kumar Guha, Michael Amitay
+AIAA Journal, 59, 2021, pp.5310-5331.
+                    
+
+View All Scopus Publications
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Faculty
+  
+
+
+
+
+
+
+
+
+Main navigation
+
+
+Faculty Search
+
+
+Academic Schools & Departments
+
+
+Research Centers
+
+
+Faculty Login
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+
+
+
+
+
+
+
+
+Michael Amitay
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mechanical, Aerospace and Nuclear Engineering
+
+
+Professor and James L. Decker '45 Endowed Chair in Aerospace Engineering and Director, Center for Flow Physics and Control (CeFPaC).
+
+
+
+Watervliet Facility
+
+ 
+michael.amitay@aol.com
+
+ 
+518-276-4461
+
+
+http://cefpac.rpi.edu
+
+ 0000-0003-1366-0406
+
+
+
+
+
+About Research Teaching Recognition Publications 
+
+
+
+
+About
+Prof. Amitay's research interests are in developing active flow control techniques with applications in aeronautical/mechanical systems. He conducts state-of-the-art experiments to understand the flow phydics of 3-D flow fields and the interaction of flow control actuators with these flows.
+
+
+
+
+
+Research
+
+Primary Research Focus
+Experimental fluid mechanics
+
+
+Other Focus Areas
+Active and passive Flow Control, Experimental Aerodynamics
+
+
+
+Research Centers
+
+Center for Flow Physics and Control (CeFPaC)
+Center for Future Energy Systems (CFES)
+Center for Materials, Devices, and Integrated Systems (CMDIS)
+Institute for Energy, the Built Environment, and Smart Systems (EBESS)
+
+
+
+
+Teaching
+Fluid Dynamic Laboratory
+Flight Mechanics
+Aerodynamic Flow Control
+Capstone: Air Vehicle Design
+
+Office Hours
+Wednesdays 2-4pm
+
+
+
+Recognition
+
+Awards & Honors
+Fellow, American Institute of Aeronautics and Astronautics (AIAA)
+
+
+
+Publications 
+                                  
+
+Google Scholar
+
+
+
+
+The following is a selection of recent publications in Scopus. Michael Amitay has 202 indexed publications                                      in the subjects of 
+                                                                                                                                      Engineering, 
+                                                                                                                                       Chemical Engineering, 
+                                                                                                                                       and  Physics and Astronomy.
+                                                                  
+
+
+
+Three-dimensional separation over unswept cantilevered wings at a moderate Reynolds number
+
+Jacob M. Neal, Michael Amitay
+Physical Review Fluids, 8, 2023.
+                    
+
+
+Linear modal instabilities around post-stall swept finite wings at low Reynolds numbers
+
+Anton Burtsev, Wei He, Kai Zhang, Vassilios Theofilis, Kunihiko Taira, Michael Amitay
+Journal of Fluid Mechanics, 944, 2022.
+                    
+
+
+Comparing steady and unsteady rectangular jets issuing into a crossflow
+
+Frank A. Tricouros, Michael Amitay, Tyler Van Buren
+Journal of Fluid Mechanics, 942, 2022.
+                    
+
+
+Interaction of synthetic jets with a massively separated three-dimensional flow field
+
+Nicholas Rathay, Michael Amitay
+Physical Review Fluids, 7, 2022.
+                    
+
+
+Three Dimensional Flowfield over Swept and Tapered Finite Span Wings at a Low Reynolds Number
+
+Jacob Neal, Jack Ottinger, Brandon Gares, Michael Amitay
+IACAS 2022 - 61st Israel Annual Conference on Aerospace Science, 2022.
+                    
+
+
+Flowfield over a Generic Tailless Chined Forebody-Delta Wing Configuration
+
+Tomás E.Rojas Carvajal, Tufan Kumar Guha, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Three-Dimensional Flowfield Measurements of a Swept-back Cantilevered Wing at High Angles of Attack
+
+Jacob Neal, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Experimental Investigation on the Effect of Sweep and Taper on Low Reynolds Number Finite Wings
+
+Jacob Neal, Shelby K.R. Hayostek, Jack Ottinger, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Control of Reverse Flow over a Cantilevered Swept Blade using Passive Camber Morphing
+
+Cooper Nelson, Tufan Kumar Guha, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Control of reverse flow over a cantilevered blade using passive camber morphing
+
+Deanna Ko, Tufan Kumar Guha, Michael Amitay
+AIAA Journal, 59, 2021, pp.5310-5331.
+                    
+
+View All Scopus Publications
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Faculty
+  
+
+
+
+
+
+
+
+
+Main navigation
+
+
+Faculty Search
+
+
+Academic Schools & Departments
+
+
+Research Centers
+
+
+Faculty Login
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+
+
+
+
+
+
+
+
+Michael Amitay
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mechanical, Aerospace and Nuclear Engineering
+
+
+Professor and James L. Decker '45 Endowed Chair in Aerospace Engineering and Director, Center for Flow Physics and Control (CeFPaC).
+
+
+
+Watervliet Facility
+
+ 
+michael.amitay@aol.com
+
+ 
+518-276-4461
+
+
+http://cefpac.rpi.edu
+
+ 0000-0003-1366-0406
+
+
+
+
+
+About Research Teaching Recognition Publications 
+
+
+
+
+About
+Prof. Amitay's research interests are in developing active flow control techniques with applications in aeronautical/mechanical systems. He conducts state-of-the-art experiments to understand the flow phydics of 3-D flow fields and the interaction of flow control actuators with these flows.
+
+
+
+
+
+Research
+
+Primary Research Focus
+Experimental fluid mechanics
+
+
+Other Focus Areas
+Active and passive Flow Control, Experimental Aerodynamics
+
+
+
+Research Centers
+
+Center for Flow Physics and Control (CeFPaC)
+Center for Future Energy Systems (CFES)
+Center for Materials, Devices, and Integrated Systems (CMDIS)
+Institute for Energy, the Built Environment, and Smart Systems (EBESS)
+
+
+
+
+Teaching
+Fluid Dynamic Laboratory
+Flight Mechanics
+Aerodynamic Flow Control
+Capstone: Air Vehicle Design
+
+Office Hours
+Wednesdays 2-4pm
+
+
+
+Recognition
+
+Awards & Honors
+Fellow, American Institute of Aeronautics and Astronautics (AIAA)
+
+
+
+Publications 
+                                  
+
+Google Scholar
+
+
+
+
+The following is a selection of recent publications in Scopus. Michael Amitay has 202 indexed publications                                      in the subjects of 
+                                                                                                                                      Engineering, 
+                                                                                                                                       Chemical Engineering, 
+                                                                                                                                       and  Physics and Astronomy.
+                                                                  
+
+
+
+Three-dimensional separation over unswept cantilevered wings at a moderate Reynolds number
+
+Jacob M. Neal, Michael Amitay
+Physical Review Fluids, 8, 2023.
+                    
+
+
+Linear modal instabilities around post-stall swept finite wings at low Reynolds numbers
+
+Anton Burtsev, Wei He, Kai Zhang, Vassilios Theofilis, Kunihiko Taira, Michael Amitay
+Journal of Fluid Mechanics, 944, 2022.
+                    
+
+
+Comparing steady and unsteady rectangular jets issuing into a crossflow
+
+Frank A. Tricouros, Michael Amitay, Tyler Van Buren
+Journal of Fluid Mechanics, 942, 2022.
+                    
+
+
+Interaction of synthetic jets with a massively separated three-dimensional flow field
+
+Nicholas Rathay, Michael Amitay
+Physical Review Fluids, 7, 2022.
+                    
+
+
+Three Dimensional Flowfield over Swept and Tapered Finite Span Wings at a Low Reynolds Number
+
+Jacob Neal, Jack Ottinger, Brandon Gares, Michael Amitay
+IACAS 2022 - 61st Israel Annual Conference on Aerospace Science, 2022.
+                    
+
+
+Flowfield over a Generic Tailless Chined Forebody-Delta Wing Configuration
+
+Tomás E.Rojas Carvajal, Tufan Kumar Guha, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Three-Dimensional Flowfield Measurements of a Swept-back Cantilevered Wing at High Angles of Attack
+
+Jacob Neal, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Experimental Investigation on the Effect of Sweep and Taper on Low Reynolds Number Finite Wings
+
+Jacob Neal, Shelby K.R. Hayostek, Jack Ottinger, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Control of Reverse Flow over a Cantilevered Swept Blade using Passive Camber Morphing
+
+Cooper Nelson, Tufan Kumar Guha, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Control of reverse flow over a cantilevered blade using passive camber morphing
+
+Deanna Ko, Tufan Kumar Guha, Michael Amitay
+AIAA Journal, 59, 2021, pp.5310-5331.
+                    
+
+View All Scopus Publications
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Faculty
+  
+
+
+
+
+
+Main navigation
+
+
+Faculty Search
+
+
+Academic Schools & Departments
+
+
+Research Centers
+
+
+Faculty Login
+
+
+
+
+
+
+Main navigation
+
+
+Faculty Search
+
+
+Academic Schools & Departments
+
+
+Research Centers
+
+
+Faculty Login
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+
+
+
+
+
+
+
+
+Michael Amitay
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mechanical, Aerospace and Nuclear Engineering
+
+
+Professor and James L. Decker '45 Endowed Chair in Aerospace Engineering and Director, Center for Flow Physics and Control (CeFPaC).
+
+
+
+Watervliet Facility
+
+ 
+michael.amitay@aol.com
+
+ 
+518-276-4461
+
+
+http://cefpac.rpi.edu
+
+ 0000-0003-1366-0406
+
+
+
+
+
+About Research Teaching Recognition Publications 
+
+
+
+
+About
+Prof. Amitay's research interests are in developing active flow control techniques with applications in aeronautical/mechanical systems. He conducts state-of-the-art experiments to understand the flow phydics of 3-D flow fields and the interaction of flow control actuators with these flows.
+
+
+
+
+
+Research
+
+Primary Research Focus
+Experimental fluid mechanics
+
+
+Other Focus Areas
+Active and passive Flow Control, Experimental Aerodynamics
+
+
+
+Research Centers
+
+Center for Flow Physics and Control (CeFPaC)
+Center for Future Energy Systems (CFES)
+Center for Materials, Devices, and Integrated Systems (CMDIS)
+Institute for Energy, the Built Environment, and Smart Systems (EBESS)
+
+
+
+
+Teaching
+Fluid Dynamic Laboratory
+Flight Mechanics
+Aerodynamic Flow Control
+Capstone: Air Vehicle Design
+
+Office Hours
+Wednesdays 2-4pm
+
+
+
+Recognition
+
+Awards & Honors
+Fellow, American Institute of Aeronautics and Astronautics (AIAA)
+
+
+
+Publications 
+                                  
+
+Google Scholar
+
+
+
+
+The following is a selection of recent publications in Scopus. Michael Amitay has 202 indexed publications                                      in the subjects of 
+                                                                                                                                      Engineering, 
+                                                                                                                                       Chemical Engineering, 
+                                                                                                                                       and  Physics and Astronomy.
+                                                                  
+
+
+
+Three-dimensional separation over unswept cantilevered wings at a moderate Reynolds number
+
+Jacob M. Neal, Michael Amitay
+Physical Review Fluids, 8, 2023.
+                    
+
+
+Linear modal instabilities around post-stall swept finite wings at low Reynolds numbers
+
+Anton Burtsev, Wei He, Kai Zhang, Vassilios Theofilis, Kunihiko Taira, Michael Amitay
+Journal of Fluid Mechanics, 944, 2022.
+                    
+
+
+Comparing steady and unsteady rectangular jets issuing into a crossflow
+
+Frank A. Tricouros, Michael Amitay, Tyler Van Buren
+Journal of Fluid Mechanics, 942, 2022.
+                    
+
+
+Interaction of synthetic jets with a massively separated three-dimensional flow field
+
+Nicholas Rathay, Michael Amitay
+Physical Review Fluids, 7, 2022.
+                    
+
+
+Three Dimensional Flowfield over Swept and Tapered Finite Span Wings at a Low Reynolds Number
+
+Jacob Neal, Jack Ottinger, Brandon Gares, Michael Amitay
+IACAS 2022 - 61st Israel Annual Conference on Aerospace Science, 2022.
+                    
+
+
+Flowfield over a Generic Tailless Chined Forebody-Delta Wing Configuration
+
+Tomás E.Rojas Carvajal, Tufan Kumar Guha, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Three-Dimensional Flowfield Measurements of a Swept-back Cantilevered Wing at High Angles of Attack
+
+Jacob Neal, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Experimental Investigation on the Effect of Sweep and Taper on Low Reynolds Number Finite Wings
+
+Jacob Neal, Shelby K.R. Hayostek, Jack Ottinger, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Control of Reverse Flow over a Cantilevered Swept Blade using Passive Camber Morphing
+
+Cooper Nelson, Tufan Kumar Guha, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Control of reverse flow over a cantilevered blade using passive camber morphing
+
+Deanna Ko, Tufan Kumar Guha, Michael Amitay
+AIAA Journal, 59, 2021, pp.5310-5331.
+                    
+
+View All Scopus Publications
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+
+
+
+
+
+
+
+
+Michael Amitay
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mechanical, Aerospace and Nuclear Engineering
+
+
+Professor and James L. Decker '45 Endowed Chair in Aerospace Engineering and Director, Center for Flow Physics and Control (CeFPaC).
+
+
+
+Watervliet Facility
+
+ 
+michael.amitay@aol.com
+
+ 
+518-276-4461
+
+
+http://cefpac.rpi.edu
+
+ 0000-0003-1366-0406
+
+
+
+
+
+About Research Teaching Recognition Publications 
+
+
+
+
+About
+Prof. Amitay's research interests are in developing active flow control techniques with applications in aeronautical/mechanical systems. He conducts state-of-the-art experiments to understand the flow phydics of 3-D flow fields and the interaction of flow control actuators with these flows.
+
+
+
+
+
+Research
+
+Primary Research Focus
+Experimental fluid mechanics
+
+
+Other Focus Areas
+Active and passive Flow Control, Experimental Aerodynamics
+
+
+
+Research Centers
+
+Center for Flow Physics and Control (CeFPaC)
+Center for Future Energy Systems (CFES)
+Center for Materials, Devices, and Integrated Systems (CMDIS)
+Institute for Energy, the Built Environment, and Smart Systems (EBESS)
+
+
+
+
+Teaching
+Fluid Dynamic Laboratory
+Flight Mechanics
+Aerodynamic Flow Control
+Capstone: Air Vehicle Design
+
+Office Hours
+Wednesdays 2-4pm
+
+
+
+Recognition
+
+Awards & Honors
+Fellow, American Institute of Aeronautics and Astronautics (AIAA)
+
+
+
+Publications 
+                                  
+
+Google Scholar
+
+
+
+
+The following is a selection of recent publications in Scopus. Michael Amitay has 202 indexed publications                                      in the subjects of 
+                                                                                                                                      Engineering, 
+                                                                                                                                       Chemical Engineering, 
+                                                                                                                                       and  Physics and Astronomy.
+                                                                  
+
+
+
+Three-dimensional separation over unswept cantilevered wings at a moderate Reynolds number
+
+Jacob M. Neal, Michael Amitay
+Physical Review Fluids, 8, 2023.
+                    
+
+
+Linear modal instabilities around post-stall swept finite wings at low Reynolds numbers
+
+Anton Burtsev, Wei He, Kai Zhang, Vassilios Theofilis, Kunihiko Taira, Michael Amitay
+Journal of Fluid Mechanics, 944, 2022.
+                    
+
+
+Comparing steady and unsteady rectangular jets issuing into a crossflow
+
+Frank A. Tricouros, Michael Amitay, Tyler Van Buren
+Journal of Fluid Mechanics, 942, 2022.
+                    
+
+
+Interaction of synthetic jets with a massively separated three-dimensional flow field
+
+Nicholas Rathay, Michael Amitay
+Physical Review Fluids, 7, 2022.
+                    
+
+
+Three Dimensional Flowfield over Swept and Tapered Finite Span Wings at a Low Reynolds Number
+
+Jacob Neal, Jack Ottinger, Brandon Gares, Michael Amitay
+IACAS 2022 - 61st Israel Annual Conference on Aerospace Science, 2022.
+                    
+
+
+Flowfield over a Generic Tailless Chined Forebody-Delta Wing Configuration
+
+Tomás E.Rojas Carvajal, Tufan Kumar Guha, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Three-Dimensional Flowfield Measurements of a Swept-back Cantilevered Wing at High Angles of Attack
+
+Jacob Neal, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Experimental Investigation on the Effect of Sweep and Taper on Low Reynolds Number Finite Wings
+
+Jacob Neal, Shelby K.R. Hayostek, Jack Ottinger, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Control of Reverse Flow over a Cantilevered Swept Blade using Passive Camber Morphing
+
+Cooper Nelson, Tufan Kumar Guha, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Control of reverse flow over a cantilevered blade using passive camber morphing
+
+Deanna Ko, Tufan Kumar Guha, Michael Amitay
+AIAA Journal, 59, 2021, pp.5310-5331.
+                    
+
+View All Scopus Publications
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+
+
+
+
+
+
+Michael Amitay
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mechanical, Aerospace and Nuclear Engineering
+
+
+Professor and James L. Decker '45 Endowed Chair in Aerospace Engineering and Director, Center for Flow Physics and Control (CeFPaC).
+
+
+
+Watervliet Facility
+
+ 
+michael.amitay@aol.com
+
+ 
+518-276-4461
+
+
+http://cefpac.rpi.edu
+
+ 0000-0003-1366-0406
+
+
+
+
+
+About Research Teaching Recognition Publications 
+
+
+
+
+About
+Prof. Amitay's research interests are in developing active flow control techniques with applications in aeronautical/mechanical systems. He conducts state-of-the-art experiments to understand the flow phydics of 3-D flow fields and the interaction of flow control actuators with these flows.
+
+
+
+
+
+Research
+
+Primary Research Focus
+Experimental fluid mechanics
+
+
+Other Focus Areas
+Active and passive Flow Control, Experimental Aerodynamics
+
+
+
+Research Centers
+
+Center for Flow Physics and Control (CeFPaC)
+Center for Future Energy Systems (CFES)
+Center for Materials, Devices, and Integrated Systems (CMDIS)
+Institute for Energy, the Built Environment, and Smart Systems (EBESS)
+
+
+
+
+Teaching
+Fluid Dynamic Laboratory
+Flight Mechanics
+Aerodynamic Flow Control
+Capstone: Air Vehicle Design
+
+Office Hours
+Wednesdays 2-4pm
+
+
+
+Recognition
+
+Awards & Honors
+Fellow, American Institute of Aeronautics and Astronautics (AIAA)
+
+
+
+Publications 
+                                  
+
+Google Scholar
+
+
+
+
+The following is a selection of recent publications in Scopus. Michael Amitay has 202 indexed publications                                      in the subjects of 
+                                                                                                                                      Engineering, 
+                                                                                                                                       Chemical Engineering, 
+                                                                                                                                       and  Physics and Astronomy.
+                                                                  
+
+
+
+Three-dimensional separation over unswept cantilevered wings at a moderate Reynolds number
+
+Jacob M. Neal, Michael Amitay
+Physical Review Fluids, 8, 2023.
+                    
+
+
+Linear modal instabilities around post-stall swept finite wings at low Reynolds numbers
+
+Anton Burtsev, Wei He, Kai Zhang, Vassilios Theofilis, Kunihiko Taira, Michael Amitay
+Journal of Fluid Mechanics, 944, 2022.
+                    
+
+
+Comparing steady and unsteady rectangular jets issuing into a crossflow
+
+Frank A. Tricouros, Michael Amitay, Tyler Van Buren
+Journal of Fluid Mechanics, 942, 2022.
+                    
+
+
+Interaction of synthetic jets with a massively separated three-dimensional flow field
+
+Nicholas Rathay, Michael Amitay
+Physical Review Fluids, 7, 2022.
+                    
+
+
+Three Dimensional Flowfield over Swept and Tapered Finite Span Wings at a Low Reynolds Number
+
+Jacob Neal, Jack Ottinger, Brandon Gares, Michael Amitay
+IACAS 2022 - 61st Israel Annual Conference on Aerospace Science, 2022.
+                    
+
+
+Flowfield over a Generic Tailless Chined Forebody-Delta Wing Configuration
+
+Tomás E.Rojas Carvajal, Tufan Kumar Guha, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Three-Dimensional Flowfield Measurements of a Swept-back Cantilevered Wing at High Angles of Attack
+
+Jacob Neal, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Experimental Investigation on the Effect of Sweep and Taper on Low Reynolds Number Finite Wings
+
+Jacob Neal, Shelby K.R. Hayostek, Jack Ottinger, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Control of Reverse Flow over a Cantilevered Swept Blade using Passive Camber Morphing
+
+Cooper Nelson, Tufan Kumar Guha, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Control of reverse flow over a cantilevered blade using passive camber morphing
+
+Deanna Ko, Tufan Kumar Guha, Michael Amitay
+AIAA Journal, 59, 2021, pp.5310-5331.
+                    
+
+View All Scopus Publications
+
+
+
+
+
+
+
+
+
+
+
+Michael Amitay
+
+
+
+Michael Amitay
+
+
+
+
+
+
+
+
+
+
+
+
+Mechanical, Aerospace and Nuclear Engineering
+
+
+Professor and James L. Decker '45 Endowed Chair in Aerospace Engineering and Director, Center for Flow Physics and Control (CeFPaC).
+
+
+
+Watervliet Facility
+
+ 
+michael.amitay@aol.com
+
+ 
+518-276-4461
+
+
+http://cefpac.rpi.edu
+
+ 0000-0003-1366-0406
+
+
+
+
+
+About Research Teaching Recognition Publications 
+
+
+
+
+About
+Prof. Amitay's research interests are in developing active flow control techniques with applications in aeronautical/mechanical systems. He conducts state-of-the-art experiments to understand the flow phydics of 3-D flow fields and the interaction of flow control actuators with these flows.
+
+
+
+
+
+Research
+
+Primary Research Focus
+Experimental fluid mechanics
+
+
+Other Focus Areas
+Active and passive Flow Control, Experimental Aerodynamics
+
+
+
+Research Centers
+
+Center for Flow Physics and Control (CeFPaC)
+Center for Future Energy Systems (CFES)
+Center for Materials, Devices, and Integrated Systems (CMDIS)
+Institute for Energy, the Built Environment, and Smart Systems (EBESS)
+
+
+
+
+Teaching
+Fluid Dynamic Laboratory
+Flight Mechanics
+Aerodynamic Flow Control
+Capstone: Air Vehicle Design
+
+Office Hours
+Wednesdays 2-4pm
+
+
+
+Recognition
+
+Awards & Honors
+Fellow, American Institute of Aeronautics and Astronautics (AIAA)
+
+
+
+Publications 
+                                  
+
+Google Scholar
+
+
+
+
+The following is a selection of recent publications in Scopus. Michael Amitay has 202 indexed publications                                      in the subjects of 
+                                                                                                                                      Engineering, 
+                                                                                                                                       Chemical Engineering, 
+                                                                                                                                       and  Physics and Astronomy.
+                                                                  
+
+
+
+Three-dimensional separation over unswept cantilevered wings at a moderate Reynolds number
+
+Jacob M. Neal, Michael Amitay
+Physical Review Fluids, 8, 2023.
+                    
+
+
+Linear modal instabilities around post-stall swept finite wings at low Reynolds numbers
+
+Anton Burtsev, Wei He, Kai Zhang, Vassilios Theofilis, Kunihiko Taira, Michael Amitay
+Journal of Fluid Mechanics, 944, 2022.
+                    
+
+
+Comparing steady and unsteady rectangular jets issuing into a crossflow
+
+Frank A. Tricouros, Michael Amitay, Tyler Van Buren
+Journal of Fluid Mechanics, 942, 2022.
+                    
+
+
+Interaction of synthetic jets with a massively separated three-dimensional flow field
+
+Nicholas Rathay, Michael Amitay
+Physical Review Fluids, 7, 2022.
+                    
+
+
+Three Dimensional Flowfield over Swept and Tapered Finite Span Wings at a Low Reynolds Number
+
+Jacob Neal, Jack Ottinger, Brandon Gares, Michael Amitay
+IACAS 2022 - 61st Israel Annual Conference on Aerospace Science, 2022.
+                    
+
+
+Flowfield over a Generic Tailless Chined Forebody-Delta Wing Configuration
+
+Tomás E.Rojas Carvajal, Tufan Kumar Guha, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Three-Dimensional Flowfield Measurements of a Swept-back Cantilevered Wing at High Angles of Attack
+
+Jacob Neal, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Experimental Investigation on the Effect of Sweep and Taper on Low Reynolds Number Finite Wings
+
+Jacob Neal, Shelby K.R. Hayostek, Jack Ottinger, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Control of Reverse Flow over a Cantilevered Swept Blade using Passive Camber Morphing
+
+Cooper Nelson, Tufan Kumar Guha, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Control of reverse flow over a cantilevered blade using passive camber morphing
+
+Deanna Ko, Tufan Kumar Guha, Michael Amitay
+AIAA Journal, 59, 2021, pp.5310-5331.
+                    
+
+View All Scopus Publications
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mechanical, Aerospace and Nuclear Engineering
+
+
+Professor and James L. Decker '45 Endowed Chair in Aerospace Engineering and Director, Center for Flow Physics and Control (CeFPaC).
+
+
+
+Watervliet Facility
+
+ 
+michael.amitay@aol.com
+
+ 
+518-276-4461
+
+
+http://cefpac.rpi.edu
+
+ 0000-0003-1366-0406
+
+
+
+
+
+About Research Teaching Recognition Publications 
+
+
+
+
+About
+Prof. Amitay's research interests are in developing active flow control techniques with applications in aeronautical/mechanical systems. He conducts state-of-the-art experiments to understand the flow phydics of 3-D flow fields and the interaction of flow control actuators with these flows.
+
+
+
+
+
+Research
+
+Primary Research Focus
+Experimental fluid mechanics
+
+
+Other Focus Areas
+Active and passive Flow Control, Experimental Aerodynamics
+
+
+
+Research Centers
+
+Center for Flow Physics and Control (CeFPaC)
+Center for Future Energy Systems (CFES)
+Center for Materials, Devices, and Integrated Systems (CMDIS)
+Institute for Energy, the Built Environment, and Smart Systems (EBESS)
+
+
+
+
+Teaching
+Fluid Dynamic Laboratory
+Flight Mechanics
+Aerodynamic Flow Control
+Capstone: Air Vehicle Design
+
+Office Hours
+Wednesdays 2-4pm
+
+
+
+Recognition
+
+Awards & Honors
+Fellow, American Institute of Aeronautics and Astronautics (AIAA)
+
+
+
+Publications 
+                                  
+
+Google Scholar
+
+
+
+
+The following is a selection of recent publications in Scopus. Michael Amitay has 202 indexed publications                                      in the subjects of 
+                                                                                                                                      Engineering, 
+                                                                                                                                       Chemical Engineering, 
+                                                                                                                                       and  Physics and Astronomy.
+                                                                  
+
+
+
+Three-dimensional separation over unswept cantilevered wings at a moderate Reynolds number
+
+Jacob M. Neal, Michael Amitay
+Physical Review Fluids, 8, 2023.
+                    
+
+
+Linear modal instabilities around post-stall swept finite wings at low Reynolds numbers
+
+Anton Burtsev, Wei He, Kai Zhang, Vassilios Theofilis, Kunihiko Taira, Michael Amitay
+Journal of Fluid Mechanics, 944, 2022.
+                    
+
+
+Comparing steady and unsteady rectangular jets issuing into a crossflow
+
+Frank A. Tricouros, Michael Amitay, Tyler Van Buren
+Journal of Fluid Mechanics, 942, 2022.
+                    
+
+
+Interaction of synthetic jets with a massively separated three-dimensional flow field
+
+Nicholas Rathay, Michael Amitay
+Physical Review Fluids, 7, 2022.
+                    
+
+
+Three Dimensional Flowfield over Swept and Tapered Finite Span Wings at a Low Reynolds Number
+
+Jacob Neal, Jack Ottinger, Brandon Gares, Michael Amitay
+IACAS 2022 - 61st Israel Annual Conference on Aerospace Science, 2022.
+                    
+
+
+Flowfield over a Generic Tailless Chined Forebody-Delta Wing Configuration
+
+Tomás E.Rojas Carvajal, Tufan Kumar Guha, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Three-Dimensional Flowfield Measurements of a Swept-back Cantilevered Wing at High Angles of Attack
+
+Jacob Neal, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Experimental Investigation on the Effect of Sweep and Taper on Low Reynolds Number Finite Wings
+
+Jacob Neal, Shelby K.R. Hayostek, Jack Ottinger, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Control of Reverse Flow over a Cantilevered Swept Blade using Passive Camber Morphing
+
+Cooper Nelson, Tufan Kumar Guha, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Control of reverse flow over a cantilevered blade using passive camber morphing
+
+Deanna Ko, Tufan Kumar Guha, Michael Amitay
+AIAA Journal, 59, 2021, pp.5310-5331.
+                    
+
+View All Scopus Publications
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mechanical, Aerospace and Nuclear Engineering
+
+
+Professor and James L. Decker '45 Endowed Chair in Aerospace Engineering and Director, Center for Flow Physics and Control (CeFPaC).
+
+
+
+Watervliet Facility
+
+ 
+michael.amitay@aol.com
+
+ 
+518-276-4461
+
+
+http://cefpac.rpi.edu
+
+ 0000-0003-1366-0406
+
+
+
+
+
+About Research Teaching Recognition Publications 
+
+
+
+
+About
+Prof. Amitay's research interests are in developing active flow control techniques with applications in aeronautical/mechanical systems. He conducts state-of-the-art experiments to understand the flow phydics of 3-D flow fields and the interaction of flow control actuators with these flows.
+
+
+
+
+
+Research
+
+Primary Research Focus
+Experimental fluid mechanics
+
+
+Other Focus Areas
+Active and passive Flow Control, Experimental Aerodynamics
+
+
+
+Research Centers
+
+Center for Flow Physics and Control (CeFPaC)
+Center for Future Energy Systems (CFES)
+Center for Materials, Devices, and Integrated Systems (CMDIS)
+Institute for Energy, the Built Environment, and Smart Systems (EBESS)
+
+
+
+
+Teaching
+Fluid Dynamic Laboratory
+Flight Mechanics
+Aerodynamic Flow Control
+Capstone: Air Vehicle Design
+
+Office Hours
+Wednesdays 2-4pm
+
+
+
+Recognition
+
+Awards & Honors
+Fellow, American Institute of Aeronautics and Astronautics (AIAA)
+
+
+
+Publications 
+                                  
+
+Google Scholar
+
+
+
+
+The following is a selection of recent publications in Scopus. Michael Amitay has 202 indexed publications                                      in the subjects of 
+                                                                                                                                      Engineering, 
+                                                                                                                                       Chemical Engineering, 
+                                                                                                                                       and  Physics and Astronomy.
+                                                                  
+
+
+
+Three-dimensional separation over unswept cantilevered wings at a moderate Reynolds number
+
+Jacob M. Neal, Michael Amitay
+Physical Review Fluids, 8, 2023.
+                    
+
+
+Linear modal instabilities around post-stall swept finite wings at low Reynolds numbers
+
+Anton Burtsev, Wei He, Kai Zhang, Vassilios Theofilis, Kunihiko Taira, Michael Amitay
+Journal of Fluid Mechanics, 944, 2022.
+                    
+
+
+Comparing steady and unsteady rectangular jets issuing into a crossflow
+
+Frank A. Tricouros, Michael Amitay, Tyler Van Buren
+Journal of Fluid Mechanics, 942, 2022.
+                    
+
+
+Interaction of synthetic jets with a massively separated three-dimensional flow field
+
+Nicholas Rathay, Michael Amitay
+Physical Review Fluids, 7, 2022.
+                    
+
+
+Three Dimensional Flowfield over Swept and Tapered Finite Span Wings at a Low Reynolds Number
+
+Jacob Neal, Jack Ottinger, Brandon Gares, Michael Amitay
+IACAS 2022 - 61st Israel Annual Conference on Aerospace Science, 2022.
+                    
+
+
+Flowfield over a Generic Tailless Chined Forebody-Delta Wing Configuration
+
+Tomás E.Rojas Carvajal, Tufan Kumar Guha, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Three-Dimensional Flowfield Measurements of a Swept-back Cantilevered Wing at High Angles of Attack
+
+Jacob Neal, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Experimental Investigation on the Effect of Sweep and Taper on Low Reynolds Number Finite Wings
+
+Jacob Neal, Shelby K.R. Hayostek, Jack Ottinger, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Control of Reverse Flow over a Cantilevered Swept Blade using Passive Camber Morphing
+
+Cooper Nelson, Tufan Kumar Guha, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Control of reverse flow over a cantilevered blade using passive camber morphing
+
+Deanna Ko, Tufan Kumar Guha, Michael Amitay
+AIAA Journal, 59, 2021, pp.5310-5331.
+                    
+
+View All Scopus Publications
+
+
+
+
+
+
+
+
+
+
+
+Mechanical, Aerospace and Nuclear Engineering
+
+
+Professor and James L. Decker '45 Endowed Chair in Aerospace Engineering and Director, Center for Flow Physics and Control (CeFPaC).
+
+
+
+Watervliet Facility
+
+ 
+michael.amitay@aol.com
+
+ 
+518-276-4461
+
+
+http://cefpac.rpi.edu
+
+ 0000-0003-1366-0406
+
+
+
+
+
+About Research Teaching Recognition Publications 
+
+
+
+
+About
+Prof. Amitay's research interests are in developing active flow control techniques with applications in aeronautical/mechanical systems. He conducts state-of-the-art experiments to understand the flow phydics of 3-D flow fields and the interaction of flow control actuators with these flows.
+
+
+
+
+
+Research
+
+Primary Research Focus
+Experimental fluid mechanics
+
+
+Other Focus Areas
+Active and passive Flow Control, Experimental Aerodynamics
+
+
+
+Research Centers
+
+Center for Flow Physics and Control (CeFPaC)
+Center for Future Energy Systems (CFES)
+Center for Materials, Devices, and Integrated Systems (CMDIS)
+Institute for Energy, the Built Environment, and Smart Systems (EBESS)
+
+
+
+
+Teaching
+Fluid Dynamic Laboratory
+Flight Mechanics
+Aerodynamic Flow Control
+Capstone: Air Vehicle Design
+
+Office Hours
+Wednesdays 2-4pm
+
+
+
+Recognition
+
+Awards & Honors
+Fellow, American Institute of Aeronautics and Astronautics (AIAA)
+
+
+
+Publications 
+                                  
+
+Google Scholar
+
+
+
+
+The following is a selection of recent publications in Scopus. Michael Amitay has 202 indexed publications                                      in the subjects of 
+                                                                                                                                      Engineering, 
+                                                                                                                                       Chemical Engineering, 
+                                                                                                                                       and  Physics and Astronomy.
+                                                                  
+
+
+
+Three-dimensional separation over unswept cantilevered wings at a moderate Reynolds number
+
+Jacob M. Neal, Michael Amitay
+Physical Review Fluids, 8, 2023.
+                    
+
+
+Linear modal instabilities around post-stall swept finite wings at low Reynolds numbers
+
+Anton Burtsev, Wei He, Kai Zhang, Vassilios Theofilis, Kunihiko Taira, Michael Amitay
+Journal of Fluid Mechanics, 944, 2022.
+                    
+
+
+Comparing steady and unsteady rectangular jets issuing into a crossflow
+
+Frank A. Tricouros, Michael Amitay, Tyler Van Buren
+Journal of Fluid Mechanics, 942, 2022.
+                    
+
+
+Interaction of synthetic jets with a massively separated three-dimensional flow field
+
+Nicholas Rathay, Michael Amitay
+Physical Review Fluids, 7, 2022.
+                    
+
+
+Three Dimensional Flowfield over Swept and Tapered Finite Span Wings at a Low Reynolds Number
+
+Jacob Neal, Jack Ottinger, Brandon Gares, Michael Amitay
+IACAS 2022 - 61st Israel Annual Conference on Aerospace Science, 2022.
+                    
+
+
+Flowfield over a Generic Tailless Chined Forebody-Delta Wing Configuration
+
+Tomás E.Rojas Carvajal, Tufan Kumar Guha, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Three-Dimensional Flowfield Measurements of a Swept-back Cantilevered Wing at High Angles of Attack
+
+Jacob Neal, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Experimental Investigation on the Effect of Sweep and Taper on Low Reynolds Number Finite Wings
+
+Jacob Neal, Shelby K.R. Hayostek, Jack Ottinger, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Control of Reverse Flow over a Cantilevered Swept Blade using Passive Camber Morphing
+
+Cooper Nelson, Tufan Kumar Guha, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Control of reverse flow over a cantilevered blade using passive camber morphing
+
+Deanna Ko, Tufan Kumar Guha, Michael Amitay
+AIAA Journal, 59, 2021, pp.5310-5331.
+                    
+
+View All Scopus Publications
+
+
+
+
+
+
+
+
+
+
+Mechanical, Aerospace and Nuclear Engineering
+
+
+Professor and James L. Decker '45 Endowed Chair in Aerospace Engineering and Director, Center for Flow Physics and Control (CeFPaC).
+
+
+
+Watervliet Facility
+
+ 
+michael.amitay@aol.com
+
+ 
+518-276-4461
+
+
+http://cefpac.rpi.edu
+
+ 0000-0003-1366-0406
+
+
+
+
+
+Mechanical, Aerospace and Nuclear Engineering
+
+
+Professor and James L. Decker '45 Endowed Chair in Aerospace Engineering and Director, Center for Flow Physics and Control (CeFPaC).
+
+
+
+Watervliet Facility
+
+ 
+michael.amitay@aol.com
+
+ 
+518-276-4461
+
+
+http://cefpac.rpi.edu
+
+ 0000-0003-1366-0406
+
+Mechanical, Aerospace and Nuclear Engineering
+Mechanical, Aerospace and Nuclear Engineering
+Professor and James L. Decker '45 Endowed Chair in Aerospace Engineering and Director, Center for Flow Physics and Control (CeFPaC).
+Professor and James L. Decker '45 Endowed Chair in Aerospace Engineering and Director, Center for Flow Physics and Control (CeFPaC).Watervliet Facilitymichael.amitay@aol.com518-276-4461http://cefpac.rpi.edu
+
+
+About Research Teaching Recognition Publications 
+
+
+
+
+About
+Prof. Amitay's research interests are in developing active flow control techniques with applications in aeronautical/mechanical systems. He conducts state-of-the-art experiments to understand the flow phydics of 3-D flow fields and the interaction of flow control actuators with these flows.
+
+
+
+
+
+Research
+
+Primary Research Focus
+Experimental fluid mechanics
+
+
+Other Focus Areas
+Active and passive Flow Control, Experimental Aerodynamics
+
+
+
+Research Centers
+
+Center for Flow Physics and Control (CeFPaC)
+Center for Future Energy Systems (CFES)
+Center for Materials, Devices, and Integrated Systems (CMDIS)
+Institute for Energy, the Built Environment, and Smart Systems (EBESS)
+
+
+
+
+Teaching
+Fluid Dynamic Laboratory
+Flight Mechanics
+Aerodynamic Flow Control
+Capstone: Air Vehicle Design
+
+Office Hours
+Wednesdays 2-4pm
+
+
+
+Recognition
+
+Awards & Honors
+Fellow, American Institute of Aeronautics and Astronautics (AIAA)
+
+
+
+Publications 
+                                  
+
+Google Scholar
+
+
+
+
+The following is a selection of recent publications in Scopus. Michael Amitay has 202 indexed publications                                      in the subjects of 
+                                                                                                                                      Engineering, 
+                                                                                                                                       Chemical Engineering, 
+                                                                                                                                       and  Physics and Astronomy.
+                                                                  
+
+
+
+Three-dimensional separation over unswept cantilevered wings at a moderate Reynolds number
+
+Jacob M. Neal, Michael Amitay
+Physical Review Fluids, 8, 2023.
+                    
+
+
+Linear modal instabilities around post-stall swept finite wings at low Reynolds numbers
+
+Anton Burtsev, Wei He, Kai Zhang, Vassilios Theofilis, Kunihiko Taira, Michael Amitay
+Journal of Fluid Mechanics, 944, 2022.
+                    
+
+
+Comparing steady and unsteady rectangular jets issuing into a crossflow
+
+Frank A. Tricouros, Michael Amitay, Tyler Van Buren
+Journal of Fluid Mechanics, 942, 2022.
+                    
+
+
+Interaction of synthetic jets with a massively separated three-dimensional flow field
+
+Nicholas Rathay, Michael Amitay
+Physical Review Fluids, 7, 2022.
+                    
+
+
+Three Dimensional Flowfield over Swept and Tapered Finite Span Wings at a Low Reynolds Number
+
+Jacob Neal, Jack Ottinger, Brandon Gares, Michael Amitay
+IACAS 2022 - 61st Israel Annual Conference on Aerospace Science, 2022.
+                    
+
+
+Flowfield over a Generic Tailless Chined Forebody-Delta Wing Configuration
+
+Tomás E.Rojas Carvajal, Tufan Kumar Guha, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Three-Dimensional Flowfield Measurements of a Swept-back Cantilevered Wing at High Angles of Attack
+
+Jacob Neal, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Experimental Investigation on the Effect of Sweep and Taper on Low Reynolds Number Finite Wings
+
+Jacob Neal, Shelby K.R. Hayostek, Jack Ottinger, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Control of Reverse Flow over a Cantilevered Swept Blade using Passive Camber Morphing
+
+Cooper Nelson, Tufan Kumar Guha, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Control of reverse flow over a cantilevered blade using passive camber morphing
+
+Deanna Ko, Tufan Kumar Guha, Michael Amitay
+AIAA Journal, 59, 2021, pp.5310-5331.
+                    
+
+View All Scopus Publications
+
+
+
+
+
+
+About Research Teaching Recognition Publications 
+
+
+
+About
+Prof. Amitay's research interests are in developing active flow control techniques with applications in aeronautical/mechanical systems. He conducts state-of-the-art experiments to understand the flow phydics of 3-D flow fields and the interaction of flow control actuators with these flows.
+
+
+
+
+
+Research
+
+Primary Research Focus
+Experimental fluid mechanics
+
+
+Other Focus Areas
+Active and passive Flow Control, Experimental Aerodynamics
+
+
+
+Research Centers
+
+Center for Flow Physics and Control (CeFPaC)
+Center for Future Energy Systems (CFES)
+Center for Materials, Devices, and Integrated Systems (CMDIS)
+Institute for Energy, the Built Environment, and Smart Systems (EBESS)
+
+
+
+
+Teaching
+Fluid Dynamic Laboratory
+Flight Mechanics
+Aerodynamic Flow Control
+Capstone: Air Vehicle Design
+
+Office Hours
+Wednesdays 2-4pm
+
+
+
+Recognition
+
+Awards & Honors
+Fellow, American Institute of Aeronautics and Astronautics (AIAA)
+
+
+
+Publications 
+                                  
+
+Google Scholar
+
+
+
+
+The following is a selection of recent publications in Scopus. Michael Amitay has 202 indexed publications                                      in the subjects of 
+                                                                                                                                      Engineering, 
+                                                                                                                                       Chemical Engineering, 
+                                                                                                                                       and  Physics and Astronomy.
+                                                                  
+
+
+
+Three-dimensional separation over unswept cantilevered wings at a moderate Reynolds number
+
+Jacob M. Neal, Michael Amitay
+Physical Review Fluids, 8, 2023.
+                    
+
+
+Linear modal instabilities around post-stall swept finite wings at low Reynolds numbers
+
+Anton Burtsev, Wei He, Kai Zhang, Vassilios Theofilis, Kunihiko Taira, Michael Amitay
+Journal of Fluid Mechanics, 944, 2022.
+                    
+
+
+Comparing steady and unsteady rectangular jets issuing into a crossflow
+
+Frank A. Tricouros, Michael Amitay, Tyler Van Buren
+Journal of Fluid Mechanics, 942, 2022.
+                    
+
+
+Interaction of synthetic jets with a massively separated three-dimensional flow field
+
+Nicholas Rathay, Michael Amitay
+Physical Review Fluids, 7, 2022.
+                    
+
+
+Three Dimensional Flowfield over Swept and Tapered Finite Span Wings at a Low Reynolds Number
+
+Jacob Neal, Jack Ottinger, Brandon Gares, Michael Amitay
+IACAS 2022 - 61st Israel Annual Conference on Aerospace Science, 2022.
+                    
+
+
+Flowfield over a Generic Tailless Chined Forebody-Delta Wing Configuration
+
+Tomás E.Rojas Carvajal, Tufan Kumar Guha, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Three-Dimensional Flowfield Measurements of a Swept-back Cantilevered Wing at High Angles of Attack
+
+Jacob Neal, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Experimental Investigation on the Effect of Sweep and Taper on Low Reynolds Number Finite Wings
+
+Jacob Neal, Shelby K.R. Hayostek, Jack Ottinger, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Control of Reverse Flow over a Cantilevered Swept Blade using Passive Camber Morphing
+
+Cooper Nelson, Tufan Kumar Guha, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Control of reverse flow over a cantilevered blade using passive camber morphing
+
+Deanna Ko, Tufan Kumar Guha, Michael Amitay
+AIAA Journal, 59, 2021, pp.5310-5331.
+                    
+
+View All Scopus Publications
+
+
+
+
+
+
+About
+Prof. Amitay's research interests are in developing active flow control techniques with applications in aeronautical/mechanical systems. He conducts state-of-the-art experiments to understand the flow phydics of 3-D flow fields and the interaction of flow control actuators with these flows.
+
+
+
+
+
+Research
+
+Primary Research Focus
+Experimental fluid mechanics
+
+
+Other Focus Areas
+Active and passive Flow Control, Experimental Aerodynamics
+
+
+
+Research Centers
+
+Center for Flow Physics and Control (CeFPaC)
+Center for Future Energy Systems (CFES)
+Center for Materials, Devices, and Integrated Systems (CMDIS)
+Institute for Energy, the Built Environment, and Smart Systems (EBESS)
+
+
+
+
+Teaching
+Fluid Dynamic Laboratory
+Flight Mechanics
+Aerodynamic Flow Control
+Capstone: Air Vehicle Design
+
+Office Hours
+Wednesdays 2-4pm
+
+
+
+Recognition
+
+Awards & Honors
+Fellow, American Institute of Aeronautics and Astronautics (AIAA)
+
+
+
+Publications 
+                                  
+
+Google Scholar
+
+
+
+
+The following is a selection of recent publications in Scopus. Michael Amitay has 202 indexed publications                                      in the subjects of 
+                                                                                                                                      Engineering, 
+                                                                                                                                       Chemical Engineering, 
+                                                                                                                                       and  Physics and Astronomy.
+                                                                  
+
+
+
+Three-dimensional separation over unswept cantilevered wings at a moderate Reynolds number
+
+Jacob M. Neal, Michael Amitay
+Physical Review Fluids, 8, 2023.
+                    
+
+
+Linear modal instabilities around post-stall swept finite wings at low Reynolds numbers
+
+Anton Burtsev, Wei He, Kai Zhang, Vassilios Theofilis, Kunihiko Taira, Michael Amitay
+Journal of Fluid Mechanics, 944, 2022.
+                    
+
+
+Comparing steady and unsteady rectangular jets issuing into a crossflow
+
+Frank A. Tricouros, Michael Amitay, Tyler Van Buren
+Journal of Fluid Mechanics, 942, 2022.
+                    
+
+
+Interaction of synthetic jets with a massively separated three-dimensional flow field
+
+Nicholas Rathay, Michael Amitay
+Physical Review Fluids, 7, 2022.
+                    
+
+
+Three Dimensional Flowfield over Swept and Tapered Finite Span Wings at a Low Reynolds Number
+
+Jacob Neal, Jack Ottinger, Brandon Gares, Michael Amitay
+IACAS 2022 - 61st Israel Annual Conference on Aerospace Science, 2022.
+                    
+
+
+Flowfield over a Generic Tailless Chined Forebody-Delta Wing Configuration
+
+Tomás E.Rojas Carvajal, Tufan Kumar Guha, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Three-Dimensional Flowfield Measurements of a Swept-back Cantilevered Wing at High Angles of Attack
+
+Jacob Neal, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Experimental Investigation on the Effect of Sweep and Taper on Low Reynolds Number Finite Wings
+
+Jacob Neal, Shelby K.R. Hayostek, Jack Ottinger, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Control of Reverse Flow over a Cantilevered Swept Blade using Passive Camber Morphing
+
+Cooper Nelson, Tufan Kumar Guha, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Control of reverse flow over a cantilevered blade using passive camber morphing
+
+Deanna Ko, Tufan Kumar Guha, Michael Amitay
+AIAA Journal, 59, 2021, pp.5310-5331.
+                    
+
+View All Scopus Publications
+
+
+About
+Prof. Amitay's research interests are in developing active flow control techniques with applications in aeronautical/mechanical systems. He conducts state-of-the-art experiments to understand the flow phydics of 3-D flow fields and the interaction of flow control actuators with these flows.
+
+
+
+Prof. Amitay's research interests are in developing active flow control techniques with applications in aeronautical/mechanical systems. He conducts state-of-the-art experiments to understand the flow phydics of 3-D flow fields and the interaction of flow control actuators with these flows.
+
+
+Research
+
+Primary Research Focus
+Experimental fluid mechanics
+
+
+Other Focus Areas
+Active and passive Flow Control, Experimental Aerodynamics
+
+
+
+Research Centers
+
+Center for Flow Physics and Control (CeFPaC)
+Center for Future Energy Systems (CFES)
+Center for Materials, Devices, and Integrated Systems (CMDIS)
+Institute for Energy, the Built Environment, and Smart Systems (EBESS)
+
+
+
+Primary Research Focus
+Experimental fluid mechanics
+Primary Research FocusExperimental fluid mechanics
+Other Focus Areas
+Active and passive Flow Control, Experimental Aerodynamics
+
+Other Focus AreasActive and passive Flow Control, Experimental Aerodynamics
+
+Research Centers
+
+Center for Flow Physics and Control (CeFPaC)
+Center for Future Energy Systems (CFES)
+Center for Materials, Devices, and Integrated Systems (CMDIS)
+Institute for Energy, the Built Environment, and Smart Systems (EBESS)
+
+Research Centers
+Teaching
+Fluid Dynamic Laboratory
+Flight Mechanics
+Aerodynamic Flow Control
+Capstone: Air Vehicle Design
+
+Office Hours
+Wednesdays 2-4pm
+
+Fluid Dynamic Laboratory
+Flight Mechanics
+Aerodynamic Flow Control
+Capstone: Air Vehicle Design
+Office Hours
+Wednesdays 2-4pm
+Office HoursWednesdays 2-4pm
+Recognition
+
+Awards & Honors
+Fellow, American Institute of Aeronautics and Astronautics (AIAA)
+
+
+Awards & Honors
+Fellow, American Institute of Aeronautics and Astronautics (AIAA)
+Awards & HonorsFellow, American Institute of Aeronautics and Astronautics (AIAA)
+Publications 
+                                  
+
+Google Scholar
+
+
+
+
+The following is a selection of recent publications in Scopus. Michael Amitay has 202 indexed publications                                      in the subjects of 
+                                                                                                                                      Engineering, 
+                                                                                                                                       Chemical Engineering, 
+                                                                                                                                       and  Physics and Astronomy.
+                                                                  
+
+
+
+Three-dimensional separation over unswept cantilevered wings at a moderate Reynolds number
+
+Jacob M. Neal, Michael Amitay
+Physical Review Fluids, 8, 2023.
+                    
+
+
+Linear modal instabilities around post-stall swept finite wings at low Reynolds numbers
+
+Anton Burtsev, Wei He, Kai Zhang, Vassilios Theofilis, Kunihiko Taira, Michael Amitay
+Journal of Fluid Mechanics, 944, 2022.
+                    
+
+
+Comparing steady and unsteady rectangular jets issuing into a crossflow
+
+Frank A. Tricouros, Michael Amitay, Tyler Van Buren
+Journal of Fluid Mechanics, 942, 2022.
+                    
+
+
+Interaction of synthetic jets with a massively separated three-dimensional flow field
+
+Nicholas Rathay, Michael Amitay
+Physical Review Fluids, 7, 2022.
+                    
+
+
+Three Dimensional Flowfield over Swept and Tapered Finite Span Wings at a Low Reynolds Number
+
+Jacob Neal, Jack Ottinger, Brandon Gares, Michael Amitay
+IACAS 2022 - 61st Israel Annual Conference on Aerospace Science, 2022.
+                    
+
+
+Flowfield over a Generic Tailless Chined Forebody-Delta Wing Configuration
+
+Tomás E.Rojas Carvajal, Tufan Kumar Guha, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Three-Dimensional Flowfield Measurements of a Swept-back Cantilevered Wing at High Angles of Attack
+
+Jacob Neal, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Experimental Investigation on the Effect of Sweep and Taper on Low Reynolds Number Finite Wings
+
+Jacob Neal, Shelby K.R. Hayostek, Jack Ottinger, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Control of Reverse Flow over a Cantilevered Swept Blade using Passive Camber Morphing
+
+Cooper Nelson, Tufan Kumar Guha, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Control of reverse flow over a cantilevered blade using passive camber morphing
+
+Deanna Ko, Tufan Kumar Guha, Michael Amitay
+AIAA Journal, 59, 2021, pp.5310-5331.
+                    
+
+View All Scopus Publications
+
+
+Google Scholar
+
+
+
+
+
+Three-dimensional separation over unswept cantilevered wings at a moderate Reynolds number
+
+Jacob M. Neal, Michael Amitay
+Physical Review Fluids, 8, 2023.
+                    
+
+
+Linear modal instabilities around post-stall swept finite wings at low Reynolds numbers
+
+Anton Burtsev, Wei He, Kai Zhang, Vassilios Theofilis, Kunihiko Taira, Michael Amitay
+Journal of Fluid Mechanics, 944, 2022.
+                    
+
+
+Comparing steady and unsteady rectangular jets issuing into a crossflow
+
+Frank A. Tricouros, Michael Amitay, Tyler Van Buren
+Journal of Fluid Mechanics, 942, 2022.
+                    
+
+
+Interaction of synthetic jets with a massively separated three-dimensional flow field
+
+Nicholas Rathay, Michael Amitay
+Physical Review Fluids, 7, 2022.
+                    
+
+
+Three Dimensional Flowfield over Swept and Tapered Finite Span Wings at a Low Reynolds Number
+
+Jacob Neal, Jack Ottinger, Brandon Gares, Michael Amitay
+IACAS 2022 - 61st Israel Annual Conference on Aerospace Science, 2022.
+                    
+
+
+Flowfield over a Generic Tailless Chined Forebody-Delta Wing Configuration
+
+Tomás E.Rojas Carvajal, Tufan Kumar Guha, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Three-Dimensional Flowfield Measurements of a Swept-back Cantilevered Wing at High Angles of Attack
+
+Jacob Neal, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Experimental Investigation on the Effect of Sweep and Taper on Low Reynolds Number Finite Wings
+
+Jacob Neal, Shelby K.R. Hayostek, Jack Ottinger, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Control of Reverse Flow over a Cantilevered Swept Blade using Passive Camber Morphing
+
+Cooper Nelson, Tufan Kumar Guha, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+
+
+Control of reverse flow over a cantilevered blade using passive camber morphing
+
+Deanna Ko, Tufan Kumar Guha, Michael Amitay
+AIAA Journal, 59, 2021, pp.5310-5331.
+                    
+
+
+Three-dimensional separation over unswept cantilevered wings at a moderate Reynolds number
+
+Jacob M. Neal, Michael Amitay
+Physical Review Fluids, 8, 2023.
+                    
+Three-dimensional separation over unswept cantilevered wings at a moderate Reynolds number
+Jacob M. Neal, Michael AmitayPhysical Review Fluids, 8, 2023
+
+Linear modal instabilities around post-stall swept finite wings at low Reynolds numbers
+
+Anton Burtsev, Wei He, Kai Zhang, Vassilios Theofilis, Kunihiko Taira, Michael Amitay
+Journal of Fluid Mechanics, 944, 2022.
+                    
+Linear modal instabilities around post-stall swept finite wings at low Reynolds numbers
+Anton Burtsev, Wei He, Kai Zhang, Vassilios Theofilis, Kunihiko Taira, Michael AmitayJournal of Fluid Mechanics, 944, 2022
+
+Comparing steady and unsteady rectangular jets issuing into a crossflow
+
+Frank A. Tricouros, Michael Amitay, Tyler Van Buren
+Journal of Fluid Mechanics, 942, 2022.
+                    
+Comparing steady and unsteady rectangular jets issuing into a crossflow
+Frank A. Tricouros, Michael Amitay, Tyler Van BurenJournal of Fluid Mechanics, 942, 2022
+
+Interaction of synthetic jets with a massively separated three-dimensional flow field
+
+Nicholas Rathay, Michael Amitay
+Physical Review Fluids, 7, 2022.
+                    
+Interaction of synthetic jets with a massively separated three-dimensional flow field
+Nicholas Rathay, Michael AmitayPhysical Review Fluids, 7, 2022
+
+Three Dimensional Flowfield over Swept and Tapered Finite Span Wings at a Low Reynolds Number
+
+Jacob Neal, Jack Ottinger, Brandon Gares, Michael Amitay
+IACAS 2022 - 61st Israel Annual Conference on Aerospace Science, 2022.
+                    
+Three Dimensional Flowfield over Swept and Tapered Finite Span Wings at a Low Reynolds Number
+Jacob Neal, Jack Ottinger, Brandon Gares, Michael AmitayIACAS 2022 - 61st Israel Annual Conference on Aerospace Science, 2022
+
+Flowfield over a Generic Tailless Chined Forebody-Delta Wing Configuration
+
+Tomás E.Rojas Carvajal, Tufan Kumar Guha, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+Flowfield over a Generic Tailless Chined Forebody-Delta Wing Configuration
+Tomás E.Rojas Carvajal, Tufan Kumar Guha, Michael AmitayAIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022
+
+Three-Dimensional Flowfield Measurements of a Swept-back Cantilevered Wing at High Angles of Attack
+
+Jacob Neal, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+Three-Dimensional Flowfield Measurements of a Swept-back Cantilevered Wing at High Angles of Attack
+Jacob Neal, Michael AmitayAIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022
+
+Experimental Investigation on the Effect of Sweep and Taper on Low Reynolds Number Finite Wings
+
+Jacob Neal, Shelby K.R. Hayostek, Jack Ottinger, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+Experimental Investigation on the Effect of Sweep and Taper on Low Reynolds Number Finite Wings
+Jacob Neal, Shelby K.R. Hayostek, Jack Ottinger, Michael AmitayAIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022
+
+Control of Reverse Flow over a Cantilevered Swept Blade using Passive Camber Morphing
+
+Cooper Nelson, Tufan Kumar Guha, Michael Amitay
+AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022.
+                    
+Control of Reverse Flow over a Cantilevered Swept Blade using Passive Camber Morphing
+Cooper Nelson, Tufan Kumar Guha, Michael AmitayAIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, 2022
+
+Control of reverse flow over a cantilevered blade using passive camber morphing
+
+Deanna Ko, Tufan Kumar Guha, Michael Amitay
+AIAA Journal, 59, 2021, pp.5310-5331.
+                    
+Control of reverse flow over a cantilevered blade using passive camber morphing
+Deanna Ko, Tufan Kumar Guha, Michael AmitayAIAA Journal, 59, 2021, pp.5310-5331
+
+
+
+
+
+Rensselaer Polytechnic Institute
+
+
+              110 Eighth Street |
+              Troy, NY USA 12180
+            
+
+(518) 276-6000
+
+Contact Us
+
+
+
+
+
+
+
+Policies:
+
+                Media
+
+                Web Privacy
+
+                Title IX
+
+
+              Student Consumer Information
+
+              Accessibility
+
+
+            Copyright © 2023 Rensselaer Polytechnic Institute (RPI)
+          
+
+
+
+
+
+
+
+Rensselaer Polytechnic Institute
+
+
+              110 Eighth Street |
+              Troy, NY USA 12180
+            
+
+(518) 276-6000
+
+Contact Us
+
+
+
+
+
+
+
+Policies:
+
+                Media
+
+                Web Privacy
+
+                Title IX
+
+
+              Student Consumer Information
+
+              Accessibility
+
+
+            Copyright © 2023 Rensselaer Polytechnic Institute (RPI)
+          
+
+
+
+
+
+Rensselaer Polytechnic Institute
+
+
+              110 Eighth Street |
+              Troy, NY USA 12180
+            
+
+(518) 276-6000
+
+Contact Us
+
+
+Rensselaer Polytechnic Institute
+
+              110 Eighth Street |
+              Troy, NY USA 12180
+            
+
+              110 Eighth Street |
+              Troy, NY USA 12180
+            (518) 276-6000
+Contact Us
+
+
+
+
+Policies:
+
+                Media
+
+                Web Privacy
+
+                Title IX
+
+
+              Student Consumer Information
+
+              Accessibility
+
+
+            Copyright © 2023 Rensselaer Polytechnic Institute (RPI)
+          
+
+
+
+
+Policies:
+
+                Media
+
+                Web Privacy
+
+                Title IX
+
+
+              Student Consumer Information
+
+              Accessibility
+
+
+            Copyright © 2023 Rensselaer Polytechnic Institute (RPI)
+          
+
+Policies:
+
+                Media
+
+                Web Privacy
+
+                Title IX

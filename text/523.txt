@@ -1,70 +1,20 @@
-ContactThe School of Humanities, Arts, and Social Sciences
-Russell Sage Laboratory (SAGE) 5304, 110 8th Street, Troy, NY 12180
-(518) 276-6575Connect
+DotCIO's IT Services and Support Center (ITSSC) provides a centralized location for self-serve help through the use of an active knowledge base, featuring commonly requested content and documentation of known issues, as well as an online ticketing system to submit a request for IT assistance.In addition, the Help Desk team is available during help desk posted hours for phone and in-person support. The Help Desk is located on the main floor of the Voorhees Computing Center. SearchSearch the knowledge baseRequestSubmit a requestHow to submit a requestHelp DeskTelephone518-276-7777 Location
+Division of the Chief Information Officer110 8th St. Troy, NY 12180(518) 276-7777
+              Staff Directory
+            Get Help
+
+        IT Service and Support Center
             Copyright © 2023 Rensselaer Polytechnic Institute (RPI)
           
-Apply
-
-Visit
-
-Give
-
 About
 
-Academics
+Services
 
+Get Started
 
-Biotechnology and Health Economics
+Get Help
 
-
-Economic Policy and Regulation
-
-
-Economics
-
-
-Economics
-
-
-Economics
-
-
-Economics
-
-
-Economics of Banking and Finance
-
-
-Economics of Biotech and Medical Innovation
-
-
-Economics of Technology and Innovation
-
-
-
-Biotechnology and Health Economics
-
-Economic Policy and Regulation
-
-Economics
-
-Economics
-
-Economics
-
-Economics
-
-Economics of Banking and Finance
-
-Economics of Biotech and Medical Innovation
-
-Economics of Technology and Innovation
-
-Research
-
-Faculty
-
-Recon Lab
+Announcements
 
 
 Home
@@ -72,12 +22,10 @@ Home
 
 
 
-Departments / Programs
 
 
 
 
-Economics
 
 
 
@@ -89,47 +37,48 @@ Economics
 
 
 
-Apply
 
 
-Visit
+Division of the CIO
 
 
-Give
+    Information Services and Technology
+  
 
 
 
 
 
 
-Search site
 
 
+Main navigation
 
 
+About
 
 
+Services
 
 
+Get Started
 
 
+Get Help
 
 
+Announcements
 
-Apply
 
 
-Visit
 
 
-Give
 
 
 
 
 
 
-Search site
 
 
 
@@ -137,34 +86,182 @@ Search site
 
 
 
-Apply
 
+Home
 
-Visit
 
 
-Give
 
 
 
 
 
-Search site
 
 
 
+Search
 
 
 
 
+Search
+Search
 
 
-                        The School of Humanities, Arts, and Social Sciences
-                          
 
 
 
-            Economics
+
+
+
+
+Help Desk Hours
+
+
+
+
+
+
+Sun: 
+5:00 pm-9:00 pm
+
+
+
+Mon - Thu: 
+8:30 am-9:00 pm
+
+
+
+Fri: 
+8:30 am-4:00 pm
+
+
+
+Sat: 
+Closed
+
+
+
+, 
+  
+
+
+
+
+
+
+
+
+
+
+Announcements
+
+
+
+
+ Open IssuePlotting Issue using Adobe Acrobat to plot pdf files
+
+
+ Open IssueNetwork Printing – issue connecting to network printers
+
+
+
+
+
+
+
+
+
+
+
+
+
+Get Help
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+DotCIO's IT Services and Support Center (ITSSC) provides a centralized location for self-serve help through the use of an active knowledge base, featuring commonly requested content and documentation of known issues, as well as an online ticketing system to submit a request for IT assistance.
+In addition, the Help Desk team is available during help desk posted hours for phone and in-person support. The Help Desk is located on the main floor of the Voorhees Computing Center. 
+
+
+ 
+
+
+
+Search
+
+
+Search the knowledge base
+
+
+
+
+
+Request
+
+
+Submit a request
+How to submit a request
+
+
+
+
+
+Help Desk
+
+
+
+Telephone
+518-276-7777 
+Location
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Division of the Chief Information Officer
+110 8th St. Troy, NY 12180
+(518) 276-7777
+
+              Staff Directory
             
 
 
@@ -174,54 +271,50 @@ Search site
 
 
 
+Get Help
 
-Main navigation 2
+        IT Service and Support Center
+
+
+
+
+
+
+
+
+
+
+
+
+Division of the CIO
+
+
+    Information Services and Technology
+  
+
+
+
+
+
+
+
+
+Main navigation
 
 
 About
 
 
-Academics
+Services
 
 
-Biotechnology and Health Economics
+Get Started
 
 
-Economic Policy and Regulation
+Get Help
 
 
-Economics
-
-
-Economics
-
-
-Economics
-
-
-Economics
-
-
-Economics of Banking and Finance
-
-
-Economics of Biotech and Medical Innovation
-
-
-Economics of Technology and Innovation
-
-
-
-
-Research
-
-
-Faculty
-
-
-Recon Lab
-
-
+Announcements
 
 
 
@@ -247,18 +340,19 @@ Home
 
 
 
-Departments / Programs
 
 
 
 
 
-Economics
 
+Search
 
 
 
 
+Search
+Search
 
 
 
@@ -268,27 +362,35 @@ Economics
 
 
 
+Help Desk Hours
 
 
 
-Academics
 
 
 
+Sun: 
+5:00 pm-9:00 pm
 
 
 
+Mon - Thu: 
+8:30 am-9:00 pm
 
 
 
+Fri: 
+8:30 am-4:00 pm
 
 
 
+Sat: 
+Closed
 
-      Academic Programs
-    
 
 
+, 
+  
 
 
 
@@ -297,85 +399,86 @@ Academics
 
 
 
-Area of Study
-B.S.
-Minor
-B.S. + M.S.
-M.S.
 
 
+Announcements
 
 
-Economics
 
 
+ Open IssuePlotting Issue using Adobe Acrobat to plot pdf files
 
-Economics, B.S.
 
+ Open IssueNetwork Printing – issue connecting to network printers
 
 
 
 
 
-Economics, Minor
 
 
 
 
 
 
-Economics, B.S. + M.S.
 
 
+Get Help
 
 
 
 
-Economics, M.S.
 
 
 
 
 
-Biotechnology and Health Economics 
 
 
 
-Biotechnology and Health Economics , B.S.
 
 
 
 
 
 
+ 
+DotCIO's IT Services and Support Center (ITSSC) provides a centralized location for self-serve help through the use of an active knowledge base, featuring commonly requested content and documentation of known issues, as well as an online ticketing system to submit a request for IT assistance.
+In addition, the Help Desk team is available during help desk posted hours for phone and in-person support. The Help Desk is located on the main floor of the Voorhees Computing Center. 
 
 
+ 
 
 
 
-Economics of Banking and Finance
+Search
 
 
+Search the knowledge base
 
 
 
-Economics of Banking and Finance, Minor
 
 
+Request
 
 
+Submit a request
+How to submit a request
 
 
 
 
 
-Economics of Biotech and Medical Innovation
+Help Desk
 
 
 
+Telephone
+518-276-7777 
+Location
 
 
-Economics of Biotech and Medical Innovation, Minor
 
 
 
@@ -385,13 +488,11 @@ Economics of Biotech and Medical Innovation, Minor
 
 
 
-Economics of Policy and Regulation
 
 
 
 
 
-Economics of Policy and Regulation, Minor
 
 
 
@@ -401,87 +502,13 @@ Economics of Policy and Regulation, Minor
 
 
 
-Economics of Technology and Innovation
 
 
+Division of the Chief Information Officer
+110 8th St. Troy, NY 12180
+(518) 276-7777
 
-
-
-Economics of Technology and Innovation, Minor
-
-
-
-
-
-
-
-
-
-Economics of Quantitative Modeling
-
-
-
-
-
-Economics of Quantitative Modeling, Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Contact
-The School of Humanities, Arts, and Social Sciences
-Russell Sage Laboratory (SAGE) 5304, 110 8th Street, Troy, NY 12180
-(518) 276-6575
-
-
-Connect
-
-
-Follow us on Twitter
-
-
-
-
-
-
-
-
-
-
-
-
-                        The School of Humanities, Arts, and Social Sciences
-                          
-
-
-
-            Economics
+              Staff Directory
             
 
 
@@ -491,54 +518,48 @@ Follow us on Twitter
 
 
 
+Get Help
 
-Main navigation 2
+        IT Service and Support Center
+
+
+
+
+
+
+
+
+
+
+Division of the CIO
+
+
+    Information Services and Technology
+  
+
+
+
+
+
+
+
+
+Main navigation
 
 
 About
 
 
-Academics
+Services
 
 
-Biotechnology and Health Economics
+Get Started
 
 
-Economic Policy and Regulation
+Get Help
 
 
-Economics
-
-
-Economics
-
-
-Economics
-
-
-Economics
-
-
-Economics of Banking and Finance
-
-
-Economics of Biotech and Medical Innovation
-
-
-Economics of Technology and Innovation
-
-
-
-
-Research
-
-
-Faculty
-
-
-Recon Lab
-
-
+Announcements
 
 
 
@@ -564,18 +585,19 @@ Home
 
 
 
-Departments / Programs
 
 
 
 
 
-Economics
 
+Search
 
 
 
 
+Search
+Search
 
 
 
@@ -585,27 +607,35 @@ Economics
 
 
 
+Help Desk Hours
 
 
 
-Academics
 
 
 
+Sun: 
+5:00 pm-9:00 pm
 
 
 
+Mon - Thu: 
+8:30 am-9:00 pm
 
 
 
+Fri: 
+8:30 am-4:00 pm
 
 
 
+Sat: 
+Closed
 
-      Academic Programs
-    
 
 
+, 
+  
 
 
 
@@ -614,85 +644,86 @@ Academics
 
 
 
-Area of Study
-B.S.
-Minor
-B.S. + M.S.
-M.S.
 
 
+Announcements
 
 
-Economics
 
 
+ Open IssuePlotting Issue using Adobe Acrobat to plot pdf files
 
-Economics, B.S.
 
+ Open IssueNetwork Printing – issue connecting to network printers
 
 
 
 
 
-Economics, Minor
 
 
 
 
 
 
-Economics, B.S. + M.S.
 
 
+Get Help
 
 
 
 
-Economics, M.S.
 
 
 
 
 
-Biotechnology and Health Economics 
 
 
 
-Biotechnology and Health Economics , B.S.
 
 
 
 
 
 
+ 
+DotCIO's IT Services and Support Center (ITSSC) provides a centralized location for self-serve help through the use of an active knowledge base, featuring commonly requested content and documentation of known issues, as well as an online ticketing system to submit a request for IT assistance.
+In addition, the Help Desk team is available during help desk posted hours for phone and in-person support. The Help Desk is located on the main floor of the Voorhees Computing Center. 
 
 
+ 
 
 
 
-Economics of Banking and Finance
+Search
 
 
+Search the knowledge base
 
 
 
-Economics of Banking and Finance, Minor
 
 
+Request
 
 
+Submit a request
+How to submit a request
 
 
 
 
 
-Economics of Biotech and Medical Innovation
+Help Desk
 
 
 
+Telephone
+518-276-7777 
+Location
 
 
-Economics of Biotech and Medical Innovation, Minor
 
 
 
@@ -702,13 +733,11 @@ Economics of Biotech and Medical Innovation, Minor
 
 
 
-Economics of Policy and Regulation
 
 
 
 
 
-Economics of Policy and Regulation, Minor
 
 
 
@@ -718,66 +747,13 @@ Economics of Policy and Regulation, Minor
 
 
 
-Economics of Technology and Innovation
 
 
+Division of the Chief Information Officer
+110 8th St. Troy, NY 12180
+(518) 276-7777
 
-
-
-Economics of Technology and Innovation, Minor
-
-
-
-
-
-
-
-
-
-Economics of Quantitative Modeling
-
-
-
-
-
-Economics of Quantitative Modeling, Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                        The School of Humanities, Arts, and Social Sciences
-                          
-
-
-
-            Economics
+              Staff Directory
             
 
 
@@ -787,52 +763,227 @@ Economics of Quantitative Modeling, Minor
 
 
 
+Get Help
 
-Main navigation 2
+        IT Service and Support Center
+
+
+
+
+
+
+
+Division of the CIO
+
+
+    Information Services and Technology
+  
+
+
+
+
+
+Main navigation
 
 
 About
 
 
-Academics
+Services
 
 
-Biotechnology and Health Economics
+Get Started
 
 
-Economic Policy and Regulation
+Get Help
 
 
-Economics
-
-
-Economics
-
-
-Economics
-
-
-Economics
-
-
-Economics of Banking and Finance
-
-
-Economics of Biotech and Medical Innovation
-
-
-Economics of Technology and Innovation
+Announcements
 
 
 
 
-Research
 
 
-Faculty
+Main navigation
 
 
-Recon Lab
+About
+
+
+Services
+
+
+Get Started
+
+
+Get Help
+
+
+Announcements
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+Search
+Search
+
+
+
+
+
+
+
+
+
+Help Desk Hours
+
+
+
+
+
+
+Sun: 
+5:00 pm-9:00 pm
+
+
+
+Mon - Thu: 
+8:30 am-9:00 pm
+
+
+
+Fri: 
+8:30 am-4:00 pm
+
+
+
+Sat: 
+Closed
+
+
+
+, 
+  
+
+
+
+
+
+
+
+
+
+
+Announcements
+
+
+
+
+ Open IssuePlotting Issue using Adobe Acrobat to plot pdf files
+
+
+ Open IssueNetwork Printing – issue connecting to network printers
+
+
+
+
+
+
+
+
+
+
+
+
+
+Get Help
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+DotCIO's IT Services and Support Center (ITSSC) provides a centralized location for self-serve help through the use of an active knowledge base, featuring commonly requested content and documentation of known issues, as well as an online ticketing system to submit a request for IT assistance.
+In addition, the Help Desk team is available during help desk posted hours for phone and in-person support. The Help Desk is located on the main floor of the Voorhees Computing Center. 
+
+
+ 
+
+
+
+Search
+
+
+Search the knowledge base
+
+
+
+
+
+Request
+
+
+Submit a request
+How to submit a request
+
+
+
+
+
+Help Desk
+
+
+
+Telephone
+518-276-7777 
+Location
+
+
+
+
+
 
 
 
@@ -860,18 +1011,19 @@ Home
 
 
 
-Departments / Programs
 
 
 
 
 
-Economics
 
+Search
 
 
 
 
+Search
+Search
 
 
 
@@ -881,27 +1033,35 @@ Economics
 
 
 
+Help Desk Hours
 
 
 
-Academics
 
 
 
+Sun: 
+5:00 pm-9:00 pm
 
 
 
+Mon - Thu: 
+8:30 am-9:00 pm
 
 
 
+Fri: 
+8:30 am-4:00 pm
 
 
 
+Sat: 
+Closed
 
-      Academic Programs
-    
 
 
+, 
+  
 
 
 
@@ -910,85 +1070,86 @@ Academics
 
 
 
-Area of Study
-B.S.
-Minor
-B.S. + M.S.
-M.S.
 
 
+Announcements
 
 
-Economics
 
 
+ Open IssuePlotting Issue using Adobe Acrobat to plot pdf files
 
-Economics, B.S.
 
+ Open IssueNetwork Printing – issue connecting to network printers
 
 
 
 
 
-Economics, Minor
 
 
 
 
 
 
-Economics, B.S. + M.S.
 
 
+Get Help
 
 
 
 
-Economics, M.S.
 
 
 
 
 
-Biotechnology and Health Economics 
 
 
 
-Biotechnology and Health Economics , B.S.
 
 
 
 
 
 
+ 
+DotCIO's IT Services and Support Center (ITSSC) provides a centralized location for self-serve help through the use of an active knowledge base, featuring commonly requested content and documentation of known issues, as well as an online ticketing system to submit a request for IT assistance.
+In addition, the Help Desk team is available during help desk posted hours for phone and in-person support. The Help Desk is located on the main floor of the Voorhees Computing Center. 
 
 
+ 
 
 
 
-Economics of Banking and Finance
+Search
 
 
+Search the knowledge base
 
 
 
-Economics of Banking and Finance, Minor
 
 
+Request
 
 
+Submit a request
+How to submit a request
 
 
 
 
 
-Economics of Biotech and Medical Innovation
+Help Desk
 
 
 
+Telephone
+518-276-7777 
+Location
 
 
-Economics of Biotech and Medical Innovation, Minor
 
 
 
@@ -998,13 +1159,11 @@ Economics of Biotech and Medical Innovation, Minor
 
 
 
-Economics of Policy and Regulation
 
 
 
 
 
-Economics of Policy and Regulation, Minor
 
 
 
@@ -1013,34 +1172,35 @@ Economics of Policy and Regulation, Minor
 
 
 
+Home
 
-Economics of Technology and Innovation
 
 
 
 
 
-Economics of Technology and Innovation, Minor
 
 
 
 
 
+Home
 
 
 
 
-Economics of Quantitative Modeling
 
 
 
 
 
-Economics of Quantitative Modeling, Minor
+Search
 
 
 
 
+Search
+Search
 
 
 
@@ -1050,27 +1210,1134 @@ Economics of Quantitative Modeling, Minor
 
 
 
+Help Desk Hours
 
 
 
 
 
 
+Sun: 
+5:00 pm-9:00 pm
 
 
 
+Mon - Thu: 
+8:30 am-9:00 pm
 
 
 
+Fri: 
+8:30 am-4:00 pm
 
 
 
-                        The School of Humanities, Arts, and Social Sciences
-                          
+Sat: 
+Closed
 
 
 
-            Economics
+, 
+  
+
+
+
+
+
+
+
+
+
+
+Announcements
+
+
+
+
+ Open IssuePlotting Issue using Adobe Acrobat to plot pdf files
+
+
+ Open IssueNetwork Printing – issue connecting to network printers
+
+
+
+
+
+
+
+
+
+
+
+
+
+Get Help
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+DotCIO's IT Services and Support Center (ITSSC) provides a centralized location for self-serve help through the use of an active knowledge base, featuring commonly requested content and documentation of known issues, as well as an online ticketing system to submit a request for IT assistance.
+In addition, the Help Desk team is available during help desk posted hours for phone and in-person support. The Help Desk is located on the main floor of the Voorhees Computing Center. 
+
+
+ 
+
+
+
+Search
+
+
+Search the knowledge base
+
+
+
+
+
+Request
+
+
+Submit a request
+How to submit a request
+
+
+
+
+
+Help Desk
+
+
+
+Telephone
+518-276-7777 
+Location
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+Search
+Search
+
+
+
+
+
+
+
+
+
+Help Desk Hours
+
+
+
+
+
+
+Sun: 
+5:00 pm-9:00 pm
+
+
+
+Mon - Thu: 
+8:30 am-9:00 pm
+
+
+
+Fri: 
+8:30 am-4:00 pm
+
+
+
+Sat: 
+Closed
+
+
+
+, 
+  
+
+
+
+
+
+
+
+
+
+
+Announcements
+
+
+
+
+ Open IssuePlotting Issue using Adobe Acrobat to plot pdf files
+
+
+ Open IssueNetwork Printing – issue connecting to network printers
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+Search
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+Search
+
+
+
+
+
+
+
+
+
+Search
+Search
+
+
+
+
+
+
+Search
+Search
+
+
+
+Help Desk Hours
+
+
+
+
+
+
+Sun: 
+5:00 pm-9:00 pm
+
+
+
+Mon - Thu: 
+8:30 am-9:00 pm
+
+
+
+Fri: 
+8:30 am-4:00 pm
+
+
+
+Sat: 
+Closed
+
+
+
+, 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sun: 
+5:00 pm-9:00 pm
+
+
+
+Mon - Thu: 
+8:30 am-9:00 pm
+
+
+
+Fri: 
+8:30 am-4:00 pm
+
+
+
+Sat: 
+Closed
+
+
+
+, 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+Sun: 
+5:00 pm-9:00 pm
+
+
+
+Mon - Thu: 
+8:30 am-9:00 pm
+
+
+
+Fri: 
+8:30 am-4:00 pm
+
+
+
+Sat: 
+Closed
+
+
+
+, 
+  
+
+
+
+
+
+
+
+
+
+
+
+Sun: 
+5:00 pm-9:00 pm
+
+
+
+Mon - Thu: 
+8:30 am-9:00 pm
+
+
+
+Fri: 
+8:30 am-4:00 pm
+
+
+
+Sat: 
+Closed
+
+
+
+, 
+  
+
+
+
+
+
+
+
+
+
+Sun: 
+5:00 pm-9:00 pm
+
+
+
+Mon - Thu: 
+8:30 am-9:00 pm
+
+
+
+Fri: 
+8:30 am-4:00 pm
+
+
+
+Sat: 
+Closed
+
+
+
+, 
+  
+
+
+
+
+
+
+
+Sun: 
+5:00 pm-9:00 pm
+
+
+
+Mon - Thu: 
+8:30 am-9:00 pm
+
+
+
+Fri: 
+8:30 am-4:00 pm
+
+
+
+Sat: 
+Closed
+
+
+
+, 
+  
+
+
+
+
+
+Sun: 
+5:00 pm-9:00 pm
+
+
+
+Mon - Thu: 
+8:30 am-9:00 pm
+
+
+
+Fri: 
+8:30 am-4:00 pm
+
+
+
+Sat: 
+Closed
+
+
+
+, 
+  
+
+
+
+
+Sun: 
+5:00 pm-9:00 pm
+
+
+
+Mon - Thu: 
+8:30 am-9:00 pm
+
+
+
+Fri: 
+8:30 am-4:00 pm
+
+
+
+Sat: 
+Closed
+
+
+
+, 
+  
+
+
+
+
+Sun: 
+5:00 pm-9:00 pm
+
+
+
+Mon - Thu: 
+8:30 am-9:00 pm
+
+
+
+Fri: 
+8:30 am-4:00 pm
+
+
+
+Sat: 
+Closed
+
+
+
+Sun: 
+5:00 pm-9:00 pm
+
+
+Mon - Thu: 
+8:30 am-9:00 pm
+
+
+Fri: 
+8:30 am-4:00 pm
+
+
+Sat: 
+Closed
+
+
+Announcements
+
+
+
+
+ Open IssuePlotting Issue using Adobe Acrobat to plot pdf files
+
+
+ Open IssueNetwork Printing – issue connecting to network printers
+
+
+
+
+
+
+
+
+
+ Open IssuePlotting Issue using Adobe Acrobat to plot pdf files
+
+
+ Open IssueNetwork Printing – issue connecting to network printers
+
+
+
+
+
+
+
+ Open IssuePlotting Issue using Adobe Acrobat to plot pdf files
+
+
+ Open IssueNetwork Printing – issue connecting to network printers
+
+
+
+
+
+
+ Open IssuePlotting Issue using Adobe Acrobat to plot pdf files
+
+
+ Open IssueNetwork Printing – issue connecting to network printers
+
+
+
+
+ Open IssuePlotting Issue using Adobe Acrobat to plot pdf files
+
+
+ Open IssueNetwork Printing – issue connecting to network printers
+
+
+ Open IssuePlotting Issue using Adobe Acrobat to plot pdf files
+ Open Issue Open IssuePlotting Issue using Adobe Acrobat to plot pdf files
+ Open IssueNetwork Printing – issue connecting to network printers
+ Open Issue Open IssueNetwork Printing – issue connecting to network printers
+
+Get Help
+
+
+
+Get Help
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+DotCIO's IT Services and Support Center (ITSSC) provides a centralized location for self-serve help through the use of an active knowledge base, featuring commonly requested content and documentation of known issues, as well as an online ticketing system to submit a request for IT assistance.
+In addition, the Help Desk team is available during help desk posted hours for phone and in-person support. The Help Desk is located on the main floor of the Voorhees Computing Center. 
+
+
+ 
+
+
+
+Search
+
+
+Search the knowledge base
+
+
+
+
+
+Request
+
+
+Submit a request
+How to submit a request
+
+
+
+
+
+Help Desk
+
+
+
+Telephone
+518-276-7777 
+Location
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+DotCIO's IT Services and Support Center (ITSSC) provides a centralized location for self-serve help through the use of an active knowledge base, featuring commonly requested content and documentation of known issues, as well as an online ticketing system to submit a request for IT assistance.
+In addition, the Help Desk team is available during help desk posted hours for phone and in-person support. The Help Desk is located on the main floor of the Voorhees Computing Center. 
+
+
+ 
+
+
+
+Search
+
+
+Search the knowledge base
+
+
+
+
+
+Request
+
+
+Submit a request
+How to submit a request
+
+
+
+
+
+Help Desk
+
+
+
+Telephone
+518-276-7777 
+Location
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+DotCIO's IT Services and Support Center (ITSSC) provides a centralized location for self-serve help through the use of an active knowledge base, featuring commonly requested content and documentation of known issues, as well as an online ticketing system to submit a request for IT assistance.
+In addition, the Help Desk team is available during help desk posted hours for phone and in-person support. The Help Desk is located on the main floor of the Voorhees Computing Center. 
+
+
+ 
+
+
+
+Search
+
+
+Search the knowledge base
+
+
+
+
+
+Request
+
+
+Submit a request
+How to submit a request
+
+
+
+
+
+Help Desk
+
+
+
+Telephone
+518-276-7777 
+Location
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+DotCIO's IT Services and Support Center (ITSSC) provides a centralized location for self-serve help through the use of an active knowledge base, featuring commonly requested content and documentation of known issues, as well as an online ticketing system to submit a request for IT assistance.
+In addition, the Help Desk team is available during help desk posted hours for phone and in-person support. The Help Desk is located on the main floor of the Voorhees Computing Center. 
+
+
+ 
+
+
+
+Search
+
+
+Search the knowledge base
+
+
+
+
+
+Request
+
+
+Submit a request
+How to submit a request
+
+
+
+
+
+Help Desk
+
+
+
+Telephone
+518-276-7777 
+Location
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+DotCIO's IT Services and Support Center (ITSSC) provides a centralized location for self-serve help through the use of an active knowledge base, featuring commonly requested content and documentation of known issues, as well as an online ticketing system to submit a request for IT assistance.
+In addition, the Help Desk team is available during help desk posted hours for phone and in-person support. The Help Desk is located on the main floor of the Voorhees Computing Center. 
+
+
+ 
+
+
+
+Search
+
+
+Search the knowledge base
+
+
+
+
+
+Request
+
+
+Submit a request
+How to submit a request
+
+
+
+
+
+Help Desk
+
+
+
+Telephone
+518-276-7777 
+Location
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+DotCIO's IT Services and Support Center (ITSSC) provides a centralized location for self-serve help through the use of an active knowledge base, featuring commonly requested content and documentation of known issues, as well as an online ticketing system to submit a request for IT assistance.
+In addition, the Help Desk team is available during help desk posted hours for phone and in-person support. The Help Desk is located on the main floor of the Voorhees Computing Center. 
+
+
+ 
+
+
+
+Search
+
+
+Search the knowledge base
+
+
+
+
+
+Request
+
+
+Submit a request
+How to submit a request
+
+
+
+
+
+Help Desk
+
+
+
+Telephone
+518-276-7777 
+Location
+
+
+
+
+
+
+
+
+
+
+ 
+DotCIO's IT Services and Support Center (ITSSC) provides a centralized location for self-serve help through the use of an active knowledge base, featuring commonly requested content and documentation of known issues, as well as an online ticketing system to submit a request for IT assistance.
+In addition, the Help Desk team is available during help desk posted hours for phone and in-person support. The Help Desk is located on the main floor of the Voorhees Computing Center. 
+
+
+ 
+
+
+
+Search
+
+
+Search the knowledge base
+
+
+
+
+
+Request
+
+
+Submit a request
+How to submit a request
+
+
+
+
+
+Help Desk
+
+
+
+Telephone
+518-276-7777 
+Location
+
+
+
+
+
+
+
+
+ 
+DotCIO's IT Services and Support Center (ITSSC) provides a centralized location for self-serve help through the use of an active knowledge base, featuring commonly requested content and documentation of known issues, as well as an online ticketing system to submit a request for IT assistance.
+In addition, the Help Desk team is available during help desk posted hours for phone and in-person support. The Help Desk is located on the main floor of the Voorhees Computing Center. 
+
+
+ 
+
+
+
+Search
+
+
+Search the knowledge base
+
+
+
+
+
+Request
+
+
+Submit a request
+How to submit a request
+
+
+
+
+
+Help Desk
+
+
+
+Telephone
+518-276-7777 
+Location
+
+
+
+
+
+
+ 
+DotCIO's IT Services and Support Center (ITSSC) provides a centralized location for self-serve help through the use of an active knowledge base, featuring commonly requested content and documentation of known issues, as well as an online ticketing system to submit a request for IT assistance.
+In addition, the Help Desk team is available during help desk posted hours for phone and in-person support. The Help Desk is located on the main floor of the Voorhees Computing Center. 
+
+
+DotCIO's IT Services and Support Center (ITSSC) provides a centralized location for self-serve help through the use of an active knowledge base, featuring commonly requested content and documentation of known issues, as well as an online ticketing system to submit a request for IT assistance.
+In addition, the Help Desk team is available during help desk posted hours for phone and in-person support. The Help Desk is located on the main floor of the Voorhees Computing Center. 
+DotCIO's IT Services and Support Center (ITSSC) provides a centralized location for self-serve help through the use of an active knowledge base, featuring commonly requested content and documentation of known issues, as well as an online ticketing system to submit a request for IT assistance.
+In addition, the Help Desk team is available during help desk posted hours for phone and in-person support. The Help Desk is located on the main floor of the Voorhees Computing Center.  
+
+
+
+Search
+
+
+Search the knowledge base
+
+
+
+
+
+Request
+
+
+Submit a request
+How to submit a request
+
+
+
+
+
+Help Desk
+
+
+
+Telephone
+518-276-7777 
+Location
+
+
+
+
+
+
+
+
+Search
+
+
+Search the knowledge base
+
+
+
+Search
+
+Search the knowledge base
+
+
+
+Request
+
+
+Submit a request
+How to submit a request
+
+
+
+Request
+
+Submit a request
+How to submit a request
+
+
+
+Help Desk
+
+
+
+Telephone
+518-276-7777 
+Location
+
+
+
+
+
+Help Desk
+
+
+Telephone
+518-276-7777 
+Location
+
+
+
+
+
+
+
+
+
+Division of the Chief Information Officer
+110 8th St. Troy, NY 12180
+(518) 276-7777
+
+              Staff Directory
             
 
 
@@ -1078,51 +2345,50 @@ Economics of Quantitative Modeling, Minor
 
 
 
-Main navigation 2
 
 
-About
+Get Help
 
+        IT Service and Support Center
 
-Academics
 
 
-Biotechnology and Health Economics
 
 
-Economic Policy and Regulation
 
 
-Economics
 
 
-Economics
+Division of the Chief Information Officer
+110 8th St. Troy, NY 12180
+(518) 276-7777
 
+              Staff Directory
+            
 
-Economics
 
 
-Economics
 
 
-Economics of Banking and Finance
 
 
-Economics of Biotech and Medical Innovation
 
+Get Help
 
-Economics of Technology and Innovation
+        IT Service and Support Center
 
 
 
 
-Research
 
 
-Faculty
+Division of the Chief Information Officer
+110 8th St. Troy, NY 12180
+(518) 276-7777
 
+              Staff Directory
+            
 
-Recon Lab
 
 
 
@@ -1130,1434 +2396,51 @@ Recon Lab
 
 
 
+Get Help
 
-Main navigation 2
+        IT Service and Support Center
 
 
-About
 
 
-Academics
 
+Division of the Chief Information Officer
+110 8th St. Troy, NY 12180
+(518) 276-7777
 
-Biotechnology and Health Economics
+              Staff Directory
+            
 
 
-Economic Policy and Regulation
 
 
-Economics
 
 
-Economics
 
+Division of the Chief Information Officer
+110 8th St. Troy, NY 12180
+(518) 276-7777
 
-Economics
+              Staff Directory
+            
 
 
-Economics
 
 
-Economics of Banking and Finance
 
+Division of the Chief Information Officer
+110 8th St. Troy, NY 12180
+(518) 276-7777
 
-Economics of Biotech and Medical Innovation
+              Staff Directory
+            
 
 
-Economics of Technology and Innovation
 
 
+Get Help
 
-
-Research
-
-
-Faculty
-
-
-Recon Lab
-
-
-
-
-
-
-Main navigation 2
-
-
-About
-
-
-Academics
-
-
-Biotechnology and Health Economics
-
-
-Economic Policy and Regulation
-
-
-Economics
-
-
-Economics
-
-
-Economics
-
-
-Economics
-
-
-Economics of Banking and Finance
-
-
-Economics of Biotech and Medical Innovation
-
-
-Economics of Technology and Innovation
-
-
-
-
-Research
-
-
-Faculty
-
-
-Recon Lab
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Home
-
-
-
-
-
-Departments / Programs
-
-
-
-
-
-Economics
-
-
-
-
-
-
-
-
-
-
-
-
-
-Home
-
-
-
-
-
-Departments / Programs
-
-
-
-
-
-Economics
-
-
-
-
-
-
-
-
-
-
-
-Home
-
-
-
-
-
-Departments / Programs
-
-
-
-
-
-Economics
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Academics
-
-
-
-
-
-
-
-
-
-
-
-
-
-      Academic Programs
-    
-
-
-
-
-
-
-
-
-
-
-Area of Study
-B.S.
-Minor
-B.S. + M.S.
-M.S.
-
-
-
-
-Economics
-
-
-
-Economics, B.S.
-
-
-
-
-
-
-Economics, Minor
-
-
-
-
-
-
-Economics, B.S. + M.S.
-
-
-
-
-
-
-Economics, M.S.
-
-
-
-
-
-Biotechnology and Health Economics 
-
-
-
-Biotechnology and Health Economics , B.S.
-
-
-
-
-
-
-
-
-
-
-
-Economics of Banking and Finance
-
-
-
-
-
-Economics of Banking and Finance, Minor
-
-
-
-
-
-
-
-
-
-Economics of Biotech and Medical Innovation
-
-
-
-
-
-Economics of Biotech and Medical Innovation, Minor
-
-
-
-
-
-
-
-
-
-Economics of Policy and Regulation
-
-
-
-
-
-Economics of Policy and Regulation, Minor
-
-
-
-
-
-
-
-
-
-Economics of Technology and Innovation
-
-
-
-
-
-Economics of Technology and Innovation, Minor
-
-
-
-
-
-
-
-
-
-Economics of Quantitative Modeling
-
-
-
-
-
-Economics of Quantitative Modeling, Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Academics
-
-
-
-
-
-
-
-
-
-
-
-
-
-      Academic Programs
-    
-
-
-
-
-
-
-
-
-
-
-Area of Study
-B.S.
-Minor
-B.S. + M.S.
-M.S.
-
-
-
-
-Economics
-
-
-
-Economics, B.S.
-
-
-
-
-
-
-Economics, Minor
-
-
-
-
-
-
-Economics, B.S. + M.S.
-
-
-
-
-
-
-Economics, M.S.
-
-
-
-
-
-Biotechnology and Health Economics 
-
-
-
-Biotechnology and Health Economics , B.S.
-
-
-
-
-
-
-
-
-
-
-
-Economics of Banking and Finance
-
-
-
-
-
-Economics of Banking and Finance, Minor
-
-
-
-
-
-
-
-
-
-Economics of Biotech and Medical Innovation
-
-
-
-
-
-Economics of Biotech and Medical Innovation, Minor
-
-
-
-
-
-
-
-
-
-Economics of Policy and Regulation
-
-
-
-
-
-Economics of Policy and Regulation, Minor
-
-
-
-
-
-
-
-
-
-Economics of Technology and Innovation
-
-
-
-
-
-Economics of Technology and Innovation, Minor
-
-
-
-
-
-
-
-
-
-Economics of Quantitative Modeling
-
-
-
-
-
-Economics of Quantitative Modeling, Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Academics
-
-
-
-
-
-
-
-
-
-
-
-
-
-      Academic Programs
-    
-
-
-
-
-
-
-
-
-
-
-Area of Study
-B.S.
-Minor
-B.S. + M.S.
-M.S.
-
-
-
-
-Economics
-
-
-
-Economics, B.S.
-
-
-
-
-
-
-Economics, Minor
-
-
-
-
-
-
-Economics, B.S. + M.S.
-
-
-
-
-
-
-Economics, M.S.
-
-
-
-
-
-Biotechnology and Health Economics 
-
-
-
-Biotechnology and Health Economics , B.S.
-
-
-
-
-
-
-
-
-
-
-
-Economics of Banking and Finance
-
-
-
-
-
-Economics of Banking and Finance, Minor
-
-
-
-
-
-
-
-
-
-Economics of Biotech and Medical Innovation
-
-
-
-
-
-Economics of Biotech and Medical Innovation, Minor
-
-
-
-
-
-
-
-
-
-Economics of Policy and Regulation
-
-
-
-
-
-Economics of Policy and Regulation, Minor
-
-
-
-
-
-
-
-
-
-Economics of Technology and Innovation
-
-
-
-
-
-Economics of Technology and Innovation, Minor
-
-
-
-
-
-
-
-
-
-Economics of Quantitative Modeling
-
-
-
-
-
-Economics of Quantitative Modeling, Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Academics
-
-
-
-
-
-
-
-
-
-
-
-
-
-      Academic Programs
-    
-
-
-
-
-
-
-
-
-
-
-Area of Study
-B.S.
-Minor
-B.S. + M.S.
-M.S.
-
-
-
-
-Economics
-
-
-
-Economics, B.S.
-
-
-
-
-
-
-Economics, Minor
-
-
-
-
-
-
-Economics, B.S. + M.S.
-
-
-
-
-
-
-Economics, M.S.
-
-
-
-
-
-Biotechnology and Health Economics 
-
-
-
-Biotechnology and Health Economics , B.S.
-
-
-
-
-
-
-
-
-
-
-
-Economics of Banking and Finance
-
-
-
-
-
-Economics of Banking and Finance, Minor
-
-
-
-
-
-
-
-
-
-Economics of Biotech and Medical Innovation
-
-
-
-
-
-Economics of Biotech and Medical Innovation, Minor
-
-
-
-
-
-
-
-
-
-Economics of Policy and Regulation
-
-
-
-
-
-Economics of Policy and Regulation, Minor
-
-
-
-
-
-
-
-
-
-Economics of Technology and Innovation
-
-
-
-
-
-Economics of Technology and Innovation, Minor
-
-
-
-
-
-
-
-
-
-Economics of Quantitative Modeling
-
-
-
-
-
-Economics of Quantitative Modeling, Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Academics
-
-
-
-Academics
-
-
-
-
-
-
-
-
-
-
-
-      Academic Programs
-    
-
-
-
-
-
-
-
-
-
-
-Area of Study
-B.S.
-Minor
-B.S. + M.S.
-M.S.
-
-
-
-
-Economics
-
-
-
-Economics, B.S.
-
-
-
-
-
-
-Economics, Minor
-
-
-
-
-
-
-Economics, B.S. + M.S.
-
-
-
-
-
-
-Economics, M.S.
-
-
-
-
-
-Biotechnology and Health Economics 
-
-
-
-Biotechnology and Health Economics , B.S.
-
-
-
-
-
-
-
-
-
-
-
-Economics of Banking and Finance
-
-
-
-
-
-Economics of Banking and Finance, Minor
-
-
-
-
-
-
-
-
-
-Economics of Biotech and Medical Innovation
-
-
-
-
-
-Economics of Biotech and Medical Innovation, Minor
-
-
-
-
-
-
-
-
-
-Economics of Policy and Regulation
-
-
-
-
-
-Economics of Policy and Regulation, Minor
-
-
-
-
-
-
-
-
-
-Economics of Technology and Innovation
-
-
-
-
-
-Economics of Technology and Innovation, Minor
-
-
-
-
-
-
-
-
-
-Economics of Quantitative Modeling
-
-
-
-
-
-Economics of Quantitative Modeling, Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-      Academic Programs
-    
-
-
-
-
-
-
-
-
-
-
-Area of Study
-B.S.
-Minor
-B.S. + M.S.
-M.S.
-
-
-
-
-Economics
-
-
-
-Economics, B.S.
-
-
-
-
-
-
-Economics, Minor
-
-
-
-
-
-
-Economics, B.S. + M.S.
-
-
-
-
-
-
-Economics, M.S.
-
-
-
-
-
-Biotechnology and Health Economics 
-
-
-
-Biotechnology and Health Economics , B.S.
-
-
-
-
-
-
-
-
-
-
-
-Economics of Banking and Finance
-
-
-
-
-
-Economics of Banking and Finance, Minor
-
-
-
-
-
-
-
-
-
-Economics of Biotech and Medical Innovation
-
-
-
-
-
-Economics of Biotech and Medical Innovation, Minor
-
-
-
-
-
-
-
-
-
-Economics of Policy and Regulation
-
-
-
-
-
-Economics of Policy and Regulation, Minor
-
-
-
-
-
-
-
-
-
-Economics of Technology and Innovation
-
-
-
-
-
-Economics of Technology and Innovation, Minor
-
-
-
-
-
-
-
-
-
-Economics of Quantitative Modeling
-
-
-
-
-
-Economics of Quantitative Modeling, Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-      Academic Programs
-    
-
-
-
-
-
-
-
-
-
-
-Area of Study
-B.S.
-Minor
-B.S. + M.S.
-M.S.
-
-
-
-
-Economics
-
-
-
-Economics, B.S.
-
-
-
-
-
-
-Economics, Minor
-
-
-
-
-
-
-Economics, B.S. + M.S.
-
-
-
-
-
-
-Economics, M.S.
-
-
-
-
-
-Biotechnology and Health Economics 
-
-
-
-Biotechnology and Health Economics , B.S.
-
-
-
-
-
-
-
-
-
-
-
-Economics of Banking and Finance
-
-
-
-
-
-Economics of Banking and Finance, Minor
-
-
-
-
-
-
-
-
-
-Economics of Biotech and Medical Innovation
-
-
-
-
-
-Economics of Biotech and Medical Innovation, Minor
-
-
-
-
-
-
-
-
-
-Economics of Policy and Regulation
-
-
-
-
-
-Economics of Policy and Regulation, Minor
-
-
-
-
-
-
-
-
-
-Economics of Technology and Innovation
-
-
-
-
-
-Economics of Technology and Innovation, Minor
-
-
-
-
-
-
-
-
-
-Economics of Quantitative Modeling
-
-
-
-
-
-Economics of Quantitative Modeling, Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-Contact
-The School of Humanities, Arts, and Social Sciences
-Russell Sage Laboratory (SAGE) 5304, 110 8th Street, Troy, NY 12180
-(518) 276-6575
-
-
-Connect
-
-
-Follow us on Twitter
-
-
-
-
-
-
-Contact
-The School of Humanities, Arts, and Social Sciences
-Russell Sage Laboratory (SAGE) 5304, 110 8th Street, Troy, NY 12180
-(518) 276-6575
-
-
-Connect
-
-
-Follow us on Twitter
-
-
-
-
-
-Contact
-The School of Humanities, Arts, and Social Sciences
-Russell Sage Laboratory (SAGE) 5304, 110 8th Street, Troy, NY 12180
-(518) 276-6575
-
-Connect
-
-
-Follow us on Twitter
-
-
-
-
-
-Follow us on Twitter
-
+        IT Service and Support Center
 
 
 

@@ -1,0 +1,2684 @@
+He is currently an Assistant Professor in the Department of Electrical Computer and Systems Engineering at the Rensselaer Polytechnic Institute. Prior to joining Rensselaer, Dr. Paternain was a postdoctoral Researcher at the University of Pennsylvania. His research interests lie at the intersection of machine learning and control of dynamical systems. Dr. Paternain was the recipient of the 2017 CDC Best Student Paper Award and the 2019 Joseph and Rosaline Wolfe Best Doctoral Dissertation Award from the Electrical and Systems Engineering Department at the University of Pennsylvania.Information Science and Systems
+Control of Dynamical Systems, Machine Learning, OptimizationThe following is a selection of recent publications in Scopus. Santiago Paternain has 43 indexed publications                                      in the subjects of 
+                                                                                                                                      Engineering, 
+                                                                                                                                       Computer Science, 
+                                                                                                                                       and  Mathematics.
+                                                                  View All Scopus Publications
+            Copyright © 2023 Rensselaer Polytechnic Institute (RPI)
+          
+Faculty Search
+
+Academic Schools & Departments
+
+Research Centers
+
+Faculty Login
+
+
+Home
+
+
+ paters@rpi.edu 
+5182766087
+
+https://ecse.rpi.edu/~paters/
+AboutResearchPublicationsInstitute for Data Exploration and Applications (IDEA)Center for Materials, Devices, and Integrated Systems (CMDIS)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Faculty
+  
+
+
+
+
+
+
+
+
+Main navigation
+
+
+Faculty Search
+
+
+Academic Schools & Departments
+
+
+Research Centers
+
+
+Faculty Login
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+
+
+
+
+
+
+
+
+Santiago Paternain
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Electrical, Computer, and Systems Engineering
+
+
+Assistant Professor
+
+
+ paters@rpi.edu
+ 
+5182766087
+
+
+https://ecse.rpi.edu/~paters/
+
+
+
+
+
+
+About Research Publications 
+
+
+
+
+About
+He is currently an Assistant Professor in the Department of Electrical Computer and Systems Engineering at the Rensselaer Polytechnic Institute. Prior to joining Rensselaer, Dr. Paternain was a postdoctoral Researcher at the University of Pennsylvania. His research interests lie at the intersection of machine learning and control of dynamical systems. Dr. Paternain was the recipient of the 2017 CDC Best Student Paper Award and the 2019 Joseph and Rosaline Wolfe Best Doctoral Dissertation Award from the Electrical and Systems Engineering Department at the University of Pennsylvania.
+
+
+
+
+
+Research
+
+Primary Research Focus
+Control and Autonomy
+
+
+Other Focus Areas
+Information Science and Systems
+Control of Dynamical Systems, Machine Learning, Optimization
+
+
+
+Research Centers
+
+Institute for Data Exploration and Applications (IDEA)
+Center for Materials, Devices, and Integrated Systems (CMDIS)
+
+
+
+
+Publications 
+                              
+The following is a selection of recent publications in Scopus. Santiago Paternain has 43 indexed publications                                      in the subjects of 
+                                                                                                                                      Engineering, 
+                                                                                                                                       Computer Science, 
+                                                                                                                                       and  Mathematics.
+                                                                  
+
+
+
+Constrained Learning With Non-Convex Losses
+
+Luiz F.O. Chamon, Santiago Paternain, Miguel Calvo-Fullana, Alejandro Ribeiro
+IEEE Transactions on Information Theory, 69, 2023, pp.1739-1760.
+                    
+
+
+Safe Policies for Reinforcement Learning via Primal-Dual Methods
+
+Santiago Paternain, Miguel Calvo-Fullana, Luiz F.O. Chamon, Alejandro Ribeiro
+IEEE Transactions on Automatic Control, 68, 2023, pp.1321-1336.
+                    
+
+
+Navigation of a quadratic potential with ellipsoidal obstacles
+
+Harshat Kumar, Santiago Paternain, Alejandro Ribeiro
+Automatica, 146, 2022.
+                    
+
+
+Policy Gradient for Continuing Tasks in Discounted Markov Decision Processes
+
+Santiago Paternain, Juan Andres Bazerque, Alejandro Ribeiro
+IEEE Transactions on Automatic Control, 67, 2022, pp.4467-4482.
+                    
+
+
+Stochastic Policy Gradient Ascent in Reproducing Kernel Hilbert Spaces
+
+Santiago Paternain, Juan Andres Bazerque, Austin Small, Alejandro Ribeiro
+IEEE Transactions on Automatic Control, 66, 2021, pp.3429-3444.
+                    
+
+
+Source Seeking in Unknown Environments with Convex Obstacles
+
+Bruno A. Angelico, Luiz F.O. Chamon, Santiago Paternain, Alejandro Ribeiro, George J. Pappas
+Proceedings of the American Control Conference, 2021-May, 2021, pp.5055-5061.
+                    
+
+
+Towards Safe Continuing Task Reinforcement Learning
+
+Miguel Calvo-Fullana, Luiz F.O. Chamon, Santiago Paternain
+Proceedings of the American Control Conference, 2021-May, 2021, pp.902-908.
+                    
+
+
+Resilient Control: Compromising to Adapt
+
+Luiz F.O. Chamon, Alexandre Amice, Santiago Paternain, Alejandro Ribeiro
+Proceedings of the IEEE Conference on Decision and Control, 2020-December, 2020, pp.5703-5710.
+                    
+
+
+Time-Varying Convex Optimization: Time-Structured Algorithms and Applications
+
+Andrea Simonetto, Emiliano Dall'Anese, Santiago Paternain, Geert Leus, Georgios B. Giannakis
+Proceedings of the IEEE, 108, 2020, pp.2032-2048.
+                    
+
+
+Navigation of a Quadratic Potential with Star Obstacles
+
+Harshat Kumar, Santiago Paternain, Alejandro Ribeiro
+Proceedings of the American Control Conference, 2020-July, 2020, pp.2043-2048.
+                    
+
+View All Scopus Publications
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Faculty
+  
+
+
+
+
+
+
+
+
+Main navigation
+
+
+Faculty Search
+
+
+Academic Schools & Departments
+
+
+Research Centers
+
+
+Faculty Login
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+
+
+
+
+
+
+
+
+Santiago Paternain
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Electrical, Computer, and Systems Engineering
+
+
+Assistant Professor
+
+
+ paters@rpi.edu
+ 
+5182766087
+
+
+https://ecse.rpi.edu/~paters/
+
+
+
+
+
+
+About Research Publications 
+
+
+
+
+About
+He is currently an Assistant Professor in the Department of Electrical Computer and Systems Engineering at the Rensselaer Polytechnic Institute. Prior to joining Rensselaer, Dr. Paternain was a postdoctoral Researcher at the University of Pennsylvania. His research interests lie at the intersection of machine learning and control of dynamical systems. Dr. Paternain was the recipient of the 2017 CDC Best Student Paper Award and the 2019 Joseph and Rosaline Wolfe Best Doctoral Dissertation Award from the Electrical and Systems Engineering Department at the University of Pennsylvania.
+
+
+
+
+
+Research
+
+Primary Research Focus
+Control and Autonomy
+
+
+Other Focus Areas
+Information Science and Systems
+Control of Dynamical Systems, Machine Learning, Optimization
+
+
+
+Research Centers
+
+Institute for Data Exploration and Applications (IDEA)
+Center for Materials, Devices, and Integrated Systems (CMDIS)
+
+
+
+
+Publications 
+                              
+The following is a selection of recent publications in Scopus. Santiago Paternain has 43 indexed publications                                      in the subjects of 
+                                                                                                                                      Engineering, 
+                                                                                                                                       Computer Science, 
+                                                                                                                                       and  Mathematics.
+                                                                  
+
+
+
+Constrained Learning With Non-Convex Losses
+
+Luiz F.O. Chamon, Santiago Paternain, Miguel Calvo-Fullana, Alejandro Ribeiro
+IEEE Transactions on Information Theory, 69, 2023, pp.1739-1760.
+                    
+
+
+Safe Policies for Reinforcement Learning via Primal-Dual Methods
+
+Santiago Paternain, Miguel Calvo-Fullana, Luiz F.O. Chamon, Alejandro Ribeiro
+IEEE Transactions on Automatic Control, 68, 2023, pp.1321-1336.
+                    
+
+
+Navigation of a quadratic potential with ellipsoidal obstacles
+
+Harshat Kumar, Santiago Paternain, Alejandro Ribeiro
+Automatica, 146, 2022.
+                    
+
+
+Policy Gradient for Continuing Tasks in Discounted Markov Decision Processes
+
+Santiago Paternain, Juan Andres Bazerque, Alejandro Ribeiro
+IEEE Transactions on Automatic Control, 67, 2022, pp.4467-4482.
+                    
+
+
+Stochastic Policy Gradient Ascent in Reproducing Kernel Hilbert Spaces
+
+Santiago Paternain, Juan Andres Bazerque, Austin Small, Alejandro Ribeiro
+IEEE Transactions on Automatic Control, 66, 2021, pp.3429-3444.
+                    
+
+
+Source Seeking in Unknown Environments with Convex Obstacles
+
+Bruno A. Angelico, Luiz F.O. Chamon, Santiago Paternain, Alejandro Ribeiro, George J. Pappas
+Proceedings of the American Control Conference, 2021-May, 2021, pp.5055-5061.
+                    
+
+
+Towards Safe Continuing Task Reinforcement Learning
+
+Miguel Calvo-Fullana, Luiz F.O. Chamon, Santiago Paternain
+Proceedings of the American Control Conference, 2021-May, 2021, pp.902-908.
+                    
+
+
+Resilient Control: Compromising to Adapt
+
+Luiz F.O. Chamon, Alexandre Amice, Santiago Paternain, Alejandro Ribeiro
+Proceedings of the IEEE Conference on Decision and Control, 2020-December, 2020, pp.5703-5710.
+                    
+
+
+Time-Varying Convex Optimization: Time-Structured Algorithms and Applications
+
+Andrea Simonetto, Emiliano Dall'Anese, Santiago Paternain, Geert Leus, Georgios B. Giannakis
+Proceedings of the IEEE, 108, 2020, pp.2032-2048.
+                    
+
+
+Navigation of a Quadratic Potential with Star Obstacles
+
+Harshat Kumar, Santiago Paternain, Alejandro Ribeiro
+Proceedings of the American Control Conference, 2020-July, 2020, pp.2043-2048.
+                    
+
+View All Scopus Publications
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Faculty
+  
+
+
+
+
+
+
+
+
+Main navigation
+
+
+Faculty Search
+
+
+Academic Schools & Departments
+
+
+Research Centers
+
+
+Faculty Login
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+
+
+
+
+
+
+
+
+Santiago Paternain
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Electrical, Computer, and Systems Engineering
+
+
+Assistant Professor
+
+
+ paters@rpi.edu
+ 
+5182766087
+
+
+https://ecse.rpi.edu/~paters/
+
+
+
+
+
+
+About Research Publications 
+
+
+
+
+About
+He is currently an Assistant Professor in the Department of Electrical Computer and Systems Engineering at the Rensselaer Polytechnic Institute. Prior to joining Rensselaer, Dr. Paternain was a postdoctoral Researcher at the University of Pennsylvania. His research interests lie at the intersection of machine learning and control of dynamical systems. Dr. Paternain was the recipient of the 2017 CDC Best Student Paper Award and the 2019 Joseph and Rosaline Wolfe Best Doctoral Dissertation Award from the Electrical and Systems Engineering Department at the University of Pennsylvania.
+
+
+
+
+
+Research
+
+Primary Research Focus
+Control and Autonomy
+
+
+Other Focus Areas
+Information Science and Systems
+Control of Dynamical Systems, Machine Learning, Optimization
+
+
+
+Research Centers
+
+Institute for Data Exploration and Applications (IDEA)
+Center for Materials, Devices, and Integrated Systems (CMDIS)
+
+
+
+
+Publications 
+                              
+The following is a selection of recent publications in Scopus. Santiago Paternain has 43 indexed publications                                      in the subjects of 
+                                                                                                                                      Engineering, 
+                                                                                                                                       Computer Science, 
+                                                                                                                                       and  Mathematics.
+                                                                  
+
+
+
+Constrained Learning With Non-Convex Losses
+
+Luiz F.O. Chamon, Santiago Paternain, Miguel Calvo-Fullana, Alejandro Ribeiro
+IEEE Transactions on Information Theory, 69, 2023, pp.1739-1760.
+                    
+
+
+Safe Policies for Reinforcement Learning via Primal-Dual Methods
+
+Santiago Paternain, Miguel Calvo-Fullana, Luiz F.O. Chamon, Alejandro Ribeiro
+IEEE Transactions on Automatic Control, 68, 2023, pp.1321-1336.
+                    
+
+
+Navigation of a quadratic potential with ellipsoidal obstacles
+
+Harshat Kumar, Santiago Paternain, Alejandro Ribeiro
+Automatica, 146, 2022.
+                    
+
+
+Policy Gradient for Continuing Tasks in Discounted Markov Decision Processes
+
+Santiago Paternain, Juan Andres Bazerque, Alejandro Ribeiro
+IEEE Transactions on Automatic Control, 67, 2022, pp.4467-4482.
+                    
+
+
+Stochastic Policy Gradient Ascent in Reproducing Kernel Hilbert Spaces
+
+Santiago Paternain, Juan Andres Bazerque, Austin Small, Alejandro Ribeiro
+IEEE Transactions on Automatic Control, 66, 2021, pp.3429-3444.
+                    
+
+
+Source Seeking in Unknown Environments with Convex Obstacles
+
+Bruno A. Angelico, Luiz F.O. Chamon, Santiago Paternain, Alejandro Ribeiro, George J. Pappas
+Proceedings of the American Control Conference, 2021-May, 2021, pp.5055-5061.
+                    
+
+
+Towards Safe Continuing Task Reinforcement Learning
+
+Miguel Calvo-Fullana, Luiz F.O. Chamon, Santiago Paternain
+Proceedings of the American Control Conference, 2021-May, 2021, pp.902-908.
+                    
+
+
+Resilient Control: Compromising to Adapt
+
+Luiz F.O. Chamon, Alexandre Amice, Santiago Paternain, Alejandro Ribeiro
+Proceedings of the IEEE Conference on Decision and Control, 2020-December, 2020, pp.5703-5710.
+                    
+
+
+Time-Varying Convex Optimization: Time-Structured Algorithms and Applications
+
+Andrea Simonetto, Emiliano Dall'Anese, Santiago Paternain, Geert Leus, Georgios B. Giannakis
+Proceedings of the IEEE, 108, 2020, pp.2032-2048.
+                    
+
+
+Navigation of a Quadratic Potential with Star Obstacles
+
+Harshat Kumar, Santiago Paternain, Alejandro Ribeiro
+Proceedings of the American Control Conference, 2020-July, 2020, pp.2043-2048.
+                    
+
+View All Scopus Publications
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Faculty
+  
+
+
+
+
+
+Main navigation
+
+
+Faculty Search
+
+
+Academic Schools & Departments
+
+
+Research Centers
+
+
+Faculty Login
+
+
+
+
+
+
+Main navigation
+
+
+Faculty Search
+
+
+Academic Schools & Departments
+
+
+Research Centers
+
+
+Faculty Login
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+
+
+
+
+
+
+
+
+Santiago Paternain
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Electrical, Computer, and Systems Engineering
+
+
+Assistant Professor
+
+
+ paters@rpi.edu
+ 
+5182766087
+
+
+https://ecse.rpi.edu/~paters/
+
+
+
+
+
+
+About Research Publications 
+
+
+
+
+About
+He is currently an Assistant Professor in the Department of Electrical Computer and Systems Engineering at the Rensselaer Polytechnic Institute. Prior to joining Rensselaer, Dr. Paternain was a postdoctoral Researcher at the University of Pennsylvania. His research interests lie at the intersection of machine learning and control of dynamical systems. Dr. Paternain was the recipient of the 2017 CDC Best Student Paper Award and the 2019 Joseph and Rosaline Wolfe Best Doctoral Dissertation Award from the Electrical and Systems Engineering Department at the University of Pennsylvania.
+
+
+
+
+
+Research
+
+Primary Research Focus
+Control and Autonomy
+
+
+Other Focus Areas
+Information Science and Systems
+Control of Dynamical Systems, Machine Learning, Optimization
+
+
+
+Research Centers
+
+Institute for Data Exploration and Applications (IDEA)
+Center for Materials, Devices, and Integrated Systems (CMDIS)
+
+
+
+
+Publications 
+                              
+The following is a selection of recent publications in Scopus. Santiago Paternain has 43 indexed publications                                      in the subjects of 
+                                                                                                                                      Engineering, 
+                                                                                                                                       Computer Science, 
+                                                                                                                                       and  Mathematics.
+                                                                  
+
+
+
+Constrained Learning With Non-Convex Losses
+
+Luiz F.O. Chamon, Santiago Paternain, Miguel Calvo-Fullana, Alejandro Ribeiro
+IEEE Transactions on Information Theory, 69, 2023, pp.1739-1760.
+                    
+
+
+Safe Policies for Reinforcement Learning via Primal-Dual Methods
+
+Santiago Paternain, Miguel Calvo-Fullana, Luiz F.O. Chamon, Alejandro Ribeiro
+IEEE Transactions on Automatic Control, 68, 2023, pp.1321-1336.
+                    
+
+
+Navigation of a quadratic potential with ellipsoidal obstacles
+
+Harshat Kumar, Santiago Paternain, Alejandro Ribeiro
+Automatica, 146, 2022.
+                    
+
+
+Policy Gradient for Continuing Tasks in Discounted Markov Decision Processes
+
+Santiago Paternain, Juan Andres Bazerque, Alejandro Ribeiro
+IEEE Transactions on Automatic Control, 67, 2022, pp.4467-4482.
+                    
+
+
+Stochastic Policy Gradient Ascent in Reproducing Kernel Hilbert Spaces
+
+Santiago Paternain, Juan Andres Bazerque, Austin Small, Alejandro Ribeiro
+IEEE Transactions on Automatic Control, 66, 2021, pp.3429-3444.
+                    
+
+
+Source Seeking in Unknown Environments with Convex Obstacles
+
+Bruno A. Angelico, Luiz F.O. Chamon, Santiago Paternain, Alejandro Ribeiro, George J. Pappas
+Proceedings of the American Control Conference, 2021-May, 2021, pp.5055-5061.
+                    
+
+
+Towards Safe Continuing Task Reinforcement Learning
+
+Miguel Calvo-Fullana, Luiz F.O. Chamon, Santiago Paternain
+Proceedings of the American Control Conference, 2021-May, 2021, pp.902-908.
+                    
+
+
+Resilient Control: Compromising to Adapt
+
+Luiz F.O. Chamon, Alexandre Amice, Santiago Paternain, Alejandro Ribeiro
+Proceedings of the IEEE Conference on Decision and Control, 2020-December, 2020, pp.5703-5710.
+                    
+
+
+Time-Varying Convex Optimization: Time-Structured Algorithms and Applications
+
+Andrea Simonetto, Emiliano Dall'Anese, Santiago Paternain, Geert Leus, Georgios B. Giannakis
+Proceedings of the IEEE, 108, 2020, pp.2032-2048.
+                    
+
+
+Navigation of a Quadratic Potential with Star Obstacles
+
+Harshat Kumar, Santiago Paternain, Alejandro Ribeiro
+Proceedings of the American Control Conference, 2020-July, 2020, pp.2043-2048.
+                    
+
+View All Scopus Publications
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+
+
+
+
+
+
+
+
+Santiago Paternain
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Electrical, Computer, and Systems Engineering
+
+
+Assistant Professor
+
+
+ paters@rpi.edu
+ 
+5182766087
+
+
+https://ecse.rpi.edu/~paters/
+
+
+
+
+
+
+About Research Publications 
+
+
+
+
+About
+He is currently an Assistant Professor in the Department of Electrical Computer and Systems Engineering at the Rensselaer Polytechnic Institute. Prior to joining Rensselaer, Dr. Paternain was a postdoctoral Researcher at the University of Pennsylvania. His research interests lie at the intersection of machine learning and control of dynamical systems. Dr. Paternain was the recipient of the 2017 CDC Best Student Paper Award and the 2019 Joseph and Rosaline Wolfe Best Doctoral Dissertation Award from the Electrical and Systems Engineering Department at the University of Pennsylvania.
+
+
+
+
+
+Research
+
+Primary Research Focus
+Control and Autonomy
+
+
+Other Focus Areas
+Information Science and Systems
+Control of Dynamical Systems, Machine Learning, Optimization
+
+
+
+Research Centers
+
+Institute for Data Exploration and Applications (IDEA)
+Center for Materials, Devices, and Integrated Systems (CMDIS)
+
+
+
+
+Publications 
+                              
+The following is a selection of recent publications in Scopus. Santiago Paternain has 43 indexed publications                                      in the subjects of 
+                                                                                                                                      Engineering, 
+                                                                                                                                       Computer Science, 
+                                                                                                                                       and  Mathematics.
+                                                                  
+
+
+
+Constrained Learning With Non-Convex Losses
+
+Luiz F.O. Chamon, Santiago Paternain, Miguel Calvo-Fullana, Alejandro Ribeiro
+IEEE Transactions on Information Theory, 69, 2023, pp.1739-1760.
+                    
+
+
+Safe Policies for Reinforcement Learning via Primal-Dual Methods
+
+Santiago Paternain, Miguel Calvo-Fullana, Luiz F.O. Chamon, Alejandro Ribeiro
+IEEE Transactions on Automatic Control, 68, 2023, pp.1321-1336.
+                    
+
+
+Navigation of a quadratic potential with ellipsoidal obstacles
+
+Harshat Kumar, Santiago Paternain, Alejandro Ribeiro
+Automatica, 146, 2022.
+                    
+
+
+Policy Gradient for Continuing Tasks in Discounted Markov Decision Processes
+
+Santiago Paternain, Juan Andres Bazerque, Alejandro Ribeiro
+IEEE Transactions on Automatic Control, 67, 2022, pp.4467-4482.
+                    
+
+
+Stochastic Policy Gradient Ascent in Reproducing Kernel Hilbert Spaces
+
+Santiago Paternain, Juan Andres Bazerque, Austin Small, Alejandro Ribeiro
+IEEE Transactions on Automatic Control, 66, 2021, pp.3429-3444.
+                    
+
+
+Source Seeking in Unknown Environments with Convex Obstacles
+
+Bruno A. Angelico, Luiz F.O. Chamon, Santiago Paternain, Alejandro Ribeiro, George J. Pappas
+Proceedings of the American Control Conference, 2021-May, 2021, pp.5055-5061.
+                    
+
+
+Towards Safe Continuing Task Reinforcement Learning
+
+Miguel Calvo-Fullana, Luiz F.O. Chamon, Santiago Paternain
+Proceedings of the American Control Conference, 2021-May, 2021, pp.902-908.
+                    
+
+
+Resilient Control: Compromising to Adapt
+
+Luiz F.O. Chamon, Alexandre Amice, Santiago Paternain, Alejandro Ribeiro
+Proceedings of the IEEE Conference on Decision and Control, 2020-December, 2020, pp.5703-5710.
+                    
+
+
+Time-Varying Convex Optimization: Time-Structured Algorithms and Applications
+
+Andrea Simonetto, Emiliano Dall'Anese, Santiago Paternain, Geert Leus, Georgios B. Giannakis
+Proceedings of the IEEE, 108, 2020, pp.2032-2048.
+                    
+
+
+Navigation of a Quadratic Potential with Star Obstacles
+
+Harshat Kumar, Santiago Paternain, Alejandro Ribeiro
+Proceedings of the American Control Conference, 2020-July, 2020, pp.2043-2048.
+                    
+
+View All Scopus Publications
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+
+
+
+
+
+
+Santiago Paternain
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Electrical, Computer, and Systems Engineering
+
+
+Assistant Professor
+
+
+ paters@rpi.edu
+ 
+5182766087
+
+
+https://ecse.rpi.edu/~paters/
+
+
+
+
+
+
+About Research Publications 
+
+
+
+
+About
+He is currently an Assistant Professor in the Department of Electrical Computer and Systems Engineering at the Rensselaer Polytechnic Institute. Prior to joining Rensselaer, Dr. Paternain was a postdoctoral Researcher at the University of Pennsylvania. His research interests lie at the intersection of machine learning and control of dynamical systems. Dr. Paternain was the recipient of the 2017 CDC Best Student Paper Award and the 2019 Joseph and Rosaline Wolfe Best Doctoral Dissertation Award from the Electrical and Systems Engineering Department at the University of Pennsylvania.
+
+
+
+
+
+Research
+
+Primary Research Focus
+Control and Autonomy
+
+
+Other Focus Areas
+Information Science and Systems
+Control of Dynamical Systems, Machine Learning, Optimization
+
+
+
+Research Centers
+
+Institute for Data Exploration and Applications (IDEA)
+Center for Materials, Devices, and Integrated Systems (CMDIS)
+
+
+
+
+Publications 
+                              
+The following is a selection of recent publications in Scopus. Santiago Paternain has 43 indexed publications                                      in the subjects of 
+                                                                                                                                      Engineering, 
+                                                                                                                                       Computer Science, 
+                                                                                                                                       and  Mathematics.
+                                                                  
+
+
+
+Constrained Learning With Non-Convex Losses
+
+Luiz F.O. Chamon, Santiago Paternain, Miguel Calvo-Fullana, Alejandro Ribeiro
+IEEE Transactions on Information Theory, 69, 2023, pp.1739-1760.
+                    
+
+
+Safe Policies for Reinforcement Learning via Primal-Dual Methods
+
+Santiago Paternain, Miguel Calvo-Fullana, Luiz F.O. Chamon, Alejandro Ribeiro
+IEEE Transactions on Automatic Control, 68, 2023, pp.1321-1336.
+                    
+
+
+Navigation of a quadratic potential with ellipsoidal obstacles
+
+Harshat Kumar, Santiago Paternain, Alejandro Ribeiro
+Automatica, 146, 2022.
+                    
+
+
+Policy Gradient for Continuing Tasks in Discounted Markov Decision Processes
+
+Santiago Paternain, Juan Andres Bazerque, Alejandro Ribeiro
+IEEE Transactions on Automatic Control, 67, 2022, pp.4467-4482.
+                    
+
+
+Stochastic Policy Gradient Ascent in Reproducing Kernel Hilbert Spaces
+
+Santiago Paternain, Juan Andres Bazerque, Austin Small, Alejandro Ribeiro
+IEEE Transactions on Automatic Control, 66, 2021, pp.3429-3444.
+                    
+
+
+Source Seeking in Unknown Environments with Convex Obstacles
+
+Bruno A. Angelico, Luiz F.O. Chamon, Santiago Paternain, Alejandro Ribeiro, George J. Pappas
+Proceedings of the American Control Conference, 2021-May, 2021, pp.5055-5061.
+                    
+
+
+Towards Safe Continuing Task Reinforcement Learning
+
+Miguel Calvo-Fullana, Luiz F.O. Chamon, Santiago Paternain
+Proceedings of the American Control Conference, 2021-May, 2021, pp.902-908.
+                    
+
+
+Resilient Control: Compromising to Adapt
+
+Luiz F.O. Chamon, Alexandre Amice, Santiago Paternain, Alejandro Ribeiro
+Proceedings of the IEEE Conference on Decision and Control, 2020-December, 2020, pp.5703-5710.
+                    
+
+
+Time-Varying Convex Optimization: Time-Structured Algorithms and Applications
+
+Andrea Simonetto, Emiliano Dall'Anese, Santiago Paternain, Geert Leus, Georgios B. Giannakis
+Proceedings of the IEEE, 108, 2020, pp.2032-2048.
+                    
+
+
+Navigation of a Quadratic Potential with Star Obstacles
+
+Harshat Kumar, Santiago Paternain, Alejandro Ribeiro
+Proceedings of the American Control Conference, 2020-July, 2020, pp.2043-2048.
+                    
+
+View All Scopus Publications
+
+
+
+
+
+
+
+
+
+
+
+Santiago Paternain
+
+
+
+Santiago Paternain
+
+
+
+
+
+
+
+
+
+
+
+
+Electrical, Computer, and Systems Engineering
+
+
+Assistant Professor
+
+
+ paters@rpi.edu
+ 
+5182766087
+
+
+https://ecse.rpi.edu/~paters/
+
+
+
+
+
+
+About Research Publications 
+
+
+
+
+About
+He is currently an Assistant Professor in the Department of Electrical Computer and Systems Engineering at the Rensselaer Polytechnic Institute. Prior to joining Rensselaer, Dr. Paternain was a postdoctoral Researcher at the University of Pennsylvania. His research interests lie at the intersection of machine learning and control of dynamical systems. Dr. Paternain was the recipient of the 2017 CDC Best Student Paper Award and the 2019 Joseph and Rosaline Wolfe Best Doctoral Dissertation Award from the Electrical and Systems Engineering Department at the University of Pennsylvania.
+
+
+
+
+
+Research
+
+Primary Research Focus
+Control and Autonomy
+
+
+Other Focus Areas
+Information Science and Systems
+Control of Dynamical Systems, Machine Learning, Optimization
+
+
+
+Research Centers
+
+Institute for Data Exploration and Applications (IDEA)
+Center for Materials, Devices, and Integrated Systems (CMDIS)
+
+
+
+
+Publications 
+                              
+The following is a selection of recent publications in Scopus. Santiago Paternain has 43 indexed publications                                      in the subjects of 
+                                                                                                                                      Engineering, 
+                                                                                                                                       Computer Science, 
+                                                                                                                                       and  Mathematics.
+                                                                  
+
+
+
+Constrained Learning With Non-Convex Losses
+
+Luiz F.O. Chamon, Santiago Paternain, Miguel Calvo-Fullana, Alejandro Ribeiro
+IEEE Transactions on Information Theory, 69, 2023, pp.1739-1760.
+                    
+
+
+Safe Policies for Reinforcement Learning via Primal-Dual Methods
+
+Santiago Paternain, Miguel Calvo-Fullana, Luiz F.O. Chamon, Alejandro Ribeiro
+IEEE Transactions on Automatic Control, 68, 2023, pp.1321-1336.
+                    
+
+
+Navigation of a quadratic potential with ellipsoidal obstacles
+
+Harshat Kumar, Santiago Paternain, Alejandro Ribeiro
+Automatica, 146, 2022.
+                    
+
+
+Policy Gradient for Continuing Tasks in Discounted Markov Decision Processes
+
+Santiago Paternain, Juan Andres Bazerque, Alejandro Ribeiro
+IEEE Transactions on Automatic Control, 67, 2022, pp.4467-4482.
+                    
+
+
+Stochastic Policy Gradient Ascent in Reproducing Kernel Hilbert Spaces
+
+Santiago Paternain, Juan Andres Bazerque, Austin Small, Alejandro Ribeiro
+IEEE Transactions on Automatic Control, 66, 2021, pp.3429-3444.
+                    
+
+
+Source Seeking in Unknown Environments with Convex Obstacles
+
+Bruno A. Angelico, Luiz F.O. Chamon, Santiago Paternain, Alejandro Ribeiro, George J. Pappas
+Proceedings of the American Control Conference, 2021-May, 2021, pp.5055-5061.
+                    
+
+
+Towards Safe Continuing Task Reinforcement Learning
+
+Miguel Calvo-Fullana, Luiz F.O. Chamon, Santiago Paternain
+Proceedings of the American Control Conference, 2021-May, 2021, pp.902-908.
+                    
+
+
+Resilient Control: Compromising to Adapt
+
+Luiz F.O. Chamon, Alexandre Amice, Santiago Paternain, Alejandro Ribeiro
+Proceedings of the IEEE Conference on Decision and Control, 2020-December, 2020, pp.5703-5710.
+                    
+
+
+Time-Varying Convex Optimization: Time-Structured Algorithms and Applications
+
+Andrea Simonetto, Emiliano Dall'Anese, Santiago Paternain, Geert Leus, Georgios B. Giannakis
+Proceedings of the IEEE, 108, 2020, pp.2032-2048.
+                    
+
+
+Navigation of a Quadratic Potential with Star Obstacles
+
+Harshat Kumar, Santiago Paternain, Alejandro Ribeiro
+Proceedings of the American Control Conference, 2020-July, 2020, pp.2043-2048.
+                    
+
+View All Scopus Publications
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Electrical, Computer, and Systems Engineering
+
+
+Assistant Professor
+
+
+ paters@rpi.edu
+ 
+5182766087
+
+
+https://ecse.rpi.edu/~paters/
+
+
+
+
+
+
+About Research Publications 
+
+
+
+
+About
+He is currently an Assistant Professor in the Department of Electrical Computer and Systems Engineering at the Rensselaer Polytechnic Institute. Prior to joining Rensselaer, Dr. Paternain was a postdoctoral Researcher at the University of Pennsylvania. His research interests lie at the intersection of machine learning and control of dynamical systems. Dr. Paternain was the recipient of the 2017 CDC Best Student Paper Award and the 2019 Joseph and Rosaline Wolfe Best Doctoral Dissertation Award from the Electrical and Systems Engineering Department at the University of Pennsylvania.
+
+
+
+
+
+Research
+
+Primary Research Focus
+Control and Autonomy
+
+
+Other Focus Areas
+Information Science and Systems
+Control of Dynamical Systems, Machine Learning, Optimization
+
+
+
+Research Centers
+
+Institute for Data Exploration and Applications (IDEA)
+Center for Materials, Devices, and Integrated Systems (CMDIS)
+
+
+
+
+Publications 
+                              
+The following is a selection of recent publications in Scopus. Santiago Paternain has 43 indexed publications                                      in the subjects of 
+                                                                                                                                      Engineering, 
+                                                                                                                                       Computer Science, 
+                                                                                                                                       and  Mathematics.
+                                                                  
+
+
+
+Constrained Learning With Non-Convex Losses
+
+Luiz F.O. Chamon, Santiago Paternain, Miguel Calvo-Fullana, Alejandro Ribeiro
+IEEE Transactions on Information Theory, 69, 2023, pp.1739-1760.
+                    
+
+
+Safe Policies for Reinforcement Learning via Primal-Dual Methods
+
+Santiago Paternain, Miguel Calvo-Fullana, Luiz F.O. Chamon, Alejandro Ribeiro
+IEEE Transactions on Automatic Control, 68, 2023, pp.1321-1336.
+                    
+
+
+Navigation of a quadratic potential with ellipsoidal obstacles
+
+Harshat Kumar, Santiago Paternain, Alejandro Ribeiro
+Automatica, 146, 2022.
+                    
+
+
+Policy Gradient for Continuing Tasks in Discounted Markov Decision Processes
+
+Santiago Paternain, Juan Andres Bazerque, Alejandro Ribeiro
+IEEE Transactions on Automatic Control, 67, 2022, pp.4467-4482.
+                    
+
+
+Stochastic Policy Gradient Ascent in Reproducing Kernel Hilbert Spaces
+
+Santiago Paternain, Juan Andres Bazerque, Austin Small, Alejandro Ribeiro
+IEEE Transactions on Automatic Control, 66, 2021, pp.3429-3444.
+                    
+
+
+Source Seeking in Unknown Environments with Convex Obstacles
+
+Bruno A. Angelico, Luiz F.O. Chamon, Santiago Paternain, Alejandro Ribeiro, George J. Pappas
+Proceedings of the American Control Conference, 2021-May, 2021, pp.5055-5061.
+                    
+
+
+Towards Safe Continuing Task Reinforcement Learning
+
+Miguel Calvo-Fullana, Luiz F.O. Chamon, Santiago Paternain
+Proceedings of the American Control Conference, 2021-May, 2021, pp.902-908.
+                    
+
+
+Resilient Control: Compromising to Adapt
+
+Luiz F.O. Chamon, Alexandre Amice, Santiago Paternain, Alejandro Ribeiro
+Proceedings of the IEEE Conference on Decision and Control, 2020-December, 2020, pp.5703-5710.
+                    
+
+
+Time-Varying Convex Optimization: Time-Structured Algorithms and Applications
+
+Andrea Simonetto, Emiliano Dall'Anese, Santiago Paternain, Geert Leus, Georgios B. Giannakis
+Proceedings of the IEEE, 108, 2020, pp.2032-2048.
+                    
+
+
+Navigation of a Quadratic Potential with Star Obstacles
+
+Harshat Kumar, Santiago Paternain, Alejandro Ribeiro
+Proceedings of the American Control Conference, 2020-July, 2020, pp.2043-2048.
+                    
+
+View All Scopus Publications
+
+
+
+
+
+
+
+
+
+
+
+
+
+Electrical, Computer, and Systems Engineering
+
+
+Assistant Professor
+
+
+ paters@rpi.edu
+ 
+5182766087
+
+
+https://ecse.rpi.edu/~paters/
+
+
+
+
+
+
+About Research Publications 
+
+
+
+
+About
+He is currently an Assistant Professor in the Department of Electrical Computer and Systems Engineering at the Rensselaer Polytechnic Institute. Prior to joining Rensselaer, Dr. Paternain was a postdoctoral Researcher at the University of Pennsylvania. His research interests lie at the intersection of machine learning and control of dynamical systems. Dr. Paternain was the recipient of the 2017 CDC Best Student Paper Award and the 2019 Joseph and Rosaline Wolfe Best Doctoral Dissertation Award from the Electrical and Systems Engineering Department at the University of Pennsylvania.
+
+
+
+
+
+Research
+
+Primary Research Focus
+Control and Autonomy
+
+
+Other Focus Areas
+Information Science and Systems
+Control of Dynamical Systems, Machine Learning, Optimization
+
+
+
+Research Centers
+
+Institute for Data Exploration and Applications (IDEA)
+Center for Materials, Devices, and Integrated Systems (CMDIS)
+
+
+
+
+Publications 
+                              
+The following is a selection of recent publications in Scopus. Santiago Paternain has 43 indexed publications                                      in the subjects of 
+                                                                                                                                      Engineering, 
+                                                                                                                                       Computer Science, 
+                                                                                                                                       and  Mathematics.
+                                                                  
+
+
+
+Constrained Learning With Non-Convex Losses
+
+Luiz F.O. Chamon, Santiago Paternain, Miguel Calvo-Fullana, Alejandro Ribeiro
+IEEE Transactions on Information Theory, 69, 2023, pp.1739-1760.
+                    
+
+
+Safe Policies for Reinforcement Learning via Primal-Dual Methods
+
+Santiago Paternain, Miguel Calvo-Fullana, Luiz F.O. Chamon, Alejandro Ribeiro
+IEEE Transactions on Automatic Control, 68, 2023, pp.1321-1336.
+                    
+
+
+Navigation of a quadratic potential with ellipsoidal obstacles
+
+Harshat Kumar, Santiago Paternain, Alejandro Ribeiro
+Automatica, 146, 2022.
+                    
+
+
+Policy Gradient for Continuing Tasks in Discounted Markov Decision Processes
+
+Santiago Paternain, Juan Andres Bazerque, Alejandro Ribeiro
+IEEE Transactions on Automatic Control, 67, 2022, pp.4467-4482.
+                    
+
+
+Stochastic Policy Gradient Ascent in Reproducing Kernel Hilbert Spaces
+
+Santiago Paternain, Juan Andres Bazerque, Austin Small, Alejandro Ribeiro
+IEEE Transactions on Automatic Control, 66, 2021, pp.3429-3444.
+                    
+
+
+Source Seeking in Unknown Environments with Convex Obstacles
+
+Bruno A. Angelico, Luiz F.O. Chamon, Santiago Paternain, Alejandro Ribeiro, George J. Pappas
+Proceedings of the American Control Conference, 2021-May, 2021, pp.5055-5061.
+                    
+
+
+Towards Safe Continuing Task Reinforcement Learning
+
+Miguel Calvo-Fullana, Luiz F.O. Chamon, Santiago Paternain
+Proceedings of the American Control Conference, 2021-May, 2021, pp.902-908.
+                    
+
+
+Resilient Control: Compromising to Adapt
+
+Luiz F.O. Chamon, Alexandre Amice, Santiago Paternain, Alejandro Ribeiro
+Proceedings of the IEEE Conference on Decision and Control, 2020-December, 2020, pp.5703-5710.
+                    
+
+
+Time-Varying Convex Optimization: Time-Structured Algorithms and Applications
+
+Andrea Simonetto, Emiliano Dall'Anese, Santiago Paternain, Geert Leus, Georgios B. Giannakis
+Proceedings of the IEEE, 108, 2020, pp.2032-2048.
+                    
+
+
+Navigation of a Quadratic Potential with Star Obstacles
+
+Harshat Kumar, Santiago Paternain, Alejandro Ribeiro
+Proceedings of the American Control Conference, 2020-July, 2020, pp.2043-2048.
+                    
+
+View All Scopus Publications
+
+
+
+
+
+
+
+
+
+
+
+Electrical, Computer, and Systems Engineering
+
+
+Assistant Professor
+
+
+ paters@rpi.edu
+ 
+5182766087
+
+
+https://ecse.rpi.edu/~paters/
+
+
+
+
+
+
+About Research Publications 
+
+
+
+
+About
+He is currently an Assistant Professor in the Department of Electrical Computer and Systems Engineering at the Rensselaer Polytechnic Institute. Prior to joining Rensselaer, Dr. Paternain was a postdoctoral Researcher at the University of Pennsylvania. His research interests lie at the intersection of machine learning and control of dynamical systems. Dr. Paternain was the recipient of the 2017 CDC Best Student Paper Award and the 2019 Joseph and Rosaline Wolfe Best Doctoral Dissertation Award from the Electrical and Systems Engineering Department at the University of Pennsylvania.
+
+
+
+
+
+Research
+
+Primary Research Focus
+Control and Autonomy
+
+
+Other Focus Areas
+Information Science and Systems
+Control of Dynamical Systems, Machine Learning, Optimization
+
+
+
+Research Centers
+
+Institute for Data Exploration and Applications (IDEA)
+Center for Materials, Devices, and Integrated Systems (CMDIS)
+
+
+
+
+Publications 
+                              
+The following is a selection of recent publications in Scopus. Santiago Paternain has 43 indexed publications                                      in the subjects of 
+                                                                                                                                      Engineering, 
+                                                                                                                                       Computer Science, 
+                                                                                                                                       and  Mathematics.
+                                                                  
+
+
+
+Constrained Learning With Non-Convex Losses
+
+Luiz F.O. Chamon, Santiago Paternain, Miguel Calvo-Fullana, Alejandro Ribeiro
+IEEE Transactions on Information Theory, 69, 2023, pp.1739-1760.
+                    
+
+
+Safe Policies for Reinforcement Learning via Primal-Dual Methods
+
+Santiago Paternain, Miguel Calvo-Fullana, Luiz F.O. Chamon, Alejandro Ribeiro
+IEEE Transactions on Automatic Control, 68, 2023, pp.1321-1336.
+                    
+
+
+Navigation of a quadratic potential with ellipsoidal obstacles
+
+Harshat Kumar, Santiago Paternain, Alejandro Ribeiro
+Automatica, 146, 2022.
+                    
+
+
+Policy Gradient for Continuing Tasks in Discounted Markov Decision Processes
+
+Santiago Paternain, Juan Andres Bazerque, Alejandro Ribeiro
+IEEE Transactions on Automatic Control, 67, 2022, pp.4467-4482.
+                    
+
+
+Stochastic Policy Gradient Ascent in Reproducing Kernel Hilbert Spaces
+
+Santiago Paternain, Juan Andres Bazerque, Austin Small, Alejandro Ribeiro
+IEEE Transactions on Automatic Control, 66, 2021, pp.3429-3444.
+                    
+
+
+Source Seeking in Unknown Environments with Convex Obstacles
+
+Bruno A. Angelico, Luiz F.O. Chamon, Santiago Paternain, Alejandro Ribeiro, George J. Pappas
+Proceedings of the American Control Conference, 2021-May, 2021, pp.5055-5061.
+                    
+
+
+Towards Safe Continuing Task Reinforcement Learning
+
+Miguel Calvo-Fullana, Luiz F.O. Chamon, Santiago Paternain
+Proceedings of the American Control Conference, 2021-May, 2021, pp.902-908.
+                    
+
+
+Resilient Control: Compromising to Adapt
+
+Luiz F.O. Chamon, Alexandre Amice, Santiago Paternain, Alejandro Ribeiro
+Proceedings of the IEEE Conference on Decision and Control, 2020-December, 2020, pp.5703-5710.
+                    
+
+
+Time-Varying Convex Optimization: Time-Structured Algorithms and Applications
+
+Andrea Simonetto, Emiliano Dall'Anese, Santiago Paternain, Geert Leus, Georgios B. Giannakis
+Proceedings of the IEEE, 108, 2020, pp.2032-2048.
+                    
+
+
+Navigation of a Quadratic Potential with Star Obstacles
+
+Harshat Kumar, Santiago Paternain, Alejandro Ribeiro
+Proceedings of the American Control Conference, 2020-July, 2020, pp.2043-2048.
+                    
+
+View All Scopus Publications
+
+
+
+
+
+
+
+
+
+
+Electrical, Computer, and Systems Engineering
+
+
+Assistant Professor
+
+
+ paters@rpi.edu
+ 
+5182766087
+
+
+https://ecse.rpi.edu/~paters/
+
+
+
+
+
+
+Electrical, Computer, and Systems Engineering
+
+
+Assistant Professor
+
+
+ paters@rpi.edu
+ 
+5182766087
+
+
+https://ecse.rpi.edu/~paters/
+
+
+Electrical, Computer, and Systems Engineering
+Electrical, Computer, and Systems Engineering
+Assistant Professor
+Assistant Professor5182766087https://ecse.rpi.edu/~paters/
+
+
+About Research Publications 
+
+
+
+
+About
+He is currently an Assistant Professor in the Department of Electrical Computer and Systems Engineering at the Rensselaer Polytechnic Institute. Prior to joining Rensselaer, Dr. Paternain was a postdoctoral Researcher at the University of Pennsylvania. His research interests lie at the intersection of machine learning and control of dynamical systems. Dr. Paternain was the recipient of the 2017 CDC Best Student Paper Award and the 2019 Joseph and Rosaline Wolfe Best Doctoral Dissertation Award from the Electrical and Systems Engineering Department at the University of Pennsylvania.
+
+
+
+
+
+Research
+
+Primary Research Focus
+Control and Autonomy
+
+
+Other Focus Areas
+Information Science and Systems
+Control of Dynamical Systems, Machine Learning, Optimization
+
+
+
+Research Centers
+
+Institute for Data Exploration and Applications (IDEA)
+Center for Materials, Devices, and Integrated Systems (CMDIS)
+
+
+
+
+Publications 
+                              
+The following is a selection of recent publications in Scopus. Santiago Paternain has 43 indexed publications                                      in the subjects of 
+                                                                                                                                      Engineering, 
+                                                                                                                                       Computer Science, 
+                                                                                                                                       and  Mathematics.
+                                                                  
+
+
+
+Constrained Learning With Non-Convex Losses
+
+Luiz F.O. Chamon, Santiago Paternain, Miguel Calvo-Fullana, Alejandro Ribeiro
+IEEE Transactions on Information Theory, 69, 2023, pp.1739-1760.
+                    
+
+
+Safe Policies for Reinforcement Learning via Primal-Dual Methods
+
+Santiago Paternain, Miguel Calvo-Fullana, Luiz F.O. Chamon, Alejandro Ribeiro
+IEEE Transactions on Automatic Control, 68, 2023, pp.1321-1336.
+                    
+
+
+Navigation of a quadratic potential with ellipsoidal obstacles
+
+Harshat Kumar, Santiago Paternain, Alejandro Ribeiro
+Automatica, 146, 2022.
+                    
+
+
+Policy Gradient for Continuing Tasks in Discounted Markov Decision Processes
+
+Santiago Paternain, Juan Andres Bazerque, Alejandro Ribeiro
+IEEE Transactions on Automatic Control, 67, 2022, pp.4467-4482.
+                    
+
+
+Stochastic Policy Gradient Ascent in Reproducing Kernel Hilbert Spaces
+
+Santiago Paternain, Juan Andres Bazerque, Austin Small, Alejandro Ribeiro
+IEEE Transactions on Automatic Control, 66, 2021, pp.3429-3444.
+                    
+
+
+Source Seeking in Unknown Environments with Convex Obstacles
+
+Bruno A. Angelico, Luiz F.O. Chamon, Santiago Paternain, Alejandro Ribeiro, George J. Pappas
+Proceedings of the American Control Conference, 2021-May, 2021, pp.5055-5061.
+                    
+
+
+Towards Safe Continuing Task Reinforcement Learning
+
+Miguel Calvo-Fullana, Luiz F.O. Chamon, Santiago Paternain
+Proceedings of the American Control Conference, 2021-May, 2021, pp.902-908.
+                    
+
+
+Resilient Control: Compromising to Adapt
+
+Luiz F.O. Chamon, Alexandre Amice, Santiago Paternain, Alejandro Ribeiro
+Proceedings of the IEEE Conference on Decision and Control, 2020-December, 2020, pp.5703-5710.
+                    
+
+
+Time-Varying Convex Optimization: Time-Structured Algorithms and Applications
+
+Andrea Simonetto, Emiliano Dall'Anese, Santiago Paternain, Geert Leus, Georgios B. Giannakis
+Proceedings of the IEEE, 108, 2020, pp.2032-2048.
+                    
+
+
+Navigation of a Quadratic Potential with Star Obstacles
+
+Harshat Kumar, Santiago Paternain, Alejandro Ribeiro
+Proceedings of the American Control Conference, 2020-July, 2020, pp.2043-2048.
+                    
+
+View All Scopus Publications
+
+
+
+
+
+
+About Research Publications 
+
+
+
+About
+He is currently an Assistant Professor in the Department of Electrical Computer and Systems Engineering at the Rensselaer Polytechnic Institute. Prior to joining Rensselaer, Dr. Paternain was a postdoctoral Researcher at the University of Pennsylvania. His research interests lie at the intersection of machine learning and control of dynamical systems. Dr. Paternain was the recipient of the 2017 CDC Best Student Paper Award and the 2019 Joseph and Rosaline Wolfe Best Doctoral Dissertation Award from the Electrical and Systems Engineering Department at the University of Pennsylvania.
+
+
+
+
+
+Research
+
+Primary Research Focus
+Control and Autonomy
+
+
+Other Focus Areas
+Information Science and Systems
+Control of Dynamical Systems, Machine Learning, Optimization
+
+
+
+Research Centers
+
+Institute for Data Exploration and Applications (IDEA)
+Center for Materials, Devices, and Integrated Systems (CMDIS)
+
+
+
+
+Publications 
+                              
+The following is a selection of recent publications in Scopus. Santiago Paternain has 43 indexed publications                                      in the subjects of 
+                                                                                                                                      Engineering, 
+                                                                                                                                       Computer Science, 
+                                                                                                                                       and  Mathematics.
+                                                                  
+
+
+
+Constrained Learning With Non-Convex Losses
+
+Luiz F.O. Chamon, Santiago Paternain, Miguel Calvo-Fullana, Alejandro Ribeiro
+IEEE Transactions on Information Theory, 69, 2023, pp.1739-1760.
+                    
+
+
+Safe Policies for Reinforcement Learning via Primal-Dual Methods
+
+Santiago Paternain, Miguel Calvo-Fullana, Luiz F.O. Chamon, Alejandro Ribeiro
+IEEE Transactions on Automatic Control, 68, 2023, pp.1321-1336.
+                    
+
+
+Navigation of a quadratic potential with ellipsoidal obstacles
+
+Harshat Kumar, Santiago Paternain, Alejandro Ribeiro
+Automatica, 146, 2022.
+                    
+
+
+Policy Gradient for Continuing Tasks in Discounted Markov Decision Processes
+
+Santiago Paternain, Juan Andres Bazerque, Alejandro Ribeiro
+IEEE Transactions on Automatic Control, 67, 2022, pp.4467-4482.
+                    
+
+
+Stochastic Policy Gradient Ascent in Reproducing Kernel Hilbert Spaces
+
+Santiago Paternain, Juan Andres Bazerque, Austin Small, Alejandro Ribeiro
+IEEE Transactions on Automatic Control, 66, 2021, pp.3429-3444.
+                    
+
+
+Source Seeking in Unknown Environments with Convex Obstacles
+
+Bruno A. Angelico, Luiz F.O. Chamon, Santiago Paternain, Alejandro Ribeiro, George J. Pappas
+Proceedings of the American Control Conference, 2021-May, 2021, pp.5055-5061.
+                    
+
+
+Towards Safe Continuing Task Reinforcement Learning
+
+Miguel Calvo-Fullana, Luiz F.O. Chamon, Santiago Paternain
+Proceedings of the American Control Conference, 2021-May, 2021, pp.902-908.
+                    
+
+
+Resilient Control: Compromising to Adapt
+
+Luiz F.O. Chamon, Alexandre Amice, Santiago Paternain, Alejandro Ribeiro
+Proceedings of the IEEE Conference on Decision and Control, 2020-December, 2020, pp.5703-5710.
+                    
+
+
+Time-Varying Convex Optimization: Time-Structured Algorithms and Applications
+
+Andrea Simonetto, Emiliano Dall'Anese, Santiago Paternain, Geert Leus, Georgios B. Giannakis
+Proceedings of the IEEE, 108, 2020, pp.2032-2048.
+                    
+
+
+Navigation of a Quadratic Potential with Star Obstacles
+
+Harshat Kumar, Santiago Paternain, Alejandro Ribeiro
+Proceedings of the American Control Conference, 2020-July, 2020, pp.2043-2048.
+                    
+
+View All Scopus Publications
+
+
+
+
+
+
+About
+He is currently an Assistant Professor in the Department of Electrical Computer and Systems Engineering at the Rensselaer Polytechnic Institute. Prior to joining Rensselaer, Dr. Paternain was a postdoctoral Researcher at the University of Pennsylvania. His research interests lie at the intersection of machine learning and control of dynamical systems. Dr. Paternain was the recipient of the 2017 CDC Best Student Paper Award and the 2019 Joseph and Rosaline Wolfe Best Doctoral Dissertation Award from the Electrical and Systems Engineering Department at the University of Pennsylvania.
+
+
+
+
+
+Research
+
+Primary Research Focus
+Control and Autonomy
+
+
+Other Focus Areas
+Information Science and Systems
+Control of Dynamical Systems, Machine Learning, Optimization
+
+
+
+Research Centers
+
+Institute for Data Exploration and Applications (IDEA)
+Center for Materials, Devices, and Integrated Systems (CMDIS)
+
+
+
+
+Publications 
+                              
+The following is a selection of recent publications in Scopus. Santiago Paternain has 43 indexed publications                                      in the subjects of 
+                                                                                                                                      Engineering, 
+                                                                                                                                       Computer Science, 
+                                                                                                                                       and  Mathematics.
+                                                                  
+
+
+
+Constrained Learning With Non-Convex Losses
+
+Luiz F.O. Chamon, Santiago Paternain, Miguel Calvo-Fullana, Alejandro Ribeiro
+IEEE Transactions on Information Theory, 69, 2023, pp.1739-1760.
+                    
+
+
+Safe Policies for Reinforcement Learning via Primal-Dual Methods
+
+Santiago Paternain, Miguel Calvo-Fullana, Luiz F.O. Chamon, Alejandro Ribeiro
+IEEE Transactions on Automatic Control, 68, 2023, pp.1321-1336.
+                    
+
+
+Navigation of a quadratic potential with ellipsoidal obstacles
+
+Harshat Kumar, Santiago Paternain, Alejandro Ribeiro
+Automatica, 146, 2022.
+                    
+
+
+Policy Gradient for Continuing Tasks in Discounted Markov Decision Processes
+
+Santiago Paternain, Juan Andres Bazerque, Alejandro Ribeiro
+IEEE Transactions on Automatic Control, 67, 2022, pp.4467-4482.
+                    
+
+
+Stochastic Policy Gradient Ascent in Reproducing Kernel Hilbert Spaces
+
+Santiago Paternain, Juan Andres Bazerque, Austin Small, Alejandro Ribeiro
+IEEE Transactions on Automatic Control, 66, 2021, pp.3429-3444.
+                    
+
+
+Source Seeking in Unknown Environments with Convex Obstacles
+
+Bruno A. Angelico, Luiz F.O. Chamon, Santiago Paternain, Alejandro Ribeiro, George J. Pappas
+Proceedings of the American Control Conference, 2021-May, 2021, pp.5055-5061.
+                    
+
+
+Towards Safe Continuing Task Reinforcement Learning
+
+Miguel Calvo-Fullana, Luiz F.O. Chamon, Santiago Paternain
+Proceedings of the American Control Conference, 2021-May, 2021, pp.902-908.
+                    
+
+
+Resilient Control: Compromising to Adapt
+
+Luiz F.O. Chamon, Alexandre Amice, Santiago Paternain, Alejandro Ribeiro
+Proceedings of the IEEE Conference on Decision and Control, 2020-December, 2020, pp.5703-5710.
+                    
+
+
+Time-Varying Convex Optimization: Time-Structured Algorithms and Applications
+
+Andrea Simonetto, Emiliano Dall'Anese, Santiago Paternain, Geert Leus, Georgios B. Giannakis
+Proceedings of the IEEE, 108, 2020, pp.2032-2048.
+                    
+
+
+Navigation of a Quadratic Potential with Star Obstacles
+
+Harshat Kumar, Santiago Paternain, Alejandro Ribeiro
+Proceedings of the American Control Conference, 2020-July, 2020, pp.2043-2048.
+                    
+
+View All Scopus Publications
+
+
+About
+He is currently an Assistant Professor in the Department of Electrical Computer and Systems Engineering at the Rensselaer Polytechnic Institute. Prior to joining Rensselaer, Dr. Paternain was a postdoctoral Researcher at the University of Pennsylvania. His research interests lie at the intersection of machine learning and control of dynamical systems. Dr. Paternain was the recipient of the 2017 CDC Best Student Paper Award and the 2019 Joseph and Rosaline Wolfe Best Doctoral Dissertation Award from the Electrical and Systems Engineering Department at the University of Pennsylvania.
+
+
+
+He is currently an Assistant Professor in the Department of Electrical Computer and Systems Engineering at the Rensselaer Polytechnic Institute. Prior to joining Rensselaer, Dr. Paternain was a postdoctoral Researcher at the University of Pennsylvania. His research interests lie at the intersection of machine learning and control of dynamical systems. Dr. Paternain was the recipient of the 2017 CDC Best Student Paper Award and the 2019 Joseph and Rosaline Wolfe Best Doctoral Dissertation Award from the Electrical and Systems Engineering Department at the University of Pennsylvania.
+
+
+Research
+
+Primary Research Focus
+Control and Autonomy
+
+
+Other Focus Areas
+Information Science and Systems
+Control of Dynamical Systems, Machine Learning, Optimization
+
+
+
+Research Centers
+
+Institute for Data Exploration and Applications (IDEA)
+Center for Materials, Devices, and Integrated Systems (CMDIS)
+
+
+
+Primary Research Focus
+Control and Autonomy
+Primary Research FocusControl and Autonomy
+Other Focus Areas
+Information Science and Systems
+Control of Dynamical Systems, Machine Learning, Optimization
+
+Other Focus AreasInformation Science and Systems
+Control of Dynamical Systems, Machine Learning, Optimization
+
+Research Centers
+
+Institute for Data Exploration and Applications (IDEA)
+Center for Materials, Devices, and Integrated Systems (CMDIS)
+
+Research Centers
+Publications 
+                              
+The following is a selection of recent publications in Scopus. Santiago Paternain has 43 indexed publications                                      in the subjects of 
+                                                                                                                                      Engineering, 
+                                                                                                                                       Computer Science, 
+                                                                                                                                       and  Mathematics.
+                                                                  
+
+
+
+Constrained Learning With Non-Convex Losses
+
+Luiz F.O. Chamon, Santiago Paternain, Miguel Calvo-Fullana, Alejandro Ribeiro
+IEEE Transactions on Information Theory, 69, 2023, pp.1739-1760.
+                    
+
+
+Safe Policies for Reinforcement Learning via Primal-Dual Methods
+
+Santiago Paternain, Miguel Calvo-Fullana, Luiz F.O. Chamon, Alejandro Ribeiro
+IEEE Transactions on Automatic Control, 68, 2023, pp.1321-1336.
+                    
+
+
+Navigation of a quadratic potential with ellipsoidal obstacles
+
+Harshat Kumar, Santiago Paternain, Alejandro Ribeiro
+Automatica, 146, 2022.
+                    
+
+
+Policy Gradient for Continuing Tasks in Discounted Markov Decision Processes
+
+Santiago Paternain, Juan Andres Bazerque, Alejandro Ribeiro
+IEEE Transactions on Automatic Control, 67, 2022, pp.4467-4482.
+                    
+
+
+Stochastic Policy Gradient Ascent in Reproducing Kernel Hilbert Spaces
+
+Santiago Paternain, Juan Andres Bazerque, Austin Small, Alejandro Ribeiro
+IEEE Transactions on Automatic Control, 66, 2021, pp.3429-3444.
+                    
+
+
+Source Seeking in Unknown Environments with Convex Obstacles
+
+Bruno A. Angelico, Luiz F.O. Chamon, Santiago Paternain, Alejandro Ribeiro, George J. Pappas
+Proceedings of the American Control Conference, 2021-May, 2021, pp.5055-5061.
+                    
+
+
+Towards Safe Continuing Task Reinforcement Learning
+
+Miguel Calvo-Fullana, Luiz F.O. Chamon, Santiago Paternain
+Proceedings of the American Control Conference, 2021-May, 2021, pp.902-908.
+                    
+
+
+Resilient Control: Compromising to Adapt
+
+Luiz F.O. Chamon, Alexandre Amice, Santiago Paternain, Alejandro Ribeiro
+Proceedings of the IEEE Conference on Decision and Control, 2020-December, 2020, pp.5703-5710.
+                    
+
+
+Time-Varying Convex Optimization: Time-Structured Algorithms and Applications
+
+Andrea Simonetto, Emiliano Dall'Anese, Santiago Paternain, Geert Leus, Georgios B. Giannakis
+Proceedings of the IEEE, 108, 2020, pp.2032-2048.
+                    
+
+
+Navigation of a Quadratic Potential with Star Obstacles
+
+Harshat Kumar, Santiago Paternain, Alejandro Ribeiro
+Proceedings of the American Control Conference, 2020-July, 2020, pp.2043-2048.
+                    
+
+View All Scopus Publications
+
+
+
+Constrained Learning With Non-Convex Losses
+
+Luiz F.O. Chamon, Santiago Paternain, Miguel Calvo-Fullana, Alejandro Ribeiro
+IEEE Transactions on Information Theory, 69, 2023, pp.1739-1760.
+                    
+
+
+Safe Policies for Reinforcement Learning via Primal-Dual Methods
+
+Santiago Paternain, Miguel Calvo-Fullana, Luiz F.O. Chamon, Alejandro Ribeiro
+IEEE Transactions on Automatic Control, 68, 2023, pp.1321-1336.
+                    
+
+
+Navigation of a quadratic potential with ellipsoidal obstacles
+
+Harshat Kumar, Santiago Paternain, Alejandro Ribeiro
+Automatica, 146, 2022.
+                    
+
+
+Policy Gradient for Continuing Tasks in Discounted Markov Decision Processes
+
+Santiago Paternain, Juan Andres Bazerque, Alejandro Ribeiro
+IEEE Transactions on Automatic Control, 67, 2022, pp.4467-4482.
+                    
+
+
+Stochastic Policy Gradient Ascent in Reproducing Kernel Hilbert Spaces
+
+Santiago Paternain, Juan Andres Bazerque, Austin Small, Alejandro Ribeiro
+IEEE Transactions on Automatic Control, 66, 2021, pp.3429-3444.
+                    
+
+
+Source Seeking in Unknown Environments with Convex Obstacles
+
+Bruno A. Angelico, Luiz F.O. Chamon, Santiago Paternain, Alejandro Ribeiro, George J. Pappas
+Proceedings of the American Control Conference, 2021-May, 2021, pp.5055-5061.
+                    
+
+
+Towards Safe Continuing Task Reinforcement Learning
+
+Miguel Calvo-Fullana, Luiz F.O. Chamon, Santiago Paternain
+Proceedings of the American Control Conference, 2021-May, 2021, pp.902-908.
+                    
+
+
+Resilient Control: Compromising to Adapt
+
+Luiz F.O. Chamon, Alexandre Amice, Santiago Paternain, Alejandro Ribeiro
+Proceedings of the IEEE Conference on Decision and Control, 2020-December, 2020, pp.5703-5710.
+                    
+
+
+Time-Varying Convex Optimization: Time-Structured Algorithms and Applications
+
+Andrea Simonetto, Emiliano Dall'Anese, Santiago Paternain, Geert Leus, Georgios B. Giannakis
+Proceedings of the IEEE, 108, 2020, pp.2032-2048.
+                    
+
+
+Navigation of a Quadratic Potential with Star Obstacles
+
+Harshat Kumar, Santiago Paternain, Alejandro Ribeiro
+Proceedings of the American Control Conference, 2020-July, 2020, pp.2043-2048.
+                    
+
+
+Constrained Learning With Non-Convex Losses
+
+Luiz F.O. Chamon, Santiago Paternain, Miguel Calvo-Fullana, Alejandro Ribeiro
+IEEE Transactions on Information Theory, 69, 2023, pp.1739-1760.
+                    
+Constrained Learning With Non-Convex Losses
+Luiz F.O. Chamon, Santiago Paternain, Miguel Calvo-Fullana, Alejandro RibeiroIEEE Transactions on Information Theory, 69, 2023, pp.1739-1760
+
+Safe Policies for Reinforcement Learning via Primal-Dual Methods
+
+Santiago Paternain, Miguel Calvo-Fullana, Luiz F.O. Chamon, Alejandro Ribeiro
+IEEE Transactions on Automatic Control, 68, 2023, pp.1321-1336.
+                    
+Safe Policies for Reinforcement Learning via Primal-Dual Methods
+Santiago Paternain, Miguel Calvo-Fullana, Luiz F.O. Chamon, Alejandro RibeiroIEEE Transactions on Automatic Control, 68, 2023, pp.1321-1336
+
+Navigation of a quadratic potential with ellipsoidal obstacles
+
+Harshat Kumar, Santiago Paternain, Alejandro Ribeiro
+Automatica, 146, 2022.
+                    
+Navigation of a quadratic potential with ellipsoidal obstacles
+Harshat Kumar, Santiago Paternain, Alejandro RibeiroAutomatica, 146, 2022
+
+Policy Gradient for Continuing Tasks in Discounted Markov Decision Processes
+
+Santiago Paternain, Juan Andres Bazerque, Alejandro Ribeiro
+IEEE Transactions on Automatic Control, 67, 2022, pp.4467-4482.
+                    
+Policy Gradient for Continuing Tasks in Discounted Markov Decision Processes
+Santiago Paternain, Juan Andres Bazerque, Alejandro RibeiroIEEE Transactions on Automatic Control, 67, 2022, pp.4467-4482
+
+Stochastic Policy Gradient Ascent in Reproducing Kernel Hilbert Spaces
+
+Santiago Paternain, Juan Andres Bazerque, Austin Small, Alejandro Ribeiro
+IEEE Transactions on Automatic Control, 66, 2021, pp.3429-3444.
+                    
+Stochastic Policy Gradient Ascent in Reproducing Kernel Hilbert Spaces
+Santiago Paternain, Juan Andres Bazerque, Austin Small, Alejandro RibeiroIEEE Transactions on Automatic Control, 66, 2021, pp.3429-3444
+
+Source Seeking in Unknown Environments with Convex Obstacles
+
+Bruno A. Angelico, Luiz F.O. Chamon, Santiago Paternain, Alejandro Ribeiro, George J. Pappas
+Proceedings of the American Control Conference, 2021-May, 2021, pp.5055-5061.
+                    
+Source Seeking in Unknown Environments with Convex Obstacles
+Bruno A. Angelico, Luiz F.O. Chamon, Santiago Paternain, Alejandro Ribeiro, George J. PappasProceedings of the American Control Conference, 2021-May, 2021, pp.5055-5061
+
+Towards Safe Continuing Task Reinforcement Learning
+
+Miguel Calvo-Fullana, Luiz F.O. Chamon, Santiago Paternain
+Proceedings of the American Control Conference, 2021-May, 2021, pp.902-908.
+                    
+Towards Safe Continuing Task Reinforcement Learning
+Miguel Calvo-Fullana, Luiz F.O. Chamon, Santiago PaternainProceedings of the American Control Conference, 2021-May, 2021, pp.902-908
+
+Resilient Control: Compromising to Adapt
+
+Luiz F.O. Chamon, Alexandre Amice, Santiago Paternain, Alejandro Ribeiro
+Proceedings of the IEEE Conference on Decision and Control, 2020-December, 2020, pp.5703-5710.
+                    
+Resilient Control: Compromising to Adapt
+Luiz F.O. Chamon, Alexandre Amice, Santiago Paternain, Alejandro RibeiroProceedings of the IEEE Conference on Decision and Control, 2020-December, 2020, pp.5703-5710
+
+Time-Varying Convex Optimization: Time-Structured Algorithms and Applications
+
+Andrea Simonetto, Emiliano Dall'Anese, Santiago Paternain, Geert Leus, Georgios B. Giannakis
+Proceedings of the IEEE, 108, 2020, pp.2032-2048.
+                    
+Time-Varying Convex Optimization: Time-Structured Algorithms and Applications
+Andrea Simonetto, Emiliano Dall'Anese, Santiago Paternain, Geert Leus, Georgios B. GiannakisProceedings of the IEEE, 108, 2020, pp.2032-2048
+
+Navigation of a Quadratic Potential with Star Obstacles
+
+Harshat Kumar, Santiago Paternain, Alejandro Ribeiro
+Proceedings of the American Control Conference, 2020-July, 2020, pp.2043-2048.
+                    
+Navigation of a Quadratic Potential with Star Obstacles
+Harshat Kumar, Santiago Paternain, Alejandro RibeiroProceedings of the American Control Conference, 2020-July, 2020, pp.2043-2048
+
+
+
+
+
+Rensselaer Polytechnic Institute
+
+
+              110 Eighth Street |
+              Troy, NY USA 12180
+            
+
+(518) 276-6000
+
+Contact Us
+
+
+
+
+
+
+
+Policies:
+
+                Media
+
+                Web Privacy
+
+                Title IX
+
+
+              Student Consumer Information
+
+              Accessibility
+
+
+            Copyright © 2023 Rensselaer Polytechnic Institute (RPI)
+          
+
+
+
+
+
+
+
+Rensselaer Polytechnic Institute
+
+
+              110 Eighth Street |
+              Troy, NY USA 12180
+            
+
+(518) 276-6000
+
+Contact Us
+
+
+
+
+
+
+
+Policies:
+
+                Media
+
+                Web Privacy
+
+                Title IX
+
+
+              Student Consumer Information
+
+              Accessibility
+
+
+            Copyright © 2023 Rensselaer Polytechnic Institute (RPI)
+          
+
+
+
+
+
+Rensselaer Polytechnic Institute
+
+
+              110 Eighth Street |
+              Troy, NY USA 12180
+            
+
+(518) 276-6000
+
+Contact Us
+
+
+Rensselaer Polytechnic Institute
+
+              110 Eighth Street |
+              Troy, NY USA 12180
+            
+
+              110 Eighth Street |
+              Troy, NY USA 12180
+            (518) 276-6000
+Contact Us
+
+
+
+
+Policies:
+
+                Media
+
+                Web Privacy
+
+                Title IX
+
+
+              Student Consumer Information
+
+              Accessibility
+
+
+            Copyright © 2023 Rensselaer Polytechnic Institute (RPI)
+          
+
+
+
+
+Policies:
+
+                Media
+
+                Web Privacy
+
+                Title IX
+
+
+              Student Consumer Information
+
+              Accessibility
+
+
+            Copyright © 2023 Rensselaer Polytechnic Institute (RPI)
+          
+
+Policies:
+
+                Media
+
+                Web Privacy
+
+                Title IX

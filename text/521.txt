@@ -1,28 +1,72 @@
+MultiMedia Services (MMS) provides audio, visual, and related support for classroom activities, conferences, and other events. They provide video conferencing and web streaming services and oversee the Rensselaer Television Network (RTN), the Carousel digital signage system, and RPI's local origination television programming.MMS also has a full-service research machine shop with 3D/rapid prototyping capabilities.Carousel offers a digital signage solution that displays a wide range of information and announcements via the Rensselaer Television Network.Instructors may request to have course work captured and cataloged using MediaSite, Webex and/or through Blackboard (LMS).Services include portrait and still photography, including "headshots" for Rensselaer faculty and staff.MultiMedia Services provides a full range of production and video services, offering everything from long-distance online coursework delivery and video conferencing to on-location recording.Division of the Chief Information Officer110 8th St. Troy, NY 12180(518) 276-7777
+              Staff Directory
+            Get Help
 
+        IT Service and Support Center
             Copyright © 2023 Rensselaer Polytechnic Institute (RPI)
           
-Apply
+About
 
-Visit
+Services
 
-Give
+Get Started
+
+Get Help
+
+Announcements
+
+
+Home
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Division of the CIO
+
+
+    Information Services and Technology
+  
+
+
+
+
+
+
+
+
+Main navigation
+
 
 About
 
-Departments / Programs
 
-Academics
+Services
 
-Facilities
 
-Research
+Get Started
 
-Student Advising
 
-Faculty
+Get Help
 
-News and Events
 
+Announcements
 
 
 
@@ -31,21 +75,18 @@ News and Events
 
 
 
-Apply
 
 
-Visit
 
 
-Give
 
 
 
 
 
 
-Search site
 
+Home
 
 
 
@@ -57,21 +98,20 @@ Search site
 
 
 
+Search
 
-Apply
 
 
-Visit
 
+Search
+Search
 
-Give
 
 
 
 
 
 
-Search site
 
 
 
@@ -79,19 +119,18 @@ Search site
 
 
 
-Apply
 
+MultiMedia Services
 
-Visit
 
 
-Give
 
 
 
 
 
-Search site
+MultiMedia Services (MMS) provides audio, visual, and related support for classroom activities, conferences, and other events. They provide video conferencing and web streaming services and oversee the Rensselaer Television Network (RTN), the Carousel digital signage system, and RPI's local origination television programming.
+MMS also has a full-service research machine shop with 3D/rapid prototyping capabilities.
 
 
 
@@ -100,11 +139,200 @@ Search site
 
 
 
-                        The School of
-                      
+Audio Video (AV)
 
 
-            Humanities, Arts, and Social Sciences
+
+
+
+
+          Media Operations provides audio-video technology and support in the classrooms, as well as throughout the entire campus for special events.      
+
+
+
+
+
+
+
+
+Computer Numerical Control (CNC) Machining Services
+
+
+
+
+
+
+          The CNC machining services provided by the Research Machine Shop include a two-axis lathe, a vertical machining center, and CAD/CAM software.      
+
+
+
+
+
+
+
+
+Conventional Machining
+
+
+
+
+
+
+          The Research Machine Shop makes makes use of conventional tools, including both horizontal and vertical milling machines, grinders, presses, cutoff saws, and a full range of hand tools.      
+
+
+
+
+
+
+
+
+Digital Signage (Carousel)
+
+
+
+
+
+
+Carousel offers a digital signage solution that displays a wide range of information and announcements via the Rensselaer Television Network. 
+
+
+
+
+
+
+
+
+Lecture Capture and Video
+
+
+
+
+
+
+Instructors may request to have course work captured and cataloged using MediaSite, Webex and/or through Blackboard (LMS). 
+
+
+
+
+
+
+
+
+Multimedia Storage Services (MediaSite)
+
+
+
+
+
+
+          MultiMedia Services provides the Rensselaer community with video capture and hosting services via its enterprise webcasting platform, Mediasite.      
+
+
+
+
+
+
+
+
+Photography and Portraits
+
+
+
+
+
+
+Services include portrait and still photography, including "headshots" for Rensselaer faculty and staff. 
+
+
+
+
+
+
+
+
+Production and Video Services
+
+
+
+
+
+
+MultiMedia Services provides a full range of production and video services, offering everything from long-distance online coursework delivery and video conferencing to on-location recording. 
+
+
+
+
+
+
+
+
+Rapid Prototype / Carbon Fiber 3D Printing
+
+
+
+
+
+
+          Services provided by the Research Machine Shop include the fast fabrication of physical parts, using the Mark Two fiber composite 3D printer.      
+
+
+
+
+
+
+
+
+Specialized Capabilites
+
+
+
+
+
+
+          The Research Machine Shop offers additional specialized services that range from soldering and welding to plasma and water-jet cutting.      
+
+
+
+
+
+
+
+
+Video and Web Conferencing (Webex)
+
+
+
+
+
+
+          Webex by Cisco provides video conferencing, online meetings, screen share, and webinars.      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Division of the Chief Information Officer
+110 8th St. Troy, NY 12180
+(518) 276-7777
+
+              Staff Directory
             
 
 
@@ -114,6 +342,33 @@ Search site
 
 
 
+Get Help
+
+        IT Service and Support Center
+
+
+
+
+
+
+
+
+
+
+
+
+Division of the CIO
+
+
+    Information Services and Technology
+  
+
+
+
+
+
+
+
 
 Main navigation
 
@@ -121,25 +376,16 @@ Main navigation
 About
 
 
-Departments / Programs
+Services
 
 
-Academics
+Get Started
 
 
-Facilities
+Get Help
 
 
-Research
-
-
-Student Advising
-
-
-Faculty
-
-
-News and Events
+Announcements
 
 
 
@@ -159,12 +405,7 @@ News and Events
 
 
 
-
-
-
-
-      The requested page could not be found.
-    
+Home
 
 
 
@@ -176,6 +417,13 @@ News and Events
 
 
 
+Search
+
+
+
+
+Search
+Search
 
 
 
@@ -183,11 +431,227 @@ News and Events
 
 
 
-                        The School of
-                      
 
 
-            Humanities, Arts, and Social Sciences
+
+
+
+
+
+
+MultiMedia Services
+
+
+
+
+
+
+
+
+MultiMedia Services (MMS) provides audio, visual, and related support for classroom activities, conferences, and other events. They provide video conferencing and web streaming services and oversee the Rensselaer Television Network (RTN), the Carousel digital signage system, and RPI's local origination television programming.
+MMS also has a full-service research machine shop with 3D/rapid prototyping capabilities.
+
+
+
+
+
+
+
+
+Audio Video (AV)
+
+
+
+
+
+
+          Media Operations provides audio-video technology and support in the classrooms, as well as throughout the entire campus for special events.      
+
+
+
+
+
+
+
+
+Computer Numerical Control (CNC) Machining Services
+
+
+
+
+
+
+          The CNC machining services provided by the Research Machine Shop include a two-axis lathe, a vertical machining center, and CAD/CAM software.      
+
+
+
+
+
+
+
+
+Conventional Machining
+
+
+
+
+
+
+          The Research Machine Shop makes makes use of conventional tools, including both horizontal and vertical milling machines, grinders, presses, cutoff saws, and a full range of hand tools.      
+
+
+
+
+
+
+
+
+Digital Signage (Carousel)
+
+
+
+
+
+
+Carousel offers a digital signage solution that displays a wide range of information and announcements via the Rensselaer Television Network. 
+
+
+
+
+
+
+
+
+Lecture Capture and Video
+
+
+
+
+
+
+Instructors may request to have course work captured and cataloged using MediaSite, Webex and/or through Blackboard (LMS). 
+
+
+
+
+
+
+
+
+Multimedia Storage Services (MediaSite)
+
+
+
+
+
+
+          MultiMedia Services provides the Rensselaer community with video capture and hosting services via its enterprise webcasting platform, Mediasite.      
+
+
+
+
+
+
+
+
+Photography and Portraits
+
+
+
+
+
+
+Services include portrait and still photography, including "headshots" for Rensselaer faculty and staff. 
+
+
+
+
+
+
+
+
+Production and Video Services
+
+
+
+
+
+
+MultiMedia Services provides a full range of production and video services, offering everything from long-distance online coursework delivery and video conferencing to on-location recording. 
+
+
+
+
+
+
+
+
+Rapid Prototype / Carbon Fiber 3D Printing
+
+
+
+
+
+
+          Services provided by the Research Machine Shop include the fast fabrication of physical parts, using the Mark Two fiber composite 3D printer.      
+
+
+
+
+
+
+
+
+Specialized Capabilites
+
+
+
+
+
+
+          The Research Machine Shop offers additional specialized services that range from soldering and welding to plasma and water-jet cutting.      
+
+
+
+
+
+
+
+
+Video and Web Conferencing (Webex)
+
+
+
+
+
+
+          Webex by Cisco provides video conferencing, online meetings, screen share, and webinars.      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Division of the Chief Information Officer
+110 8th St. Troy, NY 12180
+(518) 276-7777
+
+              Staff Directory
             
 
 
@@ -197,6 +661,31 @@ News and Events
 
 
 
+Get Help
+
+        IT Service and Support Center
+
+
+
+
+
+
+
+
+
+
+Division of the CIO
+
+
+    Information Services and Technology
+  
+
+
+
+
+
+
+
 
 Main navigation
 
@@ -204,25 +693,16 @@ Main navigation
 About
 
 
-Departments / Programs
+Services
 
 
-Academics
+Get Started
 
 
-Facilities
+Get Help
 
 
-Research
-
-
-Student Advising
-
-
-Faculty
-
-
-News and Events
+Announcements
 
 
 
@@ -242,12 +722,7 @@ News and Events
 
 
 
-
-
-
-
-      The requested page could not be found.
-    
+Home
 
 
 
@@ -259,16 +734,241 @@ News and Events
 
 
 
+Search
+
+
+
+
+Search
+Search
 
 
 
 
 
-                        The School of
-                      
 
 
-            Humanities, Arts, and Social Sciences
+
+
+
+
+
+
+
+
+MultiMedia Services
+
+
+
+
+
+
+
+
+MultiMedia Services (MMS) provides audio, visual, and related support for classroom activities, conferences, and other events. They provide video conferencing and web streaming services and oversee the Rensselaer Television Network (RTN), the Carousel digital signage system, and RPI's local origination television programming.
+MMS also has a full-service research machine shop with 3D/rapid prototyping capabilities.
+
+
+
+
+
+
+
+
+Audio Video (AV)
+
+
+
+
+
+
+          Media Operations provides audio-video technology and support in the classrooms, as well as throughout the entire campus for special events.      
+
+
+
+
+
+
+
+
+Computer Numerical Control (CNC) Machining Services
+
+
+
+
+
+
+          The CNC machining services provided by the Research Machine Shop include a two-axis lathe, a vertical machining center, and CAD/CAM software.      
+
+
+
+
+
+
+
+
+Conventional Machining
+
+
+
+
+
+
+          The Research Machine Shop makes makes use of conventional tools, including both horizontal and vertical milling machines, grinders, presses, cutoff saws, and a full range of hand tools.      
+
+
+
+
+
+
+
+
+Digital Signage (Carousel)
+
+
+
+
+
+
+Carousel offers a digital signage solution that displays a wide range of information and announcements via the Rensselaer Television Network. 
+
+
+
+
+
+
+
+
+Lecture Capture and Video
+
+
+
+
+
+
+Instructors may request to have course work captured and cataloged using MediaSite, Webex and/or through Blackboard (LMS). 
+
+
+
+
+
+
+
+
+Multimedia Storage Services (MediaSite)
+
+
+
+
+
+
+          MultiMedia Services provides the Rensselaer community with video capture and hosting services via its enterprise webcasting platform, Mediasite.      
+
+
+
+
+
+
+
+
+Photography and Portraits
+
+
+
+
+
+
+Services include portrait and still photography, including "headshots" for Rensselaer faculty and staff. 
+
+
+
+
+
+
+
+
+Production and Video Services
+
+
+
+
+
+
+MultiMedia Services provides a full range of production and video services, offering everything from long-distance online coursework delivery and video conferencing to on-location recording. 
+
+
+
+
+
+
+
+
+Rapid Prototype / Carbon Fiber 3D Printing
+
+
+
+
+
+
+          Services provided by the Research Machine Shop include the fast fabrication of physical parts, using the Mark Two fiber composite 3D printer.      
+
+
+
+
+
+
+
+
+Specialized Capabilites
+
+
+
+
+
+
+          The Research Machine Shop offers additional specialized services that range from soldering and welding to plasma and water-jet cutting.      
+
+
+
+
+
+
+
+
+Video and Web Conferencing (Webex)
+
+
+
+
+
+
+          Webex by Cisco provides video conferencing, online meetings, screen share, and webinars.      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Division of the Chief Information Officer
+110 8th St. Troy, NY 12180
+(518) 276-7777
+
+              Staff Directory
             
 
 
@@ -278,6 +978,25 @@ News and Events
 
 
 
+Get Help
+
+        IT Service and Support Center
+
+
+
+
+
+
+
+Division of the CIO
+
+
+    Information Services and Technology
+  
+
+
+
+
 
 Main navigation
 
@@ -285,50 +1004,38 @@ Main navigation
 About
 
 
-Departments / Programs
+Services
 
 
-Academics
+Get Started
 
 
-Facilities
+Get Help
 
 
-Research
-
-
-Student Advising
-
-
-Faculty
-
-
-News and Events
+Announcements
 
 
 
 
 
 
+Main navigation
 
 
+About
 
 
+Services
 
 
+Get Started
 
 
+Get Help
 
 
-
-
-
-
-
-
-
-      The requested page could not be found.
-    
+Announcements
 
 
 
@@ -342,11 +1049,2012 @@ News and Events
 
 
 
-                        The School of
-                      
 
 
-            Humanities, Arts, and Social Sciences
+Home
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+Search
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MultiMedia Services
+
+
+
+
+
+
+
+
+MultiMedia Services (MMS) provides audio, visual, and related support for classroom activities, conferences, and other events. They provide video conferencing and web streaming services and oversee the Rensselaer Television Network (RTN), the Carousel digital signage system, and RPI's local origination television programming.
+MMS also has a full-service research machine shop with 3D/rapid prototyping capabilities.
+
+
+
+
+
+
+
+
+Audio Video (AV)
+
+
+
+
+
+
+          Media Operations provides audio-video technology and support in the classrooms, as well as throughout the entire campus for special events.      
+
+
+
+
+
+
+
+
+Computer Numerical Control (CNC) Machining Services
+
+
+
+
+
+
+          The CNC machining services provided by the Research Machine Shop include a two-axis lathe, a vertical machining center, and CAD/CAM software.      
+
+
+
+
+
+
+
+
+Conventional Machining
+
+
+
+
+
+
+          The Research Machine Shop makes makes use of conventional tools, including both horizontal and vertical milling machines, grinders, presses, cutoff saws, and a full range of hand tools.      
+
+
+
+
+
+
+
+
+Digital Signage (Carousel)
+
+
+
+
+
+
+Carousel offers a digital signage solution that displays a wide range of information and announcements via the Rensselaer Television Network. 
+
+
+
+
+
+
+
+
+Lecture Capture and Video
+
+
+
+
+
+
+Instructors may request to have course work captured and cataloged using MediaSite, Webex and/or through Blackboard (LMS). 
+
+
+
+
+
+
+
+
+Multimedia Storage Services (MediaSite)
+
+
+
+
+
+
+          MultiMedia Services provides the Rensselaer community with video capture and hosting services via its enterprise webcasting platform, Mediasite.      
+
+
+
+
+
+
+
+
+Photography and Portraits
+
+
+
+
+
+
+Services include portrait and still photography, including "headshots" for Rensselaer faculty and staff. 
+
+
+
+
+
+
+
+
+Production and Video Services
+
+
+
+
+
+
+MultiMedia Services provides a full range of production and video services, offering everything from long-distance online coursework delivery and video conferencing to on-location recording. 
+
+
+
+
+
+
+
+
+Rapid Prototype / Carbon Fiber 3D Printing
+
+
+
+
+
+
+          Services provided by the Research Machine Shop include the fast fabrication of physical parts, using the Mark Two fiber composite 3D printer.      
+
+
+
+
+
+
+
+
+Specialized Capabilites
+
+
+
+
+
+
+          The Research Machine Shop offers additional specialized services that range from soldering and welding to plasma and water-jet cutting.      
+
+
+
+
+
+
+
+
+Video and Web Conferencing (Webex)
+
+
+
+
+
+
+          Webex by Cisco provides video conferencing, online meetings, screen share, and webinars.      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+Search
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MultiMedia Services
+
+
+
+
+
+
+
+
+MultiMedia Services (MMS) provides audio, visual, and related support for classroom activities, conferences, and other events. They provide video conferencing and web streaming services and oversee the Rensselaer Television Network (RTN), the Carousel digital signage system, and RPI's local origination television programming.
+MMS also has a full-service research machine shop with 3D/rapid prototyping capabilities.
+
+
+
+
+
+
+
+
+Audio Video (AV)
+
+
+
+
+
+
+          Media Operations provides audio-video technology and support in the classrooms, as well as throughout the entire campus for special events.      
+
+
+
+
+
+
+
+
+Computer Numerical Control (CNC) Machining Services
+
+
+
+
+
+
+          The CNC machining services provided by the Research Machine Shop include a two-axis lathe, a vertical machining center, and CAD/CAM software.      
+
+
+
+
+
+
+
+
+Conventional Machining
+
+
+
+
+
+
+          The Research Machine Shop makes makes use of conventional tools, including both horizontal and vertical milling machines, grinders, presses, cutoff saws, and a full range of hand tools.      
+
+
+
+
+
+
+
+
+Digital Signage (Carousel)
+
+
+
+
+
+
+Carousel offers a digital signage solution that displays a wide range of information and announcements via the Rensselaer Television Network. 
+
+
+
+
+
+
+
+
+Lecture Capture and Video
+
+
+
+
+
+
+Instructors may request to have course work captured and cataloged using MediaSite, Webex and/or through Blackboard (LMS). 
+
+
+
+
+
+
+
+
+Multimedia Storage Services (MediaSite)
+
+
+
+
+
+
+          MultiMedia Services provides the Rensselaer community with video capture and hosting services via its enterprise webcasting platform, Mediasite.      
+
+
+
+
+
+
+
+
+Photography and Portraits
+
+
+
+
+
+
+Services include portrait and still photography, including "headshots" for Rensselaer faculty and staff. 
+
+
+
+
+
+
+
+
+Production and Video Services
+
+
+
+
+
+
+MultiMedia Services provides a full range of production and video services, offering everything from long-distance online coursework delivery and video conferencing to on-location recording. 
+
+
+
+
+
+
+
+
+Rapid Prototype / Carbon Fiber 3D Printing
+
+
+
+
+
+
+          Services provided by the Research Machine Shop include the fast fabrication of physical parts, using the Mark Two fiber composite 3D printer.      
+
+
+
+
+
+
+
+
+Specialized Capabilites
+
+
+
+
+
+
+          The Research Machine Shop offers additional specialized services that range from soldering and welding to plasma and water-jet cutting.      
+
+
+
+
+
+
+
+
+Video and Web Conferencing (Webex)
+
+
+
+
+
+
+          Webex by Cisco provides video conferencing, online meetings, screen share, and webinars.      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+Search
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MultiMedia Services
+
+
+
+
+
+
+
+
+MultiMedia Services (MMS) provides audio, visual, and related support for classroom activities, conferences, and other events. They provide video conferencing and web streaming services and oversee the Rensselaer Television Network (RTN), the Carousel digital signage system, and RPI's local origination television programming.
+MMS also has a full-service research machine shop with 3D/rapid prototyping capabilities.
+
+
+
+
+
+
+
+
+Audio Video (AV)
+
+
+
+
+
+
+          Media Operations provides audio-video technology and support in the classrooms, as well as throughout the entire campus for special events.      
+
+
+
+
+
+
+
+
+Computer Numerical Control (CNC) Machining Services
+
+
+
+
+
+
+          The CNC machining services provided by the Research Machine Shop include a two-axis lathe, a vertical machining center, and CAD/CAM software.      
+
+
+
+
+
+
+
+
+Conventional Machining
+
+
+
+
+
+
+          The Research Machine Shop makes makes use of conventional tools, including both horizontal and vertical milling machines, grinders, presses, cutoff saws, and a full range of hand tools.      
+
+
+
+
+
+
+
+
+Digital Signage (Carousel)
+
+
+
+
+
+
+Carousel offers a digital signage solution that displays a wide range of information and announcements via the Rensselaer Television Network. 
+
+
+
+
+
+
+
+
+Lecture Capture and Video
+
+
+
+
+
+
+Instructors may request to have course work captured and cataloged using MediaSite, Webex and/or through Blackboard (LMS). 
+
+
+
+
+
+
+
+
+Multimedia Storage Services (MediaSite)
+
+
+
+
+
+
+          MultiMedia Services provides the Rensselaer community with video capture and hosting services via its enterprise webcasting platform, Mediasite.      
+
+
+
+
+
+
+
+
+Photography and Portraits
+
+
+
+
+
+
+Services include portrait and still photography, including "headshots" for Rensselaer faculty and staff. 
+
+
+
+
+
+
+
+
+Production and Video Services
+
+
+
+
+
+
+MultiMedia Services provides a full range of production and video services, offering everything from long-distance online coursework delivery and video conferencing to on-location recording. 
+
+
+
+
+
+
+
+
+Rapid Prototype / Carbon Fiber 3D Printing
+
+
+
+
+
+
+          Services provided by the Research Machine Shop include the fast fabrication of physical parts, using the Mark Two fiber composite 3D printer.      
+
+
+
+
+
+
+
+
+Specialized Capabilites
+
+
+
+
+
+
+          The Research Machine Shop offers additional specialized services that range from soldering and welding to plasma and water-jet cutting.      
+
+
+
+
+
+
+
+
+Video and Web Conferencing (Webex)
+
+
+
+
+
+
+          Webex by Cisco provides video conferencing, online meetings, screen share, and webinars.      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+Search
+Search
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+Search
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+Search
+
+
+
+
+
+
+
+
+
+Search
+Search
+
+
+
+
+
+
+Search
+Search
+
+
+
+
+MultiMedia Services
+
+
+MultiMedia Services
+
+
+
+
+
+
+MultiMedia Services (MMS) provides audio, visual, and related support for classroom activities, conferences, and other events. They provide video conferencing and web streaming services and oversee the Rensselaer Television Network (RTN), the Carousel digital signage system, and RPI's local origination television programming.
+MMS also has a full-service research machine shop with 3D/rapid prototyping capabilities.
+
+
+
+
+
+
+
+
+Audio Video (AV)
+
+
+
+
+
+
+          Media Operations provides audio-video technology and support in the classrooms, as well as throughout the entire campus for special events.      
+
+
+
+
+
+
+
+
+Computer Numerical Control (CNC) Machining Services
+
+
+
+
+
+
+          The CNC machining services provided by the Research Machine Shop include a two-axis lathe, a vertical machining center, and CAD/CAM software.      
+
+
+
+
+
+
+
+
+Conventional Machining
+
+
+
+
+
+
+          The Research Machine Shop makes makes use of conventional tools, including both horizontal and vertical milling machines, grinders, presses, cutoff saws, and a full range of hand tools.      
+
+
+
+
+
+
+
+
+Digital Signage (Carousel)
+
+
+
+
+
+
+Carousel offers a digital signage solution that displays a wide range of information and announcements via the Rensselaer Television Network. 
+
+
+
+
+
+
+
+
+Lecture Capture and Video
+
+
+
+
+
+
+Instructors may request to have course work captured and cataloged using MediaSite, Webex and/or through Blackboard (LMS). 
+
+
+
+
+
+
+
+
+Multimedia Storage Services (MediaSite)
+
+
+
+
+
+
+          MultiMedia Services provides the Rensselaer community with video capture and hosting services via its enterprise webcasting platform, Mediasite.      
+
+
+
+
+
+
+
+
+Photography and Portraits
+
+
+
+
+
+
+Services include portrait and still photography, including "headshots" for Rensselaer faculty and staff. 
+
+
+
+
+
+
+
+
+Production and Video Services
+
+
+
+
+
+
+MultiMedia Services provides a full range of production and video services, offering everything from long-distance online coursework delivery and video conferencing to on-location recording. 
+
+
+
+
+
+
+
+
+Rapid Prototype / Carbon Fiber 3D Printing
+
+
+
+
+
+
+          Services provided by the Research Machine Shop include the fast fabrication of physical parts, using the Mark Two fiber composite 3D printer.      
+
+
+
+
+
+
+
+
+Specialized Capabilites
+
+
+
+
+
+
+          The Research Machine Shop offers additional specialized services that range from soldering and welding to plasma and water-jet cutting.      
+
+
+
+
+
+
+
+
+Video and Web Conferencing (Webex)
+
+
+
+
+
+
+          Webex by Cisco provides video conferencing, online meetings, screen share, and webinars.      
+
+
+
+
+
+
+
+
+
+
+
+
+
+MultiMedia Services (MMS) provides audio, visual, and related support for classroom activities, conferences, and other events. They provide video conferencing and web streaming services and oversee the Rensselaer Television Network (RTN), the Carousel digital signage system, and RPI's local origination television programming.
+MMS also has a full-service research machine shop with 3D/rapid prototyping capabilities.
+
+
+
+
+
+
+
+
+Audio Video (AV)
+
+
+
+
+
+
+          Media Operations provides audio-video technology and support in the classrooms, as well as throughout the entire campus for special events.      
+
+
+
+
+
+
+
+
+Computer Numerical Control (CNC) Machining Services
+
+
+
+
+
+
+          The CNC machining services provided by the Research Machine Shop include a two-axis lathe, a vertical machining center, and CAD/CAM software.      
+
+
+
+
+
+
+
+
+Conventional Machining
+
+
+
+
+
+
+          The Research Machine Shop makes makes use of conventional tools, including both horizontal and vertical milling machines, grinders, presses, cutoff saws, and a full range of hand tools.      
+
+
+
+
+
+
+
+
+Digital Signage (Carousel)
+
+
+
+
+
+
+Carousel offers a digital signage solution that displays a wide range of information and announcements via the Rensselaer Television Network. 
+
+
+
+
+
+
+
+
+Lecture Capture and Video
+
+
+
+
+
+
+Instructors may request to have course work captured and cataloged using MediaSite, Webex and/or through Blackboard (LMS). 
+
+
+
+
+
+
+
+
+Multimedia Storage Services (MediaSite)
+
+
+
+
+
+
+          MultiMedia Services provides the Rensselaer community with video capture and hosting services via its enterprise webcasting platform, Mediasite.      
+
+
+
+
+
+
+
+
+Photography and Portraits
+
+
+
+
+
+
+Services include portrait and still photography, including "headshots" for Rensselaer faculty and staff. 
+
+
+
+
+
+
+
+
+Production and Video Services
+
+
+
+
+
+
+MultiMedia Services provides a full range of production and video services, offering everything from long-distance online coursework delivery and video conferencing to on-location recording. 
+
+
+
+
+
+
+
+
+Rapid Prototype / Carbon Fiber 3D Printing
+
+
+
+
+
+
+          Services provided by the Research Machine Shop include the fast fabrication of physical parts, using the Mark Two fiber composite 3D printer.      
+
+
+
+
+
+
+
+
+Specialized Capabilites
+
+
+
+
+
+
+          The Research Machine Shop offers additional specialized services that range from soldering and welding to plasma and water-jet cutting.      
+
+
+
+
+
+
+
+
+Video and Web Conferencing (Webex)
+
+
+
+
+
+
+          Webex by Cisco provides video conferencing, online meetings, screen share, and webinars.      
+
+
+
+
+
+
+
+
+
+
+
+MultiMedia Services (MMS) provides audio, visual, and related support for classroom activities, conferences, and other events. They provide video conferencing and web streaming services and oversee the Rensselaer Television Network (RTN), the Carousel digital signage system, and RPI's local origination television programming.
+MMS also has a full-service research machine shop with 3D/rapid prototyping capabilities.
+
+
+
+
+
+
+
+
+Audio Video (AV)
+
+
+
+
+
+
+          Media Operations provides audio-video technology and support in the classrooms, as well as throughout the entire campus for special events.      
+
+
+
+
+
+
+
+
+Computer Numerical Control (CNC) Machining Services
+
+
+
+
+
+
+          The CNC machining services provided by the Research Machine Shop include a two-axis lathe, a vertical machining center, and CAD/CAM software.      
+
+
+
+
+
+
+
+
+Conventional Machining
+
+
+
+
+
+
+          The Research Machine Shop makes makes use of conventional tools, including both horizontal and vertical milling machines, grinders, presses, cutoff saws, and a full range of hand tools.      
+
+
+
+
+
+
+
+
+Digital Signage (Carousel)
+
+
+
+
+
+
+Carousel offers a digital signage solution that displays a wide range of information and announcements via the Rensselaer Television Network. 
+
+
+
+
+
+
+
+
+Lecture Capture and Video
+
+
+
+
+
+
+Instructors may request to have course work captured and cataloged using MediaSite, Webex and/or through Blackboard (LMS). 
+
+
+
+
+
+
+
+
+Multimedia Storage Services (MediaSite)
+
+
+
+
+
+
+          MultiMedia Services provides the Rensselaer community with video capture and hosting services via its enterprise webcasting platform, Mediasite.      
+
+
+
+
+
+
+
+
+Photography and Portraits
+
+
+
+
+
+
+Services include portrait and still photography, including "headshots" for Rensselaer faculty and staff. 
+
+
+
+
+
+
+
+
+Production and Video Services
+
+
+
+
+
+
+MultiMedia Services provides a full range of production and video services, offering everything from long-distance online coursework delivery and video conferencing to on-location recording. 
+
+
+
+
+
+
+
+
+Rapid Prototype / Carbon Fiber 3D Printing
+
+
+
+
+
+
+          Services provided by the Research Machine Shop include the fast fabrication of physical parts, using the Mark Two fiber composite 3D printer.      
+
+
+
+
+
+
+
+
+Specialized Capabilites
+
+
+
+
+
+
+          The Research Machine Shop offers additional specialized services that range from soldering and welding to plasma and water-jet cutting.      
+
+
+
+
+
+
+
+
+Video and Web Conferencing (Webex)
+
+
+
+
+
+
+          Webex by Cisco provides video conferencing, online meetings, screen share, and webinars.      
+
+
+
+
+
+
+
+
+
+
+MultiMedia Services (MMS) provides audio, visual, and related support for classroom activities, conferences, and other events. They provide video conferencing and web streaming services and oversee the Rensselaer Television Network (RTN), the Carousel digital signage system, and RPI's local origination television programming.
+MMS also has a full-service research machine shop with 3D/rapid prototyping capabilities.
+
+
+
+
+
+
+
+
+Audio Video (AV)
+
+
+
+
+
+
+          Media Operations provides audio-video technology and support in the classrooms, as well as throughout the entire campus for special events.      
+
+
+
+
+
+
+
+
+Computer Numerical Control (CNC) Machining Services
+
+
+
+
+
+
+          The CNC machining services provided by the Research Machine Shop include a two-axis lathe, a vertical machining center, and CAD/CAM software.      
+
+
+
+
+
+
+
+
+Conventional Machining
+
+
+
+
+
+
+          The Research Machine Shop makes makes use of conventional tools, including both horizontal and vertical milling machines, grinders, presses, cutoff saws, and a full range of hand tools.      
+
+
+
+
+
+
+
+
+Digital Signage (Carousel)
+
+
+
+
+
+
+Carousel offers a digital signage solution that displays a wide range of information and announcements via the Rensselaer Television Network. 
+
+
+
+
+
+
+
+
+Lecture Capture and Video
+
+
+
+
+
+
+Instructors may request to have course work captured and cataloged using MediaSite, Webex and/or through Blackboard (LMS). 
+
+
+
+
+
+
+
+
+Multimedia Storage Services (MediaSite)
+
+
+
+
+
+
+          MultiMedia Services provides the Rensselaer community with video capture and hosting services via its enterprise webcasting platform, Mediasite.      
+
+
+
+
+
+
+
+
+Photography and Portraits
+
+
+
+
+
+
+Services include portrait and still photography, including "headshots" for Rensselaer faculty and staff. 
+
+
+
+
+
+
+
+
+Production and Video Services
+
+
+
+
+
+
+MultiMedia Services provides a full range of production and video services, offering everything from long-distance online coursework delivery and video conferencing to on-location recording. 
+
+
+
+
+
+
+
+
+Rapid Prototype / Carbon Fiber 3D Printing
+
+
+
+
+
+
+          Services provided by the Research Machine Shop include the fast fabrication of physical parts, using the Mark Two fiber composite 3D printer.      
+
+
+
+
+
+
+
+
+Specialized Capabilites
+
+
+
+
+
+
+          The Research Machine Shop offers additional specialized services that range from soldering and welding to plasma and water-jet cutting.      
+
+
+
+
+
+
+
+
+Video and Web Conferencing (Webex)
+
+
+
+
+
+
+          Webex by Cisco provides video conferencing, online meetings, screen share, and webinars.      
+
+
+
+
+
+
+
+
+MultiMedia Services (MMS) provides audio, visual, and related support for classroom activities, conferences, and other events. They provide video conferencing and web streaming services and oversee the Rensselaer Television Network (RTN), the Carousel digital signage system, and RPI's local origination television programming.
+MMS also has a full-service research machine shop with 3D/rapid prototyping capabilities.
+
+
+
+
+MultiMedia Services (MMS) provides audio, visual, and related support for classroom activities, conferences, and other events. They provide video conferencing and web streaming services and oversee the Rensselaer Television Network (RTN), the Carousel digital signage system, and RPI's local origination television programming.
+MMS also has a full-service research machine shop with 3D/rapid prototyping capabilities.
+
+
+MultiMedia Services (MMS) provides audio, visual, and related support for classroom activities, conferences, and other events. They provide video conferencing and web streaming services and oversee the Rensselaer Television Network (RTN), the Carousel digital signage system, and RPI's local origination television programming.
+MMS also has a full-service research machine shop with 3D/rapid prototyping capabilities.
+MultiMedia Services (MMS) provides audio, visual, and related support for classroom activities, conferences, and other events. They provide video conferencing and web streaming services and oversee the Rensselaer Television Network (RTN), the Carousel digital signage system, and RPI's local origination television programming.
+MMS also has a full-service research machine shop with 3D/rapid prototyping capabilities.
+
+
+
+
+Audio Video (AV)
+
+
+
+
+
+
+          Media Operations provides audio-video technology and support in the classrooms, as well as throughout the entire campus for special events.      
+
+
+
+
+
+
+
+
+Computer Numerical Control (CNC) Machining Services
+
+
+
+
+
+
+          The CNC machining services provided by the Research Machine Shop include a two-axis lathe, a vertical machining center, and CAD/CAM software.      
+
+
+
+
+
+
+
+
+Conventional Machining
+
+
+
+
+
+
+          The Research Machine Shop makes makes use of conventional tools, including both horizontal and vertical milling machines, grinders, presses, cutoff saws, and a full range of hand tools.      
+
+
+
+
+
+
+
+
+Digital Signage (Carousel)
+
+
+
+
+
+
+Carousel offers a digital signage solution that displays a wide range of information and announcements via the Rensselaer Television Network. 
+
+
+
+
+
+
+
+
+Lecture Capture and Video
+
+
+
+
+
+
+Instructors may request to have course work captured and cataloged using MediaSite, Webex and/or through Blackboard (LMS). 
+
+
+
+
+
+
+
+
+Multimedia Storage Services (MediaSite)
+
+
+
+
+
+
+          MultiMedia Services provides the Rensselaer community with video capture and hosting services via its enterprise webcasting platform, Mediasite.      
+
+
+
+
+
+
+
+
+Photography and Portraits
+
+
+
+
+
+
+Services include portrait and still photography, including "headshots" for Rensselaer faculty and staff. 
+
+
+
+
+
+
+
+
+Production and Video Services
+
+
+
+
+
+
+MultiMedia Services provides a full range of production and video services, offering everything from long-distance online coursework delivery and video conferencing to on-location recording. 
+
+
+
+
+
+
+
+
+Rapid Prototype / Carbon Fiber 3D Printing
+
+
+
+
+
+
+          Services provided by the Research Machine Shop include the fast fabrication of physical parts, using the Mark Two fiber composite 3D printer.      
+
+
+
+
+
+
+
+
+Specialized Capabilites
+
+
+
+
+
+
+          The Research Machine Shop offers additional specialized services that range from soldering and welding to plasma and water-jet cutting.      
+
+
+
+
+
+
+
+
+Video and Web Conferencing (Webex)
+
+
+
+
+
+
+          Webex by Cisco provides video conferencing, online meetings, screen share, and webinars.      
+
+
+
+
+
+
+
+
+Audio Video (AV)
+
+
+
+
+
+
+          Media Operations provides audio-video technology and support in the classrooms, as well as throughout the entire campus for special events.      
+
+
+
+
+
+
+          Media Operations provides audio-video technology and support in the classrooms, as well as throughout the entire campus for special events.      
+
+
+
+          Media Operations provides audio-video technology and support in the classrooms, as well as throughout the entire campus for special events.      
+
+
+
+
+Computer Numerical Control (CNC) Machining Services
+
+
+
+
+
+
+          The CNC machining services provided by the Research Machine Shop include a two-axis lathe, a vertical machining center, and CAD/CAM software.      
+
+
+
+
+
+
+          The CNC machining services provided by the Research Machine Shop include a two-axis lathe, a vertical machining center, and CAD/CAM software.      
+
+
+
+          The CNC machining services provided by the Research Machine Shop include a two-axis lathe, a vertical machining center, and CAD/CAM software.      
+
+
+
+
+Conventional Machining
+
+
+
+
+
+
+          The Research Machine Shop makes makes use of conventional tools, including both horizontal and vertical milling machines, grinders, presses, cutoff saws, and a full range of hand tools.      
+
+
+
+
+
+
+          The Research Machine Shop makes makes use of conventional tools, including both horizontal and vertical milling machines, grinders, presses, cutoff saws, and a full range of hand tools.      
+
+
+
+          The Research Machine Shop makes makes use of conventional tools, including both horizontal and vertical milling machines, grinders, presses, cutoff saws, and a full range of hand tools.      
+
+
+
+
+Digital Signage (Carousel)
+
+
+
+
+
+
+Carousel offers a digital signage solution that displays a wide range of information and announcements via the Rensselaer Television Network. 
+
+
+
+
+
+
+Carousel offers a digital signage solution that displays a wide range of information and announcements via the Rensselaer Television Network. 
+
+
+
+Carousel offers a digital signage solution that displays a wide range of information and announcements via the Rensselaer Television Network. 
+
+
+
+
+Lecture Capture and Video
+
+
+
+
+
+
+Instructors may request to have course work captured and cataloged using MediaSite, Webex and/or through Blackboard (LMS). 
+
+
+
+
+
+
+Instructors may request to have course work captured and cataloged using MediaSite, Webex and/or through Blackboard (LMS). 
+
+
+
+Instructors may request to have course work captured and cataloged using MediaSite, Webex and/or through Blackboard (LMS). 
+
+
+
+
+Multimedia Storage Services (MediaSite)
+
+
+
+
+
+
+          MultiMedia Services provides the Rensselaer community with video capture and hosting services via its enterprise webcasting platform, Mediasite.      
+
+
+
+
+
+
+          MultiMedia Services provides the Rensselaer community with video capture and hosting services via its enterprise webcasting platform, Mediasite.      
+
+
+
+          MultiMedia Services provides the Rensselaer community with video capture and hosting services via its enterprise webcasting platform, Mediasite.      
+
+
+
+
+Photography and Portraits
+
+
+
+
+
+
+Services include portrait and still photography, including "headshots" for Rensselaer faculty and staff. 
+
+
+
+
+
+
+Services include portrait and still photography, including "headshots" for Rensselaer faculty and staff. 
+
+
+
+Services include portrait and still photography, including "headshots" for Rensselaer faculty and staff. 
+
+
+
+
+Production and Video Services
+
+
+
+
+
+
+MultiMedia Services provides a full range of production and video services, offering everything from long-distance online coursework delivery and video conferencing to on-location recording. 
+
+
+
+
+
+
+MultiMedia Services provides a full range of production and video services, offering everything from long-distance online coursework delivery and video conferencing to on-location recording. 
+
+
+
+MultiMedia Services provides a full range of production and video services, offering everything from long-distance online coursework delivery and video conferencing to on-location recording. 
+
+
+
+
+Rapid Prototype / Carbon Fiber 3D Printing
+
+
+
+
+
+
+          Services provided by the Research Machine Shop include the fast fabrication of physical parts, using the Mark Two fiber composite 3D printer.      
+
+
+
+
+
+
+          Services provided by the Research Machine Shop include the fast fabrication of physical parts, using the Mark Two fiber composite 3D printer.      
+
+
+
+          Services provided by the Research Machine Shop include the fast fabrication of physical parts, using the Mark Two fiber composite 3D printer.      
+
+
+
+
+Specialized Capabilites
+
+
+
+
+
+
+          The Research Machine Shop offers additional specialized services that range from soldering and welding to plasma and water-jet cutting.      
+
+
+
+
+
+
+          The Research Machine Shop offers additional specialized services that range from soldering and welding to plasma and water-jet cutting.      
+
+
+
+          The Research Machine Shop offers additional specialized services that range from soldering and welding to plasma and water-jet cutting.      
+
+
+
+
+Video and Web Conferencing (Webex)
+
+
+
+
+
+
+          Webex by Cisco provides video conferencing, online meetings, screen share, and webinars.      
+
+
+
+
+
+
+          Webex by Cisco provides video conferencing, online meetings, screen share, and webinars.      
+
+
+
+          Webex by Cisco provides video conferencing, online meetings, screen share, and webinars.      
+
+
+
+
+
+
+
+Division of the Chief Information Officer
+110 8th St. Troy, NY 12180
+(518) 276-7777
+
+              Staff Directory
             
 
 
@@ -354,164 +3062,103 @@ News and Events
 
 
 
-Main navigation
 
 
-About
+Get Help
 
+        IT Service and Support Center
 
-Departments / Programs
 
 
-Academics
 
 
-Facilities
 
 
-Research
 
 
-Student Advising
+Division of the Chief Information Officer
+110 8th St. Troy, NY 12180
+(518) 276-7777
 
+              Staff Directory
+            
 
-Faculty
 
 
-News and Events
 
 
 
 
 
+Get Help
 
+        IT Service and Support Center
 
 
-Main navigation
 
 
-About
 
 
-Departments / Programs
+Division of the Chief Information Officer
+110 8th St. Troy, NY 12180
+(518) 276-7777
 
+              Staff Directory
+            
 
-Academics
 
 
-Facilities
 
 
-Research
 
 
-Student Advising
 
+Get Help
 
-Faculty
+        IT Service and Support Center
 
 
-News and Events
 
 
 
+Division of the Chief Information Officer
+110 8th St. Troy, NY 12180
+(518) 276-7777
 
+              Staff Directory
+            
 
 
-Main navigation
 
 
-About
 
 
-Departments / Programs
 
+Division of the Chief Information Officer
+110 8th St. Troy, NY 12180
+(518) 276-7777
 
-Academics
+              Staff Directory
+            
 
 
-Facilities
 
 
-Research
 
+Division of the Chief Information Officer
+110 8th St. Troy, NY 12180
+(518) 276-7777
 
-Student Advising
+              Staff Directory
+            
 
 
-Faculty
 
 
-News and Events
+Get Help
 
+        IT Service and Support Center
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-      The requested page could not be found.
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-      The requested page could not be found.
-    
-
-
-
-
-
-
-
-
-
-
-
-
-      The requested page could not be found.
-    
-
-
-
-
-
-
-
-      The requested page could not be found.
-    
-
-
-
-      The requested page could not be found.
-    
-
-      The requested page could not be found.
-    
 
 
 

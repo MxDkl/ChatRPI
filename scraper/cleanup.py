@@ -23,7 +23,7 @@ def remove_duplicates(path):
 
 
 
-path = "/home/player1/Desktop/RPI/ChatRPI/text/"
+path = "../text/"
 
 if __name__ == "__main__":
     remove_duplicates(path)

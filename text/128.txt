@@ -1,5 +1,3428 @@
-Copyright © 2023 Rensselaer Polytechnic Institute (RPI)Media Policy    |    Privacy Policy    |    Student Consumer Information   |    Title IX Policy   |    AccessibilityThis website uses scripting to enhance your browsing experience. Enable JavaScript in your browser and then reload this website.This website uses resources that are being blocked by your network. Contact your network administrator for more information.Skip to main contentRensselaer Polytechnic Institute (RPI)StudentsParentsFaculty & StaffAlumniApplyVisitGiveSchedule Your VisitTo display and register for campus visits and events, select an available date from the calendar below. We will be offering information sessions and campus tours throughout the spring. Additional dates will be added in the coming days. We look forward to seeing you on campus! 
- Legend:AvailableUnavailable / FilledNot ScheduledCopyright © 2023 Rensselaer Polytechnic Institute (RPI)Media Policy    |    Privacy Policy    |    Student Consumer Information   |    Title IX Policy   |    AccessibilitySkip to main contentRensselaer Polytechnic Institute (RPI)StudentsParentsFaculty & StaffAlumniApplyVisitGiveSchedule Your VisitTo display and register for campus visits and events, select an available date from the calendar below. We will be offering information sessions and campus tours throughout the spring. Additional dates will be added in the coming days. We look forward to seeing you on campus! 
- Legend:AvailableUnavailable / FilledNot ScheduledCopyright © 2023 Rensselaer Polytechnic Institute (RPI)Media Policy    |    Privacy Policy    |    Student Consumer Information   |    Title IX Policy   |    AccessibilitySkip to main contentRensselaer Polytechnic Institute (RPI)StudentsParentsFaculty & StaffAlumniApplyVisitGiveStudentsParentsFaculty & StaffAlumniApplyVisitGiveStudentsParentsFaculty & StaffAlumniApplyVisitGiveStudentsParentsFaculty & StaffAlumniApplyVisitGiveSchedule Your VisitTo display and register for campus visits and events, select an available date from the calendar below. We will be offering information sessions and campus tours throughout the spring. Additional dates will be added in the coming days. We look forward to seeing you on campus! 
- Legend:AvailableUnavailable / FilledNot ScheduledSchedule Your VisitTo display and register for campus visits and events, select an available date from the calendar below. We will be offering information sessions and campus tours throughout the spring. Additional dates will be added in the coming days. We look forward to seeing you on campus! 
- Legend:AvailableUnavailable / FilledNot ScheduledLegend:AvailableUnavailable / FilledNot ScheduledLegend:AvailableUnavailable / FilledNot ScheduledLegend:AvailableUnavailable / FilledNot ScheduledLegend:AvailableAvailableUnavailable / FilledUnavailable / FilledNot ScheduledNot ScheduledCopyright © 2023 Rensselaer Polytechnic Institute (RPI)Media Policy    |    Privacy Policy    |    Student Consumer Information   |    Title IX Policy   |    AccessibilityCopyright © 2023 Rensselaer Polytechnic Institute (RPI)Media Policy    |    Privacy Policy    |    Student Consumer Information   |    Title IX Policy   |    AccessibilityCopyright © 2023 Rensselaer Polytechnic Institute (RPI)Media Policy    |    Privacy Policy    |    Student Consumer Information   |    Title IX Policy   |    AccessibilityCopyright © 2023 Rensselaer Polytechnic Institute (RPI)Media Policy    |    Privacy Policy    |    Student Consumer Information   |    Title IX Policy   |    AccessibilityCopyright © 2023 Rensselaer Polytechnic Institute (RPI)Media Policy    |    Privacy Policy    |    Student Consumer Information   |    Title IX Policy   |    Accessibility
+John Wen, head of Electrical, Computer, and Systems Engineering (ECSE) and Russell Sage Professor at RPI
+
+
+
+Rensselaer Polytechnic Institute (RPI) was awarded two of 11 new technology projects from the Advanced Robotics and Manufacturing (ARM) Institute. The new investment totals more than $7.9 million across the 11 projects. ARM selects projects that address critical needs within the manufacturing sector and aims to combine resources and research of industry, academia, and government to advance critical manufacturing technologies. The RPI projects awarded funding are: Convergent Manufacturing Using Multiple Industrial Robots — RPI is the lead PI with a project team that includes GE Research, Wason Technology, Yasakawa America, and Southwest Research Institute (SwRI).    Multi-Robot Task Planning in Large Structure Manufacturing — RPI is the lead PI with a project team that includes Anchor Industries and Pvillon Technologies.The Convergent Manufacturing Using Multiple Industrial Robots project will enable engineers to scale up performance and productivity by deploying diverse manufacturing processes (additive, subtractive, transformative) on a single product. The project will develop architecture and algorithms to coordinate multiple industrial robots and a suite of sensors from various vendors. Convergent manufacturing has been identified by the Department of Defense as a key enabling technology in defense manufacturing. This project will leverage past ARM projects on motion primitive optimization in the cold spray process and the open-source software system Robot Raconteur. This project is led by John Wen, head of Electrical, Computer, and Systems Engineering (ECSE) and Russell Sage Professor at RPI, with participation of Associate Professor Johnson Samuel in Mechanical, Aerospace, and Nuclear Engineering (MANE), ECSE faculty Agung Julius and Santiago Paternain, Senior Research Engineer Glenn Saunders, and four Ph.D. students.In Multi-Robot Task Planning in Large Structure Manufacturing, researchers will focus on advanced task and motion planning for multiple mobile robots in tent manufacturing. The project will focus on optimizing robot task assignment, timing, and movement to achieve efficiency and safety in cluttered manufacturing environments. The project will advance prior ARM research in collaborative multi-robot transport of large and heavy fabrics. This project is led by Glenn Saunders and Agung Julius, with participation by John Wen and two Ph.D. students.“We are proud that ARM, the leading consortium in research and development of advanced robotics in the manufacturing industry, recognizes the impactful work being done in manufacturing and robotics at RPI,” said John Wen. “RPI has a long history of deep relationships with industry that, combined with our government connections and research capabilities, positions us to be a key university partner to the ARM Institute and its members. We are excited to continue this leadership role in manufacturing and robotics research.”  For general inquiries: newsmedia@rpi.eduFounded in 1824, Rensselaer Polytechnic Institute is America’s first technological research university. Rensselaer encompasses five schools, over 30 research centers, more than 140 academic programs including 25 new programs, and a dynamic community made up of over 6,800 students and 104,000 living alumni. Rensselaer faculty and alumni include upwards of 155 National Academy members, six members of the National Inventors Hall of Fame, six National Medal of Technology winners, five National Medal of Science winners, and a Nobel Prize winner in Physics. With nearly 200 years of experience advancing scientific and technological knowledge, Rensselaer remains focused on addressing global challenges with a spirit of ingenuity and collaboration. To learn more, please visit www.rpi.edu.110 Eighth Street
+        	Troy, NY USA 12180
+			(518) 276-6000
+        	Copyright ©  Rensselaer Polytechnic Institute (RPI)
+Media Policy 
+         |    
+      Web Privacy Policy 
+         |    
+      Student Consumer Information
+         |    
+      Title IX Policy
+         |    
+      Accessibility
+
+About
+
+President
+
+Academics
+
+Research
+
+Student Life
+
+Athletics
+
+Admissions
+
+Title IX
+
+News
+
+ 
+
+Grammy-Winning Jazz Legend Jack DeJohnette to Perform April 7
+ 
+ 
+
+RPI To Host Financial Technologies Event on March 30
+ 
+ 
+
+Fake and Extremely Biased Twitter Content Decreased Between 2016-2020, But Top Influencers Were More Polarized
+ 
+ 
+
+Rensselaer Researcher Breaks Through the Clouds To Advance Satellite Communication
+ 
+ 
+
+Researchers’ Model for TV Ad Scheduling Reaps Revenue Increase for Networks
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ArchitectureBusinessEngineeringHumanities, Arts, & Social SciencesIT & Web ScienceScienceResearchAdmissionsAlumni/ae & FriendsAthleticsHuman ResourcesLibraryRPInfoStrategic CommunicationsVeteransApply NowContact UsGive to RensselaerVisit CampusSend Feedback
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rensselaer Polytechnic Institute (RPI)
+Skip to main content
+
+
+
+
+
+
+
+Students
+Parents
+Faculty & Staff
+Alumni
+
+
+Apply
+Visit
+Give 
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+
+President
+
+
+Academics
+
+
+Research
+
+
+Student Life
+
+
+Athletics
+
+
+Admissions
+
+
+Title IX
+
+
+News
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rensselaer News 
+
+ 
+ 
+
+
+
+
+
+
+
+RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing Needs
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+ 
+ John Wen, head of Electrical, Computer, and Systems Engineering (ECSE) and Russell Sage Professor at RPI  
+
+ 
+
+
+
+Related Articles
+
+
+
+  
+ 
+
+Grammy-Winning Jazz Legend Jack DeJohnette to Perform April 7
+ 
+
+ 
+
+RPI To Host Financial Technologies Event on March 30
+ 
+
+ 
+
+Fake and Extremely Biased Twitter Content Decreased Between 2016-2020, But Top Influencers Were More Polarized
+ 
+
+ 
+
+Rensselaer Researcher Breaks Through the Clouds To Advance Satellite Communication
+ 
+
+ 
+
+Researchers’ Model for TV Ad Scheduling Reaps Revenue Increase for Networks
+ 
+ 
+ 
+
+
+
+Related
+
+
+
+
+ Grammy-Winning Jazz Legend Jack DeJohnette to Perform April 7  
+
+ In-Person, Hybrid or Remote Workers: Who Makes the Most Money?  
+
+ Empire State Weekly  
+
+ Drought Battle Is Looking Up for California  
+
+ Floods Are About to Threaten Nearly Half of the U.S.  
+
+ 
+
+
+
+
+
+
+
+ February 9, 2023 
+RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing Needs
+RPI only university awarded two projects in program that bridges industry, academia, and government
+By SCER Staff
+
+
+
+
+
+
+
+Rensselaer Polytechnic Institute (RPI) was awarded two of 11 new technology projects from the Advanced Robotics and Manufacturing (ARM) Institute. The new investment totals more than $7.9 million across the 11 projects. ARM selects projects that address critical needs within the manufacturing sector and aims to combine resources and research of industry, academia, and government to advance critical manufacturing technologies. 
+The RPI projects awarded funding are: 
+Convergent Manufacturing Using Multiple Industrial Robots — RPI is the lead PI with a project team that includes GE Research, Wason Technology, Yasakawa America, and Southwest Research Institute (SwRI).    
+Multi-Robot Task Planning in Large Structure Manufacturing — RPI is the lead PI with a project team that includes Anchor Industries and Pvillon Technologies.
+The Convergent Manufacturing Using Multiple Industrial Robots project will enable engineers to scale up performance and productivity by deploying diverse manufacturing processes (additive, subtractive, transformative) on a single product. The project will develop architecture and algorithms to coordinate multiple industrial robots and a suite of sensors from various vendors. Convergent manufacturing has been identified by the Department of Defense as a key enabling technology in defense manufacturing. This project will leverage past ARM projects on motion primitive optimization in the cold spray process and the open-source software system Robot Raconteur. This project is led by John Wen, head of Electrical, Computer, and Systems Engineering (ECSE) and Russell Sage Professor at RPI, with participation of Associate Professor Johnson Samuel in Mechanical, Aerospace, and Nuclear Engineering (MANE), ECSE faculty Agung Julius and Santiago Paternain, Senior Research Engineer Glenn Saunders, and four Ph.D. students.
+In Multi-Robot Task Planning in Large Structure Manufacturing, researchers will focus on advanced task and motion planning for multiple mobile robots in tent manufacturing. The project will focus on optimizing robot task assignment, timing, and movement to achieve efficiency and safety in cluttered manufacturing environments. The project will advance prior ARM research in collaborative multi-robot transport of large and heavy fabrics. This project is led by Glenn Saunders and Agung Julius, with participation by John Wen and two Ph.D. students.
+“We are proud that ARM, the leading consortium in research and development of advanced robotics in the manufacturing industry, recognizes the impactful work being done in manufacturing and robotics at RPI,” said John Wen. “RPI has a long history of deep relationships with industry that, combined with our government connections and research capabilities, positions us to be a key university partner to the ARM Institute and its members. We are excited to continue this leadership role in manufacturing and robotics research.”  
+  
+
+ 
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+Contact
+
+For general inquiries: newsmedia@rpi.edu
+
+
+
+
+About Rensselaer Polytechnic Institute
+Founded in 1824, Rensselaer Polytechnic Institute is America’s first technological research university. Rensselaer encompasses five schools, over 30 research centers, more than 140 academic programs including 25 new programs, and a dynamic community made up of over 6,800 students and 104,000 living alumni. Rensselaer faculty and alumni include upwards of 155 National Academy members, six members of the National Inventors Hall of Fame, six National Medal of Technology winners, five National Medal of Science winners, and a Nobel Prize winner in Physics. With nearly 200 years of experience advancing scientific and technological knowledge, Rensselaer remains focused on addressing global challenges with a spirit of ingenuity and collaboration. To learn more, please visit www.rpi.edu.
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+110 Eighth Street
+        	Troy, NY USA 12180
+			(518) 276-6000
+        	
+
+FOLLOW US
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SCHOOLS & PROGRAMS
+
+Architecture
+Business
+Engineering
+Humanities, Arts, & Social Sciences
+IT & Web Science
+Science
+Research
+
+
+
+RPI CONNECTIONS
+
+Admissions
+Alumni/ae & Friends
+Athletics
+Human Resources
+Library
+RPInfo
+Strategic Communications
+Veterans
+
+
+
+ENGAGE
+
+Apply Now
+Contact Us
+Give to Rensselaer
+Visit Campus
+Send Feedback
+
+
+
+
+
+Copyright ©  Rensselaer Polytechnic Institute (RPI)
+
+Media Policy 
+         |    
+      Web Privacy Policy 
+         |    
+      Student Consumer Information
+         |    
+      Title IX Policy
+         |    
+      Accessibility
+
+
+ 
+
+
+
+
+ 
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+Rensselaer Polytechnic Institute (RPI)
+Skip to main content
+
+
+
+
+
+
+
+Students
+Parents
+Faculty & Staff
+Alumni
+
+
+Apply
+Visit
+Give 
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+
+President
+
+
+Academics
+
+
+Research
+
+
+Student Life
+
+
+Athletics
+
+
+Admissions
+
+
+Title IX
+
+
+News
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+Rensselaer Polytechnic Institute (RPI)
+Skip to main content
+
+
+
+
+
+
+
+Students
+Parents
+Faculty & Staff
+Alumni
+
+
+Apply
+Visit
+Give 
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+
+President
+
+
+Academics
+
+
+Research
+
+
+Student Life
+
+
+Athletics
+
+
+Admissions
+
+
+Title IX
+
+
+News
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+Rensselaer Polytechnic Institute (RPI)
+Skip to main content
+
+
+
+
+
+
+
+Students
+Parents
+Faculty & Staff
+Alumni
+
+
+Apply
+Visit
+Give 
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+
+President
+
+
+Academics
+
+
+Research
+
+
+Student Life
+
+
+Athletics
+
+
+Admissions
+
+
+Title IX
+
+
+News
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Rensselaer Polytechnic Institute (RPI)
+Skip to main content
+
+
+
+
+
+
+
+Students
+Parents
+Faculty & Staff
+Alumni
+
+
+Apply
+Visit
+Give 
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+
+President
+
+
+Academics
+
+
+Research
+
+
+Student Life
+
+
+Athletics
+
+
+Admissions
+
+
+Title IX
+
+
+News
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Rensselaer Polytechnic Institute (RPI)
+Skip to main content
+
+
+
+
+
+
+
+Students
+Parents
+Faculty & Staff
+Alumni
+
+
+Apply
+Visit
+Give 
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+
+President
+
+
+Academics
+
+
+Research
+
+
+Student Life
+
+
+Athletics
+
+
+Admissions
+
+
+Title IX
+
+
+News
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rensselaer Polytechnic Institute (RPI)
+Skip to main content
+
+
+
+
+
+
+
+Students
+Parents
+Faculty & Staff
+Alumni
+
+
+Apply
+Visit
+Give 
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+
+President
+
+
+Academics
+
+
+Research
+
+
+Student Life
+
+
+Athletics
+
+
+Admissions
+
+
+Title IX
+
+
+News
+
+
+
+
+
+
+
+
+
+
+
+
+Rensselaer Polytechnic Institute (RPI)
+Skip to main content
+
+
+
+
+
+
+
+Students
+Parents
+Faculty & Staff
+Alumni
+
+
+Apply
+Visit
+Give 
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+
+President
+
+
+Academics
+
+
+Research
+
+
+Student Life
+
+
+Athletics
+
+
+Admissions
+
+
+Title IX
+
+
+News
+
+
+
+
+
+
+
+Rensselaer Polytechnic Institute (RPI)
+Skip to main content
+
+
+
+
+
+
+
+Students
+Parents
+Faculty & Staff
+Alumni
+
+
+Apply
+Visit
+Give 
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+
+President
+
+
+Academics
+
+
+Research
+
+
+Student Life
+
+
+Athletics
+
+
+Admissions
+
+
+Title IX
+
+
+News
+
+
+
+
+
+
+
+
+
+
+Students
+Parents
+Faculty & Staff
+Alumni
+
+
+Apply
+Visit
+Give 
+Search
+
+
+
+
+
+
+
+
+Students
+Parents
+Faculty & Staff
+Alumni
+
+
+Apply
+Visit
+Give 
+Search
+
+
+
+
+
+Students
+Parents
+Faculty & Staff
+Alumni
+
+
+Apply
+Visit
+Give 
+Search
+
+
+
+
+
+About
+
+
+President
+
+
+Academics
+
+
+Research
+
+
+Student Life
+
+
+Athletics
+
+
+Admissions
+
+
+Title IX
+
+
+News
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rensselaer News 
+
+ 
+ 
+
+
+
+
+
+
+Rensselaer News 
+
+ 
+ 
+
+
+
+
+Rensselaer News 
+
+ 
+
+
+
+
+Rensselaer News 
+
+ 
+
+
+Rensselaer News 
+
+
+
+Rensselaer News 
+
+Rensselaer News 
+
+
+
+
+RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing Needs
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+ 
+ John Wen, head of Electrical, Computer, and Systems Engineering (ECSE) and Russell Sage Professor at RPI  
+
+ 
+
+
+
+Related Articles
+
+
+
+  
+ 
+
+Grammy-Winning Jazz Legend Jack DeJohnette to Perform April 7
+ 
+
+ 
+
+RPI To Host Financial Technologies Event on March 30
+ 
+
+ 
+
+Fake and Extremely Biased Twitter Content Decreased Between 2016-2020, But Top Influencers Were More Polarized
+ 
+
+ 
+
+Rensselaer Researcher Breaks Through the Clouds To Advance Satellite Communication
+ 
+
+ 
+
+Researchers’ Model for TV Ad Scheduling Reaps Revenue Increase for Networks
+ 
+ 
+ 
+
+
+
+Related
+
+
+
+
+ Grammy-Winning Jazz Legend Jack DeJohnette to Perform April 7  
+
+ In-Person, Hybrid or Remote Workers: Who Makes the Most Money?  
+
+ Empire State Weekly  
+
+ Drought Battle Is Looking Up for California  
+
+ Floods Are About to Threaten Nearly Half of the U.S.  
+
+ 
+
+
+
+
+
+
+
+ February 9, 2023 
+RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing Needs
+RPI only university awarded two projects in program that bridges industry, academia, and government
+By SCER Staff
+
+
+
+
+
+
+
+Rensselaer Polytechnic Institute (RPI) was awarded two of 11 new technology projects from the Advanced Robotics and Manufacturing (ARM) Institute. The new investment totals more than $7.9 million across the 11 projects. ARM selects projects that address critical needs within the manufacturing sector and aims to combine resources and research of industry, academia, and government to advance critical manufacturing technologies. 
+The RPI projects awarded funding are: 
+Convergent Manufacturing Using Multiple Industrial Robots — RPI is the lead PI with a project team that includes GE Research, Wason Technology, Yasakawa America, and Southwest Research Institute (SwRI).    
+Multi-Robot Task Planning in Large Structure Manufacturing — RPI is the lead PI with a project team that includes Anchor Industries and Pvillon Technologies.
+The Convergent Manufacturing Using Multiple Industrial Robots project will enable engineers to scale up performance and productivity by deploying diverse manufacturing processes (additive, subtractive, transformative) on a single product. The project will develop architecture and algorithms to coordinate multiple industrial robots and a suite of sensors from various vendors. Convergent manufacturing has been identified by the Department of Defense as a key enabling technology in defense manufacturing. This project will leverage past ARM projects on motion primitive optimization in the cold spray process and the open-source software system Robot Raconteur. This project is led by John Wen, head of Electrical, Computer, and Systems Engineering (ECSE) and Russell Sage Professor at RPI, with participation of Associate Professor Johnson Samuel in Mechanical, Aerospace, and Nuclear Engineering (MANE), ECSE faculty Agung Julius and Santiago Paternain, Senior Research Engineer Glenn Saunders, and four Ph.D. students.
+In Multi-Robot Task Planning in Large Structure Manufacturing, researchers will focus on advanced task and motion planning for multiple mobile robots in tent manufacturing. The project will focus on optimizing robot task assignment, timing, and movement to achieve efficiency and safety in cluttered manufacturing environments. The project will advance prior ARM research in collaborative multi-robot transport of large and heavy fabrics. This project is led by Glenn Saunders and Agung Julius, with participation by John Wen and two Ph.D. students.
+“We are proud that ARM, the leading consortium in research and development of advanced robotics in the manufacturing industry, recognizes the impactful work being done in manufacturing and robotics at RPI,” said John Wen. “RPI has a long history of deep relationships with industry that, combined with our government connections and research capabilities, positions us to be a key university partner to the ARM Institute and its members. We are excited to continue this leadership role in manufacturing and robotics research.”  
+  
+
+ 
+
+ 
+ 
+
+
+
+
+RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing Needs
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+ 
+ John Wen, head of Electrical, Computer, and Systems Engineering (ECSE) and Russell Sage Professor at RPI  
+
+ 
+
+
+
+Related Articles
+
+
+
+  
+ 
+
+Grammy-Winning Jazz Legend Jack DeJohnette to Perform April 7
+ 
+
+ 
+
+RPI To Host Financial Technologies Event on March 30
+ 
+
+ 
+
+Fake and Extremely Biased Twitter Content Decreased Between 2016-2020, But Top Influencers Were More Polarized
+ 
+
+ 
+
+Rensselaer Researcher Breaks Through the Clouds To Advance Satellite Communication
+ 
+
+ 
+
+Researchers’ Model for TV Ad Scheduling Reaps Revenue Increase for Networks
+ 
+ 
+ 
+
+
+
+Related
+
+
+
+
+ Grammy-Winning Jazz Legend Jack DeJohnette to Perform April 7  
+
+ In-Person, Hybrid or Remote Workers: Who Makes the Most Money?  
+
+ Empire State Weekly  
+
+ Drought Battle Is Looking Up for California  
+
+ Floods Are About to Threaten Nearly Half of the U.S.  
+
+ 
+
+
+
+
+
+
+
+ February 9, 2023 
+RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing Needs
+RPI only university awarded two projects in program that bridges industry, academia, and government
+By SCER Staff
+
+
+
+
+
+
+
+Rensselaer Polytechnic Institute (RPI) was awarded two of 11 new technology projects from the Advanced Robotics and Manufacturing (ARM) Institute. The new investment totals more than $7.9 million across the 11 projects. ARM selects projects that address critical needs within the manufacturing sector and aims to combine resources and research of industry, academia, and government to advance critical manufacturing technologies. 
+The RPI projects awarded funding are: 
+Convergent Manufacturing Using Multiple Industrial Robots — RPI is the lead PI with a project team that includes GE Research, Wason Technology, Yasakawa America, and Southwest Research Institute (SwRI).    
+Multi-Robot Task Planning in Large Structure Manufacturing — RPI is the lead PI with a project team that includes Anchor Industries and Pvillon Technologies.
+The Convergent Manufacturing Using Multiple Industrial Robots project will enable engineers to scale up performance and productivity by deploying diverse manufacturing processes (additive, subtractive, transformative) on a single product. The project will develop architecture and algorithms to coordinate multiple industrial robots and a suite of sensors from various vendors. Convergent manufacturing has been identified by the Department of Defense as a key enabling technology in defense manufacturing. This project will leverage past ARM projects on motion primitive optimization in the cold spray process and the open-source software system Robot Raconteur. This project is led by John Wen, head of Electrical, Computer, and Systems Engineering (ECSE) and Russell Sage Professor at RPI, with participation of Associate Professor Johnson Samuel in Mechanical, Aerospace, and Nuclear Engineering (MANE), ECSE faculty Agung Julius and Santiago Paternain, Senior Research Engineer Glenn Saunders, and four Ph.D. students.
+In Multi-Robot Task Planning in Large Structure Manufacturing, researchers will focus on advanced task and motion planning for multiple mobile robots in tent manufacturing. The project will focus on optimizing robot task assignment, timing, and movement to achieve efficiency and safety in cluttered manufacturing environments. The project will advance prior ARM research in collaborative multi-robot transport of large and heavy fabrics. This project is led by Glenn Saunders and Agung Julius, with participation by John Wen and two Ph.D. students.
+“We are proud that ARM, the leading consortium in research and development of advanced robotics in the manufacturing industry, recognizes the impactful work being done in manufacturing and robotics at RPI,” said John Wen. “RPI has a long history of deep relationships with industry that, combined with our government connections and research capabilities, positions us to be a key university partner to the ARM Institute and its members. We are excited to continue this leadership role in manufacturing and robotics research.”  
+  
+
+ 
+
+ 
+ 
+
+
+RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing Needs
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+ 
+ John Wen, head of Electrical, Computer, and Systems Engineering (ECSE) and Russell Sage Professor at RPI  
+
+ 
+
+
+
+Related Articles
+
+
+
+  
+ 
+
+Grammy-Winning Jazz Legend Jack DeJohnette to Perform April 7
+ 
+
+ 
+
+RPI To Host Financial Technologies Event on March 30
+ 
+
+ 
+
+Fake and Extremely Biased Twitter Content Decreased Between 2016-2020, But Top Influencers Were More Polarized
+ 
+
+ 
+
+Rensselaer Researcher Breaks Through the Clouds To Advance Satellite Communication
+ 
+
+ 
+
+Researchers’ Model for TV Ad Scheduling Reaps Revenue Increase for Networks
+ 
+ 
+ 
+
+
+
+Related
+
+
+
+
+ Grammy-Winning Jazz Legend Jack DeJohnette to Perform April 7  
+
+ In-Person, Hybrid or Remote Workers: Who Makes the Most Money?  
+
+ Empire State Weekly  
+
+ Drought Battle Is Looking Up for California  
+
+ Floods Are About to Threaten Nearly Half of the U.S.  
+
+ 
+
+
+
+
+
+
+
+ February 9, 2023 
+RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing Needs
+RPI only university awarded two projects in program that bridges industry, academia, and government
+By SCER Staff
+
+
+
+
+
+
+
+Rensselaer Polytechnic Institute (RPI) was awarded two of 11 new technology projects from the Advanced Robotics and Manufacturing (ARM) Institute. The new investment totals more than $7.9 million across the 11 projects. ARM selects projects that address critical needs within the manufacturing sector and aims to combine resources and research of industry, academia, and government to advance critical manufacturing technologies. 
+The RPI projects awarded funding are: 
+Convergent Manufacturing Using Multiple Industrial Robots — RPI is the lead PI with a project team that includes GE Research, Wason Technology, Yasakawa America, and Southwest Research Institute (SwRI).    
+Multi-Robot Task Planning in Large Structure Manufacturing — RPI is the lead PI with a project team that includes Anchor Industries and Pvillon Technologies.
+The Convergent Manufacturing Using Multiple Industrial Robots project will enable engineers to scale up performance and productivity by deploying diverse manufacturing processes (additive, subtractive, transformative) on a single product. The project will develop architecture and algorithms to coordinate multiple industrial robots and a suite of sensors from various vendors. Convergent manufacturing has been identified by the Department of Defense as a key enabling technology in defense manufacturing. This project will leverage past ARM projects on motion primitive optimization in the cold spray process and the open-source software system Robot Raconteur. This project is led by John Wen, head of Electrical, Computer, and Systems Engineering (ECSE) and Russell Sage Professor at RPI, with participation of Associate Professor Johnson Samuel in Mechanical, Aerospace, and Nuclear Engineering (MANE), ECSE faculty Agung Julius and Santiago Paternain, Senior Research Engineer Glenn Saunders, and four Ph.D. students.
+In Multi-Robot Task Planning in Large Structure Manufacturing, researchers will focus on advanced task and motion planning for multiple mobile robots in tent manufacturing. The project will focus on optimizing robot task assignment, timing, and movement to achieve efficiency and safety in cluttered manufacturing environments. The project will advance prior ARM research in collaborative multi-robot transport of large and heavy fabrics. This project is led by Glenn Saunders and Agung Julius, with participation by John Wen and two Ph.D. students.
+“We are proud that ARM, the leading consortium in research and development of advanced robotics in the manufacturing industry, recognizes the impactful work being done in manufacturing and robotics at RPI,” said John Wen. “RPI has a long history of deep relationships with industry that, combined with our government connections and research capabilities, positions us to be a key university partner to the ARM Institute and its members. We are excited to continue this leadership role in manufacturing and robotics research.”  
+  
+
+ 
+
+ 
+
+
+RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing Needs
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+ 
+ John Wen, head of Electrical, Computer, and Systems Engineering (ECSE) and Russell Sage Professor at RPI  
+
+ 
+
+
+
+Related Articles
+
+
+
+  
+ 
+
+Grammy-Winning Jazz Legend Jack DeJohnette to Perform April 7
+ 
+
+ 
+
+RPI To Host Financial Technologies Event on March 30
+ 
+
+ 
+
+Fake and Extremely Biased Twitter Content Decreased Between 2016-2020, But Top Influencers Were More Polarized
+ 
+
+ 
+
+Rensselaer Researcher Breaks Through the Clouds To Advance Satellite Communication
+ 
+
+ 
+
+Researchers’ Model for TV Ad Scheduling Reaps Revenue Increase for Networks
+ 
+ 
+ 
+
+
+
+Related
+
+
+
+
+ Grammy-Winning Jazz Legend Jack DeJohnette to Perform April 7  
+
+ In-Person, Hybrid or Remote Workers: Who Makes the Most Money?  
+
+ Empire State Weekly  
+
+ Drought Battle Is Looking Up for California  
+
+ Floods Are About to Threaten Nearly Half of the U.S.  
+
+ 
+
+
+
+
+
+
+
+ February 9, 2023 
+RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing Needs
+RPI only university awarded two projects in program that bridges industry, academia, and government
+By SCER Staff
+
+
+
+
+
+
+
+Rensselaer Polytechnic Institute (RPI) was awarded two of 11 new technology projects from the Advanced Robotics and Manufacturing (ARM) Institute. The new investment totals more than $7.9 million across the 11 projects. ARM selects projects that address critical needs within the manufacturing sector and aims to combine resources and research of industry, academia, and government to advance critical manufacturing technologies. 
+The RPI projects awarded funding are: 
+Convergent Manufacturing Using Multiple Industrial Robots — RPI is the lead PI with a project team that includes GE Research, Wason Technology, Yasakawa America, and Southwest Research Institute (SwRI).    
+Multi-Robot Task Planning in Large Structure Manufacturing — RPI is the lead PI with a project team that includes Anchor Industries and Pvillon Technologies.
+The Convergent Manufacturing Using Multiple Industrial Robots project will enable engineers to scale up performance and productivity by deploying diverse manufacturing processes (additive, subtractive, transformative) on a single product. The project will develop architecture and algorithms to coordinate multiple industrial robots and a suite of sensors from various vendors. Convergent manufacturing has been identified by the Department of Defense as a key enabling technology in defense manufacturing. This project will leverage past ARM projects on motion primitive optimization in the cold spray process and the open-source software system Robot Raconteur. This project is led by John Wen, head of Electrical, Computer, and Systems Engineering (ECSE) and Russell Sage Professor at RPI, with participation of Associate Professor Johnson Samuel in Mechanical, Aerospace, and Nuclear Engineering (MANE), ECSE faculty Agung Julius and Santiago Paternain, Senior Research Engineer Glenn Saunders, and four Ph.D. students.
+In Multi-Robot Task Planning in Large Structure Manufacturing, researchers will focus on advanced task and motion planning for multiple mobile robots in tent manufacturing. The project will focus on optimizing robot task assignment, timing, and movement to achieve efficiency and safety in cluttered manufacturing environments. The project will advance prior ARM research in collaborative multi-robot transport of large and heavy fabrics. This project is led by Glenn Saunders and Agung Julius, with participation by John Wen and two Ph.D. students.
+“We are proud that ARM, the leading consortium in research and development of advanced robotics in the manufacturing industry, recognizes the impactful work being done in manufacturing and robotics at RPI,” said John Wen. “RPI has a long history of deep relationships with industry that, combined with our government connections and research capabilities, positions us to be a key university partner to the ARM Institute and its members. We are excited to continue this leadership role in manufacturing and robotics research.”  
+  
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+ 
+ John Wen, head of Electrical, Computer, and Systems Engineering (ECSE) and Russell Sage Professor at RPI  
+
+ 
+
+
+
+
+
+
+ 
+
+ 
+ John Wen, head of Electrical, Computer, and Systems Engineering (ECSE) and Russell Sage Professor at RPI  
+
+ 
+
+
+
+
+ 
+
+ 
+ John Wen, head of Electrical, Computer, and Systems Engineering (ECSE) and Russell Sage Professor at RPI  
+
+ 
+
+
+ 
+
+ 
+ John Wen, head of Electrical, Computer, and Systems Engineering (ECSE) and Russell Sage Professor at RPI  
+
+
+
+ 
+
+ 
+ John Wen, head of Electrical, Computer, and Systems Engineering (ECSE) and Russell Sage Professor at RPI  
+
+ 
+
+ 
+ John Wen, head of Electrical, Computer, and Systems Engineering (ECSE) and Russell Sage Professor at RPI   
+
+ 
+
+
+
+ John Wen, head of Electrical, Computer, and Systems Engineering (ECSE) and Russell Sage Professor at RPI John Wen, head of Electrical, Computer, and Systems Engineering (ECSE) and Russell Sage Professor at RPI
+Related Articles
+
+
+
+  
+ 
+
+Grammy-Winning Jazz Legend Jack DeJohnette to Perform April 7
+ 
+
+ 
+
+RPI To Host Financial Technologies Event on March 30
+ 
+
+ 
+
+Fake and Extremely Biased Twitter Content Decreased Between 2016-2020, But Top Influencers Were More Polarized
+ 
+
+ 
+
+Rensselaer Researcher Breaks Through the Clouds To Advance Satellite Communication
+ 
+
+ 
+
+Researchers’ Model for TV Ad Scheduling Reaps Revenue Increase for Networks
+ 
+ 
+ 
+
+
+
+  
+ 
+
+Grammy-Winning Jazz Legend Jack DeJohnette to Perform April 7
+ 
+
+ 
+
+RPI To Host Financial Technologies Event on March 30
+ 
+
+ 
+
+Fake and Extremely Biased Twitter Content Decreased Between 2016-2020, But Top Influencers Were More Polarized
+ 
+
+ 
+
+Rensselaer Researcher Breaks Through the Clouds To Advance Satellite Communication
+ 
+
+ 
+
+Researchers’ Model for TV Ad Scheduling Reaps Revenue Increase for Networks
+ 
+ 
+ 
+
+  
+ 
+
+Grammy-Winning Jazz Legend Jack DeJohnette to Perform April 7
+ 
+
+ 
+
+RPI To Host Financial Technologies Event on March 30
+ 
+
+ 
+
+Fake and Extremely Biased Twitter Content Decreased Between 2016-2020, But Top Influencers Were More Polarized
+ 
+
+ 
+
+Rensselaer Researcher Breaks Through the Clouds To Advance Satellite Communication
+ 
+
+ 
+
+Researchers’ Model for TV Ad Scheduling Reaps Revenue Increase for Networks
+ 
+ 
+
+  
+ 
+
+Grammy-Winning Jazz Legend Jack DeJohnette to Perform April 7
+ 
+
+ 
+
+RPI To Host Financial Technologies Event on March 30
+ 
+
+ 
+
+Fake and Extremely Biased Twitter Content Decreased Between 2016-2020, But Top Influencers Were More Polarized
+ 
+
+ 
+
+Rensselaer Researcher Breaks Through the Clouds To Advance Satellite Communication
+ 
+
+ 
+
+Researchers’ Model for TV Ad Scheduling Reaps Revenue Increase for Networks
+ 
+   
+ 
+
+Grammy-Winning Jazz Legend Jack DeJohnette to Perform April 7
+ 
+
+ 
+
+RPI To Host Financial Technologies Event on March 30
+ 
+
+ 
+
+Fake and Extremely Biased Twitter Content Decreased Between 2016-2020, But Top Influencers Were More Polarized
+ 
+
+ 
+
+Rensselaer Researcher Breaks Through the Clouds To Advance Satellite Communication
+ 
+
+ 
+
+Researchers’ Model for TV Ad Scheduling Reaps Revenue Increase for Networks
+ 
+ 
+
+Grammy-Winning Jazz Legend Jack DeJohnette to Perform April 7
+ 
+
+Grammy-Winning Jazz Legend Jack DeJohnette to Perform April 7
+
+
+Grammy-Winning Jazz Legend Jack DeJohnette to Perform April 7
+Grammy-Winning Jazz Legend Jack DeJohnette to Perform April 7 
+
+RPI To Host Financial Technologies Event on March 30
+ 
+
+RPI To Host Financial Technologies Event on March 30
+
+
+RPI To Host Financial Technologies Event on March 30
+RPI To Host Financial Technologies Event on March 30 
+
+Fake and Extremely Biased Twitter Content Decreased Between 2016-2020, But Top Influencers Were More Polarized
+ 
+
+Fake and Extremely Biased Twitter Content Decreased Between 2016-2020, But Top Influencers Were More Polarized
+
+
+Fake and Extremely Biased Twitter Content Decreased Between 2016-2020, But Top Influencers Were More Polarized
+Fake and Extremely Biased Twitter Content Decreased Between 2016-2020, But Top Influencers Were More Polarized 
+
+Rensselaer Researcher Breaks Through the Clouds To Advance Satellite Communication
+ 
+
+Rensselaer Researcher Breaks Through the Clouds To Advance Satellite Communication
+
+
+Rensselaer Researcher Breaks Through the Clouds To Advance Satellite Communication
+Rensselaer Researcher Breaks Through the Clouds To Advance Satellite Communication 
+
+Researchers’ Model for TV Ad Scheduling Reaps Revenue Increase for Networks
+ 
+
+Researchers’ Model for TV Ad Scheduling Reaps Revenue Increase for Networks
+
+
+Researchers’ Model for TV Ad Scheduling Reaps Revenue Increase for Networks
+Researchers’ Model for TV Ad Scheduling Reaps Revenue Increase for Networks
+Related
+
+
+
+
+ Grammy-Winning Jazz Legend Jack DeJohnette to Perform April 7  
+
+ In-Person, Hybrid or Remote Workers: Who Makes the Most Money?  
+
+ Empire State Weekly  
+
+ Drought Battle Is Looking Up for California  
+
+ Floods Are About to Threaten Nearly Half of the U.S.  
+
+ 
+
+
+
+
+ Grammy-Winning Jazz Legend Jack DeJohnette to Perform April 7  
+
+ In-Person, Hybrid or Remote Workers: Who Makes the Most Money?  
+
+ Empire State Weekly  
+
+ Drought Battle Is Looking Up for California  
+
+ Floods Are About to Threaten Nearly Half of the U.S.  
+
+ 
+
+
+ Grammy-Winning Jazz Legend Jack DeJohnette to Perform April 7  
+
+ In-Person, Hybrid or Remote Workers: Who Makes the Most Money?  
+
+ Empire State Weekly  
+
+ Drought Battle Is Looking Up for California  
+
+ Floods Are About to Threaten Nearly Half of the U.S.  
+
+
+
+ Grammy-Winning Jazz Legend Jack DeJohnette to Perform April 7  
+
+ In-Person, Hybrid or Remote Workers: Who Makes the Most Money?  
+
+ Empire State Weekly  
+
+ Drought Battle Is Looking Up for California  
+
+ Floods Are About to Threaten Nearly Half of the U.S.  
+
+ Grammy-Winning Jazz Legend Jack DeJohnette to Perform April 7   Grammy-Winning Jazz Legend Jack DeJohnette to Perform April 7 
+ In-Person, Hybrid or Remote Workers: Who Makes the Most Money?   In-Person, Hybrid or Remote Workers: Who Makes the Most Money? 
+ Empire State Weekly   Empire State Weekly 
+ Drought Battle Is Looking Up for California   Drought Battle Is Looking Up for California 
+ Floods Are About to Threaten Nearly Half of the U.S.   Floods Are About to Threaten Nearly Half of the U.S. 
+
+
+
+
+
+ February 9, 2023 
+RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing Needs
+RPI only university awarded two projects in program that bridges industry, academia, and government
+By SCER Staff
+
+
+
+
+
+
+
+Rensselaer Polytechnic Institute (RPI) was awarded two of 11 new technology projects from the Advanced Robotics and Manufacturing (ARM) Institute. The new investment totals more than $7.9 million across the 11 projects. ARM selects projects that address critical needs within the manufacturing sector and aims to combine resources and research of industry, academia, and government to advance critical manufacturing technologies. 
+The RPI projects awarded funding are: 
+Convergent Manufacturing Using Multiple Industrial Robots — RPI is the lead PI with a project team that includes GE Research, Wason Technology, Yasakawa America, and Southwest Research Institute (SwRI).    
+Multi-Robot Task Planning in Large Structure Manufacturing — RPI is the lead PI with a project team that includes Anchor Industries and Pvillon Technologies.
+The Convergent Manufacturing Using Multiple Industrial Robots project will enable engineers to scale up performance and productivity by deploying diverse manufacturing processes (additive, subtractive, transformative) on a single product. The project will develop architecture and algorithms to coordinate multiple industrial robots and a suite of sensors from various vendors. Convergent manufacturing has been identified by the Department of Defense as a key enabling technology in defense manufacturing. This project will leverage past ARM projects on motion primitive optimization in the cold spray process and the open-source software system Robot Raconteur. This project is led by John Wen, head of Electrical, Computer, and Systems Engineering (ECSE) and Russell Sage Professor at RPI, with participation of Associate Professor Johnson Samuel in Mechanical, Aerospace, and Nuclear Engineering (MANE), ECSE faculty Agung Julius and Santiago Paternain, Senior Research Engineer Glenn Saunders, and four Ph.D. students.
+In Multi-Robot Task Planning in Large Structure Manufacturing, researchers will focus on advanced task and motion planning for multiple mobile robots in tent manufacturing. The project will focus on optimizing robot task assignment, timing, and movement to achieve efficiency and safety in cluttered manufacturing environments. The project will advance prior ARM research in collaborative multi-robot transport of large and heavy fabrics. This project is led by Glenn Saunders and Agung Julius, with participation by John Wen and two Ph.D. students.
+“We are proud that ARM, the leading consortium in research and development of advanced robotics in the manufacturing industry, recognizes the impactful work being done in manufacturing and robotics at RPI,” said John Wen. “RPI has a long history of deep relationships with industry that, combined with our government connections and research capabilities, positions us to be a key university partner to the ARM Institute and its members. We are excited to continue this leadership role in manufacturing and robotics research.”  
+  
+
+ 
+
+
+
+
+
+
+ February 9, 2023 
+RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing Needs
+RPI only university awarded two projects in program that bridges industry, academia, and government
+By SCER Staff
+
+
+
+
+
+
+
+Rensselaer Polytechnic Institute (RPI) was awarded two of 11 new technology projects from the Advanced Robotics and Manufacturing (ARM) Institute. The new investment totals more than $7.9 million across the 11 projects. ARM selects projects that address critical needs within the manufacturing sector and aims to combine resources and research of industry, academia, and government to advance critical manufacturing technologies. 
+The RPI projects awarded funding are: 
+Convergent Manufacturing Using Multiple Industrial Robots — RPI is the lead PI with a project team that includes GE Research, Wason Technology, Yasakawa America, and Southwest Research Institute (SwRI).    
+Multi-Robot Task Planning in Large Structure Manufacturing — RPI is the lead PI with a project team that includes Anchor Industries and Pvillon Technologies.
+The Convergent Manufacturing Using Multiple Industrial Robots project will enable engineers to scale up performance and productivity by deploying diverse manufacturing processes (additive, subtractive, transformative) on a single product. The project will develop architecture and algorithms to coordinate multiple industrial robots and a suite of sensors from various vendors. Convergent manufacturing has been identified by the Department of Defense as a key enabling technology in defense manufacturing. This project will leverage past ARM projects on motion primitive optimization in the cold spray process and the open-source software system Robot Raconteur. This project is led by John Wen, head of Electrical, Computer, and Systems Engineering (ECSE) and Russell Sage Professor at RPI, with participation of Associate Professor Johnson Samuel in Mechanical, Aerospace, and Nuclear Engineering (MANE), ECSE faculty Agung Julius and Santiago Paternain, Senior Research Engineer Glenn Saunders, and four Ph.D. students.
+In Multi-Robot Task Planning in Large Structure Manufacturing, researchers will focus on advanced task and motion planning for multiple mobile robots in tent manufacturing. The project will focus on optimizing robot task assignment, timing, and movement to achieve efficiency and safety in cluttered manufacturing environments. The project will advance prior ARM research in collaborative multi-robot transport of large and heavy fabrics. This project is led by Glenn Saunders and Agung Julius, with participation by John Wen and two Ph.D. students.
+“We are proud that ARM, the leading consortium in research and development of advanced robotics in the manufacturing industry, recognizes the impactful work being done in manufacturing and robotics at RPI,” said John Wen. “RPI has a long history of deep relationships with industry that, combined with our government connections and research capabilities, positions us to be a key university partner to the ARM Institute and its members. We are excited to continue this leadership role in manufacturing and robotics research.”  
+  
+
+ 
+
+
+
+
+ February 9, 2023 
+RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing Needs
+RPI only university awarded two projects in program that bridges industry, academia, and government
+By SCER Staff
+
+
+
+
+
+
+
+Rensselaer Polytechnic Institute (RPI) was awarded two of 11 new technology projects from the Advanced Robotics and Manufacturing (ARM) Institute. The new investment totals more than $7.9 million across the 11 projects. ARM selects projects that address critical needs within the manufacturing sector and aims to combine resources and research of industry, academia, and government to advance critical manufacturing technologies. 
+The RPI projects awarded funding are: 
+Convergent Manufacturing Using Multiple Industrial Robots — RPI is the lead PI with a project team that includes GE Research, Wason Technology, Yasakawa America, and Southwest Research Institute (SwRI).    
+Multi-Robot Task Planning in Large Structure Manufacturing — RPI is the lead PI with a project team that includes Anchor Industries and Pvillon Technologies.
+The Convergent Manufacturing Using Multiple Industrial Robots project will enable engineers to scale up performance and productivity by deploying diverse manufacturing processes (additive, subtractive, transformative) on a single product. The project will develop architecture and algorithms to coordinate multiple industrial robots and a suite of sensors from various vendors. Convergent manufacturing has been identified by the Department of Defense as a key enabling technology in defense manufacturing. This project will leverage past ARM projects on motion primitive optimization in the cold spray process and the open-source software system Robot Raconteur. This project is led by John Wen, head of Electrical, Computer, and Systems Engineering (ECSE) and Russell Sage Professor at RPI, with participation of Associate Professor Johnson Samuel in Mechanical, Aerospace, and Nuclear Engineering (MANE), ECSE faculty Agung Julius and Santiago Paternain, Senior Research Engineer Glenn Saunders, and four Ph.D. students.
+In Multi-Robot Task Planning in Large Structure Manufacturing, researchers will focus on advanced task and motion planning for multiple mobile robots in tent manufacturing. The project will focus on optimizing robot task assignment, timing, and movement to achieve efficiency and safety in cluttered manufacturing environments. The project will advance prior ARM research in collaborative multi-robot transport of large and heavy fabrics. This project is led by Glenn Saunders and Agung Julius, with participation by John Wen and two Ph.D. students.
+“We are proud that ARM, the leading consortium in research and development of advanced robotics in the manufacturing industry, recognizes the impactful work being done in manufacturing and robotics at RPI,” said John Wen. “RPI has a long history of deep relationships with industry that, combined with our government connections and research capabilities, positions us to be a key university partner to the ARM Institute and its members. We are excited to continue this leadership role in manufacturing and robotics research.”  
+  
+
+ 
+
+
+ February 9, 2023 
+RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing Needs
+RPI only university awarded two projects in program that bridges industry, academia, and government
+By SCER Staff
+
+
+
+
+
+
+
+Rensselaer Polytechnic Institute (RPI) was awarded two of 11 new technology projects from the Advanced Robotics and Manufacturing (ARM) Institute. The new investment totals more than $7.9 million across the 11 projects. ARM selects projects that address critical needs within the manufacturing sector and aims to combine resources and research of industry, academia, and government to advance critical manufacturing technologies. 
+The RPI projects awarded funding are: 
+Convergent Manufacturing Using Multiple Industrial Robots — RPI is the lead PI with a project team that includes GE Research, Wason Technology, Yasakawa America, and Southwest Research Institute (SwRI).    
+Multi-Robot Task Planning in Large Structure Manufacturing — RPI is the lead PI with a project team that includes Anchor Industries and Pvillon Technologies.
+The Convergent Manufacturing Using Multiple Industrial Robots project will enable engineers to scale up performance and productivity by deploying diverse manufacturing processes (additive, subtractive, transformative) on a single product. The project will develop architecture and algorithms to coordinate multiple industrial robots and a suite of sensors from various vendors. Convergent manufacturing has been identified by the Department of Defense as a key enabling technology in defense manufacturing. This project will leverage past ARM projects on motion primitive optimization in the cold spray process and the open-source software system Robot Raconteur. This project is led by John Wen, head of Electrical, Computer, and Systems Engineering (ECSE) and Russell Sage Professor at RPI, with participation of Associate Professor Johnson Samuel in Mechanical, Aerospace, and Nuclear Engineering (MANE), ECSE faculty Agung Julius and Santiago Paternain, Senior Research Engineer Glenn Saunders, and four Ph.D. students.
+In Multi-Robot Task Planning in Large Structure Manufacturing, researchers will focus on advanced task and motion planning for multiple mobile robots in tent manufacturing. The project will focus on optimizing robot task assignment, timing, and movement to achieve efficiency and safety in cluttered manufacturing environments. The project will advance prior ARM research in collaborative multi-robot transport of large and heavy fabrics. This project is led by Glenn Saunders and Agung Julius, with participation by John Wen and two Ph.D. students.
+“We are proud that ARM, the leading consortium in research and development of advanced robotics in the manufacturing industry, recognizes the impactful work being done in manufacturing and robotics at RPI,” said John Wen. “RPI has a long history of deep relationships with industry that, combined with our government connections and research capabilities, positions us to be a key university partner to the ARM Institute and its members. We are excited to continue this leadership role in manufacturing and robotics research.”  
+  
+
+
+
+ February 9, 2023 
+RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing Needs
+RPI only university awarded two projects in program that bridges industry, academia, and government
+By SCER Staff
+
+
+
+
+
+
+
+Rensselaer Polytechnic Institute (RPI) was awarded two of 11 new technology projects from the Advanced Robotics and Manufacturing (ARM) Institute. The new investment totals more than $7.9 million across the 11 projects. ARM selects projects that address critical needs within the manufacturing sector and aims to combine resources and research of industry, academia, and government to advance critical manufacturing technologies. 
+The RPI projects awarded funding are: 
+Convergent Manufacturing Using Multiple Industrial Robots — RPI is the lead PI with a project team that includes GE Research, Wason Technology, Yasakawa America, and Southwest Research Institute (SwRI).    
+Multi-Robot Task Planning in Large Structure Manufacturing — RPI is the lead PI with a project team that includes Anchor Industries and Pvillon Technologies.
+The Convergent Manufacturing Using Multiple Industrial Robots project will enable engineers to scale up performance and productivity by deploying diverse manufacturing processes (additive, subtractive, transformative) on a single product. The project will develop architecture and algorithms to coordinate multiple industrial robots and a suite of sensors from various vendors. Convergent manufacturing has been identified by the Department of Defense as a key enabling technology in defense manufacturing. This project will leverage past ARM projects on motion primitive optimization in the cold spray process and the open-source software system Robot Raconteur. This project is led by John Wen, head of Electrical, Computer, and Systems Engineering (ECSE) and Russell Sage Professor at RPI, with participation of Associate Professor Johnson Samuel in Mechanical, Aerospace, and Nuclear Engineering (MANE), ECSE faculty Agung Julius and Santiago Paternain, Senior Research Engineer Glenn Saunders, and four Ph.D. students.
+In Multi-Robot Task Planning in Large Structure Manufacturing, researchers will focus on advanced task and motion planning for multiple mobile robots in tent manufacturing. The project will focus on optimizing robot task assignment, timing, and movement to achieve efficiency and safety in cluttered manufacturing environments. The project will advance prior ARM research in collaborative multi-robot transport of large and heavy fabrics. This project is led by Glenn Saunders and Agung Julius, with participation by John Wen and two Ph.D. students.
+“We are proud that ARM, the leading consortium in research and development of advanced robotics in the manufacturing industry, recognizes the impactful work being done in manufacturing and robotics at RPI,” said John Wen. “RPI has a long history of deep relationships with industry that, combined with our government connections and research capabilities, positions us to be a key university partner to the ARM Institute and its members. We are excited to continue this leadership role in manufacturing and robotics research.”  
+  
+
+ February 9, 2023 
+RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing Needs
+RPI only university awarded two projects in program that bridges industry, academia, and government
+By SCER Staff
+
+
+
+
+
+
+
+Rensselaer Polytechnic Institute (RPI) was awarded two of 11 new technology projects from the Advanced Robotics and Manufacturing (ARM) Institute. The new investment totals more than $7.9 million across the 11 projects. ARM selects projects that address critical needs within the manufacturing sector and aims to combine resources and research of industry, academia, and government to advance critical manufacturing technologies. 
+The RPI projects awarded funding are: 
+Convergent Manufacturing Using Multiple Industrial Robots — RPI is the lead PI with a project team that includes GE Research, Wason Technology, Yasakawa America, and Southwest Research Institute (SwRI).    
+Multi-Robot Task Planning in Large Structure Manufacturing — RPI is the lead PI with a project team that includes Anchor Industries and Pvillon Technologies.
+The Convergent Manufacturing Using Multiple Industrial Robots project will enable engineers to scale up performance and productivity by deploying diverse manufacturing processes (additive, subtractive, transformative) on a single product. The project will develop architecture and algorithms to coordinate multiple industrial robots and a suite of sensors from various vendors. Convergent manufacturing has been identified by the Department of Defense as a key enabling technology in defense manufacturing. This project will leverage past ARM projects on motion primitive optimization in the cold spray process and the open-source software system Robot Raconteur. This project is led by John Wen, head of Electrical, Computer, and Systems Engineering (ECSE) and Russell Sage Professor at RPI, with participation of Associate Professor Johnson Samuel in Mechanical, Aerospace, and Nuclear Engineering (MANE), ECSE faculty Agung Julius and Santiago Paternain, Senior Research Engineer Glenn Saunders, and four Ph.D. students.
+In Multi-Robot Task Planning in Large Structure Manufacturing, researchers will focus on advanced task and motion planning for multiple mobile robots in tent manufacturing. The project will focus on optimizing robot task assignment, timing, and movement to achieve efficiency and safety in cluttered manufacturing environments. The project will advance prior ARM research in collaborative multi-robot transport of large and heavy fabrics. This project is led by Glenn Saunders and Agung Julius, with participation by John Wen and two Ph.D. students.
+“We are proud that ARM, the leading consortium in research and development of advanced robotics in the manufacturing industry, recognizes the impactful work being done in manufacturing and robotics at RPI,” said John Wen. “RPI has a long history of deep relationships with industry that, combined with our government connections and research capabilities, positions us to be a key university partner to the ARM Institute and its members. We are excited to continue this leadership role in manufacturing and robotics research.”  
+   February 9, 2023 
+RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing Needs
+RPI only university awarded two projects in program that bridges industry, academia, and government
+By SCER Staff
+
+
+
+
+
+
+
+Rensselaer Polytechnic Institute (RPI) was awarded two of 11 new technology projects from the Advanced Robotics and Manufacturing (ARM) Institute. The new investment totals more than $7.9 million across the 11 projects. ARM selects projects that address critical needs within the manufacturing sector and aims to combine resources and research of industry, academia, and government to advance critical manufacturing technologies. 
+The RPI projects awarded funding are: 
+Convergent Manufacturing Using Multiple Industrial Robots — RPI is the lead PI with a project team that includes GE Research, Wason Technology, Yasakawa America, and Southwest Research Institute (SwRI).    
+Multi-Robot Task Planning in Large Structure Manufacturing — RPI is the lead PI with a project team that includes Anchor Industries and Pvillon Technologies.
+The Convergent Manufacturing Using Multiple Industrial Robots project will enable engineers to scale up performance and productivity by deploying diverse manufacturing processes (additive, subtractive, transformative) on a single product. The project will develop architecture and algorithms to coordinate multiple industrial robots and a suite of sensors from various vendors. Convergent manufacturing has been identified by the Department of Defense as a key enabling technology in defense manufacturing. This project will leverage past ARM projects on motion primitive optimization in the cold spray process and the open-source software system Robot Raconteur. This project is led by John Wen, head of Electrical, Computer, and Systems Engineering (ECSE) and Russell Sage Professor at RPI, with participation of Associate Professor Johnson Samuel in Mechanical, Aerospace, and Nuclear Engineering (MANE), ECSE faculty Agung Julius and Santiago Paternain, Senior Research Engineer Glenn Saunders, and four Ph.D. students.
+In Multi-Robot Task Planning in Large Structure Manufacturing, researchers will focus on advanced task and motion planning for multiple mobile robots in tent manufacturing. The project will focus on optimizing robot task assignment, timing, and movement to achieve efficiency and safety in cluttered manufacturing environments. The project will advance prior ARM research in collaborative multi-robot transport of large and heavy fabrics. This project is led by Glenn Saunders and Agung Julius, with participation by John Wen and two Ph.D. students.
+“We are proud that ARM, the leading consortium in research and development of advanced robotics in the manufacturing industry, recognizes the impactful work being done in manufacturing and robotics at RPI,” said John Wen. “RPI has a long history of deep relationships with industry that, combined with our government connections and research capabilities, positions us to be a key university partner to the ARM Institute and its members. We are excited to continue this leadership role in manufacturing and robotics research.”  
+ February 9, 2023 
+RPI Awarded Two Technology Projects From Advanced Robotic in Manufacturing (ARM) To Address Critical Manufacturing Needs
+RPI only university awarded two projects in program that bridges industry, academia, and government
+By SCER Staff
+
+
+
+
+
+
+
+Rensselaer Polytechnic Institute (RPI) was awarded two of 11 new technology projects from the Advanced Robotics and Manufacturing (ARM) Institute. The new investment totals more than $7.9 million across the 11 projects. ARM selects projects that address critical needs within the manufacturing sector and aims to combine resources and research of industry, academia, and government to advance critical manufacturing technologies. 
+The RPI projects awarded funding are: 
+Convergent Manufacturing Using Multiple Industrial Robots — RPI is the lead PI with a project team that includes GE Research, Wason Technology, Yasakawa America, and Southwest Research Institute (SwRI).    
+Multi-Robot Task Planning in Large Structure Manufacturing — RPI is the lead PI with a project team that includes Anchor Industries and Pvillon Technologies.
+The Convergent Manufacturing Using Multiple Industrial Robots project will enable engineers to scale up performance and productivity by deploying diverse manufacturing processes (additive, subtractive, transformative) on a single product. The project will develop architecture and algorithms to coordinate multiple industrial robots and a suite of sensors from various vendors. Convergent manufacturing has been identified by the Department of Defense as a key enabling technology in defense manufacturing. This project will leverage past ARM projects on motion primitive optimization in the cold spray process and the open-source software system Robot Raconteur. This project is led by John Wen, head of Electrical, Computer, and Systems Engineering (ECSE) and Russell Sage Professor at RPI, with participation of Associate Professor Johnson Samuel in Mechanical, Aerospace, and Nuclear Engineering (MANE), ECSE faculty Agung Julius and Santiago Paternain, Senior Research Engineer Glenn Saunders, and four Ph.D. students.
+In Multi-Robot Task Planning in Large Structure Manufacturing, researchers will focus on advanced task and motion planning for multiple mobile robots in tent manufacturing. The project will focus on optimizing robot task assignment, timing, and movement to achieve efficiency and safety in cluttered manufacturing environments. The project will advance prior ARM research in collaborative multi-robot transport of large and heavy fabrics. This project is led by Glenn Saunders and Agung Julius, with participation by John Wen and two Ph.D. students.
+“We are proud that ARM, the leading consortium in research and development of advanced robotics in the manufacturing industry, recognizes the impactful work being done in manufacturing and robotics at RPI,” said John Wen. “RPI has a long history of deep relationships with industry that, combined with our government connections and research capabilities, positions us to be a key university partner to the ARM Institute and its members. We are excited to continue this leadership role in manufacturing and robotics research.”  
+February 9, 2023 
+
+
+
+
+
+
+
+
+
+Contact
+
+For general inquiries: newsmedia@rpi.edu
+
+
+
+
+About Rensselaer Polytechnic Institute
+Founded in 1824, Rensselaer Polytechnic Institute is America’s first technological research university. Rensselaer encompasses five schools, over 30 research centers, more than 140 academic programs including 25 new programs, and a dynamic community made up of over 6,800 students and 104,000 living alumni. Rensselaer faculty and alumni include upwards of 155 National Academy members, six members of the National Inventors Hall of Fame, six National Medal of Technology winners, five National Medal of Science winners, and a Nobel Prize winner in Physics. With nearly 200 years of experience advancing scientific and technological knowledge, Rensselaer remains focused on addressing global challenges with a spirit of ingenuity and collaboration. To learn more, please visit www.rpi.edu.
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+Contact
+
+For general inquiries: newsmedia@rpi.edu
+
+
+
+
+About Rensselaer Polytechnic Institute
+Founded in 1824, Rensselaer Polytechnic Institute is America’s first technological research university. Rensselaer encompasses five schools, over 30 research centers, more than 140 academic programs including 25 new programs, and a dynamic community made up of over 6,800 students and 104,000 living alumni. Rensselaer faculty and alumni include upwards of 155 National Academy members, six members of the National Inventors Hall of Fame, six National Medal of Technology winners, five National Medal of Science winners, and a Nobel Prize winner in Physics. With nearly 200 years of experience advancing scientific and technological knowledge, Rensselaer remains focused on addressing global challenges with a spirit of ingenuity and collaboration. To learn more, please visit www.rpi.edu.
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+Contact
+
+For general inquiries: newsmedia@rpi.edu
+
+
+
+
+About Rensselaer Polytechnic Institute
+Founded in 1824, Rensselaer Polytechnic Institute is America’s first technological research university. Rensselaer encompasses five schools, over 30 research centers, more than 140 academic programs including 25 new programs, and a dynamic community made up of over 6,800 students and 104,000 living alumni. Rensselaer faculty and alumni include upwards of 155 National Academy members, six members of the National Inventors Hall of Fame, six National Medal of Technology winners, five National Medal of Science winners, and a Nobel Prize winner in Physics. With nearly 200 years of experience advancing scientific and technological knowledge, Rensselaer remains focused on addressing global challenges with a spirit of ingenuity and collaboration. To learn more, please visit www.rpi.edu.
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Contact
+
+For general inquiries: newsmedia@rpi.edu
+
+
+
+
+About Rensselaer Polytechnic Institute
+Founded in 1824, Rensselaer Polytechnic Institute is America’s first technological research university. Rensselaer encompasses five schools, over 30 research centers, more than 140 academic programs including 25 new programs, and a dynamic community made up of over 6,800 students and 104,000 living alumni. Rensselaer faculty and alumni include upwards of 155 National Academy members, six members of the National Inventors Hall of Fame, six National Medal of Technology winners, five National Medal of Science winners, and a Nobel Prize winner in Physics. With nearly 200 years of experience advancing scientific and technological knowledge, Rensselaer remains focused on addressing global challenges with a spirit of ingenuity and collaboration. To learn more, please visit www.rpi.edu.
+
+
+
+
+
+ 
+
+
+
+
+
+Contact
+
+For general inquiries: newsmedia@rpi.edu
+
+
+
+
+About Rensselaer Polytechnic Institute
+Founded in 1824, Rensselaer Polytechnic Institute is America’s first technological research university. Rensselaer encompasses five schools, over 30 research centers, more than 140 academic programs including 25 new programs, and a dynamic community made up of over 6,800 students and 104,000 living alumni. Rensselaer faculty and alumni include upwards of 155 National Academy members, six members of the National Inventors Hall of Fame, six National Medal of Technology winners, five National Medal of Science winners, and a Nobel Prize winner in Physics. With nearly 200 years of experience advancing scientific and technological knowledge, Rensselaer remains focused on addressing global challenges with a spirit of ingenuity and collaboration. To learn more, please visit www.rpi.edu.
+
+
+
+
+
+
+
+
+
+
+Contact
+
+For general inquiries: newsmedia@rpi.edu
+
+
+
+
+About Rensselaer Polytechnic Institute
+Founded in 1824, Rensselaer Polytechnic Institute is America’s first technological research university. Rensselaer encompasses five schools, over 30 research centers, more than 140 academic programs including 25 new programs, and a dynamic community made up of over 6,800 students and 104,000 living alumni. Rensselaer faculty and alumni include upwards of 155 National Academy members, six members of the National Inventors Hall of Fame, six National Medal of Technology winners, five National Medal of Science winners, and a Nobel Prize winner in Physics. With nearly 200 years of experience advancing scientific and technological knowledge, Rensselaer remains focused on addressing global challenges with a spirit of ingenuity and collaboration. To learn more, please visit www.rpi.edu.
+
+
+
+
+
+
+
+
+Contact
+
+For general inquiries: newsmedia@rpi.edu
+
+
+
+
+About Rensselaer Polytechnic Institute
+Founded in 1824, Rensselaer Polytechnic Institute is America’s first technological research university. Rensselaer encompasses five schools, over 30 research centers, more than 140 academic programs including 25 new programs, and a dynamic community made up of over 6,800 students and 104,000 living alumni. Rensselaer faculty and alumni include upwards of 155 National Academy members, six members of the National Inventors Hall of Fame, six National Medal of Technology winners, five National Medal of Science winners, and a Nobel Prize winner in Physics. With nearly 200 years of experience advancing scientific and technological knowledge, Rensselaer remains focused on addressing global challenges with a spirit of ingenuity and collaboration. To learn more, please visit www.rpi.edu.
+
+
+
+
+
+
+Contact
+
+For general inquiries: newsmedia@rpi.edu
+
+
+
+
+About Rensselaer Polytechnic Institute
+Founded in 1824, Rensselaer Polytechnic Institute is America’s first technological research university. Rensselaer encompasses five schools, over 30 research centers, more than 140 academic programs including 25 new programs, and a dynamic community made up of over 6,800 students and 104,000 living alumni. Rensselaer faculty and alumni include upwards of 155 National Academy members, six members of the National Inventors Hall of Fame, six National Medal of Technology winners, five National Medal of Science winners, and a Nobel Prize winner in Physics. With nearly 200 years of experience advancing scientific and technological knowledge, Rensselaer remains focused on addressing global challenges with a spirit of ingenuity and collaboration. To learn more, please visit www.rpi.edu.
+
+
+
+Contact
+
+For general inquiries: newsmedia@rpi.edu
+
+About Rensselaer Polytechnic Institute
+Founded in 1824, Rensselaer Polytechnic Institute is America’s first technological research university. Rensselaer encompasses five schools, over 30 research centers, more than 140 academic programs including 25 new programs, and a dynamic community made up of over 6,800 students and 104,000 living alumni. Rensselaer faculty and alumni include upwards of 155 National Academy members, six members of the National Inventors Hall of Fame, six National Medal of Technology winners, five National Medal of Science winners, and a Nobel Prize winner in Physics. With nearly 200 years of experience advancing scientific and technological knowledge, Rensselaer remains focused on addressing global challenges with a spirit of ingenuity and collaboration. To learn more, please visit www.rpi.edu.
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+110 Eighth Street
+        	Troy, NY USA 12180
+			(518) 276-6000
+        	
+
+FOLLOW US
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SCHOOLS & PROGRAMS
+
+Architecture
+Business
+Engineering
+Humanities, Arts, & Social Sciences
+IT & Web Science
+Science
+Research
+
+
+
+RPI CONNECTIONS
+
+Admissions
+Alumni/ae & Friends
+Athletics
+Human Resources
+Library
+RPInfo
+Strategic Communications
+Veterans
+
+
+
+ENGAGE
+
+Apply Now
+Contact Us
+Give to Rensselaer
+Visit Campus
+Send Feedback
+
+
+
+
+
+Copyright ©  Rensselaer Polytechnic Institute (RPI)
+
+Media Policy 
+         |    
+      Web Privacy Policy 
+         |    
+      Student Consumer Information
+         |    
+      Title IX Policy
+         |    
+      Accessibility
+
+
+ 
+
+
+
+
+ 
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+110 Eighth Street
+        	Troy, NY USA 12180
+			(518) 276-6000
+        	
+
+FOLLOW US
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SCHOOLS & PROGRAMS
+
+Architecture
+Business
+Engineering
+Humanities, Arts, & Social Sciences
+IT & Web Science
+Science
+Research
+
+
+
+RPI CONNECTIONS
+
+Admissions
+Alumni/ae & Friends
+Athletics
+Human Resources
+Library
+RPInfo
+Strategic Communications
+Veterans
+
+
+
+ENGAGE
+
+Apply Now
+Contact Us
+Give to Rensselaer
+Visit Campus
+Send Feedback
+
+
+
+
+
+Copyright ©  Rensselaer Polytechnic Institute (RPI)
+
+Media Policy 
+         |    
+      Web Privacy Policy 
+         |    
+      Student Consumer Information
+         |    
+      Title IX Policy
+         |    
+      Accessibility
+
+
+ 
+
+
+
+
+ 
+
+ 
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+110 Eighth Street
+        	Troy, NY USA 12180
+			(518) 276-6000
+        	
+
+FOLLOW US
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SCHOOLS & PROGRAMS
+
+Architecture
+Business
+Engineering
+Humanities, Arts, & Social Sciences
+IT & Web Science
+Science
+Research
+
+
+
+RPI CONNECTIONS
+
+Admissions
+Alumni/ae & Friends
+Athletics
+Human Resources
+Library
+RPInfo
+Strategic Communications
+Veterans
+
+
+
+ENGAGE
+
+Apply Now
+Contact Us
+Give to Rensselaer
+Visit Campus
+Send Feedback
+
+
+
+
+
+Copyright ©  Rensselaer Polytechnic Institute (RPI)
+
+Media Policy 
+         |    
+      Web Privacy Policy 
+         |    
+      Student Consumer Information
+         |    
+      Title IX Policy
+         |    
+      Accessibility
+
+
+ 
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+110 Eighth Street
+        	Troy, NY USA 12180
+			(518) 276-6000
+        	
+
+FOLLOW US
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SCHOOLS & PROGRAMS
+
+Architecture
+Business
+Engineering
+Humanities, Arts, & Social Sciences
+IT & Web Science
+Science
+Research
+
+
+
+RPI CONNECTIONS
+
+Admissions
+Alumni/ae & Friends
+Athletics
+Human Resources
+Library
+RPInfo
+Strategic Communications
+Veterans
+
+
+
+ENGAGE
+
+Apply Now
+Contact Us
+Give to Rensselaer
+Visit Campus
+Send Feedback
+
+
+
+
+
+Copyright ©  Rensselaer Polytechnic Institute (RPI)
+
+Media Policy 
+         |    
+      Web Privacy Policy 
+         |    
+      Student Consumer Information
+         |    
+      Title IX Policy
+         |    
+      Accessibility
+
+
+ 
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+110 Eighth Street
+        	Troy, NY USA 12180
+			(518) 276-6000
+        	
+
+FOLLOW US
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SCHOOLS & PROGRAMS
+
+Architecture
+Business
+Engineering
+Humanities, Arts, & Social Sciences
+IT & Web Science
+Science
+Research
+
+
+
+RPI CONNECTIONS
+
+Admissions
+Alumni/ae & Friends
+Athletics
+Human Resources
+Library
+RPInfo
+Strategic Communications
+Veterans
+
+
+
+ENGAGE
+
+Apply Now
+Contact Us
+Give to Rensselaer
+Visit Campus
+Send Feedback
+
+
+
+
+
+Copyright ©  Rensselaer Polytechnic Institute (RPI)
+
+Media Policy 
+         |    
+      Web Privacy Policy 
+         |    
+      Student Consumer Information
+         |    
+      Title IX Policy
+         |    
+      Accessibility
+
+
+ 
+
+
+
+
+
+
+
+110 Eighth Street
+        	Troy, NY USA 12180
+			(518) 276-6000
+        	
+
+FOLLOW US
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SCHOOLS & PROGRAMS
+
+Architecture
+Business
+Engineering
+Humanities, Arts, & Social Sciences
+IT & Web Science
+Science
+Research
+
+
+
+RPI CONNECTIONS
+
+Admissions
+Alumni/ae & Friends
+Athletics
+Human Resources
+Library
+RPInfo
+Strategic Communications
+Veterans
+
+
+
+ENGAGE
+
+Apply Now
+Contact Us
+Give to Rensselaer
+Visit Campus
+Send Feedback
+
+
+
+
+
+Copyright ©  Rensselaer Polytechnic Institute (RPI)
+
+Media Policy 
+         |    
+      Web Privacy Policy 
+         |    
+      Student Consumer Information
+         |    
+      Title IX Policy
+         |    
+      Accessibility
+
+
+ 
+
+
+
+
+
+110 Eighth Street
+        	Troy, NY USA 12180
+			(518) 276-6000
+        	
+
+FOLLOW US
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SCHOOLS & PROGRAMS
+
+Architecture
+Business
+Engineering
+Humanities, Arts, & Social Sciences
+IT & Web Science
+Science
+Research
+
+
+
+RPI CONNECTIONS
+
+Admissions
+Alumni/ae & Friends
+Athletics
+Human Resources
+Library
+RPInfo
+Strategic Communications
+Veterans
+
+
+
+ENGAGE
+
+Apply Now
+Contact Us
+Give to Rensselaer
+Visit Campus
+Send Feedback
+
+
+
+
+
+Copyright ©  Rensselaer Polytechnic Institute (RPI)
+
+Media Policy 
+         |    
+      Web Privacy Policy 
+         |    
+      Student Consumer Information
+         |    
+      Title IX Policy
+         |    
+      Accessibility
+
+
+ 
+
+
+
+110 Eighth Street
+        	Troy, NY USA 12180
+			(518) 276-6000
+        	
+
+FOLLOW US
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SCHOOLS & PROGRAMS
+
+Architecture
+Business
+Engineering
+Humanities, Arts, & Social Sciences
+IT & Web Science
+Science
+Research
+
+
+
+RPI CONNECTIONS
+
+Admissions
+Alumni/ae & Friends
+Athletics
+Human Resources
+Library
+RPInfo
+Strategic Communications
+Veterans
+
+
+
+ENGAGE
+
+Apply Now
+Contact Us
+Give to Rensselaer
+Visit Campus
+Send Feedback
+
+
+
+
+
+Copyright ©  Rensselaer Polytechnic Institute (RPI)
+
+Media Policy 
+         |    
+      Web Privacy Policy 
+         |    
+      Student Consumer Information
+         |    
+      Title IX Policy
+         |    
+      Accessibility
+
+
+
+
+
+
+110 Eighth Street
+        	Troy, NY USA 12180
+			(518) 276-6000
+        	
+
+FOLLOW US
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SCHOOLS & PROGRAMS
+
+Architecture
+Business
+Engineering
+Humanities, Arts, & Social Sciences
+IT & Web Science
+Science
+Research
+
+
+
+RPI CONNECTIONS
+
+Admissions
+Alumni/ae & Friends
+Athletics
+Human Resources
+Library
+RPInfo
+Strategic Communications
+Veterans
+
+
+
+ENGAGE
+
+Apply Now
+Contact Us
+Give to Rensselaer
+Visit Campus
+Send Feedback
+
+
+
+
+
+Copyright ©  Rensselaer Polytechnic Institute (RPI)
+
+Media Policy 
+         |    
+      Web Privacy Policy 
+         |    
+      Student Consumer Information
+         |    
+      Title IX Policy
+         |    
+      Accessibility
+
+
+
+
+
+110 Eighth Street
+        	Troy, NY USA 12180
+			(518) 276-6000
+        	
+
+FOLLOW US
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SCHOOLS & PROGRAMS
+
+Architecture
+Business
+Engineering
+Humanities, Arts, & Social Sciences
+IT & Web Science
+Science
+Research
+
+
+
+RPI CONNECTIONS
+
+Admissions
+Alumni/ae & Friends
+Athletics
+Human Resources
+Library
+RPInfo
+Strategic Communications
+Veterans
+
+
+
+ENGAGE
+
+Apply Now
+Contact Us
+Give to Rensselaer
+Visit Campus
+Send Feedback
+
+
+
+
+
+Copyright ©  Rensselaer Polytechnic Institute (RPI)
+
+Media Policy 
+         |    
+      Web Privacy Policy 
+         |    
+      Student Consumer Information
+         |    
+      Title IX Policy
+         |    
+      Accessibility
+
+
+
+110 Eighth Street
+        	Troy, NY USA 12180
+			(518) 276-6000
+        	
+
+FOLLOW US
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FOLLOW US
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SCHOOLS & PROGRAMS
+
+Architecture
+Business
+Engineering
+Humanities, Arts, & Social Sciences
+IT & Web Science
+Science
+Research
+
+
+RPI CONNECTIONS
+
+Admissions
+Alumni/ae & Friends
+Athletics
+Human Resources
+Library
+RPInfo
+Strategic Communications
+Veterans
+
+
+ENGAGE
+
+Apply Now
+Contact Us
+Give to Rensselaer
+Visit Campus
+Send Feedback
+
+
+
+Copyright ©  Rensselaer Polytechnic Institute (RPI)
+
+Media Policy 
+         |    
+      Web Privacy Policy 
+         |    
+      Student Consumer Information
+         |    
+      Title IX Policy
+         |    
+      Accessibility
+
+
+
+
+ 
+
+
+
+ 
+
+ 
+
+
+
